@@ -1,0 +1,27 @@
+# Canonical Bibliographic Metadata Template
+# Populate only from directly observable publication evidence.
+# Do not infer missing values; leave unknown optional fields as null.
+
+id: publisher-short-title-yyyy
+title: "Exact Title from Source Document"
+subtitle: null
+creators:
+  - "Author or Corporate Body Name"
+publisher: "Official Publishing Body"
+publication_date: "2026-01-01"
+year: 2026
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "policy-paper"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/example-policy-report"
+source_pdf: "source/report.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "converted"
+

@@ -1,2 +1,20 @@
-source_url: https://example.org
-accessed_date: 2026-01-01
+# Point-of-capture acquisition record — sample-report-001
+# Written at the moment the source file entered the archive (workflow stage 4).
+
+source_url: "https://example.org/publications/demonstration-public-library-review-2026"
+source_pdf_url: "https://example.org/publications/demonstration-public-library-review-2026.pdf"
+publisher: "Department for Public Culture and Local Services"
+acquired_date: "2026-01-15"
+accessed_date: "2026-01-15"
+download_method: "synthetic-born-digital"
+local_file: "source/demonstration-public-library-review-2026.pdf"
+pdf_sha256: "5e1a52c530aa2ef3d73a3b6f9d0ed3969793a71ff4a76534934400acd2bbcf63"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: >-
+  Fictional canonical sample. The publisher, panel, places and statistics are
+  invented and the document contains no third-party copyrighted text. The PDF
+  was born digital within this repository and placed in source/ unchanged; it
+  stands in for a file downloaded from an official publisher. Page 4 carries a
+  simulated scan defect over the 1998-99 baseline figure so that the
+  transcription can demonstrate the [UNCERTAIN] convention.

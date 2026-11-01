@@ -1,1 +1,43 @@
-name: verify-checksums.yml
+name: Verify checksums
+
+# Recomputes the SHA-256 digest of each preserved source PDF and compares it
+# with the checksums recorded in provenance.yaml and acquisition.yaml.
+# Runs on change and monthly, so silent corruption is noticed.
+
+on:
+  push:
+    paths:
+      - "archive/**"
+      - "scripts/**"
+      - ".github/workflows/verify-checksums.yml"
+  pull_request:
+    paths:
+      - "archive/**"
+      - "scripts/**"
+      - ".github/workflows/verify-checksums.yml"
+  schedule:
+    - cron: "17 4 1 * *" # 04:17 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-checksums:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Verify fixity of preserved files
+        run: python scripts/verify_checksums.py

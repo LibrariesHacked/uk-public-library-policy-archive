@@ -1,2 +1,25 @@
+# Operating system files
 .DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor and temporary files
 *.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.part
+*.crdownload
+
+# Local validation environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+node_modules/

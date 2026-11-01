@@ -1,9 +1,72 @@
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/LibrariesHacked/uk-public-library-policy-archive/schemas/provenance.schema.json",
+  "title": "UK Public Library Policy Archive — Provenance and Fixity Schema",
+  "description": "Validates PREMIS-aligned preservation, acquisition, fixity, and conversion provenance records (provenance.yaml).",
   "type": "object",
   "required": [
     "source_url",
     "acquired_date",
     "conversion_method",
     "review_status"
-  ]
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://",
+      "description": "Canonical publication landing page URL from which the document was identified."
+    },
+    "source_pdf_url": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "pattern": "^https?://",
+      "description": "Direct URL from which the source PDF file was downloaded."
+    },
+    "acquired_date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$",
+      "description": "ISO 8601 date (YYYY-MM-DD) on which the source document was acquired into the archive."
+    },
+    "accessed_date": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$",
+      "description": "ISO 8601 date (YYYY-MM-DD) on which the source URL was last accessed and verified."
+    },
+    "source_checksum": {
+      "type": ["string", "null"],
+      "pattern": "^(sha256:[a-f0-9]{64}|[a-f0-9]{64})$",
+      "description": "Cryptographic checksum of the source file (typically prefixed as sha256:<64-hex-chars>)."
+    },
+    "pdf_sha256": {
+      "type": ["string", "null"],
+      "pattern": "^[a-f0-9]{64}$",
+      "description": "64-character lowercase hexadecimal SHA-256 hash of the preserved PDF in source/."
+    },
+    "download_method": {
+      "type": ["string", "null"],
+      "description": "Tool or procedure used to retrieve the source binary (e.g., curl, wget, browser-direct, ukgwa-capture, synthetic-born-digital)."
+    },
+    "conversion_method": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Method used to create the diplomatic Markdown edition (e.g., manual, pdf-text-extraction-with-manual-verification, ocr-with-manual-review)."
+    },
+    "conversion_date": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$",
+      "description": "ISO 8601 date (YYYY-MM-DD) on which the Markdown edition was generated."
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "unreviewed",
+        "converted",
+        "reviewed",
+        "verified"
+      ],
+      "description": "Editorial review status of the diplomatic Markdown transcription."
+    }
+  }
 }

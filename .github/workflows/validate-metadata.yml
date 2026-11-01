@@ -1,1 +1,47 @@
-name: validate-metadata.yml
+name: Validate metadata
+
+# Validates metadata.yaml and provenance.yaml against the JSON Schemas in
+# schemas/ and checks report.md front matter agrees with metadata.yaml.
+# Fails on missing required fields or invalid values.
+
+on:
+  push:
+    paths:
+      - "archive/**/metadata.yaml"
+      - "archive/**/provenance.yaml"
+      - "archive/**/report.md"
+      - "catalogue/**"
+      - "schemas/**"
+      - "scripts/**"
+      - ".github/workflows/validate-metadata.yml"
+  pull_request:
+    paths:
+      - "archive/**/metadata.yaml"
+      - "archive/**/provenance.yaml"
+      - "archive/**/report.md"
+      - "catalogue/**"
+      - "schemas/**"
+      - "scripts/**"
+      - ".github/workflows/validate-metadata.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Validate against JSON Schemas
+        run: python scripts/validate_metadata.py

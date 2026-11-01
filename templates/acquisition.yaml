@@ -1,0 +1,15 @@
+# Point-of-Capture Source Acquisition Record Template
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://www.gov.uk/government/publications/example-policy-report"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/example/report.pdf"
+publisher: "Official Publishing Body"
+acquired_date: "2026-01-01"
+accessed_date: "2026-01-01"
+download_method: "curl"
+local_file: "source/report.pdf"
+pdf_sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Downloaded directly from official publisher landing page without modification."
+

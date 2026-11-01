@@ -1,1 +1,38 @@
-name: validate-markdown.yml
+name: Validate markdown
+
+# Checks every report.md for front matter, page markers (<!-- PAGE: N -->)
+# and unique, correctly sequenced paragraph identifiers ([pN-MMM]).
+
+on:
+  push:
+    paths:
+      - "archive/**/report.md"
+      - "scripts/**"
+      - ".github/workflows/validate-markdown.yml"
+  pull_request:
+    paths:
+      - "archive/**/report.md"
+      - "scripts/**"
+      - ".github/workflows/validate-markdown.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Validate diplomatic Markdown editions
+        run: python scripts/validate_markdown.py

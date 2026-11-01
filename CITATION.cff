@@ -1,3 +1,26 @@
 cff-version: 1.2.0
-title: UK Public Library Policy Archive
-message: Please cite this repository.
+title: "UK Public Library Policy Archive"
+message: "If you use this archive or its diplomatic Markdown editions in research or policy work, please cite both the original source document and this repository using the metadata below."
+type: dataset
+authors:
+  - name: "Libraries Hacked"
+    website: "https://www.librarieshacked.org"
+repository-code: "https://github.com/LibrariesHacked/uk-public-library-policy-archive"
+url: "https://github.com/LibrariesHacked/uk-public-library-policy-archive"
+abstract: >-
+  A digital preservation and documentary source archive for UK public library
+  policy, strategy, standards, consultation, and review documents published
+  from approximately 1995 onwards across England, Scotland, Wales, and
+  Northern Ireland. Preserves authoritative source PDFs alongside diplomatic,
+  page-anchored Markdown editions, bibliographic metadata, and PREMIS-aligned
+  provenance records.
+keywords:
+  - public libraries
+  - cultural policy
+  - United Kingdom
+  - digital preservation
+  - archival editions
+  - open government
+license: OGL-UK-3.0
+version: 1.0.0
+date-released: "2026-11-01"

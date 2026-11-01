@@ -1,10 +1,463 @@
+# Planned reports: the archive's acquisition list
+#
+# Significant UK public library policy, strategy, standards, consultation and
+# review documents from c. 1995 onwards, chosen for future preservation.
+#
+# IMPORTANT: entries here are WORKING DESCRIPTIONS, not catalogue records.
+# Titles, years and publishers come from secondary knowledge of the sector and
+# have not yet been checked against the publication itself. Anything not yet
+# known is null. Do not cite these entries. At workflow stage 2 (source
+# verification) the title page and imprint are authoritative, and
+# metadata.yaml takes its values from them, not from this list.
+#
+# Fields:
+#   id            proposed archive id (may change at ingestion)
+#   title         working title
+#   year          expected year of publication, or null if not yet confirmed
+#   publisher     expected issuing body, or null if not yet confirmed
+#   country       jurisdiction covered
+#   category      grouping used in the repository specification
+#   document_type expected genre (see docs/metadata-schema.md)
+#   verified      true only once checked against the source (stage 2)
+#   status        planned | in-progress | archived
+#   archived_id   id in catalogue/reports.yaml once archived
+
 planned_reports:
- - Public Library Standards (2001)
- - Comprehensive and Efficient? (2002)
- - Framework for the Future (2003)
- - Envisioning the Library of the Future (2013)
- - Independent Library Report for England (2014)
- - Libraries Deliver (2016)
- - Ambition & Opportunity (2015)
- - Libraries Inspire
- - Delivering Tomorrow's Library
+  # ==========================================================================
+  # ENGLAND
+  # ==========================================================================
+  - id: aslib-review-public-library-service-1995
+    title: "Review of the Public Library Service in England and Wales"
+    year: 1995
+    publisher: "Aslib, for the Department of National Heritage"
+    country: "England and Wales"
+    category: "ENGLAND"
+    document_type: "independent-review"
+    verified: false
+    status: planned
+
+  - id: dnh-reading-the-future-1997
+    title: "Reading the Future: A Review of Public Libraries in England"
+    year: 1997
+    publisher: "Department of National Heritage"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "policy-paper"
+    verified: false
+    status: planned
+
+  - id: lic-new-library-the-peoples-network-1997
+    title: "New Library: The People's Network"
+    year: 1997
+    publisher: "Library and Information Commission"
+    country: "United Kingdom"
+    category: "ENGLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: lic-building-the-new-library-network-1998
+    title: "Building the New Library Network"
+    year: 1998
+    publisher: "Library and Information Commission"
+    country: "United Kingdom"
+    category: "ENGLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: dcms-libraries-for-all-1999
+    title: "Libraries for All: Social Inclusion in Public Libraries"
+    year: 1999
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "guidance"
+    verified: false
+    status: planned
+
+  - id: dcms-public-library-standards-2001
+    title: "Comprehensive, Efficient and Modern Public Libraries: Standards and Assessment"
+    short_title: "Public Library Standards (2001)"
+    year: 2001
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "standards"
+    verified: false
+    status: planned
+
+  - id: comprehensive-and-efficient-2002
+    title: "Comprehensive and Efficient?"
+    short_title: "Comprehensive and Efficient? (2002)"
+    year: 2002
+    publisher: null
+    country: "England"
+    category: "ENGLAND"
+    document_type: "research-report"
+    verified: false
+    status: planned
+
+  - id: audit-commission-building-better-library-services-2002
+    title: "Building Better Library Services"
+    year: 2002
+    publisher: "Audit Commission"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "research-report"
+    verified: false
+    status: planned
+
+  - id: dcms-framework-for-the-future-2003
+    title: "Framework for the Future: Libraries, Learning and Information in the Next Decade"
+    short_title: "Framework for the Future (2003)"
+    year: 2003
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: framework-for-the-future-action-plan
+    title: "Framework for the Future: Action Plan"
+    year: null
+    publisher: "Museums, Libraries and Archives Council"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "action-plan"
+    verified: false
+    status: planned
+
+  - id: cms-committee-public-libraries-2005
+    title: "Public Libraries (House of Commons Culture, Media and Sport Committee report)"
+    year: 2005
+    publisher: "House of Commons Culture, Media and Sport Committee"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "select-committee-report"
+    verified: false
+    status: planned
+
+  - id: dcms-public-library-service-standards-2008
+    title: "Public Library Service Standards (revised edition)"
+    year: 2008
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "standards"
+    verified: false
+    status: planned
+
+  - id: dcms-wirral-public-library-inquiry-2009
+    title: "Local inquiry into the public library service provided by Wirral Metropolitan Borough Council"
+    year: 2009
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "independent-review"
+    verified: false
+    status: planned
+
+  - id: dcms-modernisation-review-public-libraries-2010
+    title: "The Modernisation Review of Public Libraries: A Policy Statement"
+    year: 2010
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "policy-paper"
+    verified: false
+    status: planned
+
+  - id: future-libraries-programme-2011
+    title: "Future Libraries Programme (findings and learning)"
+    year: 2011
+    publisher: "Museums, Libraries and Archives Council and Local Government Group"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "research-report"
+    verified: false
+    status: planned
+
+  - id: cms-committee-library-closures-2012
+    title: "Library Closures (House of Commons Culture, Media and Sport Committee report)"
+    year: 2012
+    publisher: "House of Commons Culture, Media and Sport Committee"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "select-committee-report"
+    verified: false
+    status: planned
+
+  - id: ace-envisioning-the-library-of-the-future-2013
+    title: "Envisioning the Library of the Future"
+    short_title: "Envisioning the Library of the Future (2013)"
+    year: 2013
+    publisher: "Arts Council England"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "research-report"
+    verified: false
+    status: planned
+
+  - id: independent-library-report-for-england-2014
+    title: "Independent Library Report for England"
+    short_title: "Independent Library Report for England (2014)"
+    year: 2014
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "independent-review"
+    verified: false
+    status: planned
+
+  - id: libraries-deliver-ambition-2016
+    title: "Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021"
+    short_title: "Libraries Deliver (2016)"
+    year: 2016
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: libraries-deliver-action-plan
+    title: "Libraries Deliver: Ambition Action Plan"
+    short_title: "Libraries Deliver Action Plan"
+    year: null
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "action-plan"
+    verified: false
+    status: planned
+
+  - id: libraries-deliver-ambition-refresh
+    title: "Libraries Deliver: Ambition (refreshed edition)"
+    short_title: "Libraries Deliver: Ambition Refresh"
+    year: null
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: independent-review-english-public-libraries-sanderson
+    title: "An Independent Review of English Public Libraries"
+    year: null
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "independent-review"
+    verified: false
+    status: planned
+
+  # ==========================================================================
+  # SCOTLAND
+  # ==========================================================================
+  - id: slic-how-good-is-our-public-library-service
+    title: "How Good Is Our Public Library Service?"
+    year: null
+    publisher: "Scottish Library and Information Council"
+    country: "Scotland"
+    category: "SCOTLAND"
+    document_type: "standards"
+    verified: false
+    status: planned
+
+  - id: ambition-and-opportunity-2015
+    title: "Ambition & Opportunity: A Strategy for Public Libraries in Scotland 2015–2020"
+    short_title: "Ambition & Opportunity (2015)"
+    year: 2015
+    publisher: "Scottish Library and Information Council"
+    country: "Scotland"
+    category: "SCOTLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: ambition-and-opportunity-refresh
+    title: "Ambition & Opportunity (refreshed strategy)"
+    short_title: "Ambition & Opportunity refreshes"
+    year: null
+    publisher: "Scottish Library and Information Council"
+    country: "Scotland"
+    category: "SCOTLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: slic-forward-public-library-strategy-2021
+    title: "Forward: Scotland's Public Library Strategy 2021–2025"
+    year: 2021
+    publisher: "Scottish Library and Information Council"
+    country: "Scotland"
+    category: "SCOTLAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  # ==========================================================================
+  # WALES
+  # ==========================================================================
+  - id: libraries-inspire-2012-16
+    title: "Libraries Inspire: The Strategic Development Framework for Welsh Libraries 2012–16"
+    short_title: "Libraries Inspire"
+    year: null
+    publisher: "Welsh Government"
+    country: "Wales"
+    category: "WALES"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: expert-review-public-libraries-wales-2014
+    title: "Expert Review of Public Libraries in Wales"
+    year: 2014
+    publisher: "Welsh Government"
+    country: "Wales"
+    category: "WALES"
+    document_type: "independent-review"
+    verified: false
+    status: planned
+
+  - id: welsh-public-library-standards-fifth-framework
+    title: "Libraries Making a Difference: The Fifth Quality Framework of Welsh Public Library Standards 2014–2017"
+    short_title: "Welsh Public Library Standards Framework (fifth)"
+    year: 2014
+    publisher: "Welsh Government"
+    country: "Wales"
+    category: "WALES"
+    document_type: "standards"
+    verified: false
+    status: planned
+
+  - id: welsh-public-library-standards-sixth-framework
+    title: "Connected and Ambitious Libraries: The Sixth Quality Framework of Welsh Public Library Standards 2017–2020"
+    short_title: "Welsh Public Library Standards Framework (sixth)"
+    year: 2017
+    publisher: "Welsh Government"
+    country: "Wales"
+    category: "WALES"
+    document_type: "standards"
+    verified: false
+    status: planned
+
+  # ==========================================================================
+  # NORTHERN IRELAND
+  # ==========================================================================
+  - id: dcal-delivering-tomorrows-libraries
+    title: "Delivering Tomorrow's Libraries"
+    short_title: "Delivering Tomorrow's Library"
+    year: null
+    publisher: "Department of Culture, Arts and Leisure"
+    country: "Northern Ireland"
+    category: "NORTHERN IRELAND"
+    document_type: "policy-paper"
+    verified: false
+    status: planned
+
+  - id: libraries-ni-corporate-plan
+    title: "Libraries NI Corporate Plan"
+    year: null
+    publisher: "Libraries NI"
+    country: "Northern Ireland"
+    category: "NORTHERN IRELAND"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  # ==========================================================================
+  # LIBRARIES CONNECTED (formerly the Society of Chief Librarians)
+  # ==========================================================================
+  - id: scl-universal-offers
+    title: "Universal Offers for Public Libraries"
+    short_title: "Universal Offer documents"
+    year: null
+    publisher: "Society of Chief Librarians"
+    country: "England"
+    category: "LIBRARIES CONNECTED"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: libraries-connected-universal-library-offers-refresh
+    title: "Universal Library Offers (refreshed edition)"
+    year: null
+    publisher: "Libraries Connected"
+    country: "England"
+    category: "LIBRARIES CONNECTED"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: libraries-connected-strategic-plan
+    title: "Libraries Connected Strategic Plan"
+    short_title: "Strategic plans"
+    year: null
+    publisher: "Libraries Connected"
+    country: "England"
+    category: "LIBRARIES CONNECTED"
+    document_type: "strategy"
+    verified: false
+    status: planned
+
+  - id: libraries-connected-covid-19-response-report
+    title: "Public library services during the COVID-19 pandemic (Libraries Connected report)"
+    year: null
+    publisher: "Libraries Connected"
+    country: "England"
+    category: "LIBRARIES CONNECTED"
+    document_type: "research-report"
+    verified: false
+    status: planned
+
+  # ==========================================================================
+  # DIGITAL PROGRAMMES
+  # ==========================================================================
+  - id: single-digital-presence-scoping-report
+    title: "Single Digital Presence for Public Libraries (scoping and options report)"
+    short_title: "Single Digital Presence reports"
+    year: null
+    publisher: "British Library"
+    country: "England"
+    category: "DIGITAL PROGRAMMES"
+    document_type: "research-report"
+    verified: false
+    status: planned
+
+  - id: single-digital-presence-programme-report
+    title: "Single Digital Presence programme report (LibraryOn)"
+    year: null
+    publisher: "British Library"
+    country: "England"
+    category: "DIGITAL PROGRAMMES"
+    document_type: "research-report"
+    verified: false
+    status: planned
+
+  # ==========================================================================
+  # BUSINESS & IP CENTRES
+  # ==========================================================================
+  - id: bipc-national-network-impact-report
+    title: "Business & IP Centre National Network impact report"
+    short_title: "Impact reports"
+    year: null
+    publisher: "British Library"
+    country: "United Kingdom"
+    category: "BUSINESS & IP CENTRES"
+    document_type: "impact-report"
+    verified: false
+    status: planned
+
+  - id: bipc-national-network-impact-report-later-edition
+    title: "Business & IP Centre National Network impact report (later edition)"
+    year: null
+    publisher: "British Library"
+    country: "United Kingdom"
+    category: "BUSINESS & IP CENTRES"
+    document_type: "impact-report"
+    verified: false
+    status: planned

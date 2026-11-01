@@ -1,0 +1,14 @@
+# Preservation and Provenance Metadata Template (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/example-policy-report"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/example/report.pdf"
+acquired_date: "2026-01-01"
+accessed_date: "2026-01-01"
+source_checksum: "sha256:0000000000000000000000000000000000000000000000000000000000000000"
+pdf_sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+download_method: "curl"
+conversion_method: "pdf-text-extraction-with-manual-verification"
+conversion_date: "2026-01-01"
+review_status: "converted"
+

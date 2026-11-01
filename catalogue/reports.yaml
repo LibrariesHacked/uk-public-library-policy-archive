@@ -1,1 +1,16 @@
-reports: []
+# Master Registry of Archived Reports
+# Every completed package under archive/reports/<slug>/ is registered here.
+
+reports:
+  - id: sample-report-001
+    title: "Demonstration Public Library Review"
+    subtitle: "Statutory Provision, Community Access, and Digital Infrastructure in Fictional Shire"
+    year: 2026
+    publisher: "Department for Public Culture and Local Services"
+    country: "England"
+    document_type: "independent-review"
+    pages: 5
+    path: "archive/reports/sample-report"
+    review_level: "verified"
+    fictional_sample: true
+    notes: "Canonical fictional sample report demonstrating all repository metadata, provenance, and diplomatic Markdown specifications without copyrighted content."

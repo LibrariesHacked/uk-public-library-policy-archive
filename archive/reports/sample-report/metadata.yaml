@@ -1,5 +1,27 @@
+# Canonical bibliographic metadata — sample-report-001
+# FICTIONAL: this record describes a synthetic document created for the
+# archive as its canonical implementation example. No real body published it.
+# Values below are taken only from the title page and imprint of the sample PDF.
+
 id: sample-report-001
-title: Demonstration Public Library Review
+title: "Demonstration Public Library Review"
+subtitle: "Statutory Provision, Community Access, and Digital Infrastructure in Fictional Shire"
+creators:
+  - "Independent Advisory Panel on Shire Library Standards"
+publisher: "Department for Public Culture and Local Services"
+publication_date: "2026-01"
 year: 2026
-source_url: https://example.org
-review_level: reviewed
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "independent-review"
+pages: 5
+identifier: "DPCLS-LR-2026-001"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://example.org/publications/demonstration-public-library-review-2026"
+source_pdf: "source/demonstration-public-library-review-2026.pdf"
+rights: "Fictional Crown Copyright 2026 statement for demonstration purposes. Repository-authored sample content, released under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "verified"

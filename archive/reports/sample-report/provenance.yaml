@@ -1,4 +1,15 @@
-source_url: https://example.org
-acquired_date: 2026-01-01
-conversion_method: manual
-review_status: reviewed
+# Preservation and provenance record — sample-report-001
+# FICTIONAL: the source URLs use the reserved documentation domain example.org
+# (RFC 2606) and are skipped by the link checker. The checksum is real and is
+# verified against source/demonstration-public-library-review-2026.pdf.
+
+source_url: "https://example.org/publications/demonstration-public-library-review-2026"
+source_pdf_url: "https://example.org/publications/demonstration-public-library-review-2026.pdf"
+acquired_date: "2026-01-15"
+accessed_date: "2026-01-15"
+source_checksum: "sha256:5e1a52c530aa2ef3d73a3b6f9d0ed3969793a71ff4a76534934400acd2bbcf63"
+pdf_sha256: "5e1a52c530aa2ef3d73a3b6f9d0ed3969793a71ff4a76534934400acd2bbcf63"
+download_method: "synthetic-born-digital"
+conversion_method: "manual-diplomatic-transcription"
+conversion_date: "2026-01-16"
+review_status: "verified"

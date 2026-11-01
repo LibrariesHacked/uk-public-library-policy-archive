@@ -1,4 +1,8 @@
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/LibrariesHacked/uk-public-library-policy-archive/schemas/metadata.schema.json",
+  "title": "UK Public Library Policy Archive — Bibliographic Metadata Schema",
+  "description": "Validates canonical bibliographic metadata (metadata.yaml) for archived UK public library policy, strategy, standards, consultation, and review documents.",
   "type": "object",
   "required": [
     "id",
@@ -6,5 +10,136 @@
     "year",
     "source_url",
     "review_level"
-  ]
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Unique lowercase hyphenated identifier for the archived report."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Main title transcribed verbatim from the source document."
+    },
+    "subtitle": {
+      "type": ["string", "null"],
+      "description": "Subtitle or secondary title transcribed verbatim from the source document, or null if absent."
+    },
+    "creators": {
+      "type": ["array", "null"],
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "List of personal authors, chairs, or corporate creators credited on the publication."
+    },
+    "publisher": {
+      "type": ["string", "null"],
+      "description": "Publishing government department, devolved administration, public body, or sector organisation."
+    },
+    "publication_date": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9]{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12][0-9]|3[01]))?)?$",
+      "description": "Observable publication date in ISO 8601 format (YYYY-MM-DD, YYYY-MM, or YYYY), or null if only year is known."
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1900,
+      "maximum": 2100,
+      "description": "Four-digit calendar year of publication."
+    },
+    "publication_place": {
+      "type": ["string", "null"],
+      "description": "City or place of publication as stated on the source document (e.g., London, Edinburgh, Cardiff, Belfast)."
+    },
+    "country": {
+      "type": ["string", "null"],
+      "enum": [
+        "England",
+        "Scotland",
+        "Wales",
+        "Northern Ireland",
+        "United Kingdom",
+        "England and Wales",
+        "Great Britain",
+        null
+      ],
+      "description": "Primary UK nation or jurisdiction to which the publication applies."
+    },
+    "language": {
+      "oneOf": [
+        {
+          "type": "string",
+          "minLength": 2
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 2
+          },
+          "minItems": 1
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "ISO 639-1 / BCP 47 language code(s) of the document (e.g., 'en' or ['en', 'cy'])."
+    },
+    "document_type": {
+      "type": ["string", "null"],
+      "description": "Functional category of the policy document (e.g., policy-paper, strategy, standards, independent-review, consultation, action-plan, impact-report, guidance, research-report)."
+    },
+    "pages": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "description": "Total page count of the preserved source document."
+    },
+    "identifier": {
+      "type": ["string", "null"],
+      "description": "Official departmental reference, Command Paper number, or publisher publication code."
+    },
+    "isbn": {
+      "type": ["string", "null"],
+      "description": "International Standard Book Number (ISBN-10 or ISBN-13) if printed on the document."
+    },
+    "issn": {
+      "type": ["string", "null"],
+      "description": "International Standard Serial Number (ISSN) if issued as part of a serial."
+    },
+    "series": {
+      "type": ["string", "null"],
+      "description": "Series or programme title to which the document belongs."
+    },
+    "edition": {
+      "type": ["string", "null"],
+      "description": "Edition or version statement printed on the source document."
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://",
+      "description": "Canonical publication landing page URL or official web archive URL."
+    },
+    "source_pdf": {
+      "type": ["string", "null"],
+      "description": "Relative path within the report package to the preserved PDF or direct source filename."
+    },
+    "rights": {
+      "type": ["string", "null"],
+      "description": "Copyright and licensing statement governing the work (e.g., Crown Copyright / Open Government Licence v3.0)."
+    },
+    "review_level": {
+      "type": "string",
+      "enum": [
+        "unreviewed",
+        "converted",
+        "reviewed",
+        "verified"
+      ],
+      "description": "Editorial quality assurance level of the archived package."
+    }
+  }
 }
