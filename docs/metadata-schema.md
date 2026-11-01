@@ -1,0 +1,1 @@
+Dublin Core inspired metadata fields.

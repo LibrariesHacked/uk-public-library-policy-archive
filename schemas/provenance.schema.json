@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "required": [
+    "source_url",
+    "acquired_date",
+    "conversion_method",
+    "review_status"
+  ]
+}
