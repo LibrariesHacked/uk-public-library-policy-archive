@@ -1,0 +1,13 @@
+# Preservation and Provenance Record — Independent Library Report for England (2014)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/independent-library-report-for-england"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a7d910aed915d3fb9594860/Independent_Library_Report-_18_December.pdf"
+acquired_date: "2026-11-01"
+accessed_date: "2026-11-01"
+source_checksum: "sha256:41545125acfeda894ffc91a2b8867e29adcf33d36f25719aba0f553e0054e4f2"
+pdf_sha256: "41545125acfeda894ffc91a2b8867e29adcf33d36f25719aba0f553e0054e4f2"
+download_method: "curl-govuk"
+conversion_method: "pdf-text-extraction-with-manual-verification"
+conversion_date: "2026-11-01"
+review_status: "converted"

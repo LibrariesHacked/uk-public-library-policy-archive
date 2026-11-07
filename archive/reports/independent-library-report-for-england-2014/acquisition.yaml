@@ -1,0 +1,13 @@
+# Point-of-Capture Source Acquisition Record — Independent Library Report for England (2014)
+
+source_url: "https://www.gov.uk/government/publications/independent-library-report-for-england"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a7d910aed915d3fb9594860/Independent_Library_Report-_18_December.pdf"
+publisher: "Department for Culture, Media & Sport"
+acquired_date: "2026-11-01"
+accessed_date: "2026-11-01"
+download_method: "curl-govuk"
+local_file: "source/Independent_Library_Report-_18_December.pdf"
+pdf_sha256: "41545125acfeda894ffc91a2b8867e29adcf33d36f25719aba0f553e0054e4f2"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Downloaded directly from official GOV.UK publication landing page."

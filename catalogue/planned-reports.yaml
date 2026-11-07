@@ -116,8 +116,9 @@ planned_reports:
     country: "England"
     category: "ENGLAND"
     document_type: "strategy"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: dcms-framework-for-the-future-2003
 
   - id: framework-for-the-future-action-plan
     title: "Framework for the Future: Action Plan"
@@ -208,8 +209,9 @@ planned_reports:
     country: "England"
     category: "ENGLAND"
     document_type: "independent-review"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: independent-library-report-for-england-2014
 
   - id: libraries-deliver-ambition-2016
     title: "Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021"

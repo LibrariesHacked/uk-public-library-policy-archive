@@ -1,0 +1,32 @@
+# Canonical Bibliographic Metadata — Independent Library Report for England (2014)
+# Observable publication details from the title page and GOV.UK publication record.
+
+id: independent-library-report-for-england-2014
+title: "Independent Library Report for England"
+subtitle: null
+creators:
+  - "William Sieghart"
+  - "Sue Charteris"
+  - "Janene Cox"
+  - "Luke Johnson"
+  - "Roly Keating"
+  - "Caroline Michel"
+  - "Stephen Page"
+  - "Joanna Trollope"
+publisher: "Department for Culture, Media & Sport"
+publication_date: "2014-12-18"
+year: 2014
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "independent-review"
+pages: 34
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/independent-library-report-for-england"
+source_pdf: "source/Independent_Library_Report-_18_December.pdf"
+rights: "Crown Copyright 2014. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "converted"

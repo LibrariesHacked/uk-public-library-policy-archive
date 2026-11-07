@@ -81,10 +81,12 @@ Before downloading any file, verify the authenticity of the source using the che
 1. Copy [`templates/report.md`](../templates/report.md) to `archive/reports/<report-slug>/report.md`.
 2. Transcribe the source PDF into diplomatic Markdown following [`docs/markdown-specification.md`](../docs/markdown-specification.md) and the strict instructions in [`prompts/pdf-conversion.md`](../prompts/pdf-conversion.md):
    - Include YAML front matter (`id`, `title`, `year`, etc.).
-   - Insert `<!-- PAGE: N -->` at the start of every single page without exception.
-   - Assign sequential, page-scoped paragraph identifiers (`[pN-001]`, `[pN-002]`, ...) that restart at `001` on each new page.
+   - Insert `<!-- PAGE: N -->` at the start of every single page without exception. When a page break falls in the middle of a sentence or paragraph, place `<!-- PAGE: N -->` INLINE (`word <!-- PAGE: N --> word`) so CommonMark HTML previews do not fracture the sentence into two separate `<p>` tags with vertical margins.
+   - Format numbered policy paragraphs with bold numbers (`**1.**`, `**1.1**`), never bare `1. `, preventing list resets across headings and callouts.
+   - Format all callout boxes and case studies as blockquotes with explicit headings (`> ### Case Study: [Title]`).
+   - Maintain natural paragraph continuity, native Markdown lists, and definition lists for glossaries (`- **Term** — Definition`).
    - Preserve exact wording, spelling, punctuation, heading hierarchy, tables, footnotes (`[^1]`), appendices, tables of contents, and references.
-   - Extract any figures into `archive/reports/<report-slug>/assets/figure-NNN.jpg` (or `.png`) and reference them with verbatim italicised captions (`*Figure N. Caption*`).
+   - Complete Image Audit: Extract all content photos, figures, and author signatures into `archive/reports/<report-slug>/assets/figure-NNN.jpg` and embed them with verbatim italicised captions (`*Verbatim caption*`).
    - Mark any illegible or ambiguous OCR passages with `[UNCERTAIN]` rather than guessing.
 
 ---
@@ -115,7 +117,7 @@ Before downloading any file, verify the authenticity of the source using the che
 3. Run the automated validation checks (equivalent to the GitHub Actions workflows in `.github/workflows/`):
    - **Corpus Completeness**: Confirm `report.md`, `metadata.yaml`, `provenance.yaml`, and `acquisition.yaml` exist.
    - **Schema Validation**: Validate `metadata.yaml` against `schemas/metadata.schema.json` and `provenance.yaml` against `schemas/provenance.schema.json`.
-   - **Markdown Validation**: Verify YAML front matter, sequential `<!-- PAGE: N -->` markers, and unique, properly scoped `[pN-MMM]` paragraph identifiers.
+   - **Markdown Validation**: Verify YAML front matter, sequential `<!-- PAGE: N -->` markers, and footnote integrity.
    - **Checksum Fixity**: Verify `pdf_sha256` and `source_checksum` match the actual SHA-256 hash of the PDF in `source/`.
 
 ---

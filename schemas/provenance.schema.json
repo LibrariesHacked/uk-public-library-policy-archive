@@ -19,10 +19,26 @@
       "description": "Canonical publication landing page URL from which the document was identified."
     },
     "source_pdf_url": {
-      "type": ["string", "null"],
-      "format": "uri",
-      "pattern": "^https?://",
-      "description": "Direct URL from which the source PDF file was downloaded."
+      "oneOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://"
+          },
+          "minItems": 1
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Direct URL(s) from which the source PDF file(s) were downloaded."
     },
     "acquired_date": {
       "type": "string",
@@ -35,14 +51,44 @@
       "description": "ISO 8601 date (YYYY-MM-DD) on which the source URL was last accessed and verified."
     },
     "source_checksum": {
-      "type": ["string", "null"],
-      "pattern": "^(sha256:[a-f0-9]{64}|[a-f0-9]{64})$",
-      "description": "Cryptographic checksum of the source file (typically prefixed as sha256:<64-hex-chars>)."
+      "oneOf": [
+        {
+          "type": "string",
+          "pattern": "^(sha256:[a-f0-9]{64}|[a-f0-9]{64})$"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^(sha256:[a-f0-9]{64}|[a-f0-9]{64})$"
+          },
+          "minItems": 1
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Cryptographic checksum(s) of the source file(s) (typically prefixed as sha256:<64-hex-chars>)."
     },
     "pdf_sha256": {
-      "type": ["string", "null"],
-      "pattern": "^[a-f0-9]{64}$",
-      "description": "64-character lowercase hexadecimal SHA-256 hash of the preserved PDF in source/."
+      "oneOf": [
+        {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "minItems": 1
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "64-character lowercase hexadecimal SHA-256 hash(es) of the preserved PDF(s) in source/."
     },
     "download_method": {
       "type": ["string", "null"],

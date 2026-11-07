@@ -1,0 +1,22 @@
+# Preservation and Provenance Record — Framework for the Future (2003)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/4505.aspx"
+source_pdf_url:
+  - "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324mp_/http://www.culture.gov.uk/images/publications/Framework_for_the_Future1.pdf"
+  - "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324mp_/http://www.culture.gov.uk/images/publications/Framework_for_the_Future2.pdf"
+  - "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324mp_/http://www.culture.gov.uk/images/publications/Framework_for_the_Future3.pdf"
+acquired_date: "2026-11-01"
+accessed_date: "2026-11-01"
+source_checksum:
+  - "sha256:eed62cd0bfb997f0e32cf234f1fb98d75153027a8db47bcefb711ed6bb0740e4"
+  - "sha256:90e7e86e5382254f9ee508bfa63a866284efb7fa2b5aaab09e29ba8c478c5882"
+  - "sha256:513bdb5665451999a393ea136ccb1d307210d6c2ddffdf3f6f2e03130287d4c4"
+pdf_sha256:
+  - "eed62cd0bfb997f0e32cf234f1fb98d75153027a8db47bcefb711ed6bb0740e4"
+  - "90e7e86e5382254f9ee508bfa63a866284efb7fa2b5aaab09e29ba8c478c5882"
+  - "513bdb5665451999a393ea136ccb1d307210d6c2ddffdf3f6f2e03130287d4c4"
+download_method: "curl-ukgwa"
+conversion_method: "pdf-text-extraction-with-manual-verification"
+conversion_date: "2026-11-01"
+review_status: "converted"

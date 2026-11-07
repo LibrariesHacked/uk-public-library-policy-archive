@@ -64,8 +64,10 @@ def main() -> None:
                 continue
             for field in URL_FIELDS:
                 value = data.get(field)
-                if isinstance(value, str) and value.startswith(("http://", "https://")):
-                    urls.setdefault(value, []).append(f"{rel(f)}#{field}")
+                val_list = [value] if isinstance(value, str) else (value if isinstance(value, list) else [])
+                for u in val_list:
+                    if isinstance(u, str) and u.startswith(("http://", "https://")):
+                        urls.setdefault(u, []).append(f"{rel(f)}#{field}")
 
     checked = 0
     for url, where in sorted(urls.items()):

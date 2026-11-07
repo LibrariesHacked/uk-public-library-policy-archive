@@ -1,0 +1,27 @@
+# Point-of-Capture Source Acquisition Record — Framework for the Future (2003)
+# Recorded at time of acquisition into the archive.
+
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/4505.aspx"
+source_pdf_url:
+  - "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324mp_/http://www.culture.gov.uk/images/publications/Framework_for_the_Future1.pdf"
+  - "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324mp_/http://www.culture.gov.uk/images/publications/Framework_for_the_Future2.pdf"
+  - "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324mp_/http://www.culture.gov.uk/images/publications/Framework_for_the_Future3.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-01"
+accessed_date: "2026-11-01"
+download_method: "curl-ukgwa"
+local_file:
+  - "source/Framework_for_the_Future1.pdf"
+  - "source/Framework_for_the_Future2.pdf"
+  - "source/Framework_for_the_Future3.pdf"
+pdf_sha256:
+  - "eed62cd0bfb997f0e32cf234f1fb98d75153027a8db47bcefb711ed6bb0740e4"
+  - "90e7e86e5382254f9ee508bfa63a866284efb7fa2b5aaab09e29ba8c478c5882"
+  - "513bdb5665451999a393ea136ccb1d307210d6c2ddffdf3f6f2e03130287d4c4"
+licence: "Crown Copyright 2003 / Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: >-
+  Retrieved from The National Archives UK Government Web Archive capture of
+  the original DCMS publication page (reference library publications 4505.aspx).
+  Issued by DCMS in February 2003 as three separate PDF parts (pages 1-20,
+  21-40, 41-60).

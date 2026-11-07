@@ -14,3 +14,29 @@ reports:
     review_level: "verified"
     fictional_sample: true
     notes: "Canonical fictional sample report demonstrating all repository metadata, provenance, and diplomatic Markdown specifications without copyrighted content."
+
+  - id: dcms-framework-for-the-future-2003
+    title: "Framework for the Future"
+    subtitle: "Libraries, Learning and Information in the Next Decade"
+    year: 2003
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "strategy"
+    pages: 60
+    path: "archive/reports/dcms-framework-for-the-future-2003"
+    review_level: "converted"
+    fictional_sample: false
+    notes: "Landmark 10-year national public library strategy for England published by DCMS in February 2003. Source PDFs preserved from The National Archives UK Government Web Archive."
+
+  - id: independent-library-report-for-england-2014
+    title: "Independent Library Report for England"
+    subtitle: null
+    year: 2014
+    publisher: "Department for Culture, Media & Sport"
+    country: "England"
+    document_type: "independent-review"
+    pages: 34
+    path: "archive/reports/independent-library-report-for-england-2014"
+    review_level: "converted"
+    fictional_sample: false
+    notes: "Independent review chaired by William Sieghart examining public library services in England, recommending a national digital network, Wi-Fi roll-out, and the creation of the Libraries Taskforce."

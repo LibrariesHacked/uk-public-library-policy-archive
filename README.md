@@ -34,8 +34,8 @@ Every archived item records a complete chain of custody from acquisition to tran
 
 Digital transcriptions often strip away the pagination required for scholarly and policy citation. Every Markdown edition in this archive enforces strict structural anchoring:
 
-- Mandatory page boundary markers (`<!-- PAGE: N -->`) corresponding to the printed or PDF pagination of the source.
-- Page-scoped, stable paragraph identifiers (`[pN-MMM]`, such as `[p34-001]`) that restart on each page, enabling granular citation of specific paragraphs alongside standard page references.
+- Mandatory page boundary markers (`<!-- PAGE: N -->`) corresponding to the printed or PDF pagination of the source, providing stable page-level citation.
+- Clean, semantic Markdown formatting (headings, lists, blockquotes, tables) that preserves continuous sentence flow and renders cleanly in standard Markdown and HTML environments.
 
 ### 4. Reproducibility and Maintainability
 
@@ -63,8 +63,10 @@ The repository exists solely to preserve, transcribe, and document source materi
 ```text
 /
 ├── README.md                          # Repository overview and archival guide
+├── LICENSE.md                         # Open Government Licence v3.0 text
 ├── CITATION.cff                       # Citation File Format metadata for scholarly citation
 ├── .gitignore                         # Standard ignore rules for temporary and local files
+├── .gitattributes                     # Fixity protection: binary flag for PDFs/images, LF for text
 │
 ├── docs/                              # Archival documentation and editorial specifications
 │   ├── metadata-schema.md             # Bibliographic metadata field definitions and Dublin Core mappings
@@ -104,13 +106,16 @@ The repository exists solely to preserve, transcribe, and document source materi
 │           ├── scans/                 # Optional page scans for OCR verification
 │           └── source/                # Unmodified original PDF publication
 │
-├── scripts/                           # Plain Python checks run by the workflows (and locally)
-│   ├── validate_corpus.py
-│   ├── validate_metadata.py
-│   ├── validate_markdown.py
-│   ├── verify_checksums.py
-│   ├── check_links.py
-│   └── requirements.txt
+├── scripts/                           # Maintenance and validation utilities
+│   ├── new_report.py                  # Scaffolds new report packages from templates
+│   ├── compute_fixity.py              # Computes SHA-256 fixity of preserved PDFs
+│   ├── validate_all.py                # Runs the complete local validation suite
+│   ├── validate_corpus.py             # Package completeness checker
+│   ├── validate_metadata.py           # JSON Schema validator
+│   ├── validate_markdown.py           # Diplomatic transcription syntax validator
+│   ├── verify_checksums.py            # SHA-256 fixity verification
+│   ├── check_links.py                 # Source URL resolution check
+│   └── requirements.txt               # Validation dependencies (PyYAML, jsonschema)
 │
 └── .github/
     └── workflows/                     # Automated repository integrity checks
@@ -165,7 +170,7 @@ Adding a document to the archive follows a strict nine-stage workflow detailed i
 2. **Verify official publication source**: Confirm publisher authenticity, original release date, and licensing status (e.g., Open Government Licence or UK Government Web Archive provenance).
 3. **Download PDF unchanged**: Retrieve the original PDF bit-for-bit into `archive/reports/<slug>/source/` without re-saving, compressing, or modifying the file.
 4. **Record acquisition metadata**: Compute the SHA-256 digest and populate `acquisition.yaml` immediately upon capture.
-5. **Create Markdown edition**: Transcribe the PDF into `report.md` with exact wording, page markers (`<!-- PAGE: N -->`), and paragraph identifiers (`[pN-MMM]`).
+5. **Create Markdown edition**: Transcribe the PDF into `report.md` with exact wording, page markers (`<!-- PAGE: N -->`), and semantic Markdown structure (lists, blockquotes, tables).
 6. **Create metadata**: Populate `metadata.yaml` exclusively from directly observable bibliographic evidence on the document and official landing page.
 7. **Create provenance metadata**: Record the full acquisition, fixity, and conversion trail in `provenance.yaml`.
 8. **Run QA checks**: Audit the Markdown transcription against the source PDF for missing pages, text, tables, figures, or OCR ambiguities, and run the repository validation suite.
@@ -180,12 +185,32 @@ python -m venv .venv
 . .venv/bin/activate            # Windows: .venv\Scripts\activate
 pip install -r scripts/requirements.txt
 
+# Run the complete validation suite:
+python scripts/validate_all.py
+
+# Or run individual checks:
 python scripts/validate_corpus.py
 python scripts/validate_metadata.py
 python scripts/validate_markdown.py
 python scripts/verify_checksums.py
 python scripts/check_links.py   # needs network access
 ```
+
+### Ingestion Helper Utilities
+
+For day-to-day maintainer operations:
+
+- **Scaffold a new report package**:
+  ```bash
+  python scripts/new_report.py <report-slug>
+  ```
+  Creates `archive/reports/<report-slug>/` with `assets/`, `scans/`, and `source/` subdirectories and initialises `acquisition.yaml`, `metadata.yaml`, `provenance.yaml`, and `report.md` from templates, pre-populating working details if the slug exists in [`catalogue/planned-reports.yaml`](catalogue/planned-reports.yaml).
+
+- **Compute and record PDF fixity**:
+  ```bash
+  python scripts/compute_fixity.py <report-slug> --write
+  ```
+  Calculates the SHA-256 digest of the source PDF placed in `source/` and updates `provenance.yaml` and `acquisition.yaml`.
 
 A [`.gitattributes`](.gitattributes) file marks PDFs and images as binary, so Git never alters preserved files on checkout.
 
@@ -197,7 +222,7 @@ The design of this archive is informed by five established bibliographic, archiv
 
 - **Dublin Core Metadata Element Set (ISO 15836 / DCMI Metadata Terms)**: Provides the conceptual foundation for bibliographic fields in `metadata.yaml` (`title`, `creators`, `publisher`, `publication_date`, `identifier`, `language`, `rights`, `source_url`), ensuring interoperability with research catalogues and institutional repositories.
 - **PREMIS Data Dictionary for Preservation Metadata (v3.0)**: Shapes the separation of descriptive metadata from preservation provenance in `provenance.yaml`, specifically modeling Object fixity (`pdf_sha256`, `source_checksum`), Events (`acquired_date`, `conversion_date`, `download_method`, `conversion_method`), and quality review status (`review_status`).
-- **Text Encoding Initiative (TEI P5 Guidelines)**: Inspires our diplomatic transcription principles—structural division fidelity, page break milestones (`<pb/>` realized as `<!-- PAGE: N -->`), paragraph anchoring (`<p xml:id="..."/>` realized as `[pN-MMM]`), and explicit uncertainty markers (`<unclear/>` realized as `[UNCERTAIN]`). **Note:** TEI is used for structural inspiration only; documents are stored in plain Markdown, never TEI XML.
+- **Text Encoding Initiative (TEI P5 Guidelines)**: Inspires our diplomatic transcription principles—structural division fidelity, page break milestones (`<pb/>` realized as `<!-- PAGE: N -->`), semantic division anchoring, and explicit uncertainty markers (`<unclear/>` realized as `[UNCERTAIN]`). **Note:** TEI is used for structural inspiration only; documents are stored in plain Markdown, never TEI XML.
 - **Open Government Licence (OGL v3.0) & Crown Copyright Framework**: Governs the reuse and attribution framework for UK central government, devolved administration, and Arm's Length Body publications preserved in the corpus.
 - **Pandoc Markdown & YAML Metadata Conventions**: Standardises the YAML front matter block, pipe table syntax, and native footnote notation (`[^1]`) so that every `report.md` file remains human-readable in plain text and cleanly parsable by standard scholarly publishing tools.
 

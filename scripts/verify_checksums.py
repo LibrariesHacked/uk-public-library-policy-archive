@@ -26,12 +26,30 @@ def load(path) -> dict:
     return (load_yaml(path) or {}) if path.is_file() else {}
 
 
-def locate_source(d, acquisition: dict, metadata: dict):
+def locate_sources(d, acquisition: dict, metadata: dict) -> list:
     for candidate in (acquisition.get("local_file"), metadata.get("source_pdf")):
-        if candidate and not str(candidate).startswith(("http://", "https://")):
-            return d / candidate
-    pdfs = sorted((d / "source").glob("*.pdf")) if (d / "source").is_dir() else []
-    return pdfs[0] if len(pdfs) == 1 else None
+        if isinstance(candidate, list):
+            paths = [d / c for c in candidate if not str(c).startswith(("http://", "https://"))]
+            if paths and all(p.is_file() for p in paths):
+                return paths
+        elif candidate and not str(candidate).startswith(("http://", "https://")):
+            p = d / candidate
+            if p.is_file():
+                return [p]
+    if (d / "source").is_dir():
+        return sorted((d / "source").glob("*.pdf"))
+    return []
+
+
+def normalize_checksum(val):
+    if isinstance(val, list):
+        return [normalize_checksum(v) for v in val]
+    if not isinstance(val, str):
+        return None
+    val = val.lower().strip()
+    if val.startswith("sha256:"):
+        val = val[7:]
+    return val
 
 
 def main() -> None:
@@ -43,37 +61,44 @@ def main() -> None:
         acq = load(d / "acquisition.yaml")
         meta = load(d / "metadata.yaml")
 
-        recorded = {}
-        if prov.get("pdf_sha256"):
-            recorded["provenance.yaml pdf_sha256"] = str(prov["pdf_sha256"]).lower()
-        if prov.get("source_checksum"):
-            value = str(prov["source_checksum"]).lower()
-            if ":" in value:
-                algo, value = value.split(":", 1)
-                if algo != "sha256":
-                    problems.warn(rel(d / "provenance.yaml"), f"source_checksum uses unsupported algorithm '{algo}'")
-                    value = None
-            if value:
-                recorded["provenance.yaml source_checksum"] = value
-        if acq.get("pdf_sha256"):
-            recorded["acquisition.yaml pdf_sha256"] = str(acq["pdf_sha256"]).lower()
+        prov_hash = normalize_checksum(prov.get("pdf_sha256") or prov.get("source_checksum"))
+        acq_hash = normalize_checksum(acq.get("pdf_sha256"))
 
-        if not recorded:
+        expected_hashes = prov_hash if prov_hash is not None else acq_hash
+        if not expected_hashes:
             problems.warn(rel(d), "no checksum recorded; fixity cannot be verified")
             continue
 
-        source = locate_source(d, acq, meta)
-        if source is None or not source.is_file():
-            problems.error(rel(d), f"checksum recorded but preserved file not found ({source and rel(source)})")
+        sources = locate_sources(d, acq, meta)
+        if not sources:
+            problems.error(rel(d), "checksum recorded but preserved file(s) not found in source/")
             continue
 
-        actual = sha256(source)
-        for label, expected in recorded.items():
-            if expected != actual:
-                problems.error(rel(source), f"{label} is {expected} but file digest is {actual}")
-        if all(v == actual for v in recorded.values()):
-            print(f"OK  {rel(source)}  sha256:{actual}")
-            verified += 1
+        if isinstance(expected_hashes, list):
+            if len(expected_hashes) != len(sources):
+                problems.error(rel(d), f"recorded {len(expected_hashes)} checksum(s) but found {len(sources)} file(s)")
+                continue
+            all_ok = True
+            for src, exp in zip(sources, expected_hashes):
+                act = sha256(src)
+                if exp != act:
+                    problems.error(rel(src), f"expected {exp} but file digest is {act}")
+                    all_ok = False
+                else:
+                    print(f"OK  {rel(src)}  sha256:{act}")
+            if all_ok:
+                verified += 1
+        else:
+            if len(sources) != 1:
+                problems.error(rel(d), f"recorded 1 checksum but found {len(sources)} files in source/")
+                continue
+            src = sources[0]
+            act = sha256(src)
+            if expected_hashes != act:
+                problems.error(rel(src), f"expected {expected_hashes} but file digest is {act}")
+            else:
+                print(f"OK  {rel(src)}  sha256:{act}")
+                verified += 1
 
     problems.finish(verified)
 

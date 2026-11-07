@@ -18,20 +18,24 @@ INPUTS PROVIDED
 2. Generated Diplomatic Markdown (`report.md`)
 
 AUDIT CRITERIA
-Compare the source PDF and the generated Markdown page by page and check for every one of the following seven categories:
-1. Missing pages: Are every page in the source PDF represented by a corresponding `<!-- PAGE: N -->` marker in `report.md`?
-2. Missing text: Have any paragraphs, sentences, bullet points, executive summaries, appendices, prelims, contents entries, or reference lists been omitted, truncated, or paraphrased?
-3. Missing tables: Are all tables from the source PDF present in `report.md` with complete rows, columns, headers, values, and table notes?
-4. Missing figures: Are all figures, charts, maps, and diagrams represented in `report.md` using the `assets/figure-NNN.<ext>` convention with their verbatim italicised captions (`*Figure N. ...*`)?
-5. Heading hierarchy issues: Do all Markdown headings (`#`, `##`, `###`, `####`) preserve the exact wording, numbering, and relative hierarchy of the source PDF without editorial rewriting?
-6. Page numbering and paragraph identifier issues: Are `<!-- PAGE: N -->` markers sequential and accurate, and do `[pN-MMM]` paragraph identifiers restart at `001` on each page without duplicates or gaps?
-7. OCR uncertainty and transcription fidelity: Are there any silent OCR corruptions, misread numbers, or illegible passages that require an explicit `[UNCERTAIN]` marker, or existing `[UNCERTAIN]` markers that can be resolved from clear text in the PDF?
+Compare the source PDF and the generated Markdown page by page and check for every one of the following eight categories:
+1. Missing pages & cross-page sentence flow: Is every page in the source PDF represented by a corresponding `<!-- PAGE: N -->` marker? Are markers within split sentences placed inline (`word <!-- PAGE: N --> word`) so paragraphs do not break in half across HTML `<p>` tags?
+2. Missing text & column continuity: Have any paragraphs, sentences, bullet points, prelims, contents entries, or reference lists been omitted, truncated, or dropped at column bottoms or page transitions?
+3. Title page & imprint: Is the author/publisher clearly styled as a bold imprint on the cover page?
+4. Contents structure: Is the Table of Contents formatted as a Markdown list with page numbers rather than a single run-on paragraph?
+5. Numbered paragraphs & lists: Are policy paragraphs formatted with bold numbering (`**1.**`, `**1.1**`) separated by blank lines (to prevent run-on paragraphs in CommonMark), while genuine sequential enumerated lists (e.g. recommendations after a colon) use standard ordered lists (`1. `, `2. `) starting at 1 without intervening headings? Are narrative body paragraphs free of stray bullet prefixes (`- `)?
+6. Headings & chapter numbers: Are chapter numerals united with chapter titles (`## 3 Libraries' Modern Mission`) rather than orphaned into adjacent case studies (`3 > ### ...`)? Are all section subheadings (`### Supporting older students`, `### For the taskforce`, etc.) captured and styled?
+7. Callout boxes, action panels & case studies: Are all shaded boxes and action panels formatted as Markdown blockquotes (`> ### ACTION`) with underlined actor subheadings (`> <u>Central government</u>`), and all case studies given proper headings (`### Case Study: [Title]`), never left as unstyled plain text or merged into body text?
+8. Figures, images & signatures: Are all content photos, figures, and author signatures extracted into `assets/figure-NNN.jpg` and embedded with verbatim captions? Are there any orphaned captions without images, or captions merged into body paragraphs?
+9. Glossaries & member directories: Are glossaries formatted as structured definition lists (`- **Term** — Definition`) and tables formatted without empty cells or parsing breaks?
+10. Footnotes & endnotes: Are all footnotes linked via `[^N]` in the text rather than attached digits (`Library 211` -> `Library 21[^1]`)? Are all footnote definitions gathered at the end under `## Footnotes`? Are there any raw footnote URLs stranded at page bottoms?
+11. OCR uncertainty & transcription fidelity: Are there any silent OCR corruptions, misread numbers, or illegible passages that require an explicit `[UNCERTAIN]` marker, or existing `[UNCERTAIN]` markers that can be resolved from clear text in the PDF?
 
 STRICT RULES
 - Report findings only.
 - Do not modify, rewrite, or output a replacement version of the Markdown content.
-- Cite every finding by exact page number (`Page N`) and paragraph identifier (`[pN-MMM]`) where applicable.
-- Do not invent issues; if a category has zero defects, explicitly report `status: PASS` and `issues: []`.
+- Cite every finding by exact page number (`Page N`) and section heading or context where applicable.
+- Do not invent issues; if a category has zero defects, explicitly report `status: PASS` and `findings: []`.
 
 OUTPUT FORMAT (YAML)
 qa_report:
@@ -45,19 +49,19 @@ qa_report:
     missing_text:
       status: <PASS | FAIL>
       findings: []
-    missing_tables:
+    contents_structure:
       status: <PASS | FAIL>
       findings: []
-    missing_figures:
+    numbered_paragraphs:
       status: <PASS | FAIL>
       findings: []
-    heading_hierarchy_issues:
+    headings_and_callouts:
       status: <PASS | FAIL>
       findings: []
-    page_numbering_issues:
+    missing_tables_and_figures:
       status: <PASS | FAIL>
       findings: []
-    ocr_uncertainty:
-      status: <PASS | ATTENTION_REQUIRED>
+    ocr_uncertainty_and_fidelity:
+      status: <PASS | FAIL>
       findings: []
 ```

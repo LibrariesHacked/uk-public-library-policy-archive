@@ -124,8 +124,22 @@
       "description": "Canonical publication landing page URL or official web archive URL."
     },
     "source_pdf": {
-      "type": ["string", "null"],
-      "description": "Relative path within the report package to the preserved PDF or direct source filename."
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Relative path(s) within the report package to the preserved PDF(s) or direct source filename(s)."
     },
     "rights": {
       "type": ["string", "null"],

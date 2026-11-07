@@ -1,0 +1,30 @@
+# Canonical Bibliographic Metadata — Framework for the Future (2003)
+# Observable publication details from the title page, imprint, and DCMS landing page.
+
+id: dcms-framework-for-the-future-2003
+title: "Framework for the Future"
+subtitle: "Libraries, Learning and Information in the Next Decade"
+creators:
+  - "Department for Culture, Media and Sport"
+  - "Charles Leadbeater"
+  - "John Holden"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2003-02"
+year: 2003
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "strategy"
+pages: 60
+identifier: "PP496"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/4505.aspx"
+source_pdf:
+  - "source/Framework_for_the_Future1.pdf"
+  - "source/Framework_for_the_Future2.pdf"
+  - "source/Framework_for_the_Future3.pdf"
+rights: "Crown Copyright 2003. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "converted"

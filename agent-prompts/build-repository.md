@@ -232,21 +232,16 @@ Must never be removed.
 
 Must never be renumbered.
 
-Paragraph Identifiers
+Paragraph Formatting and Numbering
 
-Every paragraph receives a stable identifier.
+Use natural, readable, semantic paragraphs.
 
-Example:
-
-[p34-001]
-
-Libraries provide...
-
-[p34-002]
-
-Public libraries support...
-
-Paragraph numbering restarts on each page.
+In UK government and policy documents, numbered paragraphs (e.g. 1., 2., 1.1, 14.) are legal/policy paragraphs, NOT HTML ordered list items.
+- Format numbered policy paragraphs with bold numbers:
+  `**1.** Paragraph text...` or `**1.1** Paragraph text...`
+- NEVER start a line with bare `1. ` or `2. `, which converts to broken `<ol><li>` lists across headings.
+- NEVER add artificial paragraph identifiers (such as [p34-001]).
+- When a page break occurs mid-sentence or mid-paragraph, insert `<!-- PAGE: N -->` INLINE at the exact transition point to preserve continuous paragraph flow in CommonMark HTML previews without splitting paragraphs.
 
 HEADINGS
 
