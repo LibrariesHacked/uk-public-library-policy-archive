@@ -5,7 +5,7 @@ subtitle: "Libraries, Learning and Information in the Next Decade"
 publisher: "Department for Culture, Media and Sport"
 year: 2003
 source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/4505.aspx"
-review_level: converted
+review_level: reviewed
 ---
 
 <!-- PAGE: 1 -->

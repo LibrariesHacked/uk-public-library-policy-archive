@@ -19,4 +19,4 @@ pdf_sha256:
 download_method: "curl-ukgwa"
 conversion_method: "pdf-text-extraction-with-manual-verification"
 conversion_date: "2026-11-01"
-review_status: "converted"
+review_status: "reviewed"
