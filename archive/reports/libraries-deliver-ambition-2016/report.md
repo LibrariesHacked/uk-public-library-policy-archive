@@ -5,7 +5,7 @@ subtitle: null
 publisher: "Libraries Taskforce"
 year: 2016
 source_url: "https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021"
-review_level: converted
+review_level: reviewed
 ---
 
 <!-- PAGE: 1 -->
