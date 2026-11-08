@@ -38,25 +38,25 @@ Protecting frontline library services requires radical thinking. Many councils a
 
 We want libraries to be more resilient and better equipped to weather future challenges - to thrive, not just survive. This document provides a blueprint to do this, building on extensive consultation with the sector and beyond. We welcome this document and fully support and endorse what it proposes.
 
-Rob Wilson MP                                             
+Rob Wilson MP
 
 Minister for Civil Society
 
-Cllr Ian Stephens               
+Cllr Ian Stephens
 
-Chair, Culture, Tourism and Sport Board     
+Chair, Culture, Tourism and Sport Board
 
 Local Government Association
 
-![Cllr Ian Stephens](assets/figure-006-ian-stephens.jpg)  
-![Signature of Cllr Ian Stephens](assets/figure-007-sig-ian-stephens.png)  
-**Cllr Ian Stephens**  
-Chair, Culture, Tourism and Sport Board  
-Local Government Association.  
+![Cllr Ian Stephens](assets/figure-006-ian-stephens.jpg)
+![Signature of Cllr Ian Stephens](assets/figure-007-sig-ian-stephens.png)
+**Cllr Ian Stephens**
+Chair, Culture, Tourism and Sport Board
+Local Government Association.
 
-![Rob Wilson MP](assets/figure-004-rob-wilson.jpg)  
-![Signature of Rob Wilson MP](assets/figure-005-sig-rob-wilson.jpg)  
-**Rob Wilson MP**  
+![Rob Wilson MP](assets/figure-004-rob-wilson.jpg)
+![Signature of Rob Wilson MP](assets/figure-005-sig-rob-wilson.jpg)
+**Rob Wilson MP**
 Minister for Civil Society.
 
 <!-- PAGE: 4 -->
@@ -90,7 +90,9 @@ Minister for Civil Society.
 
 <!-- PAGE: 5 -->
 
-> “There is no institution I value more in this country than libraries.”  
+![Photo: Michael Palin](assets/photo-p05.jpg)
+
+> “There is no institution I value more in this country than libraries.”
 > — Michael Palin.
 
 <!-- PAGE: 6 -->
@@ -215,18 +217,20 @@ We want this report to reform through action. Our [action plan](https://www.gov.
 
 I’m delighted that our Vision is endorsed and supported by central government and by the LGA on behalf of local government. We already have some of the best libraries in the world; if we learn from them and deliver the shared ambitions we set out here then we will have a vibrant, thriving and world-class public library network in England.
 
-Dr Paul Blantern       
+Dr Paul Blantern
 
 Chair, Leadership for Libraries Taskforce
 
-![Dr Paul Blantern](assets/figure-008-paul-blantern.jpg)  
-![Signature of Dr Paul Blantern](assets/figure-009-sig-paul-blantern.jpg)  
-**Dr Paul Blantern**  
+![Dr Paul Blantern](assets/figure-008-paul-blantern.jpg)
+![Signature of Dr Paul Blantern](assets/figure-009-sig-paul-blantern.jpg)
+**Dr Paul Blantern**
 Chair, Leadership for Libraries Taskforce.
 
 <!-- PAGE: 11 -->
 
-> “I started with a book, and that led me to a library, and that led me everywhere.”  
+![Photo: Sir Terry Pratchett](assets/photo-p11.jpg)
+
+> “I started with a book, and that led me to a library, and that led me everywhere.”
 > — Sir Terry Pratchett.
 
 <!-- PAGE: 12 -->
@@ -302,20 +306,17 @@ This means library leaders need to think innovatively - about how library servic
 
 <!-- PAGE: 17 -->
 
-> “When in doubt, go to the library.”  
+![Photo: J.K. Rowling](assets/photo-p17.jpg)
+
+> “When in doubt, go to the library.”
 > — J.K. Rowling, *Harry Potter and the Chamber of Secrets*.
 
 <!-- PAGE: 18 -->
 
 ## 4. Our vision for public library services in England
 
-  
-
-“What do libraries do for us? Well, they introduce many into the world of literacy and learning and help to make it a lifelong habit; they equalise; they teach empathy and help us to learn about each other; they preserve our cultural heritage; they protect our right to know and to learn; they build communities; they strengthen and advance us as a nation; they empower us as individuals.”
-
-  
-
-Malorie Blackman, Children’s Laureate 2013 to 2015
+> “What do libraries do for us? Well, they introduce many into the world of literacy and learning and help to make it a lifelong habit; they equalise; they teach empathy and help us to learn about each other; they preserve our cultural heritage; they protect our right to know and to learn; they build communities; they strengthen and advance us as a nation; they empower us as individuals.”
+> — Malorie Blackman, Children’s Laureate 2013 to 2015.
 
 ### 4.1 Our ambition is for
 
@@ -364,7 +365,9 @@ Library services work to a set of values based on the [Ethical principles of lib
 
 <!-- PAGE: 20 -->
 
-> “A free library system is one of the trademarks of a civilised society.”  
+![Photo: Terry Jones](assets/photo-p20.jpg)
+
+> “A free library system is one of the trademarks of a civilised society.”
 > — Terry Jones.
 
 <!-- PAGE: 21 -->
@@ -412,10 +415,8 @@ The [Warwick Commission](http://www2.warwick.ac.uk/research/warwickcommission/fu
 
 Libraries are well placed to extend cultural engagement because of their use by all social groups and their role as inclusive cultural hubs within communities. The Arts Council supports libraries to develop this role by investing, developing and advocating. Libraries also point people to wider cultural activities, objects, knowledge and sites, and encourage individuals to explore different cultural experiences and to create things themselves.
 
-  
-
 > ### Case Study: [St Helens cultural hubs](https://www.gov.uk/government/case-studies/the-art-of-the-possible-libraries-as-creative-hubs)
-> 
+>
 > Award winning project that helps St Helens council deliver its objectives, which includes engaging with the needs of local young people, and supporting neighbourhood development and community cohesion, through creative use of the arts across St. Helens’ libraries.
 
 We’ll encourage libraries to establish themselves as a focal point for community cultural life, hosting and running a range of activities in partnership with amateur and professional groups. As a result, we’d expect to  see increasing attendance and active participation in creative arts by people of all ages and backgrounds.
@@ -430,10 +431,8 @@ Reading for pleasure is important. [Research suggests](https://readingagency.org
 
 Increasing literacy is vital to increase people’s chances in the job market, reducing dependence on benefits and improving quality of life. And a more skilled workforce contributes to increased local and national productivity and growth. However, an [Organisation for Economic Co-operation and Development (OECD) report in 2016](http://www.oecd.org/unitedkingdom/building-skills-for-all-review-of-england.pdf) found that an estimated 9 million working-age adults in England (more than a quarter of adults aged 16-65) had low literacy or numeracy skills, or both. This lack of basic skills reduces productivity and employability, and therefore profoundly affects social exclusion.
 
-  
-
 > ### Case Study: [Summer Reading Challenge](https://www.gov.uk/government/case-studies/summer-reading-challenge-a-national-scheme-supporting-literacy)
-> 
+>
 > Three quarters of a million children take part each year, and teachers judged that more children who had undertaken the challenge either maintained or improved their reading performance than those who had not, and far fewer dipped in attainment after the summer.
 
 We‘ll encourage libraries to expand the reading programmes they run, to stimulate reading for pleasure and to provide support to less confident readers. By doing this, we’ll aim to increase literacy levels across our communities.
@@ -446,10 +445,10 @@ Public libraries provide a trusted network of accessible locations with free WiF
 
 Trained library staff, supported by volunteers, help local people use online services covering areas like benefits, business, health and wellbeing. They can also provide the training and support individuals need to become independent users of digital services. And they don’t only help communities at a basic level - increasingly they offer ways for people to develop and use more advanced digital skills, through activities such as code clubs and facilities like makerspaces and Fablabs.
 
-  
+![Good Things Foundation digital inclusion pilot](assets/photo-p25.jpg)
 
 > ### Case Study: [Tinder Foundation (now renamed Good Things Foundation) digital inclusion pilot](https://librariestaskforce.blog.gov.uk/2016/07/15/supporting-libraries-in-the-digital-age/)
-> 
+>
 > Funded 16 library services across England to deliver innovative and sustainable digital inclusion projects, targeting vulnerable or isolated people to help them improve their basic digital skills.
 
 We’ll encourage all library services to become the ‘go-to’ provider of digital access, training and support, to help more people use online services confidently and safely. We want libraries to provide seamless physical and virtual access to their resources and activities, and to increase people’s access to higher-end technology and skills so people come together to co-create and make things digitally.
@@ -464,10 +463,8 @@ Libraries offer free resources for study and learning, including online courses 
 
 Lifelong learning through libraries underpins local authority priorities such as wellbeing, economic growth and productivity, and social cohesion and mobility.
 
-  
-
 > ### Case Study: [Idea Stores, Tower Hamlets](https://www.gov.uk/government/case-studies/idea-stores-service-integration-with-libraries-and-learning)
-> 
+>
 > “Capturing the best traditions of the library movement and education sector but presenting them in an exciting way”. An innovation that turned a failing library service into a thriving one.
 
 We’ll encourage library services to strengthen partnerships with formal learning organisations to complement each other’s work to support learners, extending access to a wider range of online materials and courses, and providing spaces and facilities for more traditional study. We also want them to strengthen people’s ability to handle and interpret information confidently and safely.
@@ -484,12 +481,10 @@ Libraries play an important role in boosting health literacy: a person’s skill
 
 They’re also places where people can come to meet others. Reducing social isolation is an important issue. In a [2013 study](http://www.campaigntoendloneliness.org/loneliness-research/), 59% of adults aged over 52 who reported poor health said they felt lonely some of the time or often, compared to 21% of those who said they were in excellent health. [Research suggests](http://www.artscouncil.org.uk/sites/default/files/download-file/Evidence_review_economic_contribution_libraries_2014.pdf) there are significant associations between frequent library use and reported wellbeing, and also between improved access to health information through libraries and reduced calls on services such as GPs.
 
-  
-
 <!-- PAGE: 28 -->
 
 > ### Case Study: [Norfolk healthy libraries](https://www.gov.uk/government/case-studies/norfolks-healthy-libraries)
-> 
+>
 > In a countywide drive to promote health and wellbeing, staff in Norfolk’s libraries are being trained in understanding health improvement and mental health first aid. This is so they can offer information, advice and healthy activities, as well as signposting customers to find further help.
 
 We’ll encourage health and wellbeing service commissioners and providers (including council Public Health departments, NHS providers, clinical commissioning groups; and through Local Sustainability and Transformation Plans) to work more closely with libraries to deliver improved health outcomes in communities and to reduce health inequalities. We’ll make a wider range of quality-assured health literacy resources and information available through libraries. Then people can make better-informed lifestyle choices, to self-manage or prevent health conditions, participate in shared decision making with health care professionals, and be better equipped to lead healthier and happier lives.
@@ -506,10 +501,8 @@ As well as supporting businesses and increasing their productivity, libraries he
 
 Increasingly knowledge is becoming a driver of productivity and economic growth. Library information and knowledge management professionals help people understand and become part of the knowledge economy, to boost business competitiveness locally and nationally.
 
-  
-
 > ### Case Study: [British Library Business and IP Centres](https://www.gov.uk/government/case-studies/enterprising-libraries)
-> 
+>
 > Located in 10 city centre libraries, supporting aspiring entrepreneurs to take advantage of business information resources, including market research and intellectual property databases.
 
 We’ll encourage library services to expand the support they offer to businesses and those seeking work. We want decision makers to recognise their important role in achieving local strategic outcomes related to economic growth, prosperity and productivity.
@@ -522,17 +515,17 @@ Libraries are open to everyone. Their staff understand their community’s needs
 
 They’re uniquely placed to help local government and its partners deliver their strategic objectives, whether linked to community cohesion, health and wellbeing, economic growth, promoting independent living or increasing life chances. They also have an important role in reducing social inequalities; [35.8% of people living in the most disadvantaged areas visit their library](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/539312/Taking_Part_2015-16_Quarter_4_Report_-_FINAL.pdf).
 
-  
-
 > ### Case Study: [Foleshill Community library, Coventry](https://www.gov.uk/government/case-studies/foleshill-library-serving-a-diverse-community)
-> 
+>
 > Foleshill Festival Celebration Days and contributions to the Positive Images Festival reflect the area’s diversity. From Cook and Eat Well sessions, to health checks, meditation, careers advice, Antakshri and much more, you’ll find it all at this library
 
 We’ll expect councils to integrate library strategies more closely into their broader strategic planning; and consider how partnerships with other public services (such as voluntary, community and social enterprise organisations, NHS Trusts and Sustainability and Transformation Boards and Clinical Commissioning Groups) can work better for citizens in the trusted setting of a local library. We’ll encourage people who commission central and local government services to regard libraries as one of their natural first choices to deliver services to local communities. We’d expect to see increased use by local people as a result.
 
 <!-- PAGE: 31 -->
 
-> “At the moment that we persuade a child, any child, to cross that threshold, that magic threshold into a library, we change their lives forever, for the better.”  
+![Photo: Barack Obama](assets/photo-p31.jpg)
+
+> “At the moment that we persuade a child, any child, to cross that threshold, that magic threshold into a library, we change their lives forever, for the better.”
 > — Barack Obama, President of the United States of America.
 
 <!-- PAGE: 32 -->
@@ -608,22 +601,18 @@ Councils have a duty to ensure the economic, social and environmental wellbeing 
 
 Library authorities need to think long-term as they plan and transform their library service, and do this in consultation with their communities. Councils need to be clear how what they propose fits in with their overall strategy and vision for the future. They should be looking at how the library service can help meet their wider objectives, taking into account other local service provision both within the area and across council boundaries. Choosing to undertake this sort of review will take time and resources, but we believe this up-front investment will pay dividends longer-term.
 
-  
-
 > ### Case Study: [Hampshire library service transformation strategy](https://www.gov.uk/government/case-studies/hampshire-county-council-strategic-library-plan)
-> 
+>
 > In April 2016, Hampshire County Council published a new strategy that set out a transformation programme to provide a comprehensive and affordable library service through innovation, modern thinking and business leadership. Around 9,500 people and organisations participated in a public consultation exercise that helped inform the strategy.
 
 The existing public library estate shouldn’t be preserved in aspic. Many public libraries were built decades ago. Since then, there may have been dramatic changes in population, transport, technology and patterns of use. The location or layout of some library buildings are no longer suitable for the things local councils and communities want their library services to do. But any decisions, including where and how it is provided, should be made based on robust evidence including a comprehensive assessment of local needs, and actively managed with the community and library professionals, rather than in being made an ad-hoc or reactive way.
 
 Councils should explore opportunities to integrate and co-locate libraries with other government and partner services, particularly as part of the [One Public Estate](https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit#smarter-services) programme. This can help join up services for users, allow buildings to be opened for longer, and enable costs to be shared. Many libraries are already co-located with local colleges, job centres, post offices, Citizens Advice Bureaux, tourist information, health centres and many other services. They also provide access points for things like IT and language training, and government face to face services. Use of technology to [extend access to library buildings](https://www.gov.uk/government/case-studies/bibliotheca-open-in-peterborough) outside staffed hours is also growing.
 
-  
-
 <!-- PAGE: 35 -->
 
 > ### Case Study: [Ashburton library - Co-location with a Post Office](https://www.gov.uk/government/case-studies/ashburton-library-co-location-with-a-post-office)
-> 
+>
 > Ashburton library service worked with 13 communities to explore different ways of delivering its services. Its co-location emerged from the collaboration and partnership between the community, Devon Libraries and a local business (the Post Office).
 
 Some people can’t visit libraries (for example due to a disability or because the opening hours don’t fit their working pattern) or would prefer to use digital means. Councils should plan how to meet these needs through digital and outreach provision.
@@ -659,20 +648,19 @@ Once councils have a clear view of their communities’ needs, they then need to
 
 Our [toolkit](https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit#governance-delivery-models) describes the issues to consider in choosing which model is right for a local area - it’s a complex process that needs to be carried out with community needs and priorities at the forefront. Each model has pros and cons. Some, such as mutuals, allow for formal ‘ownership’ of the service by the local community and the library workforce. This can help with staff retention and motivation as well as enhancing local growth. However, in-house delivery can make it easier to integrate library and other council services. DCMS and the Taskforce will commission research and share evidence on the long term financial sustainability and service quality of different delivery models to better inform local decision making - DCMS funded research into community managed libraries has recently been commissioned.
 
-  
-
 <!-- PAGE: 37 -->
 
+![CIC: Northamptonshire](assets/photo-p37a.jpg)
+![CIC: Northamptonshire library service](assets/photo-p37b.jpg)
+
 > ### Case Study: [CIC: Northamptonshire](https://www.gov.uk/government/case-studies/northamptonshire-library-and-information-service-cic)
-> 
+>
 > Northamptonshire Library and Information Service, LibraryPlus, moved into a Wellbeing Community Interest Company (CIC) that is majority owned by Northamptonshire County Council (NCC) (51%) and part owned by the NHS (Northamptonshire Health Foundation Trust) and the University of Northampton.
 
 The government has a manifesto commitment to guarantee a ‘right to mutualise’ within the public sector.  It is committed to encouraging and supporting the growth of public service mutuals - organisations that have spun out of the public sector, continue to deliver public services and where employee control plays a significant part in their operation (for example staff share ownership or representation on the board). They can assume a range of legal structures including charities, co-operatives and community interest companies (CICs). A number of library services have already adopted these models, including [York](https://www.exploreyork.org.uk/) (Explore) and [Devon](https://librariesunlimited.org.uk/) (Libraries Unlimited).
 
-  
-
 > ### Case Study: [York Explore](https://www.gov.uk/government/case-studies/explore-york-libraries-and-archives)
-> 
+>
 > Explore is an Industrial and Provident Society that is one third owned by staff and two thirds by community members. Their strapline is “knowledge and ideas for everyone”.
 
 Government continues to build awareness, understanding and interest in exploring and developing public service mutuals. It’s developing its strategy for scaling up the public service mutuals sector (due for publication in early 2017). This is expected to result in a £3 million, 3 year programme.
@@ -695,12 +683,12 @@ Changing to a different model is rarely a ‘quick fix’ for budgetary issues -
 
 Even where councils and library services decide that an alternative delivery model such as a mutual is not the right solution for their situation, they should explore the potential for other ways to share services or costs to improve efficiency and effectiveness for local people.
 
-  
-
 <!-- PAGE: 38 -->
 
+![LibrariesWest partnership](assets/photo-p38.jpg)
+
 > ### Case Study: [LibrariesWest](https://www.gov.uk/government/case-studies/librarieswest)
-> 
+>
 > A partnership of 7 public library authorities in the south west of England, which, through sharing of staff and other resources, provides better value for money and financial savings.
 
 This potential for sharing services - as well as sharing experiences and learning - is also particularly important for community managed libraries, where resources are usually very limited and volunteers often have low levels of knowledge on establishing and running a library. Supported financially by [The Power to Change Trust](http://www.thepowertochange.org.uk/), the Taskforce, Society of Chief Librarians, Locality and Upper Norwood Library Trust will be developing a [peer network](http://libraries.communityknowledgehub.org.uk/content/community-knowledge-hub) for community managed libraries to support the sharing of good practice, and to ensure the development of sustainable community managed library business models.
@@ -739,10 +727,10 @@ Library services need to do this alongside exploring other sources of financing 
 
 Using alternative finance models depends on libraries creating a revenue stream, so this should be a clear priority for local commissioners and libraries if they choose to take this approach.
 
-  
+![Manchester Central Library Development Trust](assets/photo-p40.jpg)
 
 > ### Case Study: [Manchester Central Library Development Trust](https://www.gov.uk/government/case-studies/manchester-central-library-development-trust)
-> 
+>
 > Between 2012 and 2014 the Trust raised almost £1 million, mainly from grants, to fund additional capital items for the library’s transformation.
 
 A number of councils have already developed new financing approaches to maintain and enhance existing library services and develop new ones. We believe this can go further and that more councils can benefit from:
@@ -773,7 +761,6 @@ Following consultation with its sectors, Arts Council England has made some chan
 > - continue to seek opportunities for national funding, partnerships and/or support in kind for existing and new major programmes (Action 5)
 > - ensure that the projects delivered through the £4 million Libraries: Opportunities for Everyone innovation fund:
 >
->
 > - support those people living in the most disadvantaged areas, providing them with opportunities they might not otherwise have access to
 > - are rigorously evaluated to build an evidence base that can be used to capture learning, encourage wider adoption of successful approaches, and secure further investment (Action 12)
 
@@ -789,10 +776,10 @@ Many councils in England have worked hard to promote excellence in their public 
 
 We’ll develop and promote a sector-led benchmarking framework that library services can choose to use to support self-assessment, promotion, planning and improvement. Using outcome-focused descriptions, it will set out what an excellent library or library service could look like. We’ll learn from existing models and best practice in other sectors to ensure the process isn’t too resource-hungry and doesn’t inhibit innovation by precluding local flexibility.
 
-  
+![Archive Service Accreditation scheme](assets/photo-p43.jpg)
 
 > ### Case Study: [Archive Service Accreditation scheme operated by The National Archives](https://www.gov.uk/government/case-studies/archive-service-accreditation-defining-what-an-excellent-service-looks-like)
-> 
+>
 > Benchmarking schemes and frameworks help archives to manage and improve their efficiency and effectiveness through external validation, and by identifying good practice.
 
 Once this framework is in place, we’ll consider whether a voluntary sector-led accreditation scheme (similar to ones already in use in museums and archives) would add value. If established, this would provide participating councils with an external assessment of how they match up to the benchmarks.
@@ -822,10 +809,10 @@ We want to actively gather, analyse and share data across the public library net
 
 We’ll be publishing a basic dataset showing the number of static libraries in England and the models under which they operate. We’ll extend it and look at more and better ways to gather and use libraries data in the future following consultation with the sector.
 
-  
+![London Borough of Sutton libraries](assets/photo-p44.jpg)
 
 > ### Case Study: [London Borough of Sutton](https://www.gov.uk/government/case-studies/sutton-libraries-public-consultation)
-> 
+>
 > The consultation on changes to Sutton libraries was backed by research mapping demographic trends and needs analysis across the borough. This was so staff had a clear view of the communities the libraries serve.
 
 We want to strengthen the evidence base we have about the impact library services have on the lives of individuals and communities. Establishing what outcomes have been achieved often requires qualitative data that can only be provided through sound, survey-based research. This can be resource intensive and time consuming to collect at a local level, so we’ll look to commission research on an England-wide basis where possible.
@@ -858,12 +845,12 @@ While it’s vital that front-line library services are co-created with local co
 
 We’ll continue to share new approaches to procurement and we’ll work with suppliers to identify innovative approaches to providing library services. New combined authorities are emerging in parts of the country to manage economic growth, infrastructure and public services across a broad geographic area. We’ll look at how these might benefit library services in their area; for example possibly exploring their potential to stimulate wider shared service provision, or support structural integration of library services on a regional basis through setting up consortia based alternative delivery models.
 
-  
-
 <!-- PAGE: 46 -->
 
+![London Libraries Consortium](assets/photo-p46.jpg)
+
 > ### Case Study: [London Libraries Consortium](https://www.gov.uk/government/case-studies/london-libraries-consortium-partnership-working)
-> 
+>
 > Formed to deliver cost effective and efficient services by sharing computer technology across the partners - there are currently 18 members. Customers have access to over 6 million items from across London and books can be borrowed from over 170 branch libraries.
 
 Developing a compelling virtual presence, integrating seamlessly with physical library provision, is increasingly important as more people communicate, use services and engage digitally. An improved digital presence can, in turn, stimulate and increase physical visits. Compared with other cultural organisations, such as museums and galleries, libraries have fallen behind. Libraries’ online presence through council websites tends be transactional (for example reserving a book), rather than designed to attract people to explore, discover and engage with library activities and assets online. As local resources are limited, we’re looking on a [national level at how libraries’ digital presence can be improved](https://www.gov.uk/government/publications/single-library-digital-presence-steering-group-terms-of-reference/single-library-digital-presence-steering-group-terms-of-reference), by building on the initial report by [Bibliocommons](http://goscl.com/wp-content/uploads/151130-DigitalPlatformFinalReport.pdf), commissioned by SCL.
@@ -872,12 +859,12 @@ Library services’ digital offer can also be enhanced by increased provision of
 
 Low-cost and accessible technologies are fuelling a new wave of creativity, problem solving and entrepreneurialism. People now have the potential to invent, prototype, and implement solutions to problems in ways that weren’t imaginable 5 years ago. Makerspaces have emerged as a response to that opportunity. They vary from a simple space with work benches to a fully equipped lab with a wide range of digital and manual tools.
 
-  
-
 <!-- PAGE: 47 -->
 
+![Makerspaces in Exeter](assets/photo-p47.jpg)
+
 > ### Case Study: [Makerspaces](https://www.gov.uk/government/case-studies/fab-lab-devon)
-> 
+>
 > A makerspace is a physical location where people gather to co-create, sharing resources and knowledge, work on projects, network, and build. A small number of larger public libraries already have successful makerspaces, including Exeter’s FabLab.
 
 Creating makerspaces in libraries to democratise access to the means of production, connecting inventors to knowledge and support, and providing educational programmes that help people learn about digital making, is a natural extension to libraries’ original goal in democratising access to knowledge. One of the things the Taskforce can do is bring together people from across sectors to collaborate on programmes to support library services. We’ll be using this convening power to support the expansion of makerspaces in public libraries in England.
@@ -914,17 +901,15 @@ Taskforce members and their organisations will continue to engage with library s
 
 ### 6.8 Developing the library workforce, now and for the future
 
-  
-
-“Google can bring you back 100,000 answers, a librarian can bring you back the right one.”
-Neil Gaiman
+> “Google can bring you back 100,000 answers, a librarian can bring you back the right one.”
+> — Neil Gaiman.
 
 To transform public library services across England, we need to harness the talent and creativity of the people who work in them - library staff and volunteers. Developing staff and their skills needs resourcing, but equipping people in libraries to deliver the 7 Outcomes successfully is a vital investment. It’s important we develop people already working in public libraries to give them the confidence, skills and knowledge they need to lead and succeed in a changing environment.
 
-  
+![SCL digital training scheme](assets/photo-p49.jpg)
 
 > ### Case Study: [SCL digital training scheme](http://goscl.com/80-of-public-library-staff-in-england-have-improved-digital-skills-thanks-to-scl-e-learning-programme/)
-> 
+>
 > The Society of Chief Librarians, working with Learning Pool, have trained 14,000 public library staff (80% of the workforce), via an e-learning programme designed to improve their digital skills and confidence.
 
 There are other staffing challenges. [Research undertaken by CILIP](http://www.cilip.org.uk/sites/default/files/documents/executive_summary_nov_2015-5_a4web.pdf) in 2014 to 2015 showed most of the overall information workforce was aged between 45 and 55 - over 55% were over 45, compared with just over 40% for the UK as a whole. This holds broadly true for the public library workforce. This means we need to think ahead and consider succession planning. The research also showed a far higher proportion of females and white people in this workforce than the national profile. As library services recruit, they need to attract and retain talented new people who can provide different perspectives and increase workforce diversity in line with changes in the wider community.
@@ -955,7 +940,9 @@ As well as defining what skills and knowledge we need to develop, we’ll identi
 
 <!-- PAGE: 51 -->
 
-> “These things are normally quite expensive if you were to go to a professional but the library offer these services for free. You’re on a shoestring when you’re starting out and that’s why I went to the Business & IP Centre.”  
+![Photo: Rowena Johnson](assets/photo-p51.jpg)
+
+> “These things are normally quite expensive if you were to go to a professional but the library offer these services for free. You’re on a shoestring when you’re starting out and that’s why I went to the Business & IP Centre.”
 > — Rowena Johnson, inventor of Bugbrush, a new children’s toothbrush.
 
 <!-- PAGE: 52 -->
@@ -996,10 +983,8 @@ This work will include:
 
 To achieve the impact needed, the whole library sector needs to get behind a long term, sustained programme of activity. Work done nationally must be supported by active participation and repetition of the core messages locally, using all channels available.
 
-  
-
 > ### Case Study: [Leeds Libraries’ #whatsyourstory](https://librariestaskforce.blog.gov.uk/2016/03/09/whatsyourstory-leeds-libraries-innovative-marketing-campaign/)
-> 
+>
 > Innovative and award-winning marketing campaign run by Leeds libraries which features people telling their personal stories about the positive impact Leeds Libraries has had on their lives.
 
 High-profile library champions can help to get messages out, but all who work in or have a connection to a library are potential ambassadors. They can talk about local initiatives they’re undertaking to meet local needs, and the positive impacts and outcomes that result. We want to empower the library workforce to promote their activities effectively, for example through use of social media.
@@ -1040,7 +1025,9 @@ We’ll develop positive messages about libraries and the outcomes they support,
 
 <!-- PAGE: 56 -->
 
-> Dr Who: “You want weapons? We’re in a library. Books are the best weapon in the world. This room’s the greatest arsenal we could have. Arm yourself!”  
+![Photo: Doctor Who](assets/photo-p56.jpg)
+
+> Dr Who: “You want weapons? We’re in a library. Books are the best weapon in the world. This room’s the greatest arsenal we could have. Arm yourself!”
 > — Russell T Davies, *Doctor Who*, ‘Tooth and Claw’, Series 2.
 
 <!-- PAGE: 57 -->
@@ -1070,11 +1057,8 @@ The Taskforce will:
 
 ### 9.1 Outcome 1: Cultural and creative enrichment
 
-  
-
-“Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life.”
-
-  
+> “Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life.”
+> — Sidney Sheldon, writer and producer.
 
 Sidney Sheldon, writer and producer
 
@@ -1114,11 +1098,8 @@ The Arts Council, along with other members of the Taskforce such as The Reading 
 
 ### 9.2 Outcome 2: Increased reading and literacy
 
-  
-
-“A public library is the most democratic thing in the world…If you read, you can learn to think for yourself.”
-
-  
+> “A public library is the most democratic thing in the world…If you read, you can learn to think for yourself.”
+> — Doris Lessing, novelist, poet, playwright, and librettist.
 
 Doris Lessing, novelist, poet, playwright, and librettist
 
@@ -1160,11 +1141,8 @@ Initiatives such as the BookTrust’s [Bookstart ](http://www.bookstart.org.uk/)
 
 ### 9.3 Outcome 3: Increased digital access and literacy
 
-  
-
-“Being digitally capable can make a significant difference to individuals and organisations day to day. For individuals, this can mean cutting household bills, finding a job, or maintaining contact with distant friends and relatives. For organisations, going online can provide ways to reach more customers and reduce operating costs. The internet also provides broader benefits, by helping to address wider social and economic issues like reducing isolation and supporting economic growth.”
-
-  
+> “Being digitally capable can make a significant difference to individuals and organisations day to day. For individuals, this can mean cutting household bills, finding a job, or maintaining contact with distant friends and relatives. For organisations, going online can provide ways to reach more customers and reduce operating costs. The internet also provides broader benefits, by helping to address wider social and economic issues like reducing isolation and supporting economic growth.”
+> — Government Digital Inclusion Strategy[^102].
 
 [Government Digital Inclusion Strategy](https://www.gov.uk/government/publications/government-digital-inclusion-strategy)
 
@@ -1188,9 +1166,9 @@ Initiatives such as the BookTrust’s [Bookstart ](http://www.bookstart.org.uk/)
 - what people say about the role their library plays in supporting their access to digital services and resources, whether through technology provision or training
 - how people are developing and using higher-level digital skills acquired through using their library
 
-[<!-- PAGE: 64 -->
+<!-- PAGE: 64 -->
 
-Digital access and literacy is increasingly critical](https://ec.europa.eu/digital-single-market/en/skills-jobs) to central and local government strategies around economic development, channel-shift, reducing social isolation and creating community cohesion. Libraries can be digital leaders in their communities; showcasing the potential of new technology and giving the community the opportunity to learn, test and explore its possibilities and use it creatively.
+[Digital access and literacy is increasingly critical](https://ec.europa.eu/digital-single-market/en/skills-jobs) to central and local government strategies around economic development, channel-shift, reducing social isolation and creating community cohesion. Libraries can be digital leaders in their communities; showcasing the potential of new technology and giving the community the opportunity to learn, test and explore its possibilities and use it creatively.
 
 Digital increases the ability of libraries to reach out and provide services to the wider community, not just those who visit library buildings. For example, as part of [pilots run with the Tinder Foundation (now renamed Good Things Foundation)](https://www.goodthingsfoundation.org/projects/libraries-digital-inclusion-fund-project), Cumbria Libraries are taking mobile devices out into the community and work directly with local disability groups through two local branch libraries. Libraries also provide assistive technology, and use digital extensively to support SCL and [Share the Vision’s](http://www.share-the-vision.org.uk/) [Six Steps Promise](http://goscl.com/best-practice/six-steps-for-blind-and-partially-sighted-people/) to support access to library services by blind and partially sighted people.
 
@@ -1209,17 +1187,12 @@ The increasing volume of online resources means libraries have a growing role in
 
 ### 9.4 Outcome 4: Helping everyone achieve their full potential
 
-  
-
-“There is nowhere quiet to study at home with my whole family sharing 3 rooms. This is the only place I can come to really focus.”
-
-  
+> “There is nowhere quiet to study at home with my whole family sharing 3 rooms. This is the only place I can come to really focus.”
 
 <!-- PAGE: 65 -->
 
-“Where do you look when you don’t even know what you want to do or what you are relevant for any more? I feel the library is full of options that I wouldn’t think were possible.”
-
-  
+> “Where do you look when you don’t even know what you want to do or what you are relevant for any more? I feel the library is full of options that I wouldn’t think were possible.”
+> — Respondents in Taskforce user research interviews, 2015.
 
 Respondents in Taskforce user research interviews, 2015
 
@@ -1255,11 +1228,8 @@ Knowledge is increasingly recognised as [a driver of productivity and economic g
 
 ### 9.5 Outcome 5: Healthier and happier lives
 
-  
-
-“Many of our service users experience extreme and debilitating levels of social isolation and exclusion. In this context libraries become places of warmth, welcome, safety, access to information and support, and crucially gateways to much needed human interaction.”
-
-  
+> “Many of our service users experience extreme and debilitating levels of social isolation and exclusion. In this context libraries become places of warmth, welcome, safety, access to information and support, and crucially gateways to much needed human interaction.”
+> — Beatrice Fraenkel, Chairman of Mersey Care NHS Trust[^120].
 
 [Beatrice Fraenkel, Chairman of Mersey Care NHS Trust](https://www.bma.org.uk/connecting-doctors/bmaspace/f/21/t/1493)
 
@@ -1302,11 +1272,8 @@ Norfolk librarians received [Dementia Friends training](http://www.seapn.org.uk/
 
 ### 9.6 Outcome 6: Greater prosperity
 
-  
-
-“At the beginning, I accessed as much information as I could as the library was a full jug and I was an empty glass. I used the information in the library to fill my knowledge in terms of the market, how to go about taking things to market, but mostly for making contacts with people through Manchester Inventors Group. I was looking for anything and everything depending on what I needed at the time; marketing, market research, books on manufacturing, trade magazines on PR’s, literally anything I could get my hands on. The Business & IP Centre saved me thousands.”
-
-  
+> “At the beginning, I accessed as much information as I could as the library was a full jug and I was an empty glass. I used the information in the library to fill my knowledge in terms of the market, how to go about taking things to market, but mostly for making contacts with people through Manchester Inventors Group. I was looking for anything and everything depending on what I needed at the time; marketing, market research, books on manufacturing, trade magazines on PR’s, literally anything I could get my hands on. The Business & IP Centre saved me thousands.”
+> — Russell Clifton, founder of Ruk-Bug (an all-terrain pushchair)[^131].
 
 [Russell Clifton, founder of Ruk-Bug](https://www.gov.uk/government/case-studies/bipc-supporting-small-businesses-ruk-bug) (an all-terrain pushchair)
 
@@ -1342,9 +1309,8 @@ Libraries help develop the skills people need in the world of work. They do this
 
 ### 9.7 Outcome 7: Stronger, more resilient communities
 
-  
-
-“A library in the middle of a community is a cross between an emergency exit, a life-raft and a festival. They are cathedrals of the mind; hospitals of the soul; theme parks of the imagination. On a cold rainy island, they are the only sheltered public spaces where you are not a consumer, but a citizen instead.”
+> “A library in the middle of a community is a cross between an emergency exit, a life-raft and a festival. They are cathedrals of the mind; hospitals of the soul; theme parks of the imagination. On a cold rainy island, they are the only sheltered public spaces where you are not a consumer, but a citizen instead.”
+> — Caitlin Moran, journalist, author and broadcaster.
 Caitlin Moran, journalist, author and broadcaster at The Times
 
 #### Libraries deliver:
@@ -1364,11 +1330,11 @@ Caitlin Moran, journalist, author and broadcaster at The Times
 - local people are aware of the information and services available via the library and are choosing to use them
 - libraries are being chosen by councils and other commissioners as the first choice channel to provide access to a range of public information and services
 
+<!-- PAGE: 72 -->
+
 To measure progress against these ambitions, we’ll look at things like:
 
-- <!-- PAGE: 72 -->
-
-what people say about the role their library plays in meeting their needs and those of their community
+- what people say about the role their library plays in meeting their needs and those of their community
 - whether our ‘libraries first’ approach is being adopted by central and local government
 
 Public libraries sit within communities and it’s vital that they meet community needs. Library services should work with local people to define, develop, plan and deliver the right mix of services to meet local needs and priorities; no two places will have the same mix. For example, rural and urban areas will need different ways of delivering services. Doing this will reinforce the library’s role as a focal point for local community activity.
@@ -1544,7 +1510,6 @@ Figure 3: created by Stephen Jones, [Kobalt](http://www.kobaltdesign.co.uk/), ba
 3. Helping everyone achieve their full potential: 10 million academic journal articles provided free across UK Source: [Access to Research](http://www.accesstoresearch.org.uk/about)
 4. Greater prosperity: £38 million in added value to UK economy in 2013 to 2015 by Enterprising libraries Source: [British Library](http://www.bl.uk/britishlibrary/~/media/bl/global/business%20and%20ip%20centre/documents/270-001%20british%20library%20enterprising%20libraries%20infographic-with%20trims.pdf)
 5. Stronger, more resilient communities: 224.6 million visits in 2014 to 2015. Source: “Number of physical visits for library purposes” - Table M Library Users. The Chartered Institute of Public Finance and Accountancy, (2015). Public library statistics 2015 to 2016 estimates and 2014 to 2015 actuals. CIPFA. [actual number is 224,636 million] More than visits to Premier League football games, the cinema and the top 10 UK tourist attractions combined. Sources:
-    
 
 - [Premier League: 27.5 million](http://www.worldfootball.net/attendance/eng-premier-league-2014-2015/3/)
 - [UK cinema audience: 151.3 million](http://www.cinemauk.org.uk/the-industry/facts-and-figures/uk-cinema-admissions-and-box-office/annual-admissions/)
@@ -1605,8 +1570,8 @@ Figure 3: created by Stephen Jones, [Kobalt](http://www.kobaltdesign.co.uk/), ba
 
 <!-- PAGE: 92 -->
 
-© Copyright 2016.  
-This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.  
+© Copyright 2016.
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
 To view this licence, either:
 
 - visit www.nationalarchives.gov.uk/doc/open-government-licence/version/3
@@ -1615,14 +1580,14 @@ To view this licence, either:
 
 Where we have identified any third party copyright information, you will need to obtain permission from the copyright holders concerned.
 
-Contact the Libraries Taskforce team:  
-Email: librariestaskforce@culture.gov.uk  
-Follow our progress via:  
-Our website: https://www.gov.uk/government/groups/libraries-taskforce  
-Our blog: https://librariestaskforce.blog.gov.uk  
+Contact the Libraries Taskforce team:
+Email: librariestaskforce@culture.gov.uk
+Follow our progress via:
+Our website: https://www.gov.uk/government/groups/libraries-taskforce
+Our blog: https://librariestaskforce.blog.gov.uk
 Twitter: @LibTaskforce
 
-This publication is available at www.gov.uk/government/publications.  
+This publication is available at www.gov.uk/government/publications.
 Any enquiries regarding this publication should be sent to librariestaskforce@culture.gov.uk.
 
 ## Footnotes
@@ -1672,7 +1637,7 @@ Any enquiries regarding this publication should be sent to librariestaskforce@cu
 [^43]: https://www.gov.uk/government/case-studies/enterprising-libraries
 [^44]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/495586/Taking_Part_2015-16_Quarter_2_Report_2.pdf
 [^45]: https://www.gov.uk/government/case-studies/foleshill-library-serving-a-diverse-community
-[^46]: http://goscl.com/universal-offers/health-offer/
+[^46]: http://goscl.com/
 [^47]: https://www.gov.uk/government/case-studies/hampshire-county-council-strategic-library-plan
 [^48]: https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit
 [^49]: https://www.gov.uk/government/case-studies/bibliotheca-open-in-peterborough
@@ -1735,7 +1700,7 @@ Any enquiries regarding this publication should be sent to librariestaskforce@cu
 [^106]: http://goscl.com/best-practice/six-steps-for-blind-and-partially-sighted-people/
 [^107]: https://www.btplc.com/Purposefulbusiness/Connectivity/Beingonlineisgoodforsociety/Valuing-Digital-Inclusion.pdf
 [^108]: https://www.goodthingsfoundation.org/news-and-blogs/blog/video-leading-digital-nation-2020-report-launch
-[^109]: https://www.goodthingsfoundation.org/projects/libraries-digital-inclusion-fund-project
+[^109]: https://www.goodthingsfoundation.org/news-and-blogs/blog/video-leading-digital-nation-2020-report-launch
 [^110]: http://www.teentech.com/
 [^111]: https://www.gov.uk/government/news/government-plans-to-make-the-uk-one-of-the-most-digitally-skilled-nations
 [^112]: http://goscl.com/80-of-public-library-staff-in-england-have-improved-digital-skills-thanks-to-scl-e-learning-programme/
