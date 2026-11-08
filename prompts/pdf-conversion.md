@@ -57,10 +57,12 @@ You MUST adhere to all of the following requirements without exception:
    - Inside paragraphs or in the middle of sentences: Insert `<!-- PAGE: N -->` INLINE at the exact transition point:
      `...word on page N <!-- PAGE: N+1 --> word on page N+1...`
      Do NOT put the comment on its own line in the middle of a sentence, as CommonMark rules will forcibly close the `<p>` paragraph and break the sentence across two separate HTML paragraphs.
+   - LINK BRACKET SAFETY: Never insert a page boundary marker inside the square brackets of a Markdown hyperlink (e.g. `[<!-- PAGE: N -->\n\nLink text](url)`). If a page transition occurs at a linked phrase, place the marker BEFORE the opening bracket: `<!-- PAGE: N -->\n\n[Link text](url)`.
+   - LIST BULLET SAFETY: Never insert a page boundary marker immediately between a list bullet (`- `, `* `, `1. `) and the list item text (e.g. `- <!-- PAGE: N -->\n\nItem text`), which creates an empty orphan bullet. Place the page marker before the heading or paragraph introducing the list.
    - Never skip, renumber, or drop page markers.
    - Never drop words running at the bottom of a column or top of the next page.
 
-7. CALLOUT BOXES, ACTION PANELS, AND CASE STUDIES
+7. CALLOUT BOXES, ACTION PANELS, CASE STUDIES, AND PULL QUOTES
    Format every case study, sidebar, action panel, or shaded box as a Markdown blockquote:
    > ### Case Study: [Title]
    > 
@@ -72,6 +74,11 @@ You MUST adhere to all of the following requirements without exception:
    - Always give the box a heading: `> ### Case Study: [Title]`, `> ### ACTION`, or `> ### [Box Title]`.
    - Action Panels with Subheadings: In action callouts with categorized actors (e.g., Central government, Taskforce, Local government), format actor headers with underlined labels: `> <u>Central government</u>`.
    - Dedicated Case Studies Sections: When a report features a dedicated case study section (`## Case studies`), format each individual case study with a Level 3 heading: `### Case Study: [Title]`.
+   - Pull Quotes and Epigraphs: Prominent standalone quotes enclosed in quotation marks (`“...”`) and attributed to an author, speaker, or work (e.g. Malorie Blackman, Neil Gaiman, Caitlin Moran, Terry Jones) must be formatted as Markdown blockquotes with an attribution line:
+     ```markdown
+     > “Quote text...”  
+     > — Author, Attribution.
+     ```
    - Never merge a box title into the first sentence of the text, and never leave `ACTION` as an unstyled bare line.
    - Prefix every line in the callout with `> `.
 
@@ -81,11 +88,15 @@ You MUST adhere to all of the following requirements without exception:
    - For multi-page committee or acknowledgment directories, ensure table headers restart cleanly after each page boundary, or format as structured lists (`- **Name** (Role) — Organisation`).
    - Use clean HTML `<table>` markup only when complex merged cells (`rowspan` / `colspan`) cannot be represented accurately in Markdown. Never omit rows, columns, totals, or table notes.
 
-9. FIGURES, IMAGES, AND SIGNATURES
-   - Complete Image Audit: Whenever a figure, photo credit (`Courtesy of...`, `Photographer: ...`), or author signature appears in the PDF, the image MUST be extracted into `assets/figure-NNN.jpg` and embedded at its exact location:
+9. FIGURES, IMAGES, SIGNATURES, AND ASSET QUALITY
+   - Complete Image Audit: Whenever a figure, cover artwork, photo credit (`Courtesy of...`, `Photographer: ...`), or author signature appears in the PDF, the image MUST be extracted into `assets/figure-NNN.jpg` (or `assets/photo-pNN.jpg`) and embedded at its exact location:
      ![Descriptive alt text](assets/figure-NNN.jpg)
 
      *Verbatim caption. Courtesy of... Photographer: ...*
+   - Cover Artwork and Imprint Graphics: Extract and embed full-resolution cover illustrations and decorative graphics appearing on Page 1 and Page 2 (e.g. `figure-001-cover.jpg`).
+   - Color Calibration (CMYK to sRGB): When extracting images from PDF documents, inspect their color space. UK government PDFs frequently embed photographs as `DeviceCMYK` with Adobe APP14 DCT markers. Never use naive mathematical conversion (`1 - C/255`), which causes washed-out contrast, muddy shadows, and neon cyan/green color casts. Convert CMYK streams using an industry-standard ICC profile (e.g. Reference SWOP `RSWOP.icm` to standard sRGB).
+   - High-Resolution Online Originals: When case study photos or figures in the PDF are low-resolution print thumbnails (e.g. downsampled to 328 × 241 px), check official online sources (GOV.UK blogs, departmental Flickr streams under CC BY, Wikimedia Commons) for original full-resolution photographs.
+   - Asset Hygiene: Delete and never commit unreferenced orphaned image files in `assets/`.
    - Never leave orphaned captions without an image link.
    - Never merge an image caption into the middle of a body paragraph.
    - Extract and embed author/ministerial signatures (`![Signature](assets/figure-NNN-signature.jpg)`).
@@ -113,6 +124,9 @@ STRICT PROHIBITIONS
 - Never paraphrase or rewrite sentences.
 - Never silently correct OCR errors or typographical mistakes present in the original source.
 - Never drop text running at the bottom of columns.
+- Never produce lines containing only whitespace (`'  '`).
+- Never introduce multiple consecutive blank lines (`\n{3,}`); separate paragraphs with exactly one blank line (`\n\n`).
+- When converting from HTML sources, convert `<br>` tags to clean newlines (`\n`), never trailing double spaces (`  \n`).
 
 HANDLING UNCERTAINTY AND ILLEGIBLE TEXT
 When any character, word, number, or passage is illegible, ambiguous, or uncertain in the source PDF or scan:

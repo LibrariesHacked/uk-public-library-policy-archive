@@ -340,13 +340,15 @@ Must explicitly require:
 
 - preserve wording exactly
 - preserve structure exactly
-- preserve page boundaries
+- preserve page boundaries (inline within split sentences; outside link brackets and list bullets)
 - preserve tables
-- preserve figures
+- preserve figures and cover illustrations (with ICC color profile calibration for CMYK images)
+- preserve callout boxes, action panels, and pull quotes (styled as blockquotes with attributions)
 - preserve appendices
-- preserve footnotes
+- preserve footnotes (consolidated at end of document)
 - preserve contents pages
 - preserve references
+- maintain strict whitespace hygiene (no blank line accumulations or whitespace-only lines)
 
 Never:
 

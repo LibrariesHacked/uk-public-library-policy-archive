@@ -104,6 +104,8 @@ Every page in the source document must be explicitly marked in `report.md` using
      *Reason*: In CommonMark and GitHub Flavored Markdown (GFM), placing `<!-- ... -->` on its own line initiates a Type 2 HTML block that immediately closes the active paragraph `<p>` tag and creates a new one below it, which fractures the sentence across two HTML paragraphs with vertical margins. Placing the marker **inline** ensures CommonMark treats it as inline raw HTML, preserving a single continuous, beautifully flowing paragraph in rendered HTML and markdown previews while preserving exact word-level page boundary citation.
 5. **Running headers and footers**: Repetitive running page headers, decorative borders, and standalone printed page numbers should be omitted from the body text so they do not interrupt paragraphs, as pagination is carried by `<!-- PAGE: N -->`.
 6. **Cross-Page Sentence Continuity**: Ensure no words at the bottom of a column or top of the next page are dropped or truncated during transcription.
+7. **Link Bracket Safety**: Never place a page boundary marker inside the square brackets of a Markdown hyperlink (e.g. `[<!-- PAGE: N -->\n\nLink text](url)`). If a page transition occurs at a hyperlinked phrase, place the marker immediately before the opening bracket: `<!-- PAGE: N -->\n\n[Link text](url)`.
+8. **List Bullet Safety**: Never place a page boundary marker immediately between a list bullet (`- `, `* `, `1. `) and the list item text (e.g. `- <!-- PAGE: N -->\n\nItem text`), as this creates an empty orphan bullet. Place the page marker before the introductory heading or paragraph introducing the list.
 
 ---
 
@@ -201,6 +203,16 @@ When reports feature shaded "ACTION" or "ACTIONS" callout boxes with categorized
 ### Dedicated Case Study Chapters
 When a report includes a dedicated case studies section (`## Case studies`), format each case study with a Level 3 heading: `### Case Study: [Title]` (e.g., `### Case Study: City of York`). This guarantees explicit document hierarchy and clean navigation across table of contents parsers.
 
+### Pull Quotes and Epigraphs
+Prominent standalone quotes set apart in the text or heading a chapter, enclosed in quotation marks (`“...”`) and attributed to an author, speaker, or work (e.g. Malorie Blackman, Neil Gaiman, Caitlin Moran, Terry Jones), must be formatted as **Markdown blockquotes (`>`)** with an attribution line:
+
+```markdown
+> “What do libraries do for us? Well, they introduce many into the world of literacy and learning and help to make it a lifelong habit; they equalise; they teach empathy and help us to learn about each other...”  
+> — Malorie Blackman, Children’s Laureate 2013 to 2015.
+```
+
+In GOV.UK HTML or PDF sources, such quotes are often stored as plain unstyled `<p>` paragraphs; they must be identified by their quotation marks and attribution, and explicitly formatted with blockquotes.
+
 ### Rules for Callout Boxes
 1. **Heading Formatting**: Always give the box a heading inside the blockquote: `> ### Case Study: [Title]`, `> ### ACTION`, or `> ### [Box Title]`. Never merge the box title into the first sentence of the text, and never leave `ACTION` as an unstyled bare line.
 2. **Complete Enclosure**: Prefix every line of the callout (paragraphs, bullet lists, image embeds) with `> `.
@@ -230,10 +242,14 @@ Convert tabular information from the source PDF into standard **GitHub Flavored 
 
 ## 9. Figures, Illustrations, and Signatures
 
-When a source report contains charts, maps, photographs, structural diagrams, or author signatures:
+When a source report contains charts, maps, photographs, structural diagrams, cover artwork, or author signatures:
 
-1. **Image Audit Requirement**: Whenever a caption, figure credit (`Courtesy of...`, `Photographer: ...`), or author signature appears in the PDF, the corresponding visual asset **must** be extracted from the PDF at high resolution and saved into `archive/reports/<report-slug>/assets/` using a sequential filename (`assets/figure-NNN.jpg` or `assets/figure-NNN-desc.jpg`).
-2. **Embedding and Verbatim Captions**: In `report.md`, reference the relative asset path and place the verbatim caption in italics on the line below:
+1. **Image Audit Requirement**: Whenever a figure, cover illustration, photo credit (`Courtesy of...`, `Photographer: ...`), or author signature appears in the PDF, the corresponding visual asset **must** be extracted from the PDF at high resolution and saved into `archive/reports/<report-slug>/assets/` using a sequential filename (`assets/figure-NNN.jpg` or `assets/photo-pNN.jpg`).
+2. **Cover Artwork & Imprint Illustrations**: Always audit Page 1 and Page 2 for cover illustrations, diagrams, and decorative graphics (e.g. keyboard with books, mobile library vans). Extract and embed them so digital editions are visually complete:
+```markdown
+![Framework for the Future: computer keyboard topped with a stack of library books](assets/figure-001-cover.jpg)
+```
+3. **Embedding and Verbatim Captions**: In `report.md`, reference the relative asset path and place the verbatim caption in italics on the line below:
 
 ```markdown
 ![Peckham Library](assets/figure-039.jpg)
@@ -241,9 +257,12 @@ When a source report contains charts, maps, photographs, structural diagrams, or
 *Peckham Library. Photographer: Len Cross 2000. Courtesy of London Borough of Southwark Libraries and Museums Service.*
 ```
 
-3. **No Orphaned Captions**: Never leave a caption or credit stranded as plain text without its corresponding embedded image.
-4. **No Merged Captions**: Never merge an image caption into a surrounding body text paragraph.
-5. **Signatures**: Key ministerial or author signatures in forewords, prefaces, or transmittal letters must be extracted and embedded with an appropriate alt-text (`![Author Signature](assets/figure-NNN-signature.jpg)`).
+4. **Color Calibration (CMYK to sRGB)**: UK government PDFs frequently embed photographs as `DeviceCMYK` with Adobe APP14 DCT markers. Never use naive mathematical conversion (`1 - C/255`), which causes washed-out contrast, muddy shadows, and neon cyan/green color casts. Convert CMYK streams using an industry-standard ICC profile (e.g. Reference SWOP `RSWOP.icm` to standard sRGB).
+5. **High-Resolution Online Originals**: When case study photos or figures in the PDF are low-resolution print thumbnails (e.g. downsampled to 328 × 241 px), check official online sources (GOV.UK blogs, departmental Flickr streams under CC BY, Wikimedia Commons) for original full-resolution photographs.
+6. **Asset Hygiene**: Never leave unreferenced orphaned image files in `assets/`.
+7. **No Orphaned Captions**: Never leave a caption or credit stranded as plain text without its corresponding embedded image.
+8. **No Merged Captions**: Never merge an image caption into a surrounding body text paragraph.
+9. **Signatures**: Key ministerial or author signatures in forewords, prefaces, or transmittal letters must be extracted and embedded with an appropriate alt-text (`![Author Signature](assets/figure-NNN-signature.jpg)`).
 
 ---
 
@@ -301,7 +320,7 @@ Older UK library policy reports (particularly scanned publications from 1995–2
 
 ---
 
-## 13. Automated Checks
+## 13. Automated Checks and Whitespace Hygiene
 
 [`scripts/validate_markdown.py`](../scripts/validate_markdown.py) (run by `.github/workflows/validate-markdown.yml`) fails a `report.md` when:
 
@@ -309,5 +328,11 @@ Older UK library policy reports (particularly scanned publications from 1995–2
 - there are no `<!-- PAGE: N -->` markers, or a page number repeats or goes backwards
 - a page marker is malformed
 - a footnote reference has no definition
+- a referenced image asset does not exist on disk
 
 It warns, without failing, when page numbers skip (so that a maintainer can confirm no pages are missing).
+
+### Whitespace and Formatting Hygiene
+- **No whitespace-only lines**: Lines must never contain only space or tab characters (`'  '`).
+- **No multiple blank lines**: Consecutive paragraphs must be separated by exactly one blank line (`\n\n`), never three or more consecutive newlines (`\n{3,}`).
+- **Clean HTML conversion**: When converting from HTML sources, `<br>` tags must be converted to standard newlines (`\n`), never trailing double spaces (`  \n`). All trailing spaces on lines must be stripped.
