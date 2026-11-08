@@ -14,10 +14,14 @@ review_level: reviewed
 
 ## Libraries, Learning and Information in the Next Decade
 
+![Framework for the Future: computer keyboard topped with a stack of library books](assets/figure-001-cover.jpg)
+
 **Department for Culture, Media and Sport**  
 *February 2003*
 
 <!-- PAGE: 2 -->
+
+![North Yorkshire County Council mobile library service](assets/figure-002-mobile-library.jpg)
 
 This document is based on research and analysis carried out by Charles Leadbeater with support from John Holden, from the independent policy think tank, Demos.
 
