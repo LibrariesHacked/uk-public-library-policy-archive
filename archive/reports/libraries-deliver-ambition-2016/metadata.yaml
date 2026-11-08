@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-deliver-ambition-2016
+title: "Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021"
+subtitle: null
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2016-12-01"
+year: 2016
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "strategy"
+pages: 92
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021"
+source_pdf: "source/Libraries_Deliver_-_Ambition_for_Public_Libraries_in_England_2016_to_2021.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "converted"

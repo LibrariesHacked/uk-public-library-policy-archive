@@ -221,8 +221,9 @@ planned_reports:
     country: "England"
     category: "ENGLAND"
     document_type: "strategy"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: "libraries-deliver-ambition-2016"
 
   - id: libraries-deliver-action-plan
     title: "Libraries Deliver: Ambition Action Plan"

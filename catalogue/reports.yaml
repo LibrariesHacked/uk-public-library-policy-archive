@@ -40,3 +40,16 @@ reports:
     review_level: "reviewed"
     fictional_sample: false
     notes: "Independent review chaired by William Sieghart examining public library services in England, recommending a national digital network, Wi-Fi roll-out, and the creation of the Libraries Taskforce."
+
+  - id: libraries-deliver-ambition-2016
+    title: "Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021"
+    subtitle: null
+    year: 2016
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "strategy"
+    pages: 92
+    path: "archive/reports/libraries-deliver-ambition-2016"
+    review_level: "converted"
+    fictional_sample: false
+    notes: "Joint national strategy and vision for public library services in England from 2016 to 2021, produced by the Leadership for Libraries Taskforce and endorsed by DCMS and LGA."

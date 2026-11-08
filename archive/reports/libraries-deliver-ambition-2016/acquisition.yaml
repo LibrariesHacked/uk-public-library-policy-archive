@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021"
+source_pdf_url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/573194/Libraries_Deliver_-_Ambition_for_Public_Libraries_in_England_2016_to_2021.pdf"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-08"
+accessed_date: "2026-11-08"
+download_method: "curl"
+local_file: "source/Libraries_Deliver_-_Ambition_for_Public_Libraries_in_England_2016_to_2021.pdf"
+pdf_sha256: "d98e79d177529c6a8ef2becb64ea353c19d17d602f8457221a86fde2835af9b4"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Downloaded directly from official GOV.UK landing page with source PDF and HTML."
