@@ -53,3 +53,16 @@ reports:
     review_level: "reviewed"
     fictional_sample: false
     notes: "Joint national strategy and vision for public library services in England from 2016 to 2021, produced by the Leadership for Libraries Taskforce and endorsed by DCMS and LGA."
+
+  - id: independent-review-of-english-public-libraries-2024
+    title: "An Independent Review of English Public Libraries"
+    subtitle: null
+    year: 2024
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "independent-review"
+    pages: 49
+    path: "archive/reports/independent-review-of-english-public-libraries-2024"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Independent review led by Baroness Elizabeth Sanderson examining challenges facing public libraries in England and setting out recommendations for national data infrastructure, branding, and ministerial coordination."

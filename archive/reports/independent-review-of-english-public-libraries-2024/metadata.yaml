@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: independent-review-of-english-public-libraries-2024
+title: "An Independent Review of English Public Libraries"
+subtitle: null
+creators:
+  - "Baroness Elizabeth Sanderson of Welton"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2024-01-18"
+year: 2024
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "independent-review"
+pages: 49
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/an-independent-review-of-english-public-libraries-report-and-government-reponse"
+source_pdf: "source/An_Independent_Review_of_English_Public_Libraries_-_formatted.pdf"
+rights: "Crown Copyright 2024. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

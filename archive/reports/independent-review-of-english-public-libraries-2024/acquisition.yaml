@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://www.gov.uk/government/publications/an-independent-review-of-english-public-libraries-report-and-government-reponse"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/65a9211ced27ca000d27b22c/An_Independent_Review_of_English_Public_Libraries_-_formatted.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-08"
+accessed_date: "2026-11-08"
+download_method: "python-urllib"
+local_file: "source/An_Independent_Review_of_English_Public_Libraries_-_formatted.pdf"
+pdf_sha256: "03aa442d0c053e1a1a03965bd861f215b2b5f85a6cf24e3f15d6344e05e462ed"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Downloaded directly from official GOV.UK publication landing page without modification."

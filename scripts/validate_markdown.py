@@ -151,7 +151,7 @@ def check_report(problems: Problems, path: Path) -> None:
             if prev_idx >= 0:
                 prev_line = body_lines[prev_idx].strip()
                 # If prev_line doesn't end in punctuation or markup, it may be a mid-sentence break
-                if not re.search(r"[.!?:\'\"\*\`\>\]\)”’]$", prev_line) and not prev_line.startswith(("#", "-", "*")):
+                if not re.search(r"[.!?:\'\"\*\`\>\]\)”’]$", prev_line) and not prev_line.startswith(("#", "-", "*", ">")):
                     problems.warn(where, f"line {prev_idx + 1} appears to end mid-sentence before standalone page marker on line {lineno}; place marker inline ('word <!-- PAGE: N --> word') to prevent paragraph fracturing in CommonMark previews")
 
     # Check for run-on bold numbered clauses on adjacent lines: e.g. "**1.** ...\n**2.** ..."

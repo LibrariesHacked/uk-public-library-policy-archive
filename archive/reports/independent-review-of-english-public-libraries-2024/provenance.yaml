@@ -1,0 +1,12 @@
+# PREMIS-aligned Provenance and Fixity Metadata
+
+source_url: "https://www.gov.uk/government/publications/an-independent-review-of-english-public-libraries-report-and-government-reponse"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/65a9211ced27ca000d27b22c/An_Independent_Review_of_English_Public_Libraries_-_formatted.pdf"
+acquired_date: "2026-11-08"
+accessed_date: "2026-11-08"
+source_checksum: "sha256:03aa442d0c053e1a1a03965bd861f215b2b5f85a6cf24e3f15d6344e05e462ed"
+pdf_sha256: "03aa442d0c053e1a1a03965bd861f215b2b5f85a6cf24e3f15d6344e05e462ed"
+download_method: "python-urllib"
+conversion_method: "pdf-text-extraction-with-manual-verification"
+conversion_date: "2026-11-08"
+review_status: "reviewed"

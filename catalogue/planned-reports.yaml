@@ -249,13 +249,14 @@ planned_reports:
 
   - id: independent-review-english-public-libraries-sanderson
     title: "An Independent Review of English Public Libraries"
-    year: null
+    year: 2024
     publisher: "Department for Culture, Media and Sport"
     country: "England"
     category: "ENGLAND"
     document_type: "independent-review"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: independent-review-of-english-public-libraries-2024
 
   # ==========================================================================
   # SCOTLAND
