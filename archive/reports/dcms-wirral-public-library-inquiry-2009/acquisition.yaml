@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://www.gov.uk/government/publications/a-local-inquiry-into-the-public-library-service-provided-by-wirral-metropolitan-borough-council"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a7496b8e5274a410efd0cf1/wirral_local_inquiry.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-11"
+accessed_date: "2026-11-11"
+download_method: "curl"
+local_file: "source/wirral_local_inquiry.pdf"
+pdf_sha256: "7700ac25f13c45ca5946c1114ddc8e2f6b2d4ae070014560d1f5992b48b384be"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Downloaded directly from official GOV.UK publication landing page without modification. Companion MS Word edition (wirral_local_inquiry.doc) also preserved in source/."

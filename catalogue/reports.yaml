@@ -28,6 +28,19 @@ reports:
     fictional_sample: false
     notes: "Landmark 10-year national public library strategy for England published by DCMS in February 2003. Source PDFs preserved from The National Archives UK Government Web Archive."
 
+  - id: dcms-wirral-public-library-inquiry-2009
+    title: "A Local Inquiry into the Public Library Service Provided by Wirral Metropolitan Borough Council"
+    subtitle: "Led by Sue Charteris"
+    year: 2009
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "independent-review"
+    pages: 78
+    path: "archive/reports/dcms-wirral-public-library-inquiry-2009"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Statutory local inquiry under the Public Libraries and Museums Act 1964 led by Sue Charteris into Wirral Metropolitan Borough Council's proposals to close 11 branch libraries."
+
   - id: independent-library-report-for-england-2014
     title: "Independent Library Report for England"
     subtitle: null

@@ -151,14 +151,15 @@ planned_reports:
     status: planned
 
   - id: dcms-wirral-public-library-inquiry-2009
-    title: "Local inquiry into the public library service provided by Wirral Metropolitan Borough Council"
+    title: "A Local Inquiry into the Public Library Service Provided by Wirral Metropolitan Borough Council"
     year: 2009
     publisher: "Department for Culture, Media and Sport"
     country: "England"
     category: "ENGLAND"
     document_type: "independent-review"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: dcms-wirral-public-library-inquiry-2009
 
   - id: dcms-modernisation-review-public-libraries-2010
     title: "The Modernisation Review of Public Libraries: A Policy Statement"

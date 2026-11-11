@@ -1,0 +1,12 @@
+# PREMIS-aligned Provenance and Fixity Metadata
+
+source_url: "https://www.gov.uk/government/publications/a-local-inquiry-into-the-public-library-service-provided-by-wirral-metropolitan-borough-council"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a7496b8e5274a410efd0cf1/wirral_local_inquiry.pdf"
+acquired_date: "2026-11-11"
+accessed_date: "2026-11-11"
+source_checksum: "sha256:7700ac25f13c45ca5946c1114ddc8e2f6b2d4ae070014560d1f5992b48b384be"
+pdf_sha256: "7700ac25f13c45ca5946c1114ddc8e2f6b2d4ae070014560d1f5992b48b384be"
+download_method: "curl"
+conversion_method: "pdf-text-extraction-with-manual-verification"
+conversion_date: "2026-11-11"
+review_status: "reviewed"

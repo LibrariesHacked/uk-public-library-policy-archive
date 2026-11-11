@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: dcms-wirral-public-library-inquiry-2009
+title: "A Local Inquiry into the Public Library Service Provided by Wirral Metropolitan Borough Council"
+subtitle: "Led by Sue Charteris"
+creators:
+  - "Sue Charteris"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2009-09"
+year: 2009
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "independent-review"
+pages: 78
+identifier: "PP1169"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/a-local-inquiry-into-the-public-library-service-provided-by-wirral-metropolitan-borough-council"
+source_pdf: "source/wirral_local_inquiry.pdf"
+rights: "Crown Copyright 2009. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
