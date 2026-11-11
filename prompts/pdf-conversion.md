@@ -127,6 +127,7 @@ STRICT PROHIBITIONS
 - Never produce lines containing only whitespace (`'  '`).
 - Never introduce multiple consecutive blank lines (`\n{3,}`); separate paragraphs with exactly one blank line (`\n\n`).
 - When converting from HTML sources, convert `<br>` tags to clean newlines (`\n`), never trailing double spaces (`  \n`).
+- Never glue inline bold or italic markers (`**...**`, `*...*`) directly to adjacent words without a separating space (e.g. `to be**in breach**under` or `,**Prenton**and**Seacombe**` is strictly forbidden). When extracting character-level font spans from PDFs, PDF layout engines frequently include the trailing space character inside the bold font run (`**bold text **next`); always move leading/trailing whitespace OUTSIDE the `**` delimiters (`**bold text** next`) rather than stripping spaces around `**` with naive regexes like `re.sub(r"\*\* +", "**", s)` or `re.sub(r" +\*\*", "**", s)`. Also merge contiguous bold runs across line wraps (`**bold line 1** **bold line 2**` -> `**bold line 1 bold line 2**`).
 
 HANDLING UNCERTAINTY AND ILLEGIBLE TEXT
 When any character, word, number, or passage is illegible, ambiguous, or uncertain in the source PDF or scan:

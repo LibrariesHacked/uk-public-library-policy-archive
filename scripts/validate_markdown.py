@@ -162,6 +162,27 @@ def check_report(problems: Problems, path: Path) -> None:
         if re.match(r"^\*\*\d+\.\*\*", l1) and re.match(r"^\*\*\d+\.\*\*", l2):
             problems.error(where, f"lines {idx+1}-{idx+2}: adjacent bold numbered clauses without separating blank lines; CommonMark collapses these into a single run-on paragraph. Use standard ordered list syntax ('1. ', '2. ') or add blank lines between bold clauses.")
 
+    # Check inline bold (**...**) boundary spacing:
+    # Ensure bold spans do not have internal leading/trailing spaces and are not glued to adjacent words.
+    for idx, raw_line in enumerate(body_lines, 1):
+        s = raw_line.strip()
+        if "**" not in s or s.startswith("```"):
+            continue
+        if s.count("**") % 2 != 0:
+            problems.error(where, f"line {idx}: unbalanced bold markers ('**')")
+            continue
+        for m in re.finditer(r"\*\*([^*]+)\*\*", s):
+            st, en = m.span()
+            inner = m.group(1)
+            before = s[st - 1] if st > 0 else ""
+            after = s[en] if en < len(s) else ""
+            if inner != inner.strip():
+                problems.error(where, f"line {idx}: bold span '**{inner[:30]}**' has leading or trailing internal whitespace; move spaces outside '**'")
+            if before and re.match(r"[A-Za-z0-9,;:]", before):
+                problems.error(where, f"line {idx}: missing space before opening '**' in '...{s[max(0, st-10):min(len(s), en+10)]}...'")
+            if after and re.match(r"[A-Za-z0-9(]", after):
+                problems.error(where, f"line {idx}: missing space after closing '**' in '...{s[max(0, st-10):min(len(s), en+10)]}...'")
+
     # Check for broken or pseudo-ordered lists:
     # A genuine ordered list starts with 1. and increments sequentially (1., 2., 3., ...) without intervening headings.
     in_code_block = False
