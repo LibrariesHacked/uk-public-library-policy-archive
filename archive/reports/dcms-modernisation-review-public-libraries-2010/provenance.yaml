@@ -1,0 +1,12 @@
+# PREMIS-aligned Provenance and Fixity Metadata
+
+source_url: "https://www.gov.uk/government/publications/the-modernisation-review-of-public-libraries-a-policy-statement"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a7cd8ce40f0b65b3de0b85a/7821.pdf"
+acquired_date: "2026-11-11"
+accessed_date: "2026-11-11"
+source_checksum: "sha256:9f0db206496a2a69eb4a5b9843cae717cee334ba6c3f166e444020e2bb4e25d0"
+pdf_sha256: "9f0db206496a2a69eb4a5b9843cae717cee334ba6c3f166e444020e2bb4e25d0"
+download_method: "curl"
+conversion_method: "pdf-text-extraction-with-manual-verification"
+conversion_date: "2026-11-11"
+review_status: "reviewed"

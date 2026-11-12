@@ -41,6 +41,19 @@ reports:
     fictional_sample: false
     notes: "Statutory local inquiry under the Public Libraries and Museums Act 1964 led by Sue Charteris into Wirral Metropolitan Borough Council's proposals to close 11 branch libraries."
 
+  - id: dcms-modernisation-review-public-libraries-2010
+    title: "The Modernisation Review of Public Libraries"
+    subtitle: "A Policy Statement"
+    year: 2010
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "policy-paper"
+    pages: 64
+    path: "archive/reports/dcms-modernisation-review-public-libraries-2010"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Command Paper (Cm 7821) setting out the Government's policy statement following the Modernisation Review of Public Libraries in England."
+
   - id: independent-library-report-for-england-2014
     title: "Independent Library Report for England"
     subtitle: null

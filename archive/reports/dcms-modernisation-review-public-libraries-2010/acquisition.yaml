@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://www.gov.uk/government/publications/the-modernisation-review-of-public-libraries-a-policy-statement"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a7cd8ce40f0b65b3de0b85a/7821.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-11"
+accessed_date: "2026-11-11"
+download_method: "curl"
+local_file: "source/7821.pdf"
+pdf_sha256: "9f0db206496a2a69eb4a5b9843cae717cee334ba6c3f166e444020e2bb4e25d0"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Downloaded directly from official GOV.UK publication landing page without modification."

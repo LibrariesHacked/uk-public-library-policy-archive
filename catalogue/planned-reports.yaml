@@ -168,8 +168,9 @@ planned_reports:
     country: "England"
     category: "ENGLAND"
     document_type: "policy-paper"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: dcms-modernisation-review-public-libraries-2010
 
   - id: future-libraries-programme-2011
     title: "Future Libraries Programme (findings and learning)"

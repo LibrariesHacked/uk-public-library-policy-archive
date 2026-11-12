@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: dcms-modernisation-review-public-libraries-2010
+title: "The Modernisation Review of Public Libraries"
+subtitle: "A Policy Statement"
+creators:
+  - "Department for Culture, Media and Sport"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2010-03-22"
+year: 2010
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "policy-paper"
+pages: 64
+identifier: "Cm 7821"
+isbn: "9780101782128"
+issn: null
+series: "Command Papers"
+edition: null
+source_url: "https://www.gov.uk/government/publications/the-modernisation-review-of-public-libraries-a-policy-statement"
+source_pdf: "source/7821.pdf"
+rights: "Crown Copyright 2010. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
