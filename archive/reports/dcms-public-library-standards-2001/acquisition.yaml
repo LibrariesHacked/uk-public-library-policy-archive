@@ -1,0 +1,16 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/3662.aspx"
+source_pdf_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20080610235820id_/http://www.culture.gov.uk/images/publications/libraries_archives_for_all_assessment.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-16"
+accessed_date: "2026-11-16"
+download_method: "curl-ukgwa"
+local_file: "source/libraries_archives_for_all_assessment.pdf"
+pdf_sha256: "5dac54b5eec024a24aa56e939faf45416f8e1f7b65702605c70bb050e91781c7"
+licence: "Crown Copyright 2001 / Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: >-
+  Retrieved from The National Archives UK Government Web Archive capture of the
+  original DCMS publication page (reference_library/publications/3662.aspx) without modification.

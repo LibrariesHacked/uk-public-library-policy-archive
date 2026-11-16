@@ -1,0 +1,16 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20080906034348/http://www.culture.gov.uk/what_we_do/libraries/3413.aspx"
+source_pdf_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20080610232816id_/http://www.culture.gov.uk/images/publications/Social_Inclusion_PLibraries.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-16"
+accessed_date: "2026-11-16"
+download_method: "curl-ukgwa"
+local_file: "source/Social_Inclusion_PLibraries.pdf"
+pdf_sha256: "a677dbbf476e1426f9c85a161fb812132e87af06c84b92b907a6b1e737034035"
+licence: "Crown Copyright 1999 / Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: >-
+  Retrieved from The National Archives UK Government Web Archive capture of the
+  original DCMS publication PDF (Social_Inclusion_PLibraries.pdf, PP 267, October 1999) without modification.

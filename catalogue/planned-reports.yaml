@@ -73,19 +73,21 @@ planned_reports:
     country: "England"
     category: "ENGLAND"
     document_type: "guidance"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: dcms-libraries-for-all-1999
 
   - id: dcms-public-library-standards-2001
-    title: "Comprehensive, Efficient and Modern Public Libraries: Standards and Assessment"
+    title: "Comprehensive, Efficient and Modern Public Libraries – Standards and Assessment"
     short_title: "Public Library Standards (2001)"
     year: 2001
     publisher: "Department for Culture, Media and Sport"
     country: "England"
     category: "ENGLAND"
     document_type: "standards"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: dcms-public-library-standards-2001
 
   - id: comprehensive-and-efficient-2002
     title: "Comprehensive and Efficient?"
@@ -141,14 +143,15 @@ planned_reports:
     status: planned
 
   - id: dcms-public-library-service-standards-2008
-    title: "Public Library Service Standards (revised edition)"
+    title: "Public Library Service Standards (3rd revised edition)"
     year: 2008
     publisher: "Department for Culture, Media and Sport"
     country: "England"
     category: "ENGLAND"
     document_type: "standards"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: dcms-public-library-service-standards-2008
 
   - id: dcms-wirral-public-library-inquiry-2009
     title: "A Local Inquiry into the Public Library Service Provided by Wirral Metropolitan Borough Council"
@@ -193,7 +196,7 @@ planned_reports:
     status: planned
 
   - id: ace-envisioning-the-library-of-the-future-2013
-    title: "The library of the future: A response to Envisioning the library of the future"
+    title: "Envisioning the library of the future: Phases 1 and 2: full report"
     short_title: "Envisioning the Library of the Future (2013)"
     year: 2013
     publisher: "Arts Council England"
@@ -203,6 +206,18 @@ planned_reports:
     verified: true
     status: archived
     archived_id: ace-envisioning-the-library-of-the-future-2013
+
+  - id: ace-the-library-of-the-future-2013
+    title: "The library of the future: A response to Envisioning the library of the future"
+    short_title: "The Library of the Future (2013)"
+    year: 2013
+    publisher: "Arts Council England"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "strategy"
+    verified: true
+    status: archived
+    archived_id: ace-the-library-of-the-future-2013
 
   - id: independent-library-report-for-england-2014
     title: "Independent Library Report for England"

@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: ace-the-library-of-the-future-2013
+title: "The library of the future"
+subtitle: "A response to Envisioning the library of the future by Arts Council England Chief Executive Alan Davey"
+creators:
+  - "Arts Council England"
+  - "Alan Davey"
+publisher: "Arts Council England"
+publication_date: "2013-05"
+year: 2013
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "strategy"
+pages: 12
+identifier: null
+isbn: "978-0-7287-1534-9"
+issn: null
+series: null
+edition: null
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20150807152303/http://www.artscouncil.org.uk/what-we-do/supporting-libraries/other-links/library-of-the-future/"
+source_pdf: "source/The_library_of_the_future_May_2013.pdf"
+rights: "© Arts Council England, May 2013."
+review_level: "reviewed"

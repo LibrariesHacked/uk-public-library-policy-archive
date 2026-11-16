@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: dcms-public-library-service-standards-2008
+title: "Public Library Service Standards"
+subtitle: null
+creators:
+  - "Department for Culture, Media and Sport"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2008-06"
+year: 2008
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "standards"
+pages: 10
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: "3rd revised edition (April 2008)"
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/3662.aspx"
+source_pdf: "source/PulbicLibraryServicesApril08.pdf"
+rights: "Crown Copyright 2008. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

@@ -15,6 +15,32 @@ reports:
     fictional_sample: true
     notes: "Canonical fictional sample report demonstrating all repository metadata, provenance, and diplomatic Markdown specifications without copyrighted content."
 
+  - id: dcms-libraries-for-all-1999
+    title: "Libraries for All: Social Inclusion in Public Libraries"
+    subtitle: "Policy Guidance for Local Authorities in England"
+    year: 1999
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "guidance"
+    pages: 28
+    path: "archive/reports/dcms-libraries-for-all-1999"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "DCMS policy guidance (PP 267, October 1999) setting out a six-point strategic framework for tackling social exclusion through public libraries in England."
+
+  - id: dcms-public-library-standards-2001
+    title: "Comprehensive, Efficient and Modern Public Libraries – Standards and Assessment"
+    subtitle: null
+    year: 2001
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "standards"
+    pages: 17
+    path: "archive/reports/dcms-public-library-standards-2001"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "First national Public Library Standards (PLS 1–19) and assessment framework for English library authorities under the 1964 Act and Best Value regime."
+
   - id: dcms-framework-for-the-future-2003
     title: "Framework for the Future"
     subtitle: "Libraries, Learning and Information in the Next Decade"
@@ -27,6 +53,19 @@ reports:
     review_level: "reviewed"
     fictional_sample: false
     notes: "Landmark 10-year national public library strategy for England published by DCMS in February 2003. Source PDFs preserved from The National Archives UK Government Web Archive."
+
+  - id: dcms-public-library-service-standards-2008
+    title: "Public Library Service Standards"
+    subtitle: null
+    year: 2008
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "standards"
+    pages: 10
+    path: "archive/reports/dcms-public-library-service-standards-2008"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Third revised edition (April 2008, published June 2008) of the DCMS Public Library Service Standards (PLSS 1–10) for local library authorities in England."
 
   - id: dcms-wirral-public-library-inquiry-2009
     title: "A Local Inquiry into the Public Library Service Provided by Wirral Metropolitan Borough Council"
@@ -55,14 +94,27 @@ reports:
     notes: "Command Paper (Cm 7821) setting out the Government's policy statement following the Modernisation Review of Public Libraries in England."
 
   - id: ace-envisioning-the-library-of-the-future-2013
+    title: "Envisioning the library of the future"
+    subtitle: "Phases 1 and 2: full report"
+    year: 2013
+    publisher: "Arts Council England"
+    country: "England"
+    document_type: "research-report"
+    pages: 46
+    path: "archive/reports/ace-envisioning-the-library-of-the-future-2013"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Independent research report by Ipsos MORI and Shared Intelligence for Arts Council England's Envisioning the library of the future programme (Phases 1 and 2)."
+
+  - id: ace-the-library-of-the-future-2013
     title: "The library of the future"
     subtitle: "A response to Envisioning the library of the future by Arts Council England Chief Executive Alan Davey"
     year: 2013
     publisher: "Arts Council England"
     country: "England"
-    document_type: "research-report"
+    document_type: "strategy"
     pages: 12
-    path: "archive/reports/ace-envisioning-the-library-of-the-future-2013"
+    path: "archive/reports/ace-the-library-of-the-future-2013"
     review_level: "reviewed"
     fictional_sample: false
     notes: "Arts Council England response by Chief Executive Alan Davey to the Envisioning the library of the future research programme, setting out four priorities for a 21st century public library service."

@@ -1,12 +1,12 @@
 # PREMIS-aligned Provenance and Fixity Metadata
 
 source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20150807152303/http://www.artscouncil.org.uk/what-we-do/supporting-libraries/other-links/library-of-the-future/"
-source_pdf_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20130802154058id_/http://www.artscouncil.org.uk/media/uploads/pdf/The_library_of_the_future_May_2013.pdf"
-acquired_date: "2026-11-15"
-accessed_date: "2026-11-15"
-source_checksum: "sha256:da5f4ffe3dfb77d64e7de5d7d7af501205b53d3a8a33f192d844b2216055488f"
-pdf_sha256: "da5f4ffe3dfb77d64e7de5d7d7af501205b53d3a8a33f192d844b2216055488f"
+source_pdf_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20150807152303id_/http://www.artscouncil.org.uk/media/uploads/pdf/Envisioning_the_library_of_the_future_phases_1_and_2_full_report.pdf"
+acquired_date: "2026-11-16"
+accessed_date: "2026-11-16"
+source_checksum: "sha256:686d7fb36ba5e02d9936ff1faa22fdac1406d038fd1d299ebcf2e44881344fa6"
+pdf_sha256: "686d7fb36ba5e02d9936ff1faa22fdac1406d038fd1d299ebcf2e44881344fa6"
 download_method: "curl-ukgwa"
 conversion_method: "pdf-text-extraction-with-manual-verification"
-conversion_date: "2026-11-15"
+conversion_date: "2026-11-16"
 review_status: "reviewed"

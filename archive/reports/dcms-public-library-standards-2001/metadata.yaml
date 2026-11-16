@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: dcms-public-library-standards-2001
+title: "Comprehensive, Efficient and Modern Public Libraries – Standards and Assessment"
+subtitle: null
+creators:
+  - "Department for Culture, Media and Sport"
+  - "Chris Smith"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2001-02"
+year: 2001
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "standards"
+pages: 17
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/3662.aspx"
+source_pdf: "source/libraries_archives_for_all_assessment.pdf"
+rights: "Crown Copyright 2001. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

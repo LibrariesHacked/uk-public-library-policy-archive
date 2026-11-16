@@ -1,0 +1,16 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20100512150324/http://www.culture.gov.uk/reference_library/publications/3662.aspx"
+source_pdf_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20080610235829id_/http://www.culture.gov.uk/images/publications/PulbicLibraryServicesApril08.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-16"
+accessed_date: "2026-11-16"
+download_method: "curl-ukgwa"
+local_file: "source/PulbicLibraryServicesApril08.pdf"
+pdf_sha256: "2d07b9bc3c5b513a8bddb48e9c4059f4e7d25420683883981b94a7f11e78980b"
+licence: "Crown Copyright 2008 / Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: >-
+  Retrieved from The National Archives UK Government Web Archive capture of the
+  original DCMS publication page (reference_library/publications/3662.aspx) without modification.

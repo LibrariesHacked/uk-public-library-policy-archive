@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: dcms-libraries-for-all-1999
+title: "Libraries for All: Social Inclusion in Public Libraries"
+subtitle: "Policy Guidance for Local Authorities in England"
+creators:
+  - "Department for Culture, Media and Sport"
+  - "Chris Smith"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "1999-10"
+year: 1999
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "guidance"
+pages: 28
+identifier: "PP 267"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20080906034348/http://www.culture.gov.uk/what_we_do/libraries/3413.aspx"
+source_pdf: "source/Social_Inclusion_PLibraries.pdf"
+rights: "Crown Copyright 1999. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
