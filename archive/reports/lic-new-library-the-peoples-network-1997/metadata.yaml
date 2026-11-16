@@ -1,0 +1,27 @@
+# Canonical Bibliographic Metadata
+# Populated only from directly observable publication evidence.
+
+id: lic-new-library-the-peoples-network-1997
+title: "New Library: The People's Network"
+subtitle: null
+creators:
+  - "Library and Information Commission Working Group on Information Technology"
+  - "Matthew Evans"
+  - "John Dolan"
+publisher: "Library and Information Commission"
+publication_date: "1997-10-15"
+year: 1997
+publication_place: "London"
+country: "United Kingdom"
+language: "en"
+document_type: "strategy"
+pages: 1
+identifier: null
+isbn: "1-902394-03-8"
+issn: null
+series: null
+edition: "First edition"
+source_url: "https://www.ukoln.ac.uk/services/lic/newlibrary/full.html"
+source_pdf: "source/new_library_full.html"
+rights: "Report copyright © 1997, Library and Information Commission. 'Hear It Again' copyright © 1997, Ted Hughes. 'Cofiannau' copyright © 1997, Dafydd John Pritchard. Design copyright © 1997, Pentagram Design Ltd."
+review_level: "reviewed"

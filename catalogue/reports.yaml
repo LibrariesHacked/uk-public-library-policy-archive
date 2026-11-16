@@ -15,6 +15,19 @@ reports:
     fictional_sample: true
     notes: "Canonical fictional sample report demonstrating all repository metadata, provenance, and diplomatic Markdown specifications without copyrighted content."
 
+  - id: lic-new-library-the-peoples-network-1997
+    title: "New Library: The People's Network"
+    subtitle: null
+    year: 1997
+    publisher: "Library and Information Commission"
+    country: "United Kingdom"
+    document_type: "strategy"
+    pages: 1
+    path: "archive/reports/lic-new-library-the-peoples-network-1997"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Landmark national strategy report produced by the Library and Information Commission Working Group on Information Technology, chaired by Matthew Evans, for DCMS. Set out the blueprint for connecting all UK public libraries to high-speed ICT and the internet, leading to £100m in lottery funding for The People's Network."
+
   - id: dcms-libraries-for-all-1999
     title: "Libraries for All: Social Inclusion in Public Libraries"
     subtitle: "Policy Guidance for Local Authorities in England"

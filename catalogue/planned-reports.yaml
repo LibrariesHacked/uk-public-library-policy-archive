@@ -53,8 +53,9 @@ planned_reports:
     country: "United Kingdom"
     category: "ENGLAND"
     document_type: "strategy"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: lic-new-library-the-peoples-network-1997
 
   - id: lic-building-the-new-library-network-1998
     title: "Building the New Library Network"
