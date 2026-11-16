@@ -1,0 +1,16 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source PDF.
+
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20150807152303/http://www.artscouncil.org.uk/what-we-do/supporting-libraries/other-links/library-of-the-future/"
+source_pdf_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20130802154058id_/http://www.artscouncil.org.uk/media/uploads/pdf/The_library_of_the_future_May_2013.pdf"
+publisher: "Arts Council England"
+acquired_date: "2026-11-15"
+accessed_date: "2026-11-15"
+download_method: "curl-ukgwa"
+local_file: "source/The_library_of_the_future_May_2013.pdf"
+pdf_sha256: "da5f4ffe3dfb77d64e7de5d7d7af501205b53d3a8a33f192d844b2216055488f"
+licence: "© Arts Council England, May 2013"
+licence_url: null
+notes: >-
+  Retrieved from The National Archives UK Government Web Archive capture of the
+  Arts Council England Envisioning the library of the future publication page without modification.

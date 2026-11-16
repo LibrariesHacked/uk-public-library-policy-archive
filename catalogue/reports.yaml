@@ -54,6 +54,19 @@ reports:
     fictional_sample: false
     notes: "Command Paper (Cm 7821) setting out the Government's policy statement following the Modernisation Review of Public Libraries in England."
 
+  - id: ace-envisioning-the-library-of-the-future-2013
+    title: "The library of the future"
+    subtitle: "A response to Envisioning the library of the future by Arts Council England Chief Executive Alan Davey"
+    year: 2013
+    publisher: "Arts Council England"
+    country: "England"
+    document_type: "research-report"
+    pages: 12
+    path: "archive/reports/ace-envisioning-the-library-of-the-future-2013"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Arts Council England response by Chief Executive Alan Davey to the Envisioning the library of the future research programme, setting out four priorities for a 21st century public library service."
+
   - id: independent-library-report-for-england-2014
     title: "Independent Library Report for England"
     subtitle: null

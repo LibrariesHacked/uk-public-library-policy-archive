@@ -193,15 +193,16 @@ planned_reports:
     status: planned
 
   - id: ace-envisioning-the-library-of-the-future-2013
-    title: "Envisioning the Library of the Future"
+    title: "The library of the future: A response to Envisioning the library of the future"
     short_title: "Envisioning the Library of the Future (2013)"
     year: 2013
     publisher: "Arts Council England"
     country: "England"
     category: "ENGLAND"
     document_type: "research-report"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
+    archived_id: ace-envisioning-the-library-of-the-future-2013
 
   - id: independent-library-report-for-england-2014
     title: "Independent Library Report for England"
