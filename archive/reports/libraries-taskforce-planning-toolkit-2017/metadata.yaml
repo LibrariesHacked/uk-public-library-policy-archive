@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-planning-toolkit-2017
+title: "Libraries Shaping the Future: Good Practice Toolkit"
+subtitle: "Guidance for Library Services and Local Authorities"
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2017-03-28"
+year: 2017
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "guidance"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit"
+source_pdf: "source/libraries-shaping-the-future-good-practice-toolkit.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

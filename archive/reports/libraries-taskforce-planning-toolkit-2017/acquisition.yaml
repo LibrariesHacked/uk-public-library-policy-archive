@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit"
+source_pdf_url: "https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+download_method: "python-urllib"
+local_file: "source/libraries-shaping-the-future-good-practice-toolkit.html"
+pdf_sha256: "061b441d043201cf4ea5c70a11c915561cb8e542f60e353589d1691799161af7"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Official HTML publication of the sector-led evidence-based planning and delivery models toolkit (Action 10 of Libraries Deliver: Ambition Action Plan)."

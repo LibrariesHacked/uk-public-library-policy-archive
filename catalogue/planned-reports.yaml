@@ -280,6 +280,18 @@ planned_reports:
     status: archived
     archived_id: "libraries-taskforce-outcomes-progress-indicators-2017"
 
+  - id: libraries-taskforce-planning-toolkit-2017
+    title: "Libraries Shaping the Future: Good Practice Toolkit"
+    short_title: "Libraries Shaping the Future Toolkit (2017)"
+    year: 2017
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "guidance"
+    verified: true
+    status: archived
+    archived_id: "libraries-taskforce-planning-toolkit-2017"
+
   - id: libraries-deliver-ambition-refresh
     title: "Libraries Deliver: Ambition (refreshed edition)"
     short_title: "Libraries Deliver: Ambition Refresh"

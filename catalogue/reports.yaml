@@ -197,6 +197,19 @@ reports:
     fictional_sample: false
     notes: "Baseline indicators and measurement methodology published by the Libraries Taskforce to track progress across the 7 Outcomes identified in Libraries Deliver: Ambition."
 
+  - id: libraries-taskforce-planning-toolkit-2017
+    title: "Libraries Shaping the Future: Good Practice Toolkit"
+    subtitle: "Guidance for Library Services and Local Authorities"
+    year: 2017
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "guidance"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-planning-toolkit-2017"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Strategic planning, evidence base, delivery models, and service transformation toolkit produced by the Libraries Taskforce in partnership with the LGA."
+
   - id: independent-review-of-english-public-libraries-2024
     title: "An Independent Review of English Public Libraries"
     subtitle: null

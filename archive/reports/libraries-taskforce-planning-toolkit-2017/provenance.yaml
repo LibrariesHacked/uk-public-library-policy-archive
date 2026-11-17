@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit"
+source_pdf_url: "https://www.gov.uk/government/publications/libraries-shaping-the-future-good-practice-toolkit/libraries-shaping-the-future-good-practice-toolkit"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+source_checksum: "sha256:061b441d043201cf4ea5c70a11c915561cb8e542f60e353589d1691799161af7"
+pdf_sha256: "061b441d043201cf4ea5c70a11c915561cb8e542f60e353589d1691799161af7"
+download_method: "python-urllib"
+conversion_method: "html-govspeak-transcription-with-manual-verification"
+conversion_date: "2026-11-17"
+review_status: "reviewed"
