@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-annual-libraries-report-2025-2026
+title: "Annual Libraries Report 2025 to 2026"
+subtitle: "Annual Report to Parliament on Public Libraries Activities from April 2025 to March 2026"
+creators:
+  - "Department for Culture, Media and Sport"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2026-07-09"
+year: 2026
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "annual-report"
+pages: 19
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-april-2025-to-march-2026"
+source_pdf: "source/Annual_Libraries_Report_2025_to_2026.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

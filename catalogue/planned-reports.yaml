@@ -350,6 +350,18 @@ planned_reports:
     status: archived
     archived_id: independent-review-of-english-public-libraries-2024
 
+  - id: dcms-annual-libraries-report-2025-2026
+    title: "Annual Libraries Report 2025 to 2026"
+    short_title: "Annual Libraries Report (2025-2026)"
+    year: 2026
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "annual-report"
+    verified: true
+    status: archived
+    archived_id: "dcms-annual-libraries-report-2025-2026"
+
   # ==========================================================================
   # SCOTLAND
   # ==========================================================================
