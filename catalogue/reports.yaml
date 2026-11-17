@@ -249,6 +249,19 @@ reports:
     fictional_sample: false
     notes: "Research prioritisation and strategic research programme published by the Libraries Taskforce, mapping research priorities across library impact and service delivery models with accompanying research datasets."
 
+  - id: dcms-calderdale-library-inquiry-decision-2023
+    title: "Final decision letter on public library provision in Calderdale"
+    subtitle: "Letter from Minister for Arts and Heritage stating the Secretary of State's decision not to hold a local inquiry into Calderdale Council's library provision"
+    year: 2023
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "correspondence"
+    pages: 3
+    path: "archive/reports/dcms-calderdale-library-inquiry-decision-2023"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Official final decision letter from Lord Parkinson of Whitley Bay stating the Secretary of State's decision not to direct a local inquiry under Section 10(1)(a) of the Public Libraries and Museums Act 1964 following library changes agreed by Calderdale Council."
+
   - id: independent-review-of-english-public-libraries-2024
     title: "An Independent Review of English Public Libraries"
     subtitle: null

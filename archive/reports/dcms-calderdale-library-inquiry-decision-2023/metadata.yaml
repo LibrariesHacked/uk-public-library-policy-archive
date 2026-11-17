@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-calderdale-library-inquiry-decision-2023
+title: "Final decision letter on public library provision in Calderdale"
+subtitle: "Letter from Minister for Arts and Heritage stating the Secretary of State's decision not to hold a local inquiry into Calderdale Council's library provision"
+creators:
+  - "Lord Parkinson of Whitley Bay"
+  - "Department for Culture, Media and Sport"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2023-12-21"
+year: 2023
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "correspondence"
+pages: 3
+identifier: "INT2023/12128/DC"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-calderdale"
+source_pdf: "source/Letter_to_Councillor_Scullion__Leader_Calderdale_Council.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
