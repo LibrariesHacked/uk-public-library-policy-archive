@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-community-libraries-toolkit-2016
+title: "Community Managed Libraries: Good Practice Toolkit"
+subtitle: null
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2016-03-23"
+year: 2016
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "guidance"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: "Revised March 2018; updated June 2018"
+source_url: "https://www.gov.uk/government/publications/community-libraries-good-practice-toolkit/community-libraries-good-practice-toolkit"
+source_pdf: "source/community-libraries-good-practice-toolkit.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

@@ -158,6 +158,19 @@ reports:
     fictional_sample: false
     notes: "Joint national strategy and vision for public library services in England from 2016 to 2021, produced by the Leadership for Libraries Taskforce and endorsed by DCMS and LGA."
 
+  - id: libraries-taskforce-community-libraries-toolkit-2016
+    title: "Community Managed Libraries: Good Practice Toolkit"
+    subtitle: null
+    year: 2016
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "guidance"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-community-libraries-toolkit-2016"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Comprehensive national good practice guidance and operational toolkit produced by the Libraries Taskforce for councils and community groups considering, setting up, or operating community managed and supported libraries."
+
   - id: independent-review-of-english-public-libraries-2024
     title: "An Independent Review of English Public Libraries"
     subtitle: null

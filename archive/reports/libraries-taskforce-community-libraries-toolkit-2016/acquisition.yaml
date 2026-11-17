@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/community-libraries-good-practice-toolkit/community-libraries-good-practice-toolkit"
+source_pdf_url: "https://www.gov.uk/government/publications/community-libraries-good-practice-toolkit/community-libraries-good-practice-toolkit"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+download_method: "python-urllib"
+local_file: "source/community-libraries-good-practice-toolkit.html"
+pdf_sha256: "0ceb674e7946f2cafc4d6820e4f594997704756ae4ab392c9fac374a953b2054"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Official HTML publication and accompanying process diagrams acquired directly from GOV.UK Content API and web pages."

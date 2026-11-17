@@ -244,6 +244,18 @@ planned_reports:
     status: archived
     archived_id: "libraries-deliver-ambition-2016"
 
+  - id: libraries-taskforce-community-libraries-toolkit-2016
+    title: "Community Managed Libraries: Good Practice Toolkit"
+    short_title: "Community Managed Libraries Toolkit (2016)"
+    year: 2016
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "guidance"
+    verified: true
+    status: archived
+    archived_id: "libraries-taskforce-community-libraries-toolkit-2016"
+
   - id: libraries-deliver-action-plan
     title: "Libraries Deliver: Ambition Action Plan"
     short_title: "Libraries Deliver Action Plan"
