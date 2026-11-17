@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-terms-of-reference-2015
+title: "Libraries Taskforce: Terms of Reference"
+subtitle: null
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2015-03-27"
+year: 2015
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "governance"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: "First published March 2015; revised June 2017; updated March 2019"
+source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-terms-of-reference/libraries-taskforce-terms-of-reference-june-2017"
+source_pdf: "source/libraries-taskforce-terms-of-reference.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

@@ -158,6 +158,19 @@ reports:
     fictional_sample: false
     notes: "Joint national strategy and vision for public library services in England from 2016 to 2021, produced by the Leadership for Libraries Taskforce and endorsed by DCMS and LGA."
 
+  - id: libraries-taskforce-terms-of-reference-2015
+    title: "Libraries Taskforce: Terms of Reference"
+    subtitle: null
+    year: 2015
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "governance"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-terms-of-reference-2015"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Founding governance charter, roles, remits of member bodies, and operational ways of working of the Leadership for Libraries Taskforce established in March 2015."
+
   - id: libraries-taskforce-community-libraries-toolkit-2016
     title: "Community Managed Libraries: Good Practice Toolkit"
     subtitle: null

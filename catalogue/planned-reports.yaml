@@ -244,6 +244,18 @@ planned_reports:
     status: archived
     archived_id: "libraries-deliver-ambition-2016"
 
+  - id: libraries-taskforce-terms-of-reference-2015
+    title: "Libraries Taskforce: Terms of Reference"
+    short_title: "Taskforce Terms of Reference (2015)"
+    year: 2015
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "governance"
+    verified: true
+    status: archived
+    archived_id: "libraries-taskforce-terms-of-reference-2015"
+
   - id: libraries-taskforce-community-libraries-toolkit-2016
     title: "Community Managed Libraries: Good Practice Toolkit"
     short_title: "Community Managed Libraries Toolkit (2016)"

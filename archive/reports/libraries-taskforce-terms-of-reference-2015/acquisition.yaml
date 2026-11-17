@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-terms-of-reference/libraries-taskforce-terms-of-reference-june-2017"
+source_pdf_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-terms-of-reference/libraries-taskforce-terms-of-reference-june-2017"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+download_method: "python-urllib"
+local_file: "source/libraries-taskforce-terms-of-reference.html"
+pdf_sha256: "dc75bef37ddeaff8798933d4f3e01f653b953e318d4fc4c558da2719407d6840"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Official HTML publication setting out the founding charter, governance, member remits, and operational ways of working of the Leadership for Libraries Taskforce."

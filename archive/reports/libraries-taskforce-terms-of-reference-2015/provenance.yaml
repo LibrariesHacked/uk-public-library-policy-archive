@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-terms-of-reference/libraries-taskforce-terms-of-reference-june-2017"
+source_pdf_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-terms-of-reference/libraries-taskforce-terms-of-reference-june-2017"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+source_checksum: "sha256:dc75bef37ddeaff8798933d4f3e01f653b953e318d4fc4c558da2719407d6840"
+pdf_sha256: "dc75bef37ddeaff8798933d4f3e01f653b953e318d4fc4c558da2719407d6840"
+download_method: "python-urllib"
+conversion_method: "html-govspeak-transcription-with-manual-verification"
+conversion_date: "2026-11-17"
+review_status: "reviewed"
