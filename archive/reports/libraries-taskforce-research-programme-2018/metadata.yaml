@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-research-programme-2018
+title: "Libraries Taskforce: Research Programme"
+subtitle: "Future Research Priorities for Public Libraries in England"
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2018-04-12"
+year: 2018
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "research-report"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: "Updated July 2018"
+source_url: "https://www.gov.uk/government/publications/libraries-taskforce-research-programme/libraries-taskforce-future-research-priorities"
+source_pdf: "source/libraries-taskforce-future-research-priorities.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

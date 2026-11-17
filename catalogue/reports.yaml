@@ -223,6 +223,19 @@ reports:
     fictional_sample: false
     notes: "Practical guidance, stages, legal forms, and case studies for local authorities and library services investigating or establishing alternative delivery models (public service mutuals, trusts, joint ventures)."
 
+  - id: libraries-taskforce-research-programme-2018
+    title: "Libraries Taskforce: Research Programme"
+    subtitle: "Future Research Priorities for Public Libraries in England"
+    year: 2018
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "research-report"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-research-programme-2018"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Research prioritisation and strategic research programme published by the Libraries Taskforce, mapping research priorities across library impact and service delivery models with accompanying research datasets."
+
   - id: independent-review-of-english-public-libraries-2024
     title: "An Independent Review of English Public Libraries"
     subtitle: null

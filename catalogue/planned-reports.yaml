@@ -304,6 +304,18 @@ planned_reports:
     status: archived
     archived_id: "libraries-taskforce-adm-toolkit-2017"
 
+  - id: libraries-taskforce-research-programme-2018
+    title: "Libraries Taskforce: Research Programme"
+    short_title: "Libraries Taskforce Research Programme (2018)"
+    year: 2018
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "research-report"
+    verified: true
+    status: archived
+    archived_id: "libraries-taskforce-research-programme-2018"
+
   - id: libraries-deliver-ambition-refresh
     title: "Libraries Deliver: Ambition (refreshed edition)"
     short_title: "Libraries Deliver: Ambition Refresh"
