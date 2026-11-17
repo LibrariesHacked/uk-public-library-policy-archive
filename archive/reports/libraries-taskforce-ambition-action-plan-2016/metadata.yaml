@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-ambition-action-plan-2016
+title: "Libraries Deliver: Ambition Action Plan"
+subtitle: "Action Plan to 2021 and Challenge to Central and Local Government"
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2016-12-01"
+year: 2016
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "action-plan"
+pages: 9
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: "December 2016 edition (Annex 2 to Libraries Deliver: Ambition for Public Libraries in England 2016-2021); updated to March 2020"
+source_url: "https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021"
+source_pdf: "source/Ambition_Action_Plan_December_2016.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

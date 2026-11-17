@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a821e01ed915d74e3401d08/Ambition_Action_Plan_December_2016.pdf"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+source_checksum: "sha256:d030201fee35594074f8e1b92bbf1040aec23118a1387ca94c37d456c604eaf0"
+pdf_sha256: "d030201fee35594074f8e1b92bbf1040aec23118a1387ca94c37d456c604eaf0"
+download_method: "python-urllib"
+conversion_method: "pdf-text-extraction-with-manual-verification"
+conversion_date: "2026-11-17"
+review_status: "reviewed"

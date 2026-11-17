@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a821e01ed915d74e3401d08/Ambition_Action_Plan_December_2016.pdf"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+download_method: "python-urllib"
+local_file: "source/Ambition_Action_Plan_December_2016.pdf"
+pdf_sha256: "d030201fee35594074f8e1b92bbf1040aec23118a1387ca94c37d456c604eaf0"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Official publication of Annex 2 to Libraries Deliver: Ambition for Public Libraries in England 2016-2021, setting out the implementation matrix and central/local government challenges, along with the refreshed Action Plan to March 2020."

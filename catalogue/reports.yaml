@@ -171,6 +171,19 @@ reports:
     fictional_sample: false
     notes: "Comprehensive national good practice guidance and operational toolkit produced by the Libraries Taskforce for councils and community groups considering, setting up, or operating community managed and supported libraries."
 
+  - id: libraries-taskforce-ambition-action-plan-2016
+    title: "Libraries Deliver: Ambition Action Plan"
+    subtitle: "Action Plan to 2021 and Challenge to Central and Local Government"
+    year: 2016
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "action-plan"
+    pages: 9
+    path: "archive/reports/libraries-taskforce-ambition-action-plan-2016"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Official action plan and monitoring framework (Annex 2 to Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021) outlining national actions, deadlines, lead bodies, and challenges to central and local government."
+
   - id: independent-review-of-english-public-libraries-2024
     title: "An Independent Review of English Public Libraries"
     subtitle: null
