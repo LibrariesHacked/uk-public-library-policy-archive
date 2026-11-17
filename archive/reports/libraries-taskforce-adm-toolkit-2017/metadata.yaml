@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-adm-toolkit-2017
+title: "Libraries: Alternative Delivery Models Toolkit"
+subtitle: "Toolkit and Case Studies for Library Service Delivery Models"
+creators:
+  - "Libraries Taskforce"
+  - "Optimo Partnership"
+publisher: "Libraries Taskforce"
+publication_date: "2017-03-28"
+year: 2017
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "guidance"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/libraries-alternative-delivery-models-toolkit"
+source_pdf: "source/publication.json"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

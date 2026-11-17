@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/libraries-alternative-delivery-models-toolkit"
+source_pdf_url: "https://www.gov.uk/government/publications/libraries-alternative-delivery-models-toolkit"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+download_method: "python-urllib"
+local_file: "source/publication.json"
+pdf_sha256: "ebf20a015ff1769b33f9254daac759edf1fb04e425f7824124cb3222e129f3fe"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Official HTML chapters, publication structure, and process diagrams acquired from GOV.UK (Action 11 of Libraries Deliver: Ambition Action Plan)."

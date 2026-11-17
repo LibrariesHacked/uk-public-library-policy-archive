@@ -210,6 +210,19 @@ reports:
     fictional_sample: false
     notes: "Strategic planning, evidence base, delivery models, and service transformation toolkit produced by the Libraries Taskforce in partnership with the LGA."
 
+  - id: libraries-taskforce-adm-toolkit-2017
+    title: "Libraries: Alternative Delivery Models Toolkit"
+    subtitle: "Toolkit and Case Studies for Library Service Delivery Models"
+    year: 2017
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "guidance"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-adm-toolkit-2017"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Practical guidance, stages, legal forms, and case studies for local authorities and library services investigating or establishing alternative delivery models (public service mutuals, trusts, joint ventures)."
+
   - id: independent-review-of-english-public-libraries-2024
     title: "An Independent Review of English Public Libraries"
     subtitle: null

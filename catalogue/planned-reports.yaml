@@ -292,6 +292,18 @@ planned_reports:
     status: archived
     archived_id: "libraries-taskforce-planning-toolkit-2017"
 
+  - id: libraries-taskforce-adm-toolkit-2017
+    title: "Libraries: Alternative Delivery Models Toolkit"
+    short_title: "Alternative Delivery Models Toolkit (2017)"
+    year: 2017
+    publisher: "Libraries Taskforce"
+    country: "England"
+    category: "ENGLAND"
+    document_type: "guidance"
+    verified: true
+    status: archived
+    archived_id: "libraries-taskforce-adm-toolkit-2017"
+
   - id: libraries-deliver-ambition-refresh
     title: "Libraries Deliver: Ambition (refreshed edition)"
     short_title: "Libraries Deliver: Ambition Refresh"
