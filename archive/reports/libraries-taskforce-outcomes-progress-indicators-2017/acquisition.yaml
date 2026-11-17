@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/outcomes-progress-indicators-for-libraries-in-england/proposed-progress-indicators-for-the-7-outcomes-libraries-deliver"
+source_pdf_url: "https://www.gov.uk/government/publications/outcomes-progress-indicators-for-libraries-in-england/proposed-progress-indicators-for-the-7-outcomes-libraries-deliver"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+download_method: "python-urllib"
+local_file: "source/proposed-progress-indicators-for-the-7-outcomes-libraries-deliver.html"
+pdf_sha256: "7a6085838c1d4816b0011f9811ec3382c9769d76ea3b7fe044803889d0f3e3ac"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Official HTML publication of the indicator tables and methodology establishing baselines for the 7 Outcomes in Libraries Deliver: Ambition."

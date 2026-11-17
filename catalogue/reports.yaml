@@ -184,6 +184,19 @@ reports:
     fictional_sample: false
     notes: "Official action plan and monitoring framework (Annex 2 to Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021) outlining national actions, deadlines, lead bodies, and challenges to central and local government."
 
+  - id: libraries-taskforce-outcomes-progress-indicators-2017
+    title: "Proposed Progress Indicators for the 7 Outcomes Libraries Deliver"
+    subtitle: "Outcomes Progress Indicators for Libraries in England"
+    year: 2017
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "guidance"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-outcomes-progress-indicators-2017"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Baseline indicators and measurement methodology published by the Libraries Taskforce to track progress across the 7 Outcomes identified in Libraries Deliver: Ambition."
+
   - id: independent-review-of-english-public-libraries-2024
     title: "An Independent Review of English Public Libraries"
     subtitle: null
