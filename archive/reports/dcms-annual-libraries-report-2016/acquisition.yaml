@@ -1,0 +1,25 @@
+# Acquisition Record
+
+id: dcms-annual-libraries-report-2016
+acquired_date: "2026-11-18"
+acquisition_method: "automated-download"
+acquired_by: "Antigravity"
+
+source:
+  url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-library-activities-during-2016"
+  publisher: "Department for Culture, Media & Sport"
+  access_date: "2026-11-18"
+
+files:
+  - path: "source/LibrariesAnnualReport2016Final.docx.pdf"
+    size: 215672
+    sha256: "52df3c0f6918fd9b53e91ae007e6d085f9e58e87b11e34d3f7327b38349f4328"
+    mime_type: "application/pdf"
+  - path: "source/annual-report-to-parliament-on-public-library-activities-during-2016.html"
+    size: 70928
+    sha256: "e3330a3f8a17055972c834317c846b4e79e7d5ce4fe55136be4e2f4c08a85acc"
+    mime_type: "text/html"
+  - path: "source/publication.json"
+    size: 19881
+    sha256: "657fd0f12774678fbecbba5c5a675035b63113399ce37e4ae18e828ad0719ed6"
+    mime_type: "application/json"

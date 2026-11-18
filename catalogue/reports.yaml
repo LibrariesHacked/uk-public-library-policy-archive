@@ -327,6 +327,19 @@ reports:
     fictional_sample: false
     notes: "Independent review led by Baroness Elizabeth Sanderson examining challenges facing public libraries in England and setting out recommendations for national data infrastructure, branding, and ministerial coordination."
 
+  - id: dcms-annual-libraries-report-2016
+    title: "Annual Report to Parliament on Public Library Activities During 2016"
+    subtitle: "Report under the Public Libraries and Museums Act 1964 for 2016"
+    year: 2017
+    publisher: "Department for Culture, Media & Sport"
+    country: "England"
+    document_type: "annual-report"
+    pages: 22
+    path: "archive/reports/dcms-annual-libraries-report-2016"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Annual report presented to Parliament pursuant to Section 17 of the Public Libraries and Museums Act 1964 covering superintendence, inquiry letters (Harrow, Lambeth, Lancashire), wifi rollout to 99.3% of libraries, Libraries Deliver: Ambition, and sector partner reports."
+
   - id: dcms-annual-libraries-report-2017-2018
     title: "Annual Report to Parliament on Public Libraries Activities from January 2017 to March 2018"
     subtitle: "Report under the Public Libraries and Museums Act 1964 for 2017/18"
