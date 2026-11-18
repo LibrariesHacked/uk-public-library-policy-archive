@@ -3,7 +3,9 @@ id: dcms-lambeth-library-inquiry-decision-2020
 title: "Final decision letter on public library provision in Lambeth"
 subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Lambeth Council's library provision"
 creators:
-  - "Caroline Dinenage MP"
+  - "![Caroline Dinenage MP Signature](assets/signature-caroline-dinenage.jpg)
+
+Caroline Dinenage MP"
   - "Department for Digital, Culture, Media and Sport"
 publisher: "Department for Digital, Culture, Media and Sport"
 publication_date: "2020-06-03"
@@ -22,6 +24,8 @@ review_level: "reviewed"
 ---
 
 <!-- PAGE: 1 -->
+
+![Caroline Dinenage MP Signature](assets/signature-caroline-dinenage.jpg)
 
 Caroline Dinenage MP  
 Minister for Digital and Culture  
@@ -108,6 +112,8 @@ Dear Councillor Hopkins
 **18.** The Secretary of State does not believe there to be any other good reason why an inquiry should be ordered. However, he recognises that the duties under the Act are ongoing, and will continue to monitor the Council’s compliance with its duty to provide a comprehensive and efficient library service in the same way as with any other library authority.
 
 With best wishes,  
+
+![Caroline Dinenage MP Signature](assets/signature-caroline-dinenage.jpg)
 
 Caroline Dinenage MP  
 Minister of State for Digital and Culture  

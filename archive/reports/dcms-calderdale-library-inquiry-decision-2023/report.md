@@ -3,7 +3,9 @@ id: dcms-calderdale-library-inquiry-decision-2023
 title: "Final decision letter on public library provision in Calderdale"
 subtitle: "Letter from Minister for Arts and Heritage stating the Secretary of State's decision not to hold a local inquiry into Calderdale Council's library provision"
 creators:
-  - "Lord Parkinson of Whitley Bay"
+  - "![Lord Parkinson of Whitley Bay Signature](assets/signature-lord-parkinson.png)
+
+Lord Parkinson of Whitley Bay"
   - "Department for Culture, Media and Sport"
 publisher: "Department for Culture, Media and Sport"
 publication_date: "2023-12-21"
@@ -22,6 +24,8 @@ review_level: "reviewed"
 ---
 
 <!-- PAGE: 1 -->
+
+![Lord Parkinson of Whitley Bay Signature](assets/signature-lord-parkinson.png)
 
 Lord Parkinson of Whitley Bay  
 Minister for Arts & Heritage  
@@ -99,6 +103,8 @@ Dear Councillor Scullion,
 **16.** The Secretary of State’s view is that there is nothing in Calderdale Council’s decision to justify intervention. However, she recognises that both the Secretary of State's superintendence duty under section 1 of the Act, and the Council's duty under section 7 to provide a comprehensive and efficient library service, are continuing duties, and she will continue to monitor the Council’s compliance with its duty in the same way as with any other library authority.
 
 **17.** A copy of this letter will be published on the GOV.UK website.
+
+![Lord Parkinson of Whitley Bay Signature](assets/signature-lord-parkinson.png)
 
 Lord Parkinson of Whitley Bay  
 Minister for Arts & Heritage  

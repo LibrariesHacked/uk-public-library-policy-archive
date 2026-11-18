@@ -3,7 +3,9 @@ id: dcms-bedford-library-inquiry-decision-2021
 title: "Final decision letter on public library provision in Bedford"
 subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Bedford Council's library provision"
 creators:
-  - "Caroline Dinenage MP"
+  - "![Caroline Dinenage MP Signature](assets/signature-caroline-dinenage.jpg)
+
+Caroline Dinenage MP"
   - "Department for Digital, Culture, Media and Sport"
 publisher: "Department for Digital, Culture, Media and Sport"
 publication_date: "2021-01-21"
@@ -29,6 +31,8 @@ Bedford Borough Council
 Borough Hall  
 Cauldwell Street  
 Bedford MK42 9AP  
+
+![Caroline Dinenage MP Signature](assets/signature-caroline-dinenage.jpg)
 
 Caroline Dinenage MP  
 Minister for Digital and Culture  
@@ -111,6 +115,8 @@ The Secretary of State is satisfied that Bedford Council’s library provision o
 The Secretary of State does not believe there to be any other good reason why an inquiry should be ordered. However, he recognises that the duties under the Act are ongoing, and will continue to monitor the Council’s compliance with its duty to provide a comprehensive and efficient library service in the same way as with any other library authority.
 
 With best wishes,  
+
+![Caroline Dinenage MP Signature](assets/signature-caroline-dinenage.jpg)
 
 Caroline Dinenage MP  
 Minister of State for Digital and Culture  

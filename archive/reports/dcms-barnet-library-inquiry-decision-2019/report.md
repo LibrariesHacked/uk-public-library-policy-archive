@@ -3,7 +3,9 @@ id: dcms-barnet-library-inquiry-decision-2019
 title: "Final decision letter on public library provision in Barnet"
 subtitle: "Letter from Minister for Arts, Heritage and Tourism stating the Secretary of State's decision not to hold a local inquiry into Barnet Council's library provision"
 creators:
-  - "Michael Ellis MP"
+  - "![Michael Ellis MP Signature](assets/signature-michael-ellis.jpg)
+
+Michael Ellis MP"
   - "Department for Digital, Culture, Media and Sport"
 publisher: "Department for Digital, Culture, Media and Sport"
 publication_date: "2019-04-10"
@@ -22,6 +24,8 @@ review_level: "reviewed"
 ---
 
 <!-- PAGE: 1 -->
+
+![Michael Ellis MP Signature](assets/signature-michael-ellis.jpg)
 
 Michael Ellis MP  
 Minister for Arts, Heritage and Tourism  
@@ -261,6 +265,8 @@ fiction e-books & e-audio books, online encyclopaedia, back issues of newspapers
 **71.** The Secretary of State also considers that there is no other good reason why an inquiry should be ordered.
 
 **72.** The Secretary of State recognises, however, that the duty under section 7 of the Act is a continuing duty, and he will continue to monitor BC's compliance with that duty in the same way as with any other library authority.
+
+![Michael Ellis MP Signature](assets/signature-michael-ellis.jpg)
 
 Michael Ellis MP  
 Minister for Arts, Heritage and Tourism  
