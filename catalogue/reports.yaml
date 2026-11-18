@@ -734,3 +734,32 @@ reports:
   notes: 'Comprehensive evaluation of the £4 million Libraries: Opportunities for
     Everyone (LOFE) innovation fund, assessing outcomes across disadvantaged communities,
     digital skills, cultural engagement, and health and wellbeing.'
+- id: slic-libraries-on-the-move-2019
+  title: 'Libraries on the Move: The Impact of Mobile Library Services in Scotland'
+  subtitle: Research Report Commissioned by the Scottish Library and Information Council
+  year: 2019
+  publisher: Scottish Library and Information Council
+  country: Scotland
+  document_type: research
+  pages: 48
+  path: archive/reports/slic-libraries-on-the-move-2019
+  review_level: reviewed
+  fictional_sample: false
+  notes: Landmark national research report commissioned by SLIC and undertaken by
+    Dr Alyson Tyler on the use, social impact, vehicle fleets, and community value
+    of mobile library services in Scotland.
+- id: slic-mobile-libraries-in-scotland-2024
+  title: Mobile Libraries in Scotland 2024 Report
+  subtitle: An Update to Libraries on the Move (2019) on Current Mobile Library Provision,
+    Greener Fleets, and Community Need
+  year: 2024
+  publisher: Scottish Library and Information Council
+  country: Scotland
+  document_type: research
+  pages: 62
+  path: archive/reports/slic-mobile-libraries-in-scotland-2024
+  review_level: reviewed
+  fictional_sample: false
+  notes: Major national research report updating Libraries on the Move (2019), detailing
+    post-pandemic public mobile library services, ageing vehicle fleets, green/electric
+    transition challenges, and strategic fit across Scotland.

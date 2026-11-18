@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://scottishlibraries.org/media/2343/slic-libraries-on-the-move-report.pdf"
+source_pdf_url: "https://web.archive.org/web/20191117072745id_/https://scottishlibraries.org/media/2343/slic-libraries-on-the-move-report.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:16e19b4d181034895971dc5b49a6dfdbcc4a2e5ad8e0087db85fea8cc02ce3e1"
+pdf_sha256: "16e19b4d181034895971dc5b49a6dfdbcc4a2e5ad8e0087db85fea8cc02ce3e1"
+download_method: "curl-internet-archive-memento"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

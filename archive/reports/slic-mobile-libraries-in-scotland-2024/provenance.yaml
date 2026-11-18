@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Mobile-Libraries-Report-2024.pdf"
+source_pdf_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Mobile-Libraries-Report-2024.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:e2fc87b5145c99cdf6bf98448a28ec498da9683bc8385273b12214e53f33d918"
+pdf_sha256: "e2fc87b5145c99cdf6bf98448a28ec498da9683bc8385273b12214e53f33d918"
+download_method: "curl"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

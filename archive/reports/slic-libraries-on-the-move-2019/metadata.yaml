@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: slic-libraries-on-the-move-2019
+title: "Libraries on the Move: The Impact of Mobile Library Services in Scotland"
+subtitle: "Research Report Commissioned by the Scottish Library and Information Council"
+creators:
+  - "Dr Alyson Tyler"
+  - "Scottish Library and Information Council"
+publisher: "Scottish Library and Information Council"
+publication_date: "2019-03-08"
+year: 2019
+publication_place: "Glasgow"
+country: "Scotland"
+language: "en"
+document_type: "research"
+pages: 48
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://scottishlibraries.org/media/2343/slic-libraries-on-the-move-report.pdf"
+source_pdf: "source/slic-libraries-on-the-move-report.pdf"
+rights: "Copyright © 2019 Scottish Library and Information Council."
+review_level: "reviewed"

@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://scottishlibraries.org/media/2343/slic-libraries-on-the-move-report.pdf"
+source_pdf_url: "https://web.archive.org/web/20191117072745id_/https://scottishlibraries.org/media/2343/slic-libraries-on-the-move-report.pdf"
+publisher: "Scottish Library and Information Council"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "curl-internet-archive-memento"
+local_file: "source/slic-libraries-on-the-move-report.pdf"
+pdf_sha256: "16e19b4d181034895971dc5b49a6dfdbcc4a2e5ad8e0087db85fea8cc02ce3e1"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Landmark national research report commissioned by SLIC and undertaken by Dr Alyson Tyler on the use, social impact, vehicle fleets, and community value of mobile library services in Scotland."

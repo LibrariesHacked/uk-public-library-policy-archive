@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Mobile-Libraries-Report-2024.pdf"
+source_pdf_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Mobile-Libraries-Report-2024.pdf"
+publisher: "Scottish Library and Information Council"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "curl"
+local_file: "source/Mobile-Libraries-Report-2024.pdf"
+pdf_sha256: "e2fc87b5145c99cdf6bf98448a28ec498da9683bc8385273b12214e53f33d918"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Major national research report updating Libraries on the Move (2019), detailing post-pandemic public mobile library services, ageing vehicle fleets, green/electric transition challenges, and strategic fit across Scotland."

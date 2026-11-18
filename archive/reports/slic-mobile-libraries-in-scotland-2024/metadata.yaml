@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: slic-mobile-libraries-in-scotland-2024
+title: "Mobile Libraries in Scotland 2024 Report"
+subtitle: "An Update to Libraries on the Move (2019) on Current Mobile Library Provision, Greener Fleets, and Community Need"
+creators:
+  - "Scottish Library and Information Council"
+publisher: "Scottish Library and Information Council"
+publication_date: "2024-07-04"
+year: 2024
+publication_place: "Glasgow"
+country: "Scotland"
+language: "en"
+document_type: "research"
+pages: 62
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Mobile-Libraries-Report-2024.pdf"
+source_pdf: "source/Mobile-Libraries-Report-2024.pdf"
+rights: "Copyright © 2024 Scottish Library and Information Council."
+review_level: "reviewed"
