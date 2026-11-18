@@ -2,7 +2,6 @@
 # Follows docs/metadata-schema.md § Acquisition Schema
 
 acquired_date: 2026-11-16
-acquired_by: "Dave Prince <dave@librarieshacked.org>"
 acquisition_method: download
 
 source_url: "https://www.ukoln.ac.uk/services/lic/newlibrary/full.html"
