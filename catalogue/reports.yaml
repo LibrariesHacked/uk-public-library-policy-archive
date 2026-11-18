@@ -793,3 +793,18 @@ reports:
   notes: Official Welsh Public Library Standards Fifth Quality Framework (2014-2017),
     establishing core entitlements, performance quality indicators, and outcome measurement
     for public library authorities across Wales.
+- id: slic-forward-public-library-strategy-2021
+  title: 'Forward: Scotland''s Public Library Strategy 2021–2025'
+  subtitle: Inspiring individuals and communities to reach their full potential through
+    innovation and investment in Scotland's public libraries
+  creators:
+  - Scottish Library and Information Council
+  - Public Library Strategy Advisory Group
+  publisher: Scottish Library and Information Council
+  publication_date: '2021-06-23'
+  year: 2021
+  country: Scotland
+  document_type: strategy
+  pages: 35
+  source_url: https://scottishlibraries.org/wp-content/uploads/2024/10/slic-public-library-strategydigital_final.pdf
+  path: archive/reports/slic-forward-public-library-strategy-2021

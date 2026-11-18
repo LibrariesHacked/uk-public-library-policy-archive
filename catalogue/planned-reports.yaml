@@ -346,7 +346,8 @@ planned_reports:
   category: SCOTLAND
   document_type: strategy
   verified: false
-  status: planned
+  status: archived
+  source_url: https://scottishlibraries.org/wp-content/uploads/2024/10/slic-public-library-strategydigital_final.pdf
 - id: libraries-inspire-2012-16
   title: 'Libraries Inspire: The Strategic Development Framework for Welsh Libraries
     2012–16'

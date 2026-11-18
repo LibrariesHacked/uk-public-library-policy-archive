@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/slic-public-library-strategydigital_final.pdf"
+  original_filename: "slic-public-library-strategydigital_final.pdf"
+  retrieval_date: "2026-11-18"
+  method: "curl"
+  sha256: "f39f08b4ca9cf035473b772ba65be3bd964d9c5437b983a550828c2eae6936c6"
+  filesize: 9460633
+  content_type: "application/pdf"
+  capture_tool: "Python urllib/requests via official SLIC web archive mirror"
+  notes: "Official SLIC strategy document for Scottish public libraries 2021–2025."

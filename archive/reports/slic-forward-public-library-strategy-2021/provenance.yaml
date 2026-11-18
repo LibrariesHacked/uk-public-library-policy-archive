@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/slic-public-library-strategydigital_final.pdf"
+source_pdf_url: "http://web.archive.org/web/20251009113713id_/https://scottishlibraries.org/wp-content/uploads/2024/10/slic-public-library-strategydigital_final.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:f39f08b4ca9cf035473b772ba65be3bd964d9c5437b983a550828c2eae6936c6"
+pdf_sha256: "f39f08b4ca9cf035473b772ba65be3bd964d9c5437b983a550828c2eae6936c6"
+download_method: "curl-internet-archive-memento"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "converted"
