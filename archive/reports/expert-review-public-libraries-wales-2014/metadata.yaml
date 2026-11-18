@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: expert-review-public-libraries-wales-2014
+title: "Expert Review of Public Libraries in Wales 2014"
+subtitle: "An Independent Review of the Public Library Service in Wales and Recommendations for Future Delivery"
+creators:
+  - "Expert Review Panel"
+  - "Welsh Government"
+publisher: "Welsh Government"
+publication_date: "2014-10-03"
+year: 2014
+publication_place: "Cardiff"
+country: "Wales"
+language: "en"
+document_type: "independent-review"
+pages: 62
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.wales/expert-review-public-libraries-wales-report-and-summary-responses"
+source_pdf: "source/expert-review-of-public-libraries-in-wales-2014.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

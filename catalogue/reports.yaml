@@ -763,3 +763,18 @@ reports:
   notes: Major national research report updating Libraries on the Move (2019), detailing
     post-pandemic public mobile library services, ageing vehicle fleets, green/electric
     transition challenges, and strategic fit across Scotland.
+- id: expert-review-public-libraries-wales-2014
+  title: Expert Review of Public Libraries in Wales 2014
+  subtitle: An Independent Review of the Public Library Service in Wales and Recommendations
+    for Future Delivery
+  year: 2014
+  publisher: Welsh Government
+  country: Wales
+  document_type: independent-review
+  pages: 62
+  path: archive/reports/expert-review-public-libraries-wales-2014
+  review_level: reviewed
+  fictional_sample: false
+  notes: Major independent review commissioned by the Welsh Government to examine
+    public library services across Wales, local authority statutory obligations, regional
+    collaboration models, and strategic options for future delivery.

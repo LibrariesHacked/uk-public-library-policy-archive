@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.wales/expert-review-public-libraries-wales-report-and-summary-responses"
+source_pdf_url: "https://www.gov.wales/sites/default/files/publications/2019-07/expert-review-of-public-libraries-in-wales-2014.pdf"
+publisher: "Welsh Government"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "curl"
+local_file: "source/expert-review-of-public-libraries-in-wales-2014.pdf"
+pdf_sha256: "1f6cff8d5c3eb7f1fe5deb4c235a8c6bdb18fb5dacf7e5dcaad2d2badae1f2ae"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Major independent review commissioned by the Welsh Government to examine public library services across Wales, local authority statutory obligations, regional collaboration models, and strategic options for future delivery."

@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.wales/expert-review-public-libraries-wales-report-and-summary-responses"
+source_pdf_url: "https://www.gov.wales/sites/default/files/publications/2019-07/expert-review-of-public-libraries-in-wales-2014.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:1f6cff8d5c3eb7f1fe5deb4c235a8c6bdb18fb5dacf7e5dcaad2d2badae1f2ae"
+pdf_sha256: "1f6cff8d5c3eb7f1fe5deb4c235a8c6bdb18fb5dacf7e5dcaad2d2badae1f2ae"
+download_method: "curl"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"
