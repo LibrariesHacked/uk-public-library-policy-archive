@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-annual-libraries-report-2017-2018
+title: "Annual Report to Parliament on Public Libraries Activities from January 2017 to March 2018"
+subtitle: "Report under the Public Libraries and Museums Act 1964 for 2017/18"
+creators:
+  - "Department for Digital, Culture, Media and Sport"
+publisher: "Department for Digital, Culture, Media and Sport"
+publication_date: "2018-10-10"
+year: 2018
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "annual-report"
+pages: 17
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-january-2017-to-march-2018"
+source_pdf: "source/Annual_Libraries_Report__2017_to_2018__V2.pdf"
+rights: "Crown Copyright 2018. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
