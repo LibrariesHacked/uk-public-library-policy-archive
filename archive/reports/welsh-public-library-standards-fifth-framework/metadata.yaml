@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: welsh-public-library-standards-fifth-framework
+title: "Libraries Making a Difference: The Fifth Quality Framework of Welsh Public Library Standards 2014–2017"
+subtitle: "The Fifth Quality Framework of Welsh Public Library Standards"
+creators:
+  - "CyMAL: Museums Archives and Libraries Wales"
+  - "Welsh Government"
+publisher: "Welsh Government"
+publication_date: "2014-04-16"
+year: 2014
+publication_place: "Aberystwyth"
+country: "Wales"
+language: "en"
+document_type: "standards"
+pages: 28
+identifier: null
+isbn: "978-1-4734-1120-3"
+issn: null
+series: "Welsh Public Library Standards"
+edition: null
+source_url: "http://gov.wales/docs/drah/publications/140425wpls5en.pdf"
+source_pdf: "source/140425wpls5en.pdf"
+rights: "Crown Copyright 2014. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
