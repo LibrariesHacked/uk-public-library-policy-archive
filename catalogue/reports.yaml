@@ -482,3 +482,16 @@ reports:
     review_level: "reviewed"
     fictional_sample: false
     notes: "Follow-up implementation report and costed blueprint to New Library: The People's Network (1997), produced by the Library and Information Commission for DCMS and the New Opportunities Fund, establishing detailed frameworks for digital content creation (£50m), ICT librarian training (£20m), and network infrastructure."
+
+  - id: libraries-taskforce-progress-report-2020
+    title: "Libraries Taskforce: Six Month Progress Report (October 2019 to March 2020)"
+    subtitle: "Eighth and Final Progress Report to Ministers and the Local Government Association"
+    year: 2020
+    publisher: "Libraries Taskforce"
+    country: "England"
+    document_type: "governance"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-progress-report-2020"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Eighth and final six-month progress report of the Libraries Taskforce covering October 2019 to March 2020, recording the formal cessation of the Taskforce on 31 March 2020 and handover of coordination to Arts Council England."

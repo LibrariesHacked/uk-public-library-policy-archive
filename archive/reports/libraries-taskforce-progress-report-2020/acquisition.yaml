@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-october-2019-to-march-2020/libraries-taskforce-six-month-progress-report-october-2019-to-march-2020"
+source_pdf_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-october-2019-to-march-2020/libraries-taskforce-six-month-progress-report-october-2019-to-march-2020"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "govuk-content-api-harvest"
+local_file: "source/report.html"
+pdf_sha256: "3260410b88fe967259d1286769b32bcff6e7f991ac6ad01366f1fff05ee1758b"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Eighth and final six-month progress report of the Libraries Taskforce covering October 2019 to March 2020, recording the formal cessation of the Taskforce on 31 March 2020 and handover of coordination to Arts Council England."

@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-progress-report-2020
+title: "Libraries Taskforce: Six Month Progress Report (October 2019 to March 2020)"
+subtitle: "Eighth and Final Progress Report to Ministers and the Local Government Association"
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2020-11-02"
+year: 2020
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "governance"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: "Libraries Taskforce Six Month Progress Reports"
+edition: null
+source_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-october-2019-to-march-2020/libraries-taskforce-six-month-progress-report-october-2019-to-march-2020"
+source_pdf: "source/report.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
