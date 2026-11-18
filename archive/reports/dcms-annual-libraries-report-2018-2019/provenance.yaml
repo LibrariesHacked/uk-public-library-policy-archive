@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/annual-library-report-from-april-2018-to-march-2019"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/6001651cd3bf7f33bba7efbe/Libraries_Annual_report_2018_to_2019_V2.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:0ce152ea3ff40adfc3d31f5a282814ad54702bf74031aa39f35bcef8b1cfbcc1"
+pdf_sha256: "0ce152ea3ff40adfc3d31f5a282814ad54702bf74031aa39f35bcef8b1cfbcc1"
+download_method: "python-urllib"
+conversion_method: "pdf-transcription-with-diplomatic-fidelity"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

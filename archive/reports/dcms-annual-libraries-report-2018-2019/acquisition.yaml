@@ -1,0 +1,25 @@
+# Acquisition Record
+
+id: dcms-annual-libraries-report-2018-2019
+acquired_date: "2026-11-18"
+acquisition_method: "automated-download"
+acquired_by: "Antigravity"
+
+source:
+  url: "https://www.gov.uk/government/publications/annual-library-report-from-april-2018-to-march-2019"
+  publisher: "Department for Digital, Culture, Media and Sport"
+  access_date: "2026-11-18"
+
+files:
+  - path: "source/Libraries_Annual_report_2018_to_2019_V2.pdf"
+    size: 243473
+    sha256: "0ce152ea3ff40adfc3d31f5a282814ad54702bf74031aa39f35bcef8b1cfbcc1"
+    mime_type: "application/pdf"
+  - path: "source/annual-library-report-from-april-2018-to-march-2019.html"
+    size: 68516
+    sha256: "62db83dc8fbc9b0ddc7330ea3d36b79c6dc9d1a63304c1ef90560e81394ed7ec"
+    mime_type: "text/html"
+  - path: "source/publication.json"
+    size: 14550
+    sha256: "17930afe2bb4da0c48b2fe27c9a761a9c9e3c5ec3de20eef5d7dd412c5868b87"
+    mime_type: "application/json"

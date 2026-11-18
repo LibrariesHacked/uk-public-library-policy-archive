@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-annual-libraries-report-2018-2019
+title: "Annual Library Report from April 2018 to March 2019"
+subtitle: "Report Pursuant to Section 17 of the Public Libraries and Museums Act 1964 for 2018/19"
+creators:
+  - "Department for Digital, Culture, Media and Sport"
+publisher: "Department for Digital, Culture, Media and Sport"
+publication_date: "2019-07-23"
+year: 2019
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "annual-report"
+pages: 11
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/annual-library-report-from-april-2018-to-march-2019"
+source_pdf: "source/Libraries_Annual_report_2018_to_2019_V2.pdf"
+rights: "Crown Copyright 2019. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
