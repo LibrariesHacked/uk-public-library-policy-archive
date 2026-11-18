@@ -327,6 +327,19 @@ reports:
     fictional_sample: false
     notes: "Independent review led by Baroness Elizabeth Sanderson examining challenges facing public libraries in England and setting out recommendations for national data infrastructure, branding, and ministerial coordination."
 
+  - id: dcms-annual-libraries-report-2023-2024
+    title: "Annual Libraries Report 2023 to 2024"
+    subtitle: "Annual Report to Parliament on Public Libraries Activities from April 2023 to March 2024"
+    year: 2024
+    publisher: "Department for Culture, Media and Sport"
+    country: "England"
+    document_type: "annual-report"
+    pages: 26
+    path: "archive/reports/dcms-annual-libraries-report-2023-2024"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Annual report presented to Parliament pursuant to Section 17 of the Public Libraries and Museums Act 1964 covering superintendence, local authority engagements, PLR, sector partner reports, and capital investment."
+
   - id: dcms-annual-libraries-report-2024-2025
     title: "Annual Libraries Report 2024 to 2025"
     subtitle: "Annual Report to Parliament on Public Libraries Activities from April 2024 to March 2025"
