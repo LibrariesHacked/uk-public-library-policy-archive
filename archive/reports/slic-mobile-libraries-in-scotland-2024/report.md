@@ -25,6 +25,9 @@ review_level: "reviewed"
 
 <!-- PAGE: 1 -->
 
+![Mobile Libraries in Scotland 2024 Report cover](assets/cover.jpg)
+
+
 # Mobile Libraries in Scotland 2024 Report
 
 **Scottish Library and Information Council (SLIC)**  
@@ -37,6 +40,9 @@ Mobile libraries in Scotland
 ## 2024 Report
 
 <!-- PAGE: 2 -->
+
+![Mobile library van interior](assets/figure-p02.jpg)
+
 
 Contents
 
@@ -89,9 +95,14 @@ The report is based on desk research, survey results, interviews with library st
 
 <!-- PAGE: 4 -->
 
+![Mobile library landscape banner](assets/figure-p04-banner.jpg)
+
+
 Continued future provision is uncertain, with councils facing financial difficulties. Of prime concern is the ageing fleet. Scottish Government support to invest in modern, ICT equipped, and possibly electric public access vehicles is one of this report's main recommendations, to enable these valuable services to continue.
 
-Image: dog friendly mobile library service in Midlothian (source X/Twitter)
+![Dog friendly mobile library service in Midlothian](assets/figure-p04-midlothian-dog-friendly.jpg)
+
+*Image: dog friendly mobile library service in Midlothian (source X/Twitter)*
 
 <!-- PAGE: 5 -->
 
@@ -116,6 +127,9 @@ ages of the vehicles range from 1 year to
 (*figures for 17 of 19 library services)
 
 <!-- PAGE: 6 -->
+
+![Mobile library in community](assets/figure-p06.jpg)
+
 
 Introduction <!-- PAGE: 7 --> ## 2  Introduction
 
@@ -170,7 +184,10 @@ For a service which is essentially a person, a vehicle and a collection of resou
 
 (NB Quotes are from survey responses by library managers unless otherwise specified.)
 
-Moray Council (2023) Budget 2023/24. From: http://www.moray.gov.uk/moray_standard/page_150885.html <!-- PAGE: 9 --> Mobile libraries during the pandemic <!-- PAGE: 10 --> 3  Mobile libraries during the pandemic
+Moray Council (2023) Budget 2023/24. From: http://www.moray.gov.uk/moray_standard/page_150885.html <!-- PAGE: 9 -->
+
+![Mobile library stopping at rural settlement](assets/figure-p09.jpg)
+ Mobile libraries during the pandemic <!-- PAGE: 10 --> 3  Mobile libraries during the pandemic
 
 Along with nearly all public services, Scottish public libraries went into lockdown on 24th March 2020. No mobile library services operated from this date, and static library buildings were shut.  People were able to access digital library services, e.g. to borrow e-books, e-magazines.
 
@@ -282,6 +299,9 @@ Library services, and the staff in particular, adapted well to the fluctuating r
 
 <!-- PAGE: 14 -->
 
+![Mobile library interior browsing](assets/figure-p14.jpg)
+
+
 Current mobile library provision <!-- PAGE: 15 --> 4  Current mobile library provision
 
 Several sources of information were used to establish current provision of mobile libraries in Scotland. This included a review of library websites, CIPFA Public Library Actuals, SLIC’s public library data framework returns, and a survey of 22 library services in Scotland i.e. those with mobile services at the time of the Libraries on the Move report in 2018/19.
@@ -324,7 +344,10 @@ Sources: CIPFA Public Library Statistics Actuals; 2018 and 2023 Scottish survey 
 
 In Scotland, the number of mobile libraries has fallen by 23% since 2018/19. The National Benchmarking Overview Report 2020/21 notes that Scottish public library expenditure has fallen 29% since 2010/11 to 2020/21 as a whole. But the figures above show a fall in mobiles from 2010/11 to 2023 of 50%. This may be in part because the benchmarking report also noted that rural authorities saw greater cost reductions on average than urban or semi-rural authorities in the 10 year period,11 and it is predominantly rural authorities which have mobile libraries.
 
-11	 Improvement Service (2021) National Benchmarking Overview Report 2020-21. From: www.improvementservice. org.uk/benchmarking <!-- PAGE: 16 --> ### 4.1.1 Comparison with 2018/19
+11	 Improvement Service (2021) National Benchmarking Overview Report 2020-21. From: www.improvementservice. org.uk/benchmarking <!-- PAGE: 16 -->
+
+![Mobile library exterior side profile](assets/figure-p16.jpg)
+ ### 4.1.1 Comparison with 2018/19
 
 The number of mobiles withdrawn from service in Scotland in the last five years and not replaced is 11. Although the above table would suggest it’s fallen by 12, one additional vehicle was reported in 2019 but not this time as it’s not a mobile library in the way the others are. The 11 withdrawn mobiles were from Aberdeenshire (3), Dundee (1), Highland (2), North Ayrshire (1), Perth & Kinross (1), South Lanarkshire (2), and Western Isles (1).
 
@@ -577,7 +600,9 @@ The less helpful pages had no contact details, had not been updated for several 
 * images of the vehicles inside and out (so people know what to expect)
 * videos (e.g. Western Isles).
 
-Image: a still from a video of the Orkney mobile library service on X/Twitter, which has been liked 4000 times
+![Still from video of Orkney mobile library service](assets/figure-p23-orkney-video-still.jpg)
+
+*Image: a still from a video of the Orkney mobile library service on X/Twitter, which has been liked 4000 times*
 
 Some mobile libraries have names (particularly new vehicles, and often chosen through school competitions which is good for publicity), and some have social media presence such as BookyMcBookface (Orkney), with impressive reach and engagement on X/Twitter.
 
@@ -589,11 +614,15 @@ It is heartening to see a recommendation from the 2019 report implemented with s
 
 Activities on the day vary: for example in 2021 the Scottish Government culture minister visited Stirling mobile libraries.
 
-Image: Screenshot of Midlothian’s mobile library map
+![Screenshot of Midlothian mobile library map](assets/figure-p24-midlothian-map.jpg)
+
+*Image: Screenshot of Midlothian’s mobile library map*
 
 Providing information in accessible and different formats is important. Best practice would cover different options so people who find PDFs inaccessible can use a screen-reader to read out the text from the page. Information which is also provided in a format to download is also good so that someone doesn’t have to be online in order to find out the information.
 
-Image: X/Twitter screenshot from Scottish Government account for Mobile Libraries Day 2021 <!-- PAGE: 25 --> Library services with social media accounts share content on their platforms about their mobile libraries, and use infographics and other resources commissioned centrally by SLIC, e.g. about the value of mobile libraries. The best photo competition is popular and creates popular content for social media and engagement.
+![X/Twitter screenshot from Scottish Government account for Mobile Libraries Day 2021](assets/figure-p24-mobile-libraries-day.jpg)
+
+*Image: X/Twitter screenshot from Scottish Government account for Mobile Libraries Day 2021* <!-- PAGE: 25 --> Library services with social media accounts share content on their platforms about their mobile libraries, and use infographics and other resources commissioned centrally by SLIC, e.g. about the value of mobile libraries. The best photo competition is popular and creates popular content for social media and engagement.
 
 ### 4.5 Consulting users
 
@@ -633,7 +662,10 @@ There is scope for improvements to marketing and promotion, particularly with we
 
 Unfortunately this is often due to funding issues. Moray Council’s website states that removing the old mobile library vehicle could save £20,000 p.a., but it acknowledges that “for some individuals it is the only in person social connection they may have during the week” and that “[s]ince the pandemic the function of the mobile library service has changed significantly, with the footfall exceeding some of our smaller rural libraries.”25
 
-22	 Accounts Commission (2022) Local government in Scotland overview 2022. From https://www.audit-scotland. gov.uk/publications/local-government-in-scotland-overview-2022 23	 Moray Council (2023) Budget 2024/25. From http://www.moray.gov.uk/moray_standard/page_150885.html 24	 Stirling Council (2023) Stirling Council budget saving proposals 2023. From: https://engage.stirling.gov.uk/en- GB/projects/stirling-council-budget 25	 Moray Council (2023) Budget 2024/25. From: http://www.moray.gov.uk/moray_standard/page_150885.html 26	 MV Tech (2022) Mobile library repair and refurbishment. From: https://www.multivehicletechnology.co.uk/blog/ mobile-library-repair-and-refurbishment/ <!-- PAGE: 27 --> Mobile library vehicles <!-- PAGE: 28 --> 5  Mobile library vehicles
+22	 Accounts Commission (2022) Local government in Scotland overview 2022. From https://www.audit-scotland. gov.uk/publications/local-government-in-scotland-overview-2022 23	 Moray Council (2023) Budget 2024/25. From http://www.moray.gov.uk/moray_standard/page_150885.html 24	 Stirling Council (2023) Stirling Council budget saving proposals 2023. From: https://engage.stirling.gov.uk/en- GB/projects/stirling-council-budget 25	 Moray Council (2023) Budget 2024/25. From: http://www.moray.gov.uk/moray_standard/page_150885.html 26	 MV Tech (2022) Mobile library repair and refurbishment. From: https://www.multivehicletechnology.co.uk/blog/ mobile-library-repair-and-refurbishment/ <!-- PAGE: 27 -->
+
+![Mobile library service in action](assets/figure-p27.jpg)
+ Mobile library vehicles <!-- PAGE: 28 --> 5  Mobile library vehicles
 
 Mobile library vehicles do not have a very long lifespan: 10 years is generally a good age, before repairs are increasingly needed. For vehicles on long and/or geographically rigorous routes, the wear and tear is considerable. Councils may have conditions of fleet management, e.g. every vehicle to be reviewed at seven years, which may identify when the mobiles need replacing.
 
@@ -689,7 +721,9 @@ The public access vehicles are becoming an ageing fleet: nearly 40% of the vehic
 
 Table 6: Age of the mobile libraries in Scotland
 
-Image: new Stirling mobile, courtesy of Stirling Council
+![New Stirling mobile library van](assets/figure-p29-stirling-mobile.jpg)
+
+*Image: new Stirling mobile, courtesy of Stirling Council*
 
 Age Under 5
 
@@ -758,7 +792,9 @@ Warwickshire’s two new electric vehicles are being delivered in 2024 and will 
 
 There are more electric buses in the UK (and other large vehicles such as waste collection lorries), than there are electric mobile libraries. A 2018 study of the electric bus market suggested they will become cost competitive in 2023.45 It’s therefore likely to be some time before large electric mobile libraries are cost competitive, as it’s a much smaller market than electric buses.
 
-Image: East Dunbartonshire’s Wee Green Library electric van
+![East Dunbartonshire Wee Green Library electric van](assets/figure-p32-wee-green-library.jpg)
+
+*Image: East Dunbartonshire’s Wee Green Library electric van*
 
 43	 Cheshire West and Chester (2023) Library service introduces new electric mobile library. From: https://www. cheshirewestandchester.gov.uk/news/library-service-introduces-new-electric-mobile-library 44	 Warwickshire County Council (2023) New timetables coming soon to Warwickshire’s mobile libraries. From https://www.warwickshire.gov.uk/news/article/4571/new-timetables-coming-soon-to-warwickshire-s- mobile-libraries 45	 Sustainable Bus (2018) Electric buses, including costs on climate and health, are cheaper than diesel. From: https://www.sustainable-bus.com/news/taking-into-account-external-costs-health-and-climate-electric- buses-already-offer-a-lower-tco-than-diesel/ 46	 Proctor, D. (2021) Mobile libraries scrapped in favour of home deliveries. Press & Journal. From: https://www. pressandjournal.co.uk/fp/education/schools/3542988/mobile-libraries-scrapped-in-favour-of-home- deliveries/ 47	 Warwickshire County Council (2023). Warwickshire Libraries unveils service’s first electric-powered vehicle at celebration event for library volunteers. From: https://www.warwickshire.gov.uk/news/article/4794/ warwickshire-libraries-unveils-service-s-first-electric-powered-vehicle-at-celebration-event-for-library- volunteers <!-- PAGE: 33 --> A new small electric van was recently procured in East Dunbartonshire48 with a grant from the Scottish Government Public Library Covid Relief Fund, to help reconnect libraries with their communities. The new library van is specifically for children and family engagement. The Wee Green Library takes books to primary schools and community groups, and also transports materials for craft workshops and classes. Outside of these activities it supports the local libraries, for example, moving books between branches to fulfil customer requests.
 
@@ -788,7 +824,10 @@ Mobile library services have health, social, cultural, and learning impacts, and
 
 Whilst the Scottish Government has a commitment to decarbonise the public sector car fleet by 202554, it would be beneficial if funding could be allocated to update and decarbonise the mobile library fleet as well.
 
-52	 Neat Vehicles (n.d.) Essex County Council Mobile Library Vehicles. From https://www.neatvehicles.com/our- products/essex-county-council-mobile-library-vehicles/ 53	 Iveco (2021) Kent County Council takes delivery of five new IVECO Daily 7.2 tonne mobile libraries to modernise its fleet. From: https://www.iveco.com/uk/press-room/release/Pages/Kent-County-Council-takes-delivery-of- five-new-IVECO-Daily-7-2-tonne-mobile-libraries-to-modernise-its-fleet.aspx 54	 Scottish Government (2021) Climate Change: Leadership in the public sector. From: https://www.gov.scot/ policies/climate-change/decarbonisation-in-the-public-sector/ <!-- PAGE: 35 --> Costs of mobile library provision <!-- PAGE: 36 --> 6  Costs of mobile library provision
+52	 Neat Vehicles (n.d.) Essex County Council Mobile Library Vehicles. From https://www.neatvehicles.com/our- products/essex-county-council-mobile-library-vehicles/ 53	 Iveco (2021) Kent County Council takes delivery of five new IVECO Daily 7.2 tonne mobile libraries to modernise its fleet. From: https://www.iveco.com/uk/press-room/release/Pages/Kent-County-Council-takes-delivery-of- five-new-IVECO-Daily-7-2-tonne-mobile-libraries-to-modernise-its-fleet.aspx 54	 Scottish Government (2021) Climate Change: Leadership in the public sector. From: https://www.gov.scot/ policies/climate-change/decarbonisation-in-the-public-sector/ <!-- PAGE: 35 -->
+
+![Mobile library visiting remote community](assets/figure-p35.jpg)
+ Costs of mobile library provision <!-- PAGE: 36 --> 6  Costs of mobile library provision
 
 It’s difficult to produce definite costs of a mobile library service, as the situation varies across Scotland. Some are 100% council funded and operated, some are delivered by the trust but the council pays for the vehicle, some are funded fully by the trust, some receive external project funding for some of the staff time.
 
@@ -807,6 +846,9 @@ Survey evidence indicates that lack of funding is one of the main reasons why mo
 55	 Brown, G. (2018) New Angus mobile libraries lined up at cost of £270,000. The Courier. From https://www. thecourier.co.uk/fp/news/angus-mearns/639833/new-angus-mobile-libraries-lined-up-at-cost-of-270000/ 56	 OnFife (2021) Welcome aboard Fife’s new mobile libraries. From: https://www.onfife.com/2021/12/08/welcome- aboard-fifes-new-mobile-libraries/ 57	 Marjoribanks, K. (2019) Van-tastic mobile libraries hit roads: Ageing vehicles replaced, Stirling Observer (Scotland), 7 Jun, p. 5, (online NewsBank).
 
 <!-- PAGE: 37 -->
+
+![Mobile library vehicle maintenance and charging](assets/figure-p37.jpg)
+
 
 Unfortunately for Scottish public library services, “Covid-19 has impacted on capital projects and volatility in capital funding allocations could affect councils’ recovery and investment plans”.58 In addition, public library services have seen a 29 per cent reduction in spend 2010/11 to 2020/21, yet the same period saw a 42 per cent growth in visit numbers (physical and virtual visits).59
 
@@ -840,7 +882,10 @@ With many Scottish councils facing financial difficulty, replacing or even maint
 
 The Isle of Man also recently lost funding for its mobile library service. This is now delivered by a charity with one vehicle visiting rural communities across the island. The charity also operates a home delivery service from a smaller van.66
 
-64	 Libraries Unlimited (2022) New mobile library connects rural communities in the South Hams and West Devon. From: https://www.librariesunlimited.org.uk/news/new-mobile-library-connects-rural-communities-in-the- south-hams-and-west-devon/ 65	 Mid Devon Advertiser (2023) Devon County Council’s new drive to create bespoke community libraries. From: https://www.middevonadvertiser.co.uk/news/devon-county-councils-new-drive-to-create-bespoke- community-libraries-649437 66	 Family Library (n.d.) Mobile Service. From: https://www.familylibrary.im/mobile 67	 Mid Devon Advertiser (2023) Devon County Council’s new drive to create bespoke community libraries. From: https://www.middevonadvertiser.co.uk/news/devon-county-councils-new-drive-to-create-bespoke- community-libraries-649437 68	 Transport Engineer (2022) On a charge – the economics of electric buses. From: https://www.transportengineer. org.uk/transport-engineer-features/on-a-charge-the-economics-of-electric-buses/246924/ <!-- PAGE: 39 --> Benefits and strategic fit of mobile libraries <!-- PAGE: 40 --> 7  Benefits and strategic fit of mobile libraries
+64	 Libraries Unlimited (2022) New mobile library connects rural communities in the South Hams and West Devon. From: https://www.librariesunlimited.org.uk/news/new-mobile-library-connects-rural-communities-in-the- south-hams-and-west-devon/ 65	 Mid Devon Advertiser (2023) Devon County Council’s new drive to create bespoke community libraries. From: https://www.middevonadvertiser.co.uk/news/devon-county-councils-new-drive-to-create-bespoke- community-libraries-649437 66	 Family Library (n.d.) Mobile Service. From: https://www.familylibrary.im/mobile 67	 Mid Devon Advertiser (2023) Devon County Council’s new drive to create bespoke community libraries. From: https://www.middevonadvertiser.co.uk/news/devon-county-councils-new-drive-to-create-bespoke- community-libraries-649437 68	 Transport Engineer (2022) On a charge – the economics of electric buses. From: https://www.transportengineer. org.uk/transport-engineer-features/on-a-charge-the-economics-of-electric-buses/246924/ <!-- PAGE: 39 -->
+
+![Mobile library books and resources](assets/figure-p39.jpg)
+ Benefits and strategic fit of mobile libraries <!-- PAGE: 40 --> 7  Benefits and strategic fit of mobile libraries
 
 The many benefits of mobile library services were set out in Libraries on the Move. These include positive impacts on social and community engagement, health and wellbeing, learning and development, children and families, rural life, culture and leisure, finances and independence. Loneliness and social isolation are particularly important, especially as they are key priorities of the Scottish Government. The government’s strategy, Recovering our Connections 2023 to 2026,69 references libraries through supporting Forward.
 
@@ -925,6 +970,9 @@ They are therefore a key element for many library services in contributing towar
 73	 SLIC (2021) Forward: Scotland’s Public Library Strategy 2021-2025. From: https://scottishlibraries.org/advice- guidance/national-strategies/forward-scotlands-public-library-strategy/ 74	 Gordon, J. et al (2023) Libraries for living, and for living better: The value and impact of public libraries in the East of England. UEA Publishing Project. From: https://www.ueapublishingproject.com/ A report for Libraries Connected East, see p.18 and p.71.
 
 <!-- PAGE: 43 -->
+
+![Mobile library route and community stop](assets/figure-p43.jpg)
+
 
 Rural and island communities <!-- PAGE: 44 --> 8  Rural and island communities
 
@@ -1013,6 +1061,9 @@ Communities in rural and island areas of Scotland are ageing at a faster rate th
 Most of the Scottish mobile libraries operate in accessible rural and remote rural areas, including the islands. This poses challenges because such areas are by their nature, low in population, and as a result cost per use for the mobiles tends to be high on paper. But with higher living costs, people living in rural and island areas may depend more on mobile library services than other people, and for equality of opportunities, these services may be seen as vital for many.
 
 <!-- PAGE: 48 -->
+
+![Mobile library staff and customer interactions](assets/figure-p48.jpg)
+
 
 Alternatives to mobile libraries <!-- PAGE: 49 --> 9  Alternatives to mobile libraries
 
@@ -1108,7 +1159,10 @@ Although third party private services, or additional council services, could wor
 
 With many rural areas losing banking and post office services, is there scope to have a combined public service with a private company? A funding agreement could be established whereby the bank or post office could pay for being able to conduct business on the mobiles, accessing customers in areas where there may be little or no banking or post office provision. Although this could make mobile libraries more financially viable, it again depends on enough space and internet connectivity for the services to operate, and so would be currently impossible for most of the mobiles to offer.
 
-98	 Neat Vehicles (n.d.) Essex County Council Mobile Library Vehicles. From https://www.neatvehicles.com/our- products/essex-county-council-mobile-library-vehicles/ <!-- PAGE: 54 --> Impacts of changes to provision <!-- PAGE: 55 --> 10  Impacts of changes to provision
+98	 Neat Vehicles (n.d.) Essex County Council Mobile Library Vehicles. From https://www.neatvehicles.com/our- products/essex-county-council-mobile-library-vehicles/ <!-- PAGE: 54 -->
+
+![Mobile library stopping in rural area](assets/figure-p54.jpg)
+ Impacts of changes to provision <!-- PAGE: 55 --> 10  Impacts of changes to provision
 
 Most respondents to the survey indicated that they haven’t gathered evidence of any impact of change to the mobile library service. This may be because the pandemic caused a lot of upheaval and services have only in the last year or so been able to return to normal. But as noted in section 4, there is a danger that if users aren’t consulted about changes and the potential or actual impacts gathered, councils could be at risk of failing equalities duties.
 
@@ -1134,7 +1188,10 @@ Another impact of the loss of a mobile vehicle noted by services includes increa
 
 Given the number of mobile vehicles discontinued in the last five years it’s disappointing there is not much rigorous evidence of the potential and actual impact on people from the loss of the mobile service. This could be useful at a local level for planning alternative services, as well as helping inform national discussions and help other library services minimise any impact of loss of service.
 
-100	Powys County Council (2021) Transformation of mobile library service into an outreach and housebound model. From: https://powys.moderngov.co.uk/documents/s66432/Mobile%20library%20transformation%20paper%20FINAL.pdf <!-- PAGE: 57 --> Recommendations for the future <!-- PAGE: 58 --> 11  Recommendations for the future
+100	Powys County Council (2021) Transformation of mobile library service into an outreach and housebound model. From: https://powys.moderngov.co.uk/documents/s66432/Mobile%20library%20transformation%20paper%20FINAL.pdf <!-- PAGE: 57 -->
+
+![Mobile library community users](assets/figure-p57.jpg)
+ Recommendations for the future <!-- PAGE: 58 --> 11  Recommendations for the future
 
 The recommendations below fall into two broad categories: marketing and management at the local level, and investment and strategic oversight at the national level.
 
@@ -1155,6 +1212,9 @@ The recommendations below fall into two broad categories: marketing and manageme
 
 <!-- PAGE: 59 -->
 
+![Mobile library service overview](assets/figure-p59.jpg)
+
+
 Conclusion <!-- PAGE: 60 --> 12  Conclusion
 
 Public access mobile library vehicles help achieve local and national objectives including equality, opportunity and community – the key components of the current Programme for Government in Scotland.
@@ -1171,7 +1231,9 @@ Mobile libraries are a remarkable blend of people and public space – a recipe 
 
 But, despite all their strengths, mobile libraries are vulnerable to funding cuts, often because they look expensive on a cost per use basis which doesn’t take into account additional benefits of using them. Unfortunately older vehicles are increasingly being discontinued without replacement. Funding to replace ageing vehicles is probably the biggest challenge most mobile library services are currently facing.
 
-Image: Perth and Kinross mobile at Rannoch Moor, with a new type of customer <!-- PAGE: 61 --> Acknowledgements
+![Perth and Kinross mobile at Rannoch Moor](assets/figure-p60-perth-kinross-rannoch-moor.jpg)
+
+*Image: Perth and Kinross mobile at Rannoch Moor, with a new type of customer* <!-- PAGE: 61 --> Acknowledgements
 
 This report would not have been possible without the time and input from library services who responded to the survey, and the follow up interviews. I am very grateful for the staff time and effort taken to complete the survey. I’m also grateful to SLIC for provision of additional information.
 

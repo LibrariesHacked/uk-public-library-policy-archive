@@ -26,6 +26,9 @@ review_level: "reviewed"
 
 <!-- PAGE: 1 -->
 
+![Libraries on the Move: The impact of mobile library services in Scotland](assets/cover.jpg)
+
+
 # Libraries on the Move: The Impact of Mobile Library Services in Scotland
 
 **Dr Alyson Tyler**  
@@ -34,7 +37,10 @@ review_level: "reviewed"
 
 ---
 
-The impact of mobile library services in Scotland LIBRARIES ON THE MOVE <!-- PAGE: 2 --> <!-- PAGE: 3 -->
+The impact of mobile library services in Scotland LIBRARIES ON THE MOVE <!-- PAGE: 2 -->
+
+![Aberdeenshire mobile library in winter](assets/figure-p02.jpg)
+ <!-- PAGE: 3 -->
 
 Contents
 
@@ -66,7 +72,10 @@ Dr Alyson Tyler
 
 @DrAlysonTyler
 
-alysontyler-research.uk <!-- PAGE: 4 --> ## 1  Executive summary
+alysontyler-research.uk <!-- PAGE: 4 -->
+
+![Mobile library van](assets/figure-p04.jpg)
+ ## 1  Executive summary
 
 This report was commissioned by the Scottish Library and Information Council (SLIC) in October 2018 and undertaken during approximately a two month period. The overall purpose of the research was to gather evidence on the use and impact of mobile libraries.
 
@@ -179,6 +188,9 @@ The International Federation of Library Associations and Institutions (IFLA) sta
 The survey for users focused on questions which would elicit evidence of impact on their lives. The survey was distributed by library services and also featured in a press release issued in November 2018. A total of 277 online responses were received before the deadline, and 63 paper copies were sent in by local authorities, bringing the total to 340 responses. Responses were received from residents of 21 local authorities.
 
 <!-- PAGE: 7 -->
+
+![Mobile library van in rural setting](assets/figure-p07.jpg)
+
 
 The overall objective of a mobile
 
@@ -428,7 +440,10 @@ Average collection size
 
 c.2500
 
-ITEMS <!-- PAGE: 14 --> ### 3.2 Other countries
+ITEMS <!-- PAGE: 14 -->
+
+![Mobile library interior](assets/figure-p14.jpg)
+ ### 3.2 Other countries
 
 3.2.1 Northern Ireland In Northern Ireland public libraries are overseen and delivered by Libraries NI. The merger of the previous five education and library boards into one body led to inherited differences of provision across the country and so a review of mobile library provision was undertaken in 2011. The consultation and strategic review led to a new strategy for mobile libraries.13 The main findings of the review, and the basis for their future focus were that:
 
@@ -470,7 +485,10 @@ there is scope to learn
 
 from their successes.
 
-Mobile library links have been forged by one authority (Highland) with Austria through a request from Austria to learn from Scotland. An exchange <!-- PAGE: 16 --> A 2015 review of mobile and outreach library services in New South Wales in Australia found that they fulfil an important social need as a meeting place and distribution point for local community information.19 The New South Wales report lists some of the challenges facing mobile libraries, a number of which are similar for Scotland and the rest of the UK:
+Mobile library links have been forged by one authority (Highland) with Austria through a request from Austria to learn from Scotland. An exchange <!-- PAGE: 16 -->
+
+![Mobile library van side view](assets/figure-p16.jpg)
+ A 2015 review of mobile and outreach library services in New South Wales in Australia found that they fulfil an important social need as a meeting place and distribution point for local community information.19 The New South Wales report lists some of the challenges facing mobile libraries, a number of which are similar for Scotland and the rest of the UK:
 
 * increasing costs, in particular fuel and maintenance
 
@@ -488,7 +506,10 @@ Mobile library links have been forged by one authority (Highland) with Austria t
 
 Despite this list, the review recognises the benefits of mobile libraries and different outreach models and includes recommended guidelines and performance indicators for such services.
 
-Mobile library guidelines are also included in New Zealand’s public library standards, with a chapter covering matters such as management, the viability of stops (50 loans an hour minimum), the maximum daily distance to be travelled (200km), stock, staffing, equipment, marketing and performance indicators for issues, customer satisfaction, enquiries, visits and issues per stop.21 <!-- PAGE: 17 --> <!-- PAGE: 18 -->
+Mobile library guidelines are also included in New Zealand’s public library standards, with a chapter covering matters such as management, the viability of stops (50 loans an hour minimum), the maximum daily distance to be travelled (200km), stock, staffing, equipment, marketing and performance indicators for issues, customer satisfaction, enquiries, visits and issues per stop.21 <!-- PAGE: 17 -->
+
+![Mobile library interior bookshelves](assets/figure-p17.jpg)
+ <!-- PAGE: 18 -->
 
 ## 4  The impact and difference made by mobile libraries
 
@@ -725,6 +746,9 @@ Several users referred to the mobile library as a “lifeline”. One example wa
 “My family and I have become more confident and our communication has got stronger and it’s brought us together to have things to talk about rather than the TV.” (Western Isles, 20s, F)
 
 <!-- PAGE: 25 -->
+
+![Mobile library exterior with community user](assets/figure-p25.jpg)
+
 
 <!-- PAGE: 26 -->
 
@@ -988,7 +1012,10 @@ Computers/ICT
 
 audio books)
 
-Base: 277 online respondents <!-- PAGE: 33 --> In general, the majority of mobile library users tend to be older, mostly retired people, and young families with children. There are also generally more female users than male. They may also have health or mobility issues and may find accessing other services difficult. Public libraries pride themselves on their inclusive nature, so it is worth considering if there are any other groups who are perhaps under represented among mobile library users. For example, do any mobile services visit Gypsy/Traveller communities?
+Base: 277 online respondents <!-- PAGE: 33 -->
+
+![Mobile library stopping at rural community](assets/figure-p33.jpg)
+ In general, the majority of mobile library users tend to be older, mostly retired people, and young families with children. There are also generally more female users than male. They may also have health or mobility issues and may find accessing other services difficult. Public libraries pride themselves on their inclusive nature, so it is worth considering if there are any other groups who are perhaps under represented among mobile library users. For example, do any mobile services visit Gypsy/Traveller communities?
 
 ### 6.7 Costs and benefits
 
@@ -1027,6 +1054,9 @@ One service noted that although alternatives were implemented, such as the home 
 Although there was a significant level of resistance to e-books, several users said they would possibly use e-books instead. Library services could promote their free e-books services more to mobile library users, especially as some appear not to be aware that public libraries offer free e-books, e-audio books and e-magazines. This may help some people when they’ve missed the mobile or it has been unable to call for whatever reason. However, several noted that with poor internet connectivity locally, they would struggle to download e-books.
 
 <!-- PAGE: 35 -->
+
+![Mobile library van in scenic Scottish landscape](assets/figure-p35.jpg)
+
 
 <!-- PAGE: 36 -->
 
@@ -1104,6 +1134,9 @@ There is potential with open data to create more accessible information about mo
 
 <!-- PAGE: 39 -->
 
+![Mobile library digital and technology services](assets/figure-p39.jpg)
+
+
 mapping has been created by Libraries Hacked, for example for Somerset Libraries.67
 
 There is potential with open data to create more
@@ -1153,6 +1186,9 @@ changes to the mobile library service, open conversations should be held early o
 * SLIC to consider creating a Scottish mobile library video, using figures from this research, for advocacy purposes.
 
 <!-- PAGE: 41 -->
+
+![Mobile library community visit](assets/figure-p41.jpg)
+
 
 ### 9.3 Strategic planning
 
@@ -1212,7 +1248,10 @@ At a time when many public and private services are contracting from rural and r
 
 “It really is a life line for the older people, people without cars and young children who can’t easily get into branches, for the disabled or those just not feeling well enough to go too far. It is a rare point of human contact as well as a gateway for exploring books” (Stirling, 60s F)
 
-These questions raise issues that need discussing at local and national level with policy makers and funders. The mobile library service is hugely valued and has beneficial impacts in many different ways, yet it is often little known about and under-utilised. As a result it is often vulnerable when budgets <!-- PAGE: 43 --> “Being disabled and semi-housebound the mobile library makes life so much easier for me.... the mobile is a vital part of my life.” (Scottish Borders, 70s, M)
+These questions raise issues that need discussing at local and national level with policy makers and funders. The mobile library service is hugely valued and has beneficial impacts in many different ways, yet it is often little known about and under-utilised. As a result it is often vulnerable when budgets <!-- PAGE: 43 -->
+
+![Mobile library on rural route](assets/figure-p43.jpg)
+ “Being disabled and semi-housebound the mobile library makes life so much easier for me.... the mobile is a vital part of my life.” (Scottish Borders, 70s, M)
 
 “I wait to see the yellow van wind its way down the s-bend hill and know it is full of treats. It lifts my spirits and makes me smile.” (Western Isles, 60s, F)
 
@@ -1358,7 +1397,10 @@ These questions raise issues that need discussing at local and national level wi
 
 67 Libraries Hacked (n.d.) https://librarieshacked.org/projects
 
-68 Traffic Scotland (n.d.) https://trafficscotland.org/wintergritterinfo/ <!-- PAGE: 47 --> Thanks to the following library services for supplying images of their mobile library vans: Aberdeenshire Council; Culture North Lanarkshire Ltd; Culture Perth & Kinross; East Ayrshire Leisure; City of Edinburgh Council; High Life Highland; Live Borders; Moray Council; North Ayrshire Council; Orkney Library; Shetland Library; West Dunbartonshire Council.
+68 Traffic Scotland (n.d.) https://trafficscotland.org/wintergritterinfo/ <!-- PAGE: 47 -->
+
+![Montage of mobile library vans from across Scotland: Aberdeenshire, North Lanarkshire, Perth & Kinross, East Ayrshire, Edinburgh, High Life Highland, Live Borders, Moray, North Ayrshire, Orkney, Shetland, West Dunbartonshire](assets/figure-p47-mobile-vans.jpg)
+ Thanks to the following library services for supplying images of their mobile library vans: Aberdeenshire Council; Culture North Lanarkshire Ltd; Culture Perth & Kinross; East Ayrshire Leisure; City of Edinburgh Council; High Life Highland; Live Borders; Moray Council; North Ayrshire Council; Orkney Library; Shetland Library; West Dunbartonshire Council.
 
 <!-- PAGE: 48 -->
 
