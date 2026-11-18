@@ -1,0 +1,25 @@
+# Acquisition Record
+
+id: lic-building-the-new-library-network-1998
+acquired_date: "2026-11-18"
+acquisition_method: "web-archive-harvest"
+acquired_by: "Antigravity"
+
+source:
+  url: "https://web.archive.org/web/20030411002555/http://www.lic.gov.uk/publications/policyreports/building/"
+  publisher: "Library and Information Commission"
+  access_date: "2026-11-18"
+
+files:
+  - path: "source/maindoc.pdf"
+    size: 440247
+    sha256: "53cd91b8f94dda871f9a6b0ad255ddea00e59045a0ad8d07760d38f6c195535d"
+    mime_type: "application/pdf"
+  - path: "source/appendix.pdf"
+    size: 592257
+    sha256: "4b927b22c164606d489231e8bbbe0c032bb47288825c569251cd966162ee17e2"
+    mime_type: "application/pdf"
+  - path: "source/tgpre.pdf"
+    size: 12802
+    sha256: "7ed2ccd7cf2591103b5b8bb0aa48b0e9eb6df4c1433b893c877532b14b22b8bb"
+    mime_type: "application/pdf"

@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: lic-building-the-new-library-network-1998
+title: "Building the New Library Network"
+subtitle: "A Report to Government"
+creators:
+  - "Library and Information Commission"
+publisher: "Library and Information Commission"
+publication_date: "1998-10-01"
+year: 1998
+publication_place: "London"
+country: "United Kingdom"
+language: "en"
+document_type: "strategy"
+pages: 134
+identifier: null
+isbn: "1 902394 03 8"
+issn: null
+series: null
+edition: null
+source_url: "https://web.archive.org/web/20030411002555/http://www.lic.gov.uk/publications/policyreports/building/"
+source_pdf: "source/maindoc.pdf"
+rights: "© Library and Information Commission 1998. Open Government Licence / Crown copyright terms."
+review_level: "reviewed"

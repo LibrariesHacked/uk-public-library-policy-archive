@@ -469,3 +469,16 @@ reports:
     review_level: "reviewed"
     fictional_sample: false
     notes: "Annual report presented to Parliament pursuant to Section 17 of the Public Libraries and Museums Act 1964 covering superintendence, library participation survey statistics, formal complaints, byelaws, and the Libraries Improvement Fund."
+
+  - id: lic-building-the-new-library-network-1998
+    title: "Building the New Library Network"
+    subtitle: "A Report to Government"
+    year: 1998
+    publisher: "Library and Information Commission"
+    country: "United Kingdom"
+    document_type: "strategy"
+    pages: 134
+    path: "archive/reports/lic-building-the-new-library-network-1998"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Follow-up implementation report and costed blueprint to New Library: The People's Network (1997), produced by the Library and Information Commission for DCMS and the New Opportunities Fund, establishing detailed frameworks for digital content creation (£50m), ICT librarian training (£20m), and network infrastructure."

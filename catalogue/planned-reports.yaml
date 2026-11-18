@@ -64,8 +64,8 @@ planned_reports:
     country: "United Kingdom"
     category: "ENGLAND"
     document_type: "strategy"
-    verified: false
-    status: planned
+    verified: true
+    status: archived
 
   - id: dcms-libraries-for-all-1999
     title: "Libraries for All: Social Inclusion in Public Libraries"
