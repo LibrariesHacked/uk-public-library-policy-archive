@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england"
+source_pdf_url: "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:c2c72aa5d07e26d33ec00e46e8129b43b723281bb5336a18a82358096338cbbf"
+pdf_sha256: "c2c72aa5d07e26d33ec00e46e8129b43b723281bb5336a18a82358096338cbbf"
+download_method: "govuk-content-api-harvest"
+conversion_method: "html-govspeak-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

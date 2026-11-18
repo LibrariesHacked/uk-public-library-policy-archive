@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund"
+source_pdf_url: "https://www.gov.uk/government/publications/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:7ae74de78aa0c7650c5c23659108c39c25b948884dadd71c6df50de4408f63e1"
+pdf_sha256: "7ae74de78aa0c7650c5c23659108c39c25b948884dadd71c6df50de4408f63e1"
+download_method: "govuk-content-api-harvest"
+conversion_method: "html-govspeak-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

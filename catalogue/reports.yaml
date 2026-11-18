@@ -703,3 +703,34 @@ reports:
     governing public library services under the Public Libraries and Museums Act 1964,
     ministerial superintendence duties, handling of representations, and learning
     from the Wirral inquiry.
+- id: dcms-community-managed-libraries-research-2017
+  title: Research and Analysis to Explore the Service Effectiveness and Sustainability
+    of Community Managed Libraries in England
+  subtitle: Research Report Prepared for the Department for Culture, Media and Sport
+    and the Libraries Taskforce
+  year: 2017
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: research
+  pages: 1
+  path: archive/reports/dcms-community-managed-libraries-research-2017
+  review_level: reviewed
+  fictional_sample: false
+  notes: Major research and analysis report commissioned by DCMS and the Libraries
+    Taskforce to examine the effectiveness, governance models, service quality, and
+    financial sustainability of community managed libraries across England.
+- id: dcms-lofe-innovation-fund-evaluation-2018
+  title: 'Evaluation of the Libraries: Opportunities for Everyone Innovation Fund'
+  subtitle: Final Evaluation Report on the £4 Million Fund Supporting Public Library
+    Projects Across England
+  year: 2018
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: evaluation
+  pages: 1
+  path: archive/reports/dcms-lofe-innovation-fund-evaluation-2018
+  review_level: reviewed
+  fictional_sample: false
+  notes: 'Comprehensive evaluation of the £4 million Libraries: Opportunities for
+    Everyone (LOFE) innovation fund, assessing outcomes across disadvantaged communities,
+    digital skills, cultural engagement, and health and wellbeing.'

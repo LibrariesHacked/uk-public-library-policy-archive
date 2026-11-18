@@ -1,0 +1,27 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-lofe-innovation-fund-evaluation-2018
+title: "Evaluation of the Libraries: Opportunities for Everyone Innovation Fund"
+subtitle: "Final Evaluation Report on the £4 Million Fund Supporting Public Library Projects Across England"
+creators:
+  - "Department for Culture, Media and Sport"
+  - "Arts Council England"
+  - "Libraries Taskforce"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2018-11-08"
+year: 2018
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "evaluation"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund"
+source_pdf: "source/report.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

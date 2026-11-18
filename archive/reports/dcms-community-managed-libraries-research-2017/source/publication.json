@@ -1,0 +1,450 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+  "content_id": "8c5fbafd-84bd-48e7-b23c-0583b4f20b39",
+  "description": "Research and analysis into community managed libraries in England conducted by SERIO",
+  "details": {
+    "attachments": [
+      {
+        "attachment_type": "html",
+        "command_paper_number": "",
+        "hoc_paper_number": "",
+        "id": "2602120",
+        "isbn": "",
+        "title": "Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England",
+        "unique_reference": "",
+        "unnumbered_command_paper": false,
+        "unnumbered_hoc_paper": false,
+        "url": "/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england"
+      },
+      {
+        "accessible": false,
+        "alternative_format_contact_email": "enquiries@dcms.gov.uk",
+        "assets": [
+          {
+            "asset_manager_id": "5a74be33ed915d502d6caa06",
+            "filename": "Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf"
+          }
+        ],
+        "attachment_type": "file",
+        "command_paper_number": "",
+        "content_type": "application/pdf",
+        "file_size": 2257348,
+        "filename": "Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf",
+        "hoc_paper_number": "",
+        "id": "2602121",
+        "isbn": "",
+        "number_of_pages": 172,
+        "title": "Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England",
+        "unique_reference": "",
+        "unnumbered_command_paper": false,
+        "unnumbered_hoc_paper": false,
+        "url": "https://assets.publishing.service.gov.uk/media/5a74be33ed915d502d6caa06/Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf"
+      },
+      {
+        "accessible": false,
+        "alternative_format_contact_email": "enquiries@dcms.gov.uk",
+        "assets": [
+          {
+            "asset_manager_id": "5a81ff4fe5274a2e8ab56f3b",
+            "filename": "Charts_for_Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf"
+          }
+        ],
+        "attachment_type": "file",
+        "command_paper_number": "",
+        "content_type": "application/pdf",
+        "file_size": 2573743,
+        "filename": "Charts_for_Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf",
+        "hoc_paper_number": "",
+        "id": "2602122",
+        "isbn": "",
+        "number_of_pages": 24,
+        "title": "Charts in Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England",
+        "unique_reference": "",
+        "unnumbered_command_paper": false,
+        "unnumbered_hoc_paper": false,
+        "url": "https://assets.publishing.service.gov.uk/media/5a81ff4fe5274a2e8ab56f3b/Charts_for_Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf"
+      }
+    ],
+    "body": "<div class=\"govspeak\"><p>This research was commissioned by the Department for Digital, Culture, Media and Sport (DCMS) and the Libraries Taskforce and conducted by SERIO and Insight with Plymouth University.</p>\n\n<p>DCMS, the Libraries Taskforce and SERIO would like to thank all community managed libraries and stakeholders who provided their time and knowledge for taking part in this research.</p>\n</div>",
+    "change_history": [
+      {
+        "note": "First published.",
+        "public_timestamp": "2017-09-05T09:32:00Z"
+      }
+    ],
+    "document_type_label": "Research",
+    "documents": [
+      "<section data-module=\"ga4-link-tracker\" class=\"gem-c-attachment govuk-!-margin-bottom-6\">\n  <div class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\">\n    <a class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;attachment&quot;}\" href=\"/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england\">\n        <svg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--html\" version=\"1.1\" viewBox=\"0 0 99 140\" width=\"99\" height=\"140\" aria-hidden=\"true\">\n  <path d=\"M30,95h57v9H30V95z M30,77v9h39v-9H30z M30,122h48v-9H30V122z M12,68h9v-9h-9V68z M12,104h9v-9h-9V104z M12,86h9v-9h-9V86z M12,122h9v-9h-9V122z M87,12v27H12V12H87z M33,17h-4v8h-6v-8h-4v18h4v-7l6,0v7l4,0V17z M49,17H35l0,3h5v15h4V20l5,0V17z M68,17h-4 l-5,6l-5-6h-4v18h4l0-12l5,6l5-6l0,12h4V17z M81,32h-6V17h-4v18h10V32z M30,68h57v-9H30V68z\" stroke-width=\"0\" />\n</svg>\n\n</a></div>\n  <div class=\"gem-c-attachment__details\">\n    <h2 class=\"gem-c-attachment__title\">\n      <a class=\"govuk-link\" target=\"_self\" data-ga4-link=\"{&quot;event_name&quot;:&quot;navigation&quot;,&quot;type&quot;:&quot;attachment&quot;}\" href=\"/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england\">Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England</a>\n</h2>\n\n\n      <p class=\"gem-c-attachment__metadata\"><span class=\"gem-c-attachment__attribute\">HTML</span></p>\n\n\n\n\n</div></section>",
+      "<section data-module=\"ga4-link-tracker\" class=\"gem-c-attachment govuk-!-margin-bottom-6\">\n  <div class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\">\n    <a class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\"{&quot;event_name&quot;:&quot;file_download&quot;,&quot;type&quot;:&quot;attachment&quot;}\" href=\"https://assets.publishing.service.gov.uk/media/5a74be33ed915d502d6caa06/Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf\">\n        <svg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--pdf\" version=\"1.1\" viewBox=\"0 0 99 140\">\n  <path d=\"M12,59h9v9h-9v-9ZM30,77v9h39v-9H30ZM30,104h57v-9H30v9ZM30,122h48v-9H30v9ZM12,86h9v-9h-9v9ZM12,122h9v-9h-9v9ZM12,104h9v-9h-9v9ZM30,68h57v-9H30v9ZM35.2,21c-.3-.2-.6-.4-1-.5s-.8-.2-1.3-.2h-2.6v5.5h2.6c.5,0,1,0,1.3-.2s.7-.3,1-.5c.3-.2.5-.5.7-.8s.2-.7.2-1.1h0c0-.5,0-.9-.2-1.2-.2-.3-.4-.6-.7-.8h0ZM52.4,21.9c-.4-.5-1-.9-1.6-1.1-.7-.3-1.5-.4-2.4-.4h-2.7v11.5h2.7c.9,0,1.7-.1,2.4-.4s1.2-.7,1.6-1.1c.4-.5.7-1.1.9-1.7.2-.7.3-1.4.3-2.1v-.7c0-.8,0-1.5-.3-2.1-.2-.6-.5-1.2-.9-1.7h0ZM87,12v27H12V12h75ZM39.8,23c0-.9-.1-1.6-.4-2.4-.3-.7-.7-1.4-1.2-1.9-.5-.5-1.2-1-1.9-1.2-.8-.3-1.6-.5-2.5-.5h-7.2v17.9h3.6v-6h3.2c.9,0,1.8-.1,2.6-.5.8-.3,1.4-.7,2-1.2.5-.5,1-1.2,1.3-1.9.3-.7.5-1.5.5-2.4h0ZM57.4,26c0-1.3-.2-2.6-.5-3.7s-.9-2-1.6-2.8c-.7-.8-1.6-1.4-2.7-1.8-1.1-.4-2.3-.6-3.8-.6h-6.6v17.9h6.6c1.5,0,2.7-.2,3.8-.6,1.1-.4,2-1,2.7-1.8.7-.8,1.3-1.7,1.6-2.8.4-1.1.5-2.3.5-3.7h0ZM72.4,17.1h-12.1v17.9h3.6v-7.5h7.8v-3.3h-7.8v-3.8h8.4s0-3.3,0-3.3Z\" />\n</svg>\n\n</a></div>\n  <div class=\"gem-c-attachment__details\">\n    <h2 class=\"gem-c-attachment__title\">\n      <a class=\"govuk-link\" target=\"_self\" data-ga4-link=\"{&quot;event_name&quot;:&quot;file_download&quot;,&quot;type&quot;:&quot;attachment&quot;}\" href=\"https://assets.publishing.service.gov.uk/media/5a74be33ed915d502d6caa06/Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf\">Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England</a>\n</h2>\n\n\n      <p class=\"gem-c-attachment__metadata\"><span class=\"gem-c-attachment__attribute\"><abbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\">PDF</abbr></span>, <span class=\"gem-c-attachment__attribute\">2.15 MB</span>, <span class=\"gem-c-attachment__attribute\">172 pages</span></p>\n\n\n\n\n      <p class=\"gem-c-attachment__metadata\">This file may not be suitable for users of assistive technology.</p>\n      <details data-module=\"ga4-event-tracker\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;detail&quot;,&quot;text&quot;:&quot;Request an accessible format.&quot;,&quot;section&quot;:&quot;Request an accessible format.&quot;,&quot;index_section&quot;:1}\" class=\"gem-c-details govuk-details govuk-!-margin-bottom-0\" title=\"Request an accessible format.\">\n  <summary class=\"govuk-details__summary\">\n    <span class=\"govuk-details__summary-text\"  data-ga4-expandable>\n      Request an accessible format.\n    </span>\n</summary>  <div class=\"govuk-details__text\">\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href='mailto:enquiries@dcms.gov.uk' target='_blank' class='govuk-link'>enquiries@dcms.gov.uk</a>. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  </div>\n</details></div></section>",
+      "<section data-module=\"ga4-link-tracker\" class=\"gem-c-attachment govuk-!-margin-bottom-6\">\n  <div class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\">\n    <a class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\"{&quot;event_name&quot;:&quot;file_download&quot;,&quot;type&quot;:&quot;attachment&quot;}\" href=\"https://assets.publishing.service.gov.uk/media/5a81ff4fe5274a2e8ab56f3b/Charts_for_Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf\">\n        <svg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--pdf\" version=\"1.1\" viewBox=\"0 0 99 140\">\n  <path d=\"M12,59h9v9h-9v-9ZM30,77v9h39v-9H30ZM30,104h57v-9H30v9ZM30,122h48v-9H30v9ZM12,86h9v-9h-9v9ZM12,122h9v-9h-9v9ZM12,104h9v-9h-9v9ZM30,68h57v-9H30v9ZM35.2,21c-.3-.2-.6-.4-1-.5s-.8-.2-1.3-.2h-2.6v5.5h2.6c.5,0,1,0,1.3-.2s.7-.3,1-.5c.3-.2.5-.5.7-.8s.2-.7.2-1.1h0c0-.5,0-.9-.2-1.2-.2-.3-.4-.6-.7-.8h0ZM52.4,21.9c-.4-.5-1-.9-1.6-1.1-.7-.3-1.5-.4-2.4-.4h-2.7v11.5h2.7c.9,0,1.7-.1,2.4-.4s1.2-.7,1.6-1.1c.4-.5.7-1.1.9-1.7.2-.7.3-1.4.3-2.1v-.7c0-.8,0-1.5-.3-2.1-.2-.6-.5-1.2-.9-1.7h0ZM87,12v27H12V12h75ZM39.8,23c0-.9-.1-1.6-.4-2.4-.3-.7-.7-1.4-1.2-1.9-.5-.5-1.2-1-1.9-1.2-.8-.3-1.6-.5-2.5-.5h-7.2v17.9h3.6v-6h3.2c.9,0,1.8-.1,2.6-.5.8-.3,1.4-.7,2-1.2.5-.5,1-1.2,1.3-1.9.3-.7.5-1.5.5-2.4h0ZM57.4,26c0-1.3-.2-2.6-.5-3.7s-.9-2-1.6-2.8c-.7-.8-1.6-1.4-2.7-1.8-1.1-.4-2.3-.6-3.8-.6h-6.6v17.9h6.6c1.5,0,2.7-.2,3.8-.6,1.1-.4,2-1,2.7-1.8.7-.8,1.3-1.7,1.6-2.8.4-1.1.5-2.3.5-3.7h0ZM72.4,17.1h-12.1v17.9h3.6v-7.5h7.8v-3.3h-7.8v-3.8h8.4s0-3.3,0-3.3Z\" />\n</svg>\n\n</a></div>\n  <div class=\"gem-c-attachment__details\">\n    <h2 class=\"gem-c-attachment__title\">\n      <a class=\"govuk-link\" target=\"_self\" data-ga4-link=\"{&quot;event_name&quot;:&quot;file_download&quot;,&quot;type&quot;:&quot;attachment&quot;}\" href=\"https://assets.publishing.service.gov.uk/media/5a81ff4fe5274a2e8ab56f3b/Charts_for_Research_and_Analysis_to_Explore_the_Service_Effectiveness_and_Sustainability_of_Community_Managed_Libraries_in_England_-_May_2017.pdf\">Charts in Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England</a>\n</h2>\n\n\n      <p class=\"gem-c-attachment__metadata\"><span class=\"gem-c-attachment__attribute\"><abbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\">PDF</abbr></span>, <span class=\"gem-c-attachment__attribute\">2.45 MB</span>, <span class=\"gem-c-attachment__attribute\">24 pages</span></p>\n\n\n\n\n      <p class=\"gem-c-attachment__metadata\">This file may not be suitable for users of assistive technology.</p>\n      <details data-module=\"ga4-event-tracker\" data-ga4-event=\"{&quot;event_name&quot;:&quot;select_content&quot;,&quot;type&quot;:&quot;detail&quot;,&quot;text&quot;:&quot;Request an accessible format.&quot;,&quot;section&quot;:&quot;Request an accessible format.&quot;,&quot;index_section&quot;:1}\" class=\"gem-c-details govuk-details govuk-!-margin-bottom-0\" title=\"Request an accessible format.\">\n  <summary class=\"govuk-details__summary\">\n    <span class=\"govuk-details__summary-text\"  data-ga4-expandable>\n      Request an accessible format.\n    </span>\n</summary>  <div class=\"govuk-details__text\">\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href='mailto:enquiries@dcms.gov.uk' target='_blank' class='govuk-link'>enquiries@dcms.gov.uk</a>. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  </div>\n</details></div></section>"
+    ],
+    "emphasised_organisations": [
+      "ae9ef2e1-9de0-4ff8-b560-e6ac28a6205c"
+    ],
+    "featured_attachments": [
+      "2602120",
+      "2602121",
+      "2602122"
+    ],
+    "first_public_at": "2017-09-05T10:32:00.000+01:00",
+    "political": false,
+    "tags": {
+      "browse_pages": []
+    }
+  },
+  "document_type": "research",
+  "first_published_at": "2017-09-05T10:32:00+01:00",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "api_url": "https://www.gov.uk/api/content/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "base_path": "/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "content_id": "8c5fbafd-84bd-48e7-b23c-0583b4f20b39",
+        "document_type": "research",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2017-09-05T09:32:00Z",
+        "schema_name": "publication",
+        "title": "Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England",
+        "web_url": "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "withdrawn": false
+      }
+    ],
+    "children": [
+      {
+        "api_path": "/api/content/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "api_url": "https://www.gov.uk/api/content/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "base_path": "/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "content_id": "c5d08fae-c590-4ad3-9438-92dcd491be0c",
+        "document_type": "html_publication",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+              "api_url": "https://www.gov.uk/api/content/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+              "base_path": "/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+              "content_id": "8c5fbafd-84bd-48e7-b23c-0583b4f20b39",
+              "document_type": "research",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2017-09-05T09:32:00Z",
+              "schema_name": "publication",
+              "title": "Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England",
+              "web_url": "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2017-09-05T09:32:00Z",
+        "schema_name": "html_publication",
+        "title": "Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England",
+        "web_url": "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england",
+        "withdrawn": false
+      }
+    ],
+    "government": [
+      {
+        "api_path": "/api/content/government/2016-to-2019-may-conservative-government",
+        "api_url": "https://www.gov.uk/api/content/government/2016-to-2019-may-conservative-government",
+        "base_path": "/government/2016-to-2019-may-conservative-government",
+        "content_id": "2255f51d-aff3-4854-8f66-8e4021d29f08",
+        "details": {
+          "current": false,
+          "ended_on": "2016-07-24T00:00:00+00:00",
+          "started_on": "2016-07-13T00:00:00+00:00"
+        },
+        "document_type": "government",
+        "links": {},
+        "locale": "en",
+        "title": "2016 to 2019 May Conservative government",
+        "web_url": "https://www.gov.uk/government/2016-to-2019-may-conservative-government"
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1383",
+        "api_path": "/api/content/government/organisations/department-for-culture-media-and-sport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-culture-media-and-sport",
+        "base_path": "/government/organisations/department-for-culture-media-and-sport",
+        "content_id": "ae9ef2e1-9de0-4ff8-b560-e6ac28a6205c",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-culture-media-sport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department <br/>for Culture,<br/>Media &amp; Sport"
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": "2026-07-20T00:00:00.000+01:00",
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Culture, Media and Sport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "D5",
+        "api_path": "/api/content/government/organisations/department-for-digital-culture-media-sport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-digital-culture-media-sport",
+        "base_path": "/government/organisations/department-for-digital-culture-media-sport",
+        "content_id": "fd62c5a4-714d-47fe-a612-595d1739251c",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-culture-media-sport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37daeded915d5a62fdc709/s960_100PS_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37daeeed915d5a62fdc70a/s300_100PS_960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Digital, Culture,<br/>Media &amp; Sport<br/>(2017 to 2023)"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": "2023-02-07T00:00:00.000+00:00",
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Digital, Culture, Media & Sport (2017 to 2023)",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport",
+        "withdrawn": false
+      }
+    ],
+    "original_primary_publishing_organisation": [
+      {
+        "analytics_identifier": "D5",
+        "api_path": "/api/content/government/organisations/department-for-digital-culture-media-sport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-digital-culture-media-sport",
+        "base_path": "/government/organisations/department-for-digital-culture-media-sport",
+        "content_id": "fd62c5a4-714d-47fe-a612-595d1739251c",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-culture-media-sport",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37daeded915d5a62fdc709/s960_100PS_960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37daeeed915d5a62fdc70a/s300_100PS_960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department for<br/>Digital, Culture,<br/>Media &amp; Sport<br/>(2017 to 2023)"
+          },
+          "organisation_govuk_status": {
+            "status": "split",
+            "updated_at": "2023-02-07T00:00:00.000+00:00",
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Digital, Culture, Media & Sport (2017 to 2023)",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "D1383",
+        "api_path": "/api/content/government/organisations/department-for-culture-media-and-sport",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-culture-media-and-sport",
+        "base_path": "/government/organisations/department-for-culture-media-and-sport",
+        "content_id": "ae9ef2e1-9de0-4ff8-b560-e6ac28a6205c",
+        "details": {
+          "acronym": "",
+          "brand": "department-for-culture-media-sport",
+          "default_news_image": null,
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department <br/>for Culture,<br/>Media &amp; Sport"
+          },
+          "organisation_govuk_status": {
+            "status": "replaced",
+            "updated_at": "2026-07-20T00:00:00.000+01:00",
+            "url": ""
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Culture, Media and Sport",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/society-and-culture/library-services",
+        "api_url": "https://www.gov.uk/api/content/society-and-culture/library-services",
+        "base_path": "/society-and-culture/library-services",
+        "content_id": "58747b8d-6bf7-4470-8f71-c3568132bba2",
+        "details": {
+          "internal_name": "Library services [P]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/society-and-culture/arts-and-culture",
+              "api_url": "https://www.gov.uk/api/content/society-and-culture/arts-and-culture",
+              "base_path": "/society-and-culture/arts-and-culture",
+              "content_id": "b29cf14b-54c6-402c-a9f0-77218602d1af",
+              "details": {
+                "internal_name": "Arts and culture [PA]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/society-and-culture",
+                    "api_url": "https://www.gov.uk/api/content/society-and-culture",
+                    "base_path": "/society-and-culture",
+                    "content_id": "e2ca2f1a-0ff3-43ce-b813-16645ff27904",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Society and culture",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {},
+                          "locale": "en",
+                          "public_updated_at": "2026-02-18T13:00:23Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:31:27Z",
+                    "schema_name": "taxon",
+                    "title": "Society and culture",
+                    "web_url": "https://www.gov.uk/society-and-culture",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T13:12:17Z",
+              "schema_name": "taxon",
+              "title": "Arts and culture",
+              "web_url": "https://www.gov.uk/society-and-culture/arts-and-culture",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:12:17Z",
+        "schema_name": "taxon",
+        "title": "Library services",
+        "web_url": "https://www.gov.uk/society-and-culture/library-services",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/society-and-culture/community-and-society",
+        "api_url": "https://www.gov.uk/api/content/society-and-culture/community-and-society",
+        "base_path": "/society-and-culture/community-and-society",
+        "content_id": "668cd623-c7a8-4159-9575-90caac36d4b4",
+        "details": {
+          "internal_name": "Community and society [PA]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/society-and-culture",
+              "api_url": "https://www.gov.uk/api/content/society-and-culture",
+              "base_path": "/society-and-culture",
+              "content_id": "e2ca2f1a-0ff3-43ce-b813-16645ff27904",
+              "description": "",
+              "details": {
+                "internal_name": "Society and culture",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2026-02-18T13:00:23Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:31:27Z",
+              "schema_name": "taxon",
+              "title": "Society and culture",
+              "web_url": "https://www.gov.uk/society-and-culture",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:12:16Z",
+        "schema_name": "taxon",
+        "title": "Community and society",
+        "web_url": "https://www.gov.uk/society-and-culture/community-and-society",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2017-09-05T10:32:00+01:00",
+  "publishing_app": "whitehall",
+  "publishing_request_id": "21-1763996290.565-10.13.22.247-2506",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "publication",
+  "title": "Research and analysis to explore the service effectiveness and sustainability of community managed libraries in England",
+  "updated_at": "2026-09-16T16:12:03+01:00",
+  "withdrawn_notice": {}
+}

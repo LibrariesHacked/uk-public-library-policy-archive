@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england"
+source_pdf_url: "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "govuk-content-api-harvest"
+local_file: "source/report.html"
+pdf_sha256: "c2c72aa5d07e26d33ec00e46e8129b43b723281bb5336a18a82358096338cbbf"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Major research and analysis report commissioned by DCMS and the Libraries Taskforce to examine the effectiveness, governance models, service quality, and financial sustainability of community managed libraries across England."

@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-community-managed-libraries-research-2017
+title: "Research and Analysis to Explore the Service Effectiveness and Sustainability of Community Managed Libraries in England"
+subtitle: "Research Report Prepared for the Department for Culture, Media and Sport and the Libraries Taskforce"
+creators:
+  - "Department for Culture, Media and Sport"
+  - "Libraries Taskforce"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2017-09-05"
+year: 2017
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "research"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england/research-and-analysis-to-explore-the-service-effectiveness-and-sustainability-of-community-managed-libraries-in-england"
+source_pdf: "source/report.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
