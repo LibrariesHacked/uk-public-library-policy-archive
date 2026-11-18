@@ -837,3 +837,16 @@ reports:
   pages: 48
   source_url: https://scottishlibraries.org/media/1133/ambition-opportunity-scotlands-national-public-library-strategy.pdf
   path: archive/reports/ambition-and-opportunity-2015
+- id: libraries-connected-strategic-plan
+  title: Libraries Connected Strategic Plan 2023–2027
+  subtitle: Strategic Plan 2023–2027
+  creators:
+  - Libraries Connected
+  publisher: Libraries Connected
+  publication_date: '2022-11-01'
+  year: 2022
+  country: England
+  document_type: strategy
+  pages: 16
+  source_url: https://www.librariesconnected.org.uk/resources/libraries-connected-strategic-plan-2023-2027
+  path: archive/reports/libraries-connected-strategic-plan
