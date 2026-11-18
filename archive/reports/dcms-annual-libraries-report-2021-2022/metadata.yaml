@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-annual-libraries-report-2021-2022
+title: "Annual Libraries Report 2021 to 2022"
+subtitle: "Annual Report to Parliament on Public Libraries Activities from April 2021 to March 2022"
+creators:
+  - "Department for Digital, Culture, Media and Sport"
+publisher: "Department for Digital, Culture, Media and Sport"
+publication_date: "2022-07-20"
+year: 2022
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "annual-report"
+pages: 20
+identifier: null
+isbn: "978-1-5286-3572-1"
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-april-2021-to-march-2022"
+source_pdf: "source/Final_-_Annual_Libraries_Report_2021_to_2022.pdf"
+rights: "Crown Copyright 2022. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

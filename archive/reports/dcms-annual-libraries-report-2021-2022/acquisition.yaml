@@ -1,0 +1,33 @@
+# Acquisition Record
+
+id: dcms-annual-libraries-report-2021-2022
+acquired_date: "2026-11-18"
+acquisition_method: "automated-download"
+acquired_by: "Antigravity"
+
+source:
+  url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-april-2021-to-march-2022"
+  publisher: "Department for Digital, Culture, Media and Sport"
+  access_date: "2026-11-18"
+
+files:
+  - path: "source/Final_-_Annual_Libraries_Report_2021_to_2022.pdf"
+    size: 407579
+    sha256: "e06e15a50bf50e686c8c95f31e76451da82ae371ca4c12fdbae3c7ca2e3d0d4e"
+    mime_type: "application/pdf"
+  - path: "source/report-under-the-public-libraries-and-museums-act-1964-for-202122.html"
+    size: 163410
+    sha256: "f8067ceef2f7b9341a4d3f4852895d7cd6a4cffaeea6a26a46694388add327a6"
+    mime_type: "text/html"
+  - path: "source/report-under-the-public-libraries-and-museums-act-1964-for-202122.json"
+    size: 52882
+    sha256: "f0eba0441e90aee14ad29a74e610e57fd40b6ab52411a523a24058e9ecbf7ed1"
+    mime_type: "application/json"
+  - path: "source/annual-report-to-parliament-on-public-libraries-activities-from-april-2021-to-march-2022.html"
+    size: 68123
+    sha256: "e844d09c0d80edc700cb6542019db75d736e30635e1809ddf584abae5eeea746"
+    mime_type: "text/html"
+  - path: "source/publication.json"
+    size: 17313
+    sha256: "cbd1a020360ff011080585cacb20382765eae33b957391552a1aae56065104f0"
+    mime_type: "application/json"
