@@ -391,7 +391,8 @@ planned_reports:
   category: WALES
   document_type: standards
   verified: false
-  status: planned
+  status: archived
+  source_url: http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf
 - id: dcal-delivering-tomorrows-libraries
   title: Delivering Tomorrow's Libraries
   short_title: Delivering Tomorrow's Library

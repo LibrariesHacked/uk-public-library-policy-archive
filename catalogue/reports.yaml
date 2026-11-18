@@ -808,3 +808,17 @@ reports:
   pages: 35
   source_url: https://scottishlibraries.org/wp-content/uploads/2024/10/slic-public-library-strategydigital_final.pdf
   path: archive/reports/slic-forward-public-library-strategy-2021
+- id: welsh-public-library-standards-sixth-framework
+  title: 'Connected and Ambitious Libraries: The Sixth Quality Framework of Welsh
+    Public Library Standards 2017–2020'
+  subtitle: The Sixth Quality Framework of Welsh Public Library Standards
+  creators:
+  - Welsh Government
+  publisher: Welsh Government
+  publication_date: '2017-03-31'
+  year: 2017
+  country: Wales
+  document_type: standards
+  pages: 28
+  path: archive/reports/welsh-public-library-standards-sixth-framework
+  source_url: http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf

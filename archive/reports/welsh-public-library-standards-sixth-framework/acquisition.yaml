@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf"
+  original_filename: "170331-connected-and-ambitious-libraries-en.pdf"
+  retrieval_date: "2026-11-18"
+  method: "curl"
+  sha256: "d8f2c99139e51770f1122015368dd3404f9e3ea3da8c01d9d79b8ee156ba88bd"
+  filesize: 2186193
+  content_type: "application/pdf"
+  capture_tool: "Python urllib via UK Government Web Archive (UKGWA)"
+  notes: "Official Welsh Government publication of the Sixth Quality Framework of Welsh Public Library Standards."

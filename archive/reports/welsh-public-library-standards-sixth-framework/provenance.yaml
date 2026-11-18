@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf"
+source_pdf_url: "http://webarchive.nationalarchives.gov.uk/ukgwa/20170407101412mp_/http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:d8f2c99139e51770f1122015368dd3404f9e3ea3da8c01d9d79b8ee156ba88bd"
+pdf_sha256: "d8f2c99139e51770f1122015368dd3404f9e3ea3da8c01d9d79b8ee156ba88bd"
+download_method: "curl-uk-government-web-archive"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "converted"
