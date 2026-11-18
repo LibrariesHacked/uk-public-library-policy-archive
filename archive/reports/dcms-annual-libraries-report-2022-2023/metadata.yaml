@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-annual-libraries-report-2022-2023
+title: "Annual Libraries Report 2022 to 2023"
+subtitle: "Annual Report to Parliament on Public Libraries Activities from April 2022 to March 2023"
+creators:
+  - "Department for Culture, Media and Sport"
+publisher: "Department for Culture, Media and Sport"
+publication_date: "2023-07-13"
+year: 2023
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "annual-report"
+pages: 19
+identifier: null
+isbn: "978-1-5286-4378-8"
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-april-2022-to-march-2023"
+source_pdf: "source/Annual_Libraries_Report_2022_to_2023.pdf"
+rights: "Crown Copyright 2023. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
