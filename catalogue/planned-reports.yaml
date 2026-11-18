@@ -310,14 +310,15 @@ planned_reports:
   status: archived
   archived_id: dcms-annual-libraries-report-2025-2026
 - id: slic-how-good-is-our-public-library-service
-  title: How Good Is Our Public Library Service?
-  year: null
+  title: How Good is Our Public Library Service? A Public Library Quality Framework
+    for Scotland
+  year: 2022
   publisher: Scottish Library and Information Council
   country: Scotland
   category: SCOTLAND
   document_type: standards
-  verified: false
-  status: planned
+  verified: true
+  status: archived
 - id: ambition-and-opportunity-2015
   title: 'Ambition & Opportunity: A Strategy for Public Libraries in Scotland 2015–2020'
   short_title: Ambition & Opportunity (2015)

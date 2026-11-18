@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://scottishlibraries.org/wp-content/uploads/2024/11/How-good-is-our-public-library-service.pdf"
+source_pdf_url: "https://scottishlibraries.org/wp-content/uploads/2024/11/How-good-is-our-public-library-service.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:7bcb88a1458d6e59072e6930759111088d7321d63f39d38b5dd6ea96a1893d80"
+pdf_sha256: "7bcb88a1458d6e59072e6930759111088d7321d63f39d38b5dd6ea96a1893d80"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "converted"

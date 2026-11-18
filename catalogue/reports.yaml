@@ -850,3 +850,19 @@ reports:
   pages: 16
   source_url: https://www.librariesconnected.org.uk/resources/libraries-connected-strategic-plan-2023-2027
   path: archive/reports/libraries-connected-strategic-plan
+- id: slic-how-good-is-our-public-library-service
+  title: How Good is Our Public Library Service? A Public Library Quality Framework
+    for Scotland
+  subtitle: 'A public library quality framework for Scotland (Third Edition: 2022)'
+  creators:
+  - Peter Reid
+  - Lyndsay Mesjar
+  - Scottish Library and Information Council
+  publisher: Scottish Library and Information Council
+  publication_date: '2022-11-01'
+  year: 2022
+  country: Scotland
+  document_type: standards
+  pages: 30
+  source_url: https://scottishlibraries.org/wp-content/uploads/2024/11/How-good-is-our-public-library-service.pdf
+  path: archive/reports/slic-how-good-is-our-public-library-service
