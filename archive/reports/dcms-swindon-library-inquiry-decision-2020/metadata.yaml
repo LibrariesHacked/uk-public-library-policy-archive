@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-swindon-library-inquiry-decision-2020
+title: "Final decision letter on public library provision in Swindon"
+subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Swindon Borough Council's library provision"
+creators:
+  - "Caroline Dinenage MP"
+  - "Department for Digital, Culture, Media and Sport"
+publisher: "Department for Digital, Culture, Media and Sport"
+publication_date: "2020-06-04"
+year: 2020
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "correspondence"
+pages: 3
+identifier: "INT2020/08480/DC"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-swindon"
+source_pdf: "source/Letter_to_David_Renard_Leader_of_Swindon_Borough_Council_V2.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-barnet"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5ff6f0f4d3bf7f65d3791bf7/Letter_to_Richard_Cornelius_Leader_of_Barnet_Council_V2.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:45616be238fcda9d655414f21cc09e0a57908c1d75a62a594406462b92273b3b"
+pdf_sha256: "45616be238fcda9d655414f21cc09e0a57908c1d75a62a594406462b92273b3b"
+download_method: "python-urllib"
+conversion_method: "pdf-transcription-with-govspeak-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

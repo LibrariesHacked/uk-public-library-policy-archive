@@ -249,6 +249,45 @@ reports:
     fictional_sample: false
     notes: "Research prioritisation and strategic research programme published by the Libraries Taskforce, mapping research priorities across library impact and service delivery models with accompanying research datasets."
 
+  - id: dcms-barnet-library-inquiry-decision-2019
+    title: "Final decision letter on public library provision in Barnet"
+    subtitle: "Letter from Minister for Arts, Heritage and Tourism stating the Secretary of State's decision not to hold a local inquiry into Barnet Council's library provision"
+    year: 2019
+    publisher: "Department for Digital, Culture, Media and Sport"
+    country: "England"
+    document_type: "correspondence"
+    pages: 14
+    path: "archive/reports/dcms-barnet-library-inquiry-decision-2019"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Official final decision letter from Michael Ellis MP stating the Secretary of State's decision not to direct a local inquiry under Section 10(1)(a) of the Public Libraries and Museums Act 1964 following Barnet Council's library changes, restructuring, and introduction of self-service technology enabled opening."
+
+  - id: dcms-swindon-library-inquiry-decision-2020
+    title: "Final decision letter on public library provision in Swindon"
+    subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Swindon Borough Council's library provision"
+    year: 2020
+    publisher: "Department for Digital, Culture, Media and Sport"
+    country: "England"
+    document_type: "correspondence"
+    pages: 3
+    path: "archive/reports/dcms-swindon-library-inquiry-decision-2020"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Official final decision letter from Caroline Dinenage MP stating the Secretary of State's decision not to direct a local inquiry under Section 10(1)(a) of the Public Libraries and Museums Act 1964 following Swindon Borough Council's revised library service model of five core static libraries, extended access hours, and outreach."
+
+  - id: dcms-lambeth-library-inquiry-decision-2020
+    title: "Final decision letter on public library provision in Lambeth"
+    subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Lambeth Council's library provision"
+    year: 2020
+    publisher: "Department for Digital, Culture, Media and Sport"
+    country: "England"
+    document_type: "correspondence"
+    pages: 4
+    path: "archive/reports/dcms-lambeth-library-inquiry-decision-2020"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Official final decision letter from Caroline Dinenage MP stating the Secretary of State's decision not to direct a local inquiry under Section 10(1)(a) of the Public Libraries and Museums Act 1964 following Lambeth Council's library changes, retaining 10 static libraries and introducing self-service opening at three neighbourhood branches."
+
   - id: dcms-bedford-library-inquiry-decision-2021
     title: "Final decision letter on public library provision in Bedford"
     subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Bedford Council's library provision"

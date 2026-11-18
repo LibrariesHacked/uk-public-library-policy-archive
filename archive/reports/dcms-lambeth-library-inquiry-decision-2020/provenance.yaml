@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-lambeth"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/602c501f8fa8f5037b3420c2/Letter_to_Jack_Hopkins_Leader_of_Lambeth_Council_V2.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:acabea5eda30d892520d291e82aadb6e7ac6d2c3c012901af7320760ab2ff437"
+pdf_sha256: "acabea5eda30d892520d291e82aadb6e7ac6d2c3c012901af7320760ab2ff437"
+download_method: "python-urllib"
+conversion_method: "pdf-transcription-with-govspeak-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

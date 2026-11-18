@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-barnet"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5ff6f0f4d3bf7f65d3791bf7/Letter_to_Richard_Cornelius_Leader_of_Barnet_Council_V2.pdf"
+publisher: "Department for Digital, Culture, Media and Sport"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "python-urllib"
+local_file: "source/Letter_to_Richard_Cornelius_Leader_of_Barnet_Council_V2.pdf"
+pdf_sha256: "45616be238fcda9d655414f21cc09e0a57908c1d75a62a594406462b92273b3b"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Final decision letter from Michael Ellis MP stating the Secretary of State's decision not to hold a local inquiry into Barnet Council's library provision under the Public Libraries and Museums Act 1964."

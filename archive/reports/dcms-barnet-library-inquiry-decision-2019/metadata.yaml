@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-barnet-library-inquiry-decision-2019
+title: "Final decision letter on public library provision in Barnet"
+subtitle: "Letter from Minister for Arts, Heritage and Tourism stating the Secretary of State's decision not to hold a local inquiry into Barnet Council's library provision"
+creators:
+  - "Michael Ellis MP"
+  - "Department for Digital, Culture, Media and Sport"
+publisher: "Department for Digital, Culture, Media and Sport"
+publication_date: "2019-04-10"
+year: 2019
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "correspondence"
+pages: 14
+identifier: "TO2019/03450/DC"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-barnet"
+source_pdf: "source/Letter_to_Richard_Cornelius_Leader_of_Barnet_Council_V2.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

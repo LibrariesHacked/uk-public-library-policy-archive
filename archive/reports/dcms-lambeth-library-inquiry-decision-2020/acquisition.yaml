@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-lambeth"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/602c501f8fa8f5037b3420c2/Letter_to_Jack_Hopkins_Leader_of_Lambeth_Council_V2.pdf"
+publisher: "Department for Digital, Culture, Media and Sport"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "python-urllib"
+local_file: "source/Letter_to_Jack_Hopkins_Leader_of_Lambeth_Council_V2.pdf"
+pdf_sha256: "acabea5eda30d892520d291e82aadb6e7ac6d2c3c012901af7320760ab2ff437"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Final decision letter from Caroline Dinenage MP stating the Secretary of State's decision not to hold a local inquiry into Lambeth Council's library provision under the Public Libraries and Museums Act 1964."
