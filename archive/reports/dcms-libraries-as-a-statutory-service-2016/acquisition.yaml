@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/guidance-on-libraries-as-a-statutory-service/libraries-as-a-statutory-service"
+source_pdf_url: "https://www.gov.uk/government/publications/guidance-on-libraries-as-a-statutory-service/libraries-as-a-statutory-service"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "govuk-content-api-harvest"
+local_file: "source/report.html"
+pdf_sha256: "ea0a5a9f8559586629ae22b288d2a7a0f4ce72d92cd9093401a9c0e2ef3af2fb"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Comprehensive statutory guidance published by DCMS explaining the legal framework governing public library services under the Public Libraries and Museums Act 1964, ministerial superintendence duties, handling of representations, and learning from the Wirral inquiry."
