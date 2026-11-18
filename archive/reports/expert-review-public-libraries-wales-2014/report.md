@@ -26,6 +26,9 @@ review_level: "reviewed"
 
 <!-- PAGE: 1 -->
 
+![Expert Review of Public Libraries in Wales 2014 cover](assets/cover.jpg)
+
+
 # Expert Review of Public Libraries in Wales 2014
 
 **Expert Review Panel**  

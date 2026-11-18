@@ -26,6 +26,9 @@ review_level: "reviewed"
 
 <!-- PAGE: 1 -->
 
+![Welsh Public Library Standards: The Fifth Quality Framework 2014-2017 cover](assets/cover.jpg)
+
+
 # Libraries Making a Difference: The Fifth Quality Framework of Welsh Public Library Standards 2014–2017
 
 **CyMAL: Museums Archives and Libraries Wales**  
