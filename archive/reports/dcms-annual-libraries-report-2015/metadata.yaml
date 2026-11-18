@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-annual-libraries-report-2015
+title: "Annual Report to Parliament on Public Library Activities During 2015"
+subtitle: "Report under the Public Libraries and Museums Act 1964 for 2015"
+creators:
+  - "Department for Culture, Media & Sport"
+publisher: "Department for Culture, Media & Sport"
+publication_date: "2015-12-17"
+year: 2015
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "annual-report"
+pages: 18
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-library-activities-during-2015"
+source_pdf: "source/Final_Libraries_Annual_Report_to_Parliament_2015.pdf"
+rights: "Crown Copyright 2015. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
