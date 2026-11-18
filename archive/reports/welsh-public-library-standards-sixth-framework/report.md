@@ -39,12 +39,12 @@ Foreword
 
 **3.** Quality indicators 12
 
-5. The Well-being
+**5.** The Well-being
 of Future
 Generations Act
 24
 
-6. Community 
+**6.** Community 
 managed libraries
 26
 
@@ -915,9 +915,7 @@ and/or hosted by the library service
 at its own service points or at other 
 locations within the authority during the 
 year, divided by the resident population, 
-multiplied by 1,000;
-
-<!-- PAGE: 15 -->
+multiplied by 1,000; <!-- PAGE: 15 -->
 
 ![Connected and Ambitious Libraries illustration](assets/figure-p15-1.jpg)
 

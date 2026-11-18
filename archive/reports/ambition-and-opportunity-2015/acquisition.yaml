@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "https://scottishlibraries.org/media/1133/ambition-opportunity-scotlands-national-public-library-strategy.pdf"
+  original_filename: "ambition-opportunity-scotlands-national-public-library-strategy.pdf"
+  retrieval_date: "2026-11-18"
+  method: "internet-archive-memento"
+  sha256: "4ce150b4676d7ae60488bb0f6defbaf25bf03092c0d3d768a538a24dee322b0d"
+  filesize: 2740216
+  content_type: "application/pdf"
+  capture_tool: "Python urllib/requests via Scottish Library and Information Council web archive memento"
+  notes: "Official Scottish public library strategy 2015–2020 published by SLIC, COSLA, and Carnegie UK Trust."

@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://scottishlibraries.org/media/1133/ambition-opportunity-scotlands-national-public-library-strategy.pdf"
+source_pdf_url: "http://web.archive.org/web/20170829161054id_/http://scottishlibraries.org/media/1133/ambition-opportunity-scotlands-national-public-library-strategy.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:4ce150b4676d7ae60488bb0f6defbaf25bf03092c0d3d768a538a24dee322b0d"
+pdf_sha256: "4ce150b4676d7ae60488bb0f6defbaf25bf03092c0d3d768a538a24dee322b0d"
+download_method: "internet-archive-memento"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-18"
+review_status: "converted"

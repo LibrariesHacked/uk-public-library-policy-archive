@@ -822,3 +822,18 @@ reports:
   pages: 28
   path: archive/reports/welsh-public-library-standards-sixth-framework
   source_url: http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf
+- id: ambition-and-opportunity-2015
+  title: 'Ambition & Opportunity: A Strategy for Public Libraries in Scotland 2015–2020'
+  subtitle: A Strategy for Public Libraries in Scotland 2015–2020
+  creators:
+  - Scottish Library and Information Council
+  - National Strategy for Public Libraries in Scotland Strategic Group
+  - Carnegie UK Trust
+  publisher: Scottish Library and Information Council
+  publication_date: '2015-06-01'
+  year: 2015
+  country: Scotland
+  document_type: strategy
+  pages: 48
+  source_url: https://scottishlibraries.org/media/1133/ambition-opportunity-scotlands-national-public-library-strategy.pdf
+  path: archive/reports/ambition-and-opportunity-2015

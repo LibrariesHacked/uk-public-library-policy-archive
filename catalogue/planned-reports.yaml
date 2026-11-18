@@ -326,8 +326,8 @@ planned_reports:
   country: Scotland
   category: SCOTLAND
   document_type: strategy
-  verified: false
-  status: planned
+  verified: true
+  status: archived
 - id: ambition-and-opportunity-refresh
   title: Ambition & Opportunity (refreshed strategy)
   short_title: Ambition & Opportunity refreshes
@@ -367,7 +367,7 @@ planned_reports:
   category: WALES
   document_type: independent-review
   verified: false
-  status: planned
+  status: archived
   archived_id: expert-review-public-libraries-wales-2014
 - id: welsh-public-library-standards-fifth-framework
   title: 'Libraries Making a Difference: The Fifth Quality Framework of Welsh Public
@@ -379,7 +379,7 @@ planned_reports:
   category: WALES
   document_type: standards
   verified: false
-  status: planned
+  status: archived
   archived_id: welsh-public-library-standards-fifth-framework
 - id: welsh-public-library-standards-sixth-framework
   title: 'Connected and Ambitious Libraries: The Sixth Quality Framework of Welsh
