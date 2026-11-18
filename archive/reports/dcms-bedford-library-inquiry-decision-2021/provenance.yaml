@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-bedford"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/600ad41de90e07143530903d/Letter_to_Councillor_Dave_Hodgson__Mayor_of_Bedford_Council__accessible_.pdf"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+source_checksum: "sha256:e17b2d4a7804a8de639d5671efa589ef68fbde2efdb0abb0ae969e8be16c80fc"
+pdf_sha256: "e17b2d4a7804a8de639d5671efa589ef68fbde2efdb0abb0ae969e8be16c80fc"
+download_method: "python-urllib"
+conversion_method: "pdf-transcription-with-govspeak-verification"
+conversion_date: "2026-11-17"
+review_status: "reviewed"

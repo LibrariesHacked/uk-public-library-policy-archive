@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-bedford"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/600ad41de90e07143530903d/Letter_to_Councillor_Dave_Hodgson__Mayor_of_Bedford_Council__accessible_.pdf"
+publisher: "Department for Digital, Culture, Media and Sport"
+acquired_date: "2026-11-17"
+accessed_date: "2026-11-17"
+download_method: "python-urllib"
+local_file: "source/Letter_to_Councillor_Dave_Hodgson__Mayor_of_Bedford_Council__accessible_.pdf"
+pdf_sha256: "e17b2d4a7804a8de639d5671efa589ef68fbde2efdb0abb0ae969e8be16c80fc"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Final decision letter from Caroline Dinenage MP stating the Secretary of State's decision not to hold a local inquiry into Bedford library provision and the introduction of Library Plus unstaffed technology under the Public Libraries and Museums Act 1964."

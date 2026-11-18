@@ -249,6 +249,19 @@ reports:
     fictional_sample: false
     notes: "Research prioritisation and strategic research programme published by the Libraries Taskforce, mapping research priorities across library impact and service delivery models with accompanying research datasets."
 
+  - id: dcms-bedford-library-inquiry-decision-2021
+    title: "Final decision letter on public library provision in Bedford"
+    subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Bedford Council's library provision"
+    year: 2021
+    publisher: "Department for Digital, Culture, Media and Sport"
+    country: "England"
+    document_type: "correspondence"
+    pages: 4
+    path: "archive/reports/dcms-bedford-library-inquiry-decision-2021"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "Official final decision letter from Caroline Dinenage MP stating the Secretary of State's decision not to direct a local inquiry under Section 10(1)(a) of the Public Libraries and Museums Act 1964 following Bedford Council's changes and introduction of Library Plus unstaffed extended access technology."
+
   - id: dcms-calderdale-library-inquiry-decision-2023
     title: "Final decision letter on public library provision in Calderdale"
     subtitle: "Letter from Minister for Arts and Heritage stating the Secretary of State's decision not to hold a local inquiry into Calderdale Council's library provision"

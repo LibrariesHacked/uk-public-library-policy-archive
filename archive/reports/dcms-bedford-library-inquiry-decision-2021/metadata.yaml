@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-bedford-library-inquiry-decision-2021
+title: "Final decision letter on public library provision in Bedford"
+subtitle: "Letter from Minister of State for Digital and Culture stating the Secretary of State's decision not to hold a local inquiry into Bedford Council's library provision"
+creators:
+  - "Caroline Dinenage MP"
+  - "Department for Digital, Culture, Media and Sport"
+publisher: "Department for Digital, Culture, Media and Sport"
+publication_date: "2021-01-21"
+year: 2021
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "correspondence"
+pages: 4
+identifier: "INT2021/01473/DC"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/final-decision-letter-on-public-library-provision-in-bedford"
+source_pdf: "source/Letter_to_Councillor_Dave_Hodgson__Mayor_of_Bedford_Council__accessible_.pdf"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
