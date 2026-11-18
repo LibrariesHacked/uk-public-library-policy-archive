@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-taskforce-progress-report-2015-1
+title: "Leadership for Libraries Taskforce: Six Month Progress Report (April to September 2015)"
+subtitle: "First Progress Report to Ministers and the Local Government Association"
+creators:
+  - "Leadership for Libraries Taskforce"
+publisher: "Leadership for Libraries Taskforce"
+publication_date: "2015-11-26"
+year: 2015
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "governance"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: "Libraries Taskforce Six Month Progress Reports"
+edition: null
+source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015"
+source_pdf: "source/report.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"

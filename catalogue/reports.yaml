@@ -495,3 +495,16 @@ reports:
     review_level: "reviewed"
     fictional_sample: false
     notes: "Eighth and final six-month progress report of the Libraries Taskforce covering October 2019 to March 2020, recording the formal cessation of the Taskforce on 31 March 2020 and handover of coordination to Arts Council England."
+
+  - id: libraries-taskforce-progress-report-2015-1
+    title: "Leadership for Libraries Taskforce: Six Month Progress Report (April to September 2015)"
+    subtitle: "First Progress Report to Ministers and the Local Government Association"
+    year: 2015
+    publisher: "Leadership for Libraries Taskforce"
+    country: "England"
+    document_type: "governance"
+    pages: 1
+    path: "archive/reports/libraries-taskforce-progress-report-2015-1"
+    review_level: "reviewed"
+    fictional_sample: false
+    notes: "First six-month progress report of the Leadership for Libraries Taskforce covering April to September 2015, accompanied by the Government response by Culture Minister Ed Vaizey agreeing to publish a joint vision document by summer 2016."
