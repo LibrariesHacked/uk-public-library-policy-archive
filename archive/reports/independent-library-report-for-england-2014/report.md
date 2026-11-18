@@ -10,6 +10,9 @@ review_level: reviewed
 
 <!-- PAGE: 1 -->
 
+![Independent Library Report for England cover illustration](assets/cover-illustration.png)
+
+
 # Independent Library Report for England
 
 **Department for Culture, Media & Sport**  
