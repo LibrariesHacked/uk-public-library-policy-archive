@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-april-2024-to-march-2025"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/687633d5a8d0255f9fe28ea4/Annual_Libraries_Report_2024_to_2025-1-accessible__1_.pdf"
+publisher: "Department for Culture, Media and Sport"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "python-urllib"
+local_file: "source/Annual_Libraries_Report_2024_to_2025-1-accessible__1_.pdf"
+pdf_sha256: "df5e18b465f3ea1ef0cce25222538cc895b6c8f1667e3f1aaaf99d21d3ffc0c8"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Annual report presented to Parliament pursuant to Section 17 of the Public Libraries and Museums Act 1964 covering superintendence, local authority engagements, library usage statistics, byelaws, and the Libraries Improvement Fund."
