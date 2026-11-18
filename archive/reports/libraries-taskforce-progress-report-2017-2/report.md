@@ -1,0 +1,476 @@
+---
+id: libraries-taskforce-progress-report-2017-2
+title: "Libraries Taskforce: Six Month Progress Report (October 2017 to March 2018)"
+subtitle: "Sixth Progress Report to Ministers and the Local Government Association"
+creators:
+  - "Libraries Taskforce"
+publisher: "Libraries Taskforce"
+publication_date: "2018-04-04"
+year: 2018
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "governance"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: "Libraries Taskforce Six Month Progress Reports"
+edition: null
+source_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-october-2017-march-2018/six-month-progress-report-october-2017-march-2018"
+source_pdf: "source/report.html"
+rights: "Crown Copyright. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
+---
+
+<!-- PAGE: 1 -->
+
+# Libraries Taskforce: Six Month Progress Report (October 2017 to March 2018)
+
+**Sixth Progress Report to Ministers and the Local Government Association**  
+*2018-04-04*
+
+---
+
+## 1. Introduction
+
+Public libraries are a unique and valued statutory public service. They reach and support the whole community regardless of age, gender, socioeconomic status or educational attainment. The annual library statistics published by the Chartered Institute of Public Finance and Accountancy on 11 December 2017 shows that libraries are popular, with large numbers visiting each year.  In 2016/17 alone, there were 204 million visits to, and 165 million book loans from, libraries in England. This is more in total than visits to Premier League football games, cinemas across the UK and visits to A&E major injuries clinics in England combined. The data also revealed that 25 local authorities reported an increase in the number of physical visits from 2015/16 to 2016/17, and 7 local authorities reported an increase in book issues for 2016/17, over 2015/16.
+
+Libraries and their staff don’t provide a service that sits in isolation; they support other public services that are vital for local and national prosperity and wellbeing. They not only encourage a love of reading, but also provide business support, build digital skills, organise cultural activities, host community events, offer a quiet space to study, and support people to live happier and healthier lives. All this builds on one of the most important strengths of libraries; the trust people have in them to provide objective and accurate information and guidance in a confidential and even-handed way.
+
+Local authorities in England continue to invest in their library service with net expenditure in 2016/17 totalling £643m. That’s a relatively small spend given the huge impact they have on their communities and the outcomes they help deliver.
+
+However, almost every aspect of modern life is changing rapidly. Shopping, learning, leisure and entertainment have evolved considerably from a decade ago, and all expect to change radically over the next few years. Libraries aren’t immune from these challenges.
+
+## 2. Who we are
+
+The [Libraries Taskforce](https://www.gov.uk/government/groups/libraries-taskforce) was established in March 2015. [Annex A](#Annex-A) sets out background information on the Taskforce.
+
+The Taskforce undertakes a wide variety of activities through collective and individual member actions. This collaborative approach has helped build stronger links across the library sector, as well as increasing the impact we can make in promoting the continuing value of libraries. The Taskforce publishes [progress reports](/government/collections/progress-reports) every 6 months. This sixth progress report covers October 2017 to March 2018. It includes:
+
+* what we’ve done to take forward commitments in the [Action Plan](/government/uploads/system/uploads/attachment_data/file/579208/Ambition_Action_plan_December_2016__accessible_version_.pdf) accompanying [Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021) (published on 1 December 2016 - details of both of these documents are set out in [Annex B](#Annex-B))
+* the areas of work we’ll focus on over the next 6 months
+
+This progress report should also be read alongside the Department for Digital, Culture, Media and Sport (DCMS) Annual Report to Parliament on Public Libraries in England during 2017 which we expect to be published by the end of May 2018. This describes, amongst other things, how DCMS carries out its superintendence role of library services as set out in the [Public Libraries and Museums Act 1964](http://www.legislation.gov.uk/ukpga/1964/75/contents).
+
+[Annex C](#Annex-C) lists meetings with government departments and partners, and library visits that have taken place in the reporting period.
+
+## 3. Our Action Plan
+
+When we published [Libraries Deliver: Ambition](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021) in December 2016 it was accompanied by an [Action Plan](/government/uploads/system/uploads/attachment_data/file/603108/Ambition_Action_Plan_December_2016.pdf), saying what the Taskforce would contribute during 2017 to make our vision a reality.
+
+At our meeting in December 2017, we confirmed that the Ambition document was still appropriate for the current operating environment, and we started to review and refresh its accompanying action plan. We published a new [Action Plan](/government/uploads/system/uploads/attachment_data/file/686062/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf) on 7 March. It sets out our goals for 2018, and for 2019 to 2020, and the outcomes we’re aiming to achieve by 2021.
+
+## 4. What we’ve done between October 2017 and March 2018
+
+### 4.1 Making the case for libraries
+
+Taskforce member organisations are developing programmes of communications activity, materials and protocols to help promote the main themes within Ambition, and to support collaborative approaches between Taskforce partners. We worked together to support a number of important initiatives, including the CILIP-led [Libraries Week](http://www.librariesweek.org.uk/) which took place in October.
+
+The Taskforce team works within government to promote libraries to decision makers, seeking to have the value of public libraries acknowledged in a variety of government strategies. Libraries’ work on digital skills was featured prominently in the [UK Digital Strategy](/government/publications/uk-digital-strategy/uk-digital-strategy#digital-skills-and-inclusion---giving-everyone-access-to-the-digital-skills-they-need), and the Taskforce is now represented on [3 delivery groups taking this work forward on behalf of the Digital Skills partnership](https://digitalskillspartnership.blog.gov.uk/2018/01/26/introducing-the-dsp-delivery-groups/) - local digital skills partnerships, national coherence and digital enterprise.
+
+The [Internet Safety Green Paper](/government/uploads/system/uploads/attachment_data/file/650949/Internet_Safety_Strategy_green_paper.pdf) highlighted the valuable role that libraries can play in engaging both children and parents and carers, locally and nationally. It mentioned their role in embedding online safety aspects into existing library projects and events; running [family learning sessions](http://goscl.com/family-learning-and-digital-roadshows/) to help adults to support their children online; and by displaying online safety material and signposting resources for library staff, parents and children.
+
+Libraries also feature in the [Culture is Digital](/government/publications/culture-is-digital) strategy document, published on 7 March 2018 by DCMS. [Launched at the National Gallery](https://cdn.instavr.co/html/l7nnKtJAQonKiVpzjsO1_app.html?bust=8idijabbbnu), this report mentions the work done to develop makerspaces, the Single Libraries Digital Presence project, and the business support public libraries provide to creative industries through the [British Library Business and Intellectual Property Centre (BIPC) national network](https://www.bl.uk/business-and-ip-centre/national-network). The strategy contains [12 policy commitments](https://www.gov.uk/government/publications/culture-is-digital/culture-is-digital#summary-of-policy-commitments) with a set of projects led by sector organisations.
+
+On 14 March 2018, the Ministry of Housing, Communities and Local Government (MHCLG) published its [Integrated Communities Strategy Green Paper](https://librariestaskforce.blog.gov.uk/2018/03/14/integrated-communities-green-paper/), which recognised the role of libraries in bringing together people from diverse backgrounds. Libraries and other community hubs were challenged to maximise their future contribution to this work. The Suffolk Libraries ‘Chat and Chill’ project was featured as a case study of good practice.
+
+DCMS has [announced an inquiry into the positive social impacts of participation in culture and sport](https://www.parliament.uk/business/committees/committees-a-z/commons-select/digital-culture-media-and-sport-committee/news/social-impact-inquiry-launch/). DCMS has prepared written evidence to this inquiry, building on information from its Arms Length Bodiess and other government departments. The Taskforce Team provided input to this, covering the contribution of public libraries on issues such as social mobility, health, education, and community engagement and diversity. The Local Government Association (LGA) also provided written evidence which mentioned the role of libraries.
+
+In January 2018, it was announced that the government had accepted a series of recommendations from the Jo Cox Commission on Loneliness and would be embarking on [cross-government work, led by DCMS Minister Tracey Crouch, to combat loneliness and social isolation](/government/news/pm-commits-to-government-wide-drive-to-tackle-loneliness). The Taskforce Team is contributing to this work, and will aim to promote the wide range of valuable initiatives being taken forward by public libraries across England.
+
+#### Promoting Ambition and what it says
+
+The Ambition document is [published on GOV.UK](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021), both as an html version and a PDF. It’s also available in hard copy - if anyone wants copies, they can email us on [librariestaskforce@culture.gov.uk](mailto:librariestaskforce@culture.gov.uk). We also produced a [4 page brochure](/government/uploads/system/uploads/attachment_data/file/579210/Summary_brochure__accessible_version_.pdf) to introduce the document and highlight priority actions for use in advocacy work, to start conversations and provide context. We’ve continued to promote the document via our social media channels and through events, and encouraged each Taskforce partner to do the same. Between publication on 1 December 2016 and 31 March 2018, it has been viewed online over 33,000 times.
+
+We’ve followed up its publication by featuring the main themes and issues on our [Taskforce blog](https://librariestaskforce.blog.gov.uk/). For example, we’ve published posts on [how a council (Leeds) approaches strategic planning](https://librariestaskforce.blog.gov.uk/2018/01/12/how-does-a-council-approach-broader-strategic-planning/), and [progress with the community managed libraries peer support network](https://librariestaskforce.blog.gov.uk/2018/01/29/community-managed-libraries-peer-support-network-progress-report/). As well as more generic posts from the [new minister](https://librariestaskforce.blog.gov.uk/2018/02/08/introducing-the-new-libraries-minister/), and [chair](https://librariestaskforce.blog.gov.uk/2018/02/08/2017-report-card-and-looking-forward-to-2018/).
+
+After Kim Bromley-Derry took over as chair of the Taskforce, he wrote to all council chief executives in England in early November, introducing himself and promoting Taskforce activity, such as our [longer-term, evidence based planning toolkit](https://librariestaskforce.blog.gov.uk/2017/08/30/an-evidence-based-strategic-planning-toolkit/) and the masterclasses we ran to support [strategic planning](https://librariestaskforce.blog.gov.uk/2017/12/05/masterclasses-reports-longer-term-evidence-based-sustainable-planning-and-libraries-benchmarking-toolkits/) and the [Benchmarking Framework for Libraries](https://librariestaskforce.blog.gov.uk/2017/12/06/masterclasses-report-libraries-benchmarking-framework/).
+
+We’ve been promoting the Ambition document at events run by other organisations within the sector, for example, the Taskforce Team attended the LGA’s Culture, Tourism and Sport conference, held in Hull on 7-8 March, where we staffed a stand to promote Taskforce material, and also information from other Taskforce member organisations, to council decision makers. We have also attended meetings of groups such as the Association of London Chief Librarians, to promote and talk through the Benchmarking Framework for Libraries; and responded to an invitation from West Hampstead Libraries Friends Group to speak at their 20th anniversary AGM.
+
+We started a [‘Libraries Deliver Newsletter’](https://librariestaskforce.blog.gov.uk/2017/08/29/new-newsletter-for-people-who-work-in-libraries/) in September, designed for frontline staff, intended to be printed and displayed on noticeboards. It responds to the direct comments we received from people working in frontline roles, and suggestions from library managers, who felt their teams were less aware of national initiatives and wanted to hear about what was going on in other library services. We’ve now produced [7 editions](/government/publications/libraries-deliver-newsletter), and have used feedback from frontline staff to shape the content. It includes updates on LOFE projects, examples of how libraries deliver activities to achieve the 7 Outcomes, and news about people working in libraries around the country.
+
+#### Building our evidence base
+
+Making a compelling case for investing in libraries, and thinking ‘libraries first’ when delivering services to communities, needs a strong evidence base, both qualitative and quantitative. One of the priority actions in our document was to develop a core set of data that can be consistently and regularly collected (preferably via automated mechanisms), and openly published. Libraries could then use this data to promote the value of library services to secure future investment and encourage increased usage. They can also use it to understand user needs and behaviour better, support longer-term planning, manage day to day operations more effectively, and identify areas for improvement.
+
+We published basic data on libraries across England (as at 1 July 2016) on [30 March 2017](https://data.gov.uk/dataset/public-libraries-in-england-basic-dataset#tab-geographic). Since then, we’ve [extended this dataset](https://data.gov.uk/dataset/public-libraries-in-england-basic-dataset/resource/b2061ee7-407b-41b9-8059-6ff5ebc23d89) to include more information on the libraries listed. We worked with organisations across the sector to define what should be in a wider [core dataset](https://librariestaskforce.blog.gov.uk/2017/07/20/a-core-dataset-for-libraries/) - something which all library services will be encouraged to collect, use and publish in a consistent way. We’d like this to be used to help inform and improve local library service delivery, as well as being used for advocacy purposes at a local and national level (when aggregated). There may, of course, also be other data which authorities choose to collect in addition to this for their own local purposes.
+
+On 20 November 2017 the Taskforce team attended [The Voyage of the Data Treader](https://www.gitbook.com/book/librarieshacked/voyage-of-the-data-treader/details), a day designed for people interested in using data to improve library services. It was a mix of workshops, discussions, and data playing, Held at Liverpool Central Library, it was run by representatives from Plymouth, Leeds, Liverpool and Newcastle library services and LibrariesWest consortium.
+
+We’re continuing to work with library management system (LMS) and other technology suppliers to see how they can help with the data collection for some of the core dataset, supporting library services to publish their own data, and are running some pilots to test data collection methods. We’ve also been talking to CIPFA, who produce benchmarking data for library services; we’ve negotiated an alignment of  their future plans and data definitions with ours. We’re working with the LGA to develop a schema for the core dataset that everyone can use to achieve the consistency we need.
+
+We’ve also been considering how we can strengthen the evidence base about the impact library services have on the lives of individuals and communities based on research findings. This becomes increasingly important where local authorities and other partners commission libraries and pay them based on achievement of outcomes. As robust survey-based research can be resource intensive and time consuming to collect at a local level the Taskforce team undertook [work to marshall what research already exists or is underway](https://librariestaskforce.blog.gov.uk/2017/04/03/building-the-evidence-base/) (including research commissioned by other administrations, such as Scotland), together with gathering views from the sector about the priorities for further investigation - for example evaluating the impact of our Libraries: Opportunities for Everyone innovation fund projects. The Taskforce used this to produce a [list of future research priorities](/government/publications/libraries-taskforce-research-programme) on an England-wide basis which we published in early April 2017. We’re actively discussing with partners how the projects listed can be taken forward.
+
+Arts Council England has been working on further research reports on the impact of public libraries. These contribute to informing political and sector stakeholders about libraries’ contribution to public policy areas, and to sharing models of best practice with the libraries sector. They published one on [the impact of reading for pleasure](http://www.artscouncil.org.uk/sites/default/files/download-file/TRA%20Report%20of%20Reading%20Outcomes%20Framework%20Toolkit%20Pilot%20November%202017.pdf) (testing the emerging outcomes framework led by The Reading Agency). In addition, they’ve been undertaking a 2 year study (due to be published in April 2018) on Rhyme-time and its impact on maternal mental health.
+
+We need to be ready to respond rapidly if funding opportunities present themselves, and to be ready with well-thought through bids for future Budget or Spending Review rounds. So we commissioned work to draw up 3 detailed business cases to support work we’d like to take forward. They are:
+
+* extending the SME business support offer in public libraries (with British Library, building particularly on the existing Business and IP Centre national network)
+* supporting every child to become an active library member
+* extending makerspaces to more libraries across England
+
+We’ll be using these business cases to support approaches to, and advocacy work with, potential partners.
+
+Applications were sought for a new round of [Carnegie Trust UK’s Library Lab](https://www.carnegieuktrust.org.uk/project/library-lab/), which will run from June 2018 to September 2019. The Trust was looking for applicants in early or mid-management roles that had an innovative idea that they would like to implement or develop in their library, and who had a commitment to self-development and collaborative working.
+
+#### Evidencing progress against the 7 Outcomes
+
+Our Ambition document sets out [7 Outcomes](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021#Annex-1), along with statements about where we want to be against each in 2021. We’ve identified a set of progress indicators that we’ll use to track how we’re doing - we [published these in November](/government/publications/outcomes-progress-indicators-for-libraries-in-england), having given the sector an opportunity to comment on and validate them. We are now moving on to finalise the remaining baseline measures. The Taskforce finished discussing all the outcomes in depth during its meetings, identifying what actions it could take to help achieve the goals we’ve set for 2021. At our [October 2017 meeting](/government/publications/sixteenth-meeting-of-the-libraries-taskforce), we discussed ‘Stronger and more resilient communities’ (Outcome 7). And at our [February 2018 meeting](/government/publications/eighteenth-meeting-of-the-libraries-taskforce), the Taskforce had an in-depth discussion on ways to take forward ‘Healthier and happier lives’ (Outcome 5), by identifying opportunities for closer joint working between public libraries and health bodies. This was followed up at the Taskforce’s [March meeting](/government/publications/nineteenth-meeting-of-the-libraries-taskforce).
+
+#### Raising our profile with other influential bodies
+
+In November 2017 the All Party Parliamentary Group for Libraries held a roundtable on [Creating the library of the future](https://www.cilip.org.uk/default.asp?page=FutureLibraryAPPG).  Panel members included Taskforce organisation such as the British Library and CILIP, alongside other organisations such as Arup, Carnegie UK Trust, and the James Reckitt Trust. Areas of discussion included the changing needs of individuals and communities due to societal and technological change, the economic potential of public libraries, and the impact of new delivery and funding models. Questions from the floor focused on the role and importance of library staff, the financial challenges facing libraries and local authorities, and defining the ‘library mission’. The APPG plans to support the launch of the Summer Reading Challenge in July, and Libraries Week in October.
+
+The Greater London Authority (GLA) is developing a Cultural Infrastructure Plan for the city, which it is planning to publish in 2018. We’re talking to the GLA to ensure that libraries’ important role in providing local access to cultural opportunities is recognised. GLA also announced the winner of its 2019 [London Borough of Culture](https://www.london.gov.uk/what-we-do/arts-and-culture/apply-become-london-borough-culture?source=vanityurl) competition in March. The [prospectus](https://www.london.gov.uk/sites/default/files/lboc_prospectus_fa_digital_2.0.pdf) emphasised that this should include things happening in visual and performing arts, museums and heritage, libraries and literature, and the successful bid from Waltham Forest for 2019 includes activity in libraries. The Taskforce has scheduled a meeting there for June 2019, to be able to learn first-hand about the role libraries are playing in, and the benefits they’re deriving from, the activities taking place over the year. The 2020 London Borough of Culture will be Brent.
+
+The Taskforce is supporting the British Library to seek funding to extend business support to SMEs through a wider range of libraries, building on the success of the [Business and Intellectual Property Centre national network](https://www.bl.uk/business-and-ip-centre/national-network). A potential opportunity arose to rollout and test this expanded offer across a number of London boroughs through a bid to the GLA for European Regional Development Funds (ERDF). Following a very strong Expressions of Interest process, 10 London library services were selected as joint delivery partners. The British Library supplied a final bid to the Greater London Authority on 1 March, with match-funding offered via Arts Council England. We will hear if the bid has been successful by late April.
+
+### 4.2 Raise public awareness of what libraries have to offer
+
+We’ve been using our Taskforce owned channels (primarily the [website](/government/groups/libraries-taskforce), [Twitter](https://twitter.com/LibTaskforce), the [Taskforce blog](https://librariestaskforce.blog.gov.uk/), and [flickr](https://www.flickr.com/photos/135302410@N02/)) throughout the period, and we’ve seen increased traffic and engagement on all of them. We publish all official information on our GOV.UK web pages: including minutes of meetings, published reports and information on Taskforce members. We use our blog more flexibly: we update people on what we are doing and publish ‘guest blogs’ where others share good practice so we can raise awareness of what different parts of the sector are achieving. We use Twitter to publicise Taskforce activities, point people towards our blog and website, amplify what other people are doing or saying, and engage with people who have an interest in libraries. We also use it to pass on information in ‘real time’, for example, alerting people to [deadlines for bids](https://twitter.com/CarnegieUKTrust/status/899561211473166337).
+
+Our focus is on supporting library services to do more local communication themselves. We’ve been creating shared assets, by inviting people to make photos available under a creative commons licence, and reminding people that they can reuse the diagrams and icons that appear in Libraries Deliver. We’ve commissioned some work with Studio 12 (based in Leeds library) and some library secondees. This is likely to result in a short film/s and an animated slideshow, plus some guidance on how to adapt them, and create more. As mentioned above, we have set up a [newsletter for frontline staff](https://librariestaskforce.blog.gov.uk/2017/08/29/new-newsletter-for-people-who-work-in-libraries/) that provides consistent short messages about national activities, so we can embed a common language and share a set of easy-to-reuse facts and examples of innovative activities taking place in libraries.
+
+Over the 6 months covered in this report, the blogs have received over 42,500 page views; the most popular posts have been about the new Taskforce newsletter, introducing the new minister, and income generation.
+
+The BBC launched its Spring 2018 [Civilisations Festival](https://librariestaskforce.blog.gov.uk/2018/03/23/libraries-are-civilisations-festival-partners/) at the National Gallery on 6 February. This puts a spotlight on the work of museums and libraries coinciding with the transmission of the BBC Arts series Civilisations on BBC Two. The Festival was concentrated around 2 to 11 March for broadcast coverage on regional TV and on every local radio station. Forty five library partners joined, with 35 events across the country registered on Museum Crush. Ranging from classical Indian dance to calligraphy, the Peterloo Massacre and bad language, it reflects a range and diversity of cultural activities combining big themes with local engagement and hands on activity. Three libraries received grants of £1000 from Art Fund:
+
+* Leeds Central Library ran a programme of activities that explore three themes: art and body image; artificial intelligence and what it means to be human; and local history
+* Norfolk and Norwich Millennium Library used a collection of historic broadsides held at the Norfolk Heritage Centre to explore ideas surrounding authenticity, propaganda and ‘fake news’ and how changes across time may reflect societal change
+* Explore York Libraries and Archives ran an Archives Hack, allowing members of the public to explore archival collections surrounding the stained glass restorer and maker John Ward Knowles (1838‐1931) who worked on a number of projects in York’s religious buildings including York Minster. The project aims to digitise part of the collection, edit it and made it accessible via a large‐scale multi‐touchscreen in the library space as well as being hosted online
+
+The BBC also ran a [Get Creative Festival](http://www.bbc.co.uk/programmes/articles/3P7n390cZc3VBpn7cPn0F5T/about-get-creative) from 17 to 25 March, with significant library engagement.
+
+### 4.3 Identifying and showcasing good practice and supporting innovation
+
+#### Toolkits and guidance
+
+When we consulted on the Ambition document, people were supportive of our proposal to develop a toolkit to help councils carry out longer-term planning for library services that involves their communities. This would help councils make important decisions about ways to provide an effective library service that’s sustainable in the long-term within a context of resourcing pressures. We published our [Strategic Planning Toolkit](https://librariestaskforce.blog.gov.uk/2017/08/30/an-evidence-based-strategic-planning-toolkit/) in August, and followed this up by running [2 well-received masterclasses](https://librariestaskforce.blog.gov.uk/2017/12/05/masterclasses-reports-longer-term-evidence-based-sustainable-planning-and-libraries-benchmarking-toolkits/) in London and Leeds in November. At these masterclasses, we also held practical, hands on sessions to help people understand how to use our sector-led [benchmarking framework for libraries](https://librariestaskforce.blog.gov.uk/2017/09/15/benchmarking-framework/) for self-assessment, planning and improvement.
+
+During February and March, the Taskforce team was on the road again, running 4 masterclasses on Applying for Funding. These complemented a series run between 11 January and 8 February by Arts Council England (ACE) (which focussed on applying for ACE grants) by using speakers from other funding bodies such as Carnegie Trust UK and Heritage Lottery Fund. Feedback shows that these 2 sets of events have equipped libraries to approach bidding more confidently, and boost their chance of success in gaining funding against ever heavier competition.
+
+The Taskforce continues to promote the good practice guidance set out in its first 3 toolkits: ([Libraries Shaping the Future: good practice toolkit and case studies](/government/collections/libraries-shaping-the-future-report-and-case-studies); [Community Libraries: good practice toolkit and case studies](/government/collections/community-libraries-good-practice-toolkit) (we published a revised version on 19 March); [Libraries: Alternative Delivery Models](/government/publications/libraries-alternative-delivery-models-toolkit)). Since publication, these 3 toolkits, plus the new publications (the strategic planning and benchmarking toolkits), have been viewed over 77,300 times (over 28,000 during the period covered by this report). We also provide advice and support to individual library services when they approach us for help or guidance.
+
+#### Alternative delivery models
+
+Once library services have established community needs, they need to consider how best to deliver library services to meet these. There are a range of different delivery models already being used across England. Choosing the right one for a local area is a complex process. We published a toolkit designed to [help those interested in exploring Alternative Delivery Models](/government/publications/libraries-alternative-delivery-models-toolkit) in March 2017, and DCMS continues to provide support for councils exploring alternative delivery options, by providing [support and advice](/government/collections/public-service-mutuals) from technical experts (for example, legal, finance, or HR issues) to accelerate work being taken forward. Seven library services benefitted from the previous Mutual Support Grants during 2017. We held a [third masterclass on Alternative Delivery Models](https://librariestaskforce.blog.gov.uk/2017/12/20/alternative-delivery-models-masterclass-report/) in December. This replicated the [2 well-received masterclasses we ran in March 2017](https://librariestaskforce.blog.gov.uk/2017/03/30/alternative-delivery-models-masterclass-reports/), which were over-subscribed.
+
+Together with Locality and SCL, we’ve been providing support to the Upper Norwood Library Trust (UNLT) to establish the [Community Managed Library Peer Support Network](https://librariestaskforce.blog.gov.uk/2018/01/29/community-managed-libraries-peer-support-network-progress-report/). It is funded by [Power to Change](http://www.thepowertochange.org.uk/). The Network has begun to [blog regularly](https://communitylibrariesnetwork.wordpress.com/) and to organise a series of [events and opportunities to share learning](https://communitylibrariesnetwork.wordpress.com/category/workshops-training/), largely delivered through webinars to keep costs down for members. It held a national conference in Sheffield on 20 March, and is now working on what needs to happen to make it fully self-sustaining.
+
+#### Libraries: Opportunities for Everyone innovation fund
+
+DCMS and the Taskforce set up a ‘Libraries: Opportunities for Everyone’ (LOFE) fund (managed through Arts Council England) to pilot innovative activities in public libraries in England that will support all parts of society. In mid-March 2017, it was announced that [30 bids, covering 46 local authorities’ library services from across the country, would receive a total of £3.9 million from the innovation fund](https://librariestaskforce.blog.gov.uk/2017/03/22/and-the-successful-projects-are/) to be spent in 2017/18. We have already published blog posts about some of the [projects](https://librariestaskforce.blog.gov.uk/tag/lofefund/) as they have got up and running, and we are working with the successful projects to ensure the lessons identified during their delivery are shared with other library services.
+
+DCMS and the Taskforce have commissioned (and funded) the [Office for Public Management](http://www.opm.co.uk/) (OPM) to undertake a programme wide, independent evaluation of the LOFE programme. We will receive their final report in September, and will be holding an event in the autumn to share the findings. OPM held workshops with the LOFE project teams in January and February 2018. Some of the feedback from these workshops indicates that it would be helpful to learn more about conducting evaluations. We are exploring running a series of masterclasses later in the year to provide practical hands-on experience of this and follow up detailed guidance on conducting project evaluations. We’d like library services to be well equipped to build evaluation mechanisms in from a project’s inception, so they can use the outputs both to prompt project iteration and improvement during its delivery, and to use the findings as future advocacy material. For example, to demonstrate the benefits of rolling out a project more widely following an initial successful pilot.
+
+A number of library services received LOFE funding to establish a makerspace (or similar) in one or more of their libraries, and we have run regular sessions with these authorities to share learning. The group combined its February meeting with an OPM workshop focused on evaluating the success of the makerspaces. We’ve continued to develop and add to the guidance we [published](/government/publications/libraries-and-makerspaces) on GOV.UK, pulling together case studies, links and resources for library services with makerspaces or those who are thinking of creating one. There is also a map showing all libraries with makerspaces and those in development. Over the last 6 months new makerspaces have opened in:
+
+* Barnstaple library, Devon (Fab Lab PLUS)
+* Oxfordshire County Library, Oxfordshire
+* Kent Digital Dens
+* Nuneaton Library and Information Centre, Warwickshire
+* Rugby Library and Information Centre, Warwickshire
+
+#### Partner activity
+
+Individual Taskforce members are also undertaking work that contributes to the Ambition document’s strategic aims. For example, [SCL’s Universal Offers](http://goscl.com/universal-offers/) provide a framework for partnership development at a national level, which is delivering tangible benefits to library services within local communities. On 26 October, SCL launched its new [Universal Culture Offer](http://goscl.com/culture-offer/) in Hull. This focuses on bringing the contribution that libraries make to the national cultural landscape to the fore, and providing a platform for future development of the cultural offer of the public library sector. It aims to reflect the wide range and diversity of people using public libraries, including children and young people.
+
+[Engaging Libraries](https://www.carnegieuktrust.org.uk/project/engaging-libraries/) is a programme for public libraries across the UK and Ireland that want to pilot creative and imaginative public engagement projects on health and wellbeing. Public libraries have a key role in delivering on health and wellbeing as outlined in Ambition and the national library strategies across the UK and Ireland and the Society of Chief Librarians’ (SCL) Universal Health Offer. The programme is a partnership between the [Wellcome Trust](https://wellcome.ac.uk/) and [Carnegie UK Trust](https://www.carnegieuktrust.org.uk/) and is the outcome of joint work between the Wellcome Trust and SCL. It is supporting 14 projects to complete activities between October 2017 and October 2018 (over and above the original funding levels intended, because of the number and quality of the bids received).
+
+A [review](http://goscl.com/wp-content/uploads/Review-of-Reader-Development-Activities-and-Training-Needs-February-2017-1.pdf) conducted by SCL, involving 95 library services, found that while reader development remains a high priority for most services, there is a lack of current training to support this activity. There was also a recognition that much of the current reader development activity is targeted at groups and individuals who are not engaged with the library service or reading, and there were some excellent examples of library activity which had engaged and grown the audience for the library service. This review led to the development of a volunteer reader development training package which has been co-produced with volunteers and Leicestershire libraries, with support from Staffordshire and Warwickshire Library services. SCL has commissioned an [e-learning training module for staff](http://goscl.com/universal-offers/reading-offer/), which was published early in 2018.
+
+The SCL Digital and Learning Offer leads ran a series of [nine regional roadshows](https://librariestaskforce.blog.gov.uk/2018/01/30/joining-the-scl-family-learning-and-digital-roadshow/) beginning in October 2017 featuring new family learning resources and hands-on demonstrations of digital kit for library frontline staff. The sessions were facilitated by regional representatives, and a team of digital ambassadors, each of whom shared a selection of devices on the day, plus contributed to a handbook which contained lots of examples. There was also the opportunity to learn more about the family learning toolkit.
+
+The [Fun Palaces programme ran on the first weekend of October 2017](http://funpalaces.co.uk/wp-content/uploads/2018/02/Evaluation-2017.pdf), bringing free arts and sciences activities to 126,000 people nationwide. Over 50% of locations were public libraries. This is an inclusive and community run [set of activities](http://funpalaces.co.uk/about/fun-palaces-2017-3/), bringing people together within communities and helping individuals uncover their talents and try new things. Approximately 30% of participants came from an ethnic minority; 57% of participants said they do not usually seek out science activities, and 32% do not usually seek out the arts. March 1 saw the launch of the 2018 Fun Palaces campaign; the 2018 event will take place on 6 and 7 October 2018.
+
+We Are Digital led a joint bidding process involving SCL, and library services across the UK, to support applicants for in-country visas on behalf of UK Visas and Immigration. The contract, which began in September 2017, was arranged through the Government Digital Services framework for the supply of Assisted Digital / Digital Inclusion services. Support is provided in person via local libraries, in the applicant’s own home by We Are Digital’s visiting tutors, and by telephone from Migrant Help UK. 30 library services are already signed up, with a further 8 expressing either firm or potential interest.  Some library services have offered all their libraries for the service; others have selected key libraries based on capacity and anticipated take up.
+
+The year four [evaluation](https://tra-resources.s3.amazonaws.com/uploads/entries/document/2480/171009_TRA_RWBoP_Y4_Evaluation_-_Final.pdf) of the Reading Well Books on Prescription scheme (developed jointly by TRA and SCL) was published in October 2017. This showed extensive reach and user impact. Since the launch of the first scheme in 2013, Reading Well has reached nearly 800,000 people with helpful reading through public libraries. SCL continued to promote the benefits of the Reading Well programme, including launching an e-learning module for front line staff. The Reading Agency has also developed a new reading befriending programme, “Reading Friends”, aimed at vulnerable and isolated older people. Supported by SCL, this has been introduced via 4 test projects across England (West Sussex, Oldham, Newcastle and Sheffield).
+
+The Reading Agency ran its 2017 Summer Reading Challenge on the theme of Animal Agents, illustrated by Tony Ross. This featured a variety of clever creatures, specially trained to use their skills and natural instincts to unravel mysteries. It announced participation figures in November. 734,552 children between ages 4-11 years took part in the Challenge at their local library (44% were boys). 27,206 children under 4 took part using specially produced Summer Reading Challenge preschool materials, an increase of 7.05% from 2016. TRA also saw 7,763 young people volunteering in libraries to help encourage children to read 6 books. It announced that the 2018 Challenge would be called Mischief Makers, with TRA working in partnership with the Beano.
+
+[Animal Agents, Summer Reading Challenge 2017](https://www.youtube.com/watch?v=C99JxaUBcMU)
+
+TRA has secured funding from the Prince’s Trust to pilot a programme of activity (in Newcastle and Glasgow) aimed at supporting young people’s engagement with reading and, through this activity, building skills and learning and promoting mental health and well-being.
+
+TRA is in the final year of delivering [Reading Hack](http://readinghack.org.uk/), which has been funded by the Paul Hamlyn Foundation. From March onwards, it will hold celebration events and plan the legacy of this programme. [Previous research into the impact of Reading Hack](https://readingagency.org.uk/young-people/001-news/why-reading-hack.html) has demonstrated the value of the co-production and co-creation model which has underpinned this programme. It highlights the strengths of the Reading Hack approach - motivating young people to engage with their libraries and their local communities; supporting skills development and confidence; a flexible offer which enables retention and progression; and a cohesive brand and set of messaging which makes library volunteering programmes more manageable. TRA has been using the learning from this to develop funding bids for future activity. The 2017-2018 report will be published in May 2018.
+
+TRA completed [evaluation reports on the Reading Outcomes Framework](http://www.artscouncil.org.uk/sites/default/files/download-file/TRA%20Report%20of%20Reading%20Outcomes%20Framework%20Toolkit%20Pilot%20November%202017.pdf) funded by BookTrust and the Arts Council. The Arts Council work showcased the use of the framework in 5 pilots across England. It demonstrated the role of the framework in helping organisations to measure impact and in making the case for investment. A number of ideas for additional content and support have come out of this activity and TRA will be fundraising to deliver these.
+
+The [Living Knowledge Network](https://www.bl.uk/projects/living-knowledge) (LKN) puts into action the British Library’s vision to make our intellectual heritage available to everyone for research, inspiration and enjoyment. It brings together 22 public libraries across the UK, as well as the National Library of Scotland and the National Library of Wales. It shares resources, skills and ideas, promotes the enduring values (and value) of libraries in the twenty-first century, and reinforces the idea of the library as a transformative and accessible public asset. The Living Knowledge Network and Poet in the City received a major [£215,000 grant award from ACE’s strategic touring fund](http://www.artscouncil.org.uk/funding/strategic-touring?utm_content=buffer004b0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#section-4). They will work with Leeds, Sheffield, Reading, Exeter and Newcastle libraries over the next three years to produce poetry programmes and new works in response to themes inspired by British Library exhibitions. This is an endorsement of how the Network is helping to create national partnership and profiles for public libraries.
+
+The British Library’s [Harry Potter: A History of Magic](https://www.bl.uk/a-history-of-magic) exhibition provided a major opportunity for the network to collaborate and share cultural content with their cumulative audiences. 20 member libraries participated in this initiative, supplementing a core set of panel displays produced and shared by the Library from the London exhibition with items from their local collections and a range of varied local events and activities. Network member libraries in turn collaborated with a further 20 public libraries in their own areas. The British Library will seek to build on the successes of the Network in 2018, and make the transition to a sustainable funding model.
+
+In February 2016, the Taskforce and the Ministry of Justice (MoJ) started a pilot across a number of libraries in 2 London boroughs to provide dedicated work spaces ([commuter hubs](https://civilservice.blog.gov.uk/2015/07/24/commuter-hubs-bridging-the-gap-between-home-and-work/)) for use by civil servants. Based on its success, there was a growing demand to locate other suitable sites. Phase 2 extended the availability of this scheme throughout the South East, with 5 further sites situated in libraries in Leyton, Putney, Basingstoke, Farnborough and Witham. This collaboration benefits not only MoJ staff but also gives libraries an extra income stream from otherwise redundant (back office) space. The Phase 2 sites were so successful that MoJ has chosen to extend them into Phase 3, which began in June taking 4 of the 5 sites into full service. The site in Witham was not taken forward as it was not as popular as the others; but MoJ are currently looking to set up an alternative library site in Essex. MoJ are considering bringing other libraries into the commuter hub network over 2018/19.
+
+The LGA’s [Culture, Tourism and Sport Board](http://lga.moderngov.co.uk/mgCommitteeDetails.aspx?ID=156) held its [first out of London meeting in January 2018](http://lga.moderngov.co.uk/documents/g3725/Printed%20minutes%2018th-Jan-2018%2012.00%20Culture%20Tourism%20Sport%20Board.pdf?T=1) at the [Library of Birmingham](http://www.libraryofbirmingham.com/), providing board members with a chance to see the offer and impact of the library first-hand.
+
+### 4.4 Supporting workforce development
+
+To transform public library services across England, we need to harness the talent and creativity of the people who work in them - both library staff and volunteers. We also need to continue to identify and support the learning and development needs of councillors, commissioners, senior council officers and the board members of new library delivery bodies (such as mutuals and trusts). Equipping everyone involved in public libraries to understand the 7 Outcomes that we’ve identified in Libraries Deliver: Ambition and deliver them successfully, leading and succeeding in a changing environment, is a vital investment.
+
+CILIP and SCL are continuing work on the implementation of the ACE-funded actions in the [Public Libraries Skills Strategy](https://archive.cilip.org.uk/about/projects-reviews/public-library-skills-strategy/public-library-skills-strategy-2017-2030). CILIP has been working with the Clore Leadership Programme to develop a bespoke proposal focused on the public library sector. Due to the time required to develop this, they have sought an extended deadline for the project. CILIP and SCL are also discussing the development of an ‘eSkills’ portfolio or syllabus for public library workers.
+
+CILIP launched the [Ethics Review](https://archive.cilip.org.uk/research/topics/ethics-review) and [Privacy Review](https://archive.cilip.org.uk/research/topics/privacy-project) in 2017. In both cases the evidence gathering phase was completed in March, with final reports scheduled for early summer 2018. CILIP will be undertaking two further sector consultations during 2018: a sector-wide discussion and consultation about International Working, led by CILIP President Ayub Khan; and a Review of Professionalism and Professional Registration in the Library and Information Sector, led by an independent Chair. Both will deliver recommendations at the end of 2018 for implementation in 2019.
+
+CILIP has re-launched its membership offer to the library and information sector with the specific aim of welcoming more library and information workers to membership, whether or not they are professionally qualified. Membership is open to all information professionals, including Knowledge and Information Managers, Librarians and people working in Data Science and Analytics. Alongside the ‘standard’ membership offer, CILIP has launched a ‘Leaders Network’ membership that includes affiliate membership of the Chartered Management Institute (in support of the aims of the Public Libraries Skills Strategy). More information is available at [http://www.cilip.org.uk/membership](http://www.cilip.org.uk/membership).
+
+We want to see excellent work by people working in public libraries recognised and celebrated. CILIP has announced that it will set up the first Annual Library and Information Sector Awards. These will recognise and celebrate excellent practice (individual and teams), innovation, transformative services and design, architecture and software. Awards will be made against a limited number of categories in 2018 with a view to scaling up in future years.
+
+### 4.5 Supporting the development of the digital offer of libraries
+
+DCMS set up a [Culture is Digital](http://dcmsblog.uk/2017/04/cultureisdigital/) project in March 2017. Libraries were represented at a Ministerial roundtable focussing on access and participation; and an online consultation platform was set up to share ideas and examples of local work on digital culture projects. Themes emerging from the consultation included:
+
+* the potential for digital to generate new audiences for cultural experiences
+* the need for a longer-term strategy around digitisation of collections and improving their infrastructure
+* the importance of collaboration between the cultural and tech sector
+* the possibilities offered if cultural organisations could better collect and exploit the potential of data for understanding audiences and to improve their businesses
+* the need for digital upskilling within the culture sector
+
+[Policy proposals following up on the consultation were published on 7 March](/government/publications/culture-is-digital). The final report highlighted things such as the growing contribution of public library makerspaces to this work, and the role that the British Library BIPC network will play in supporting growing businesses in the digital cultural sector.
+
+In January 2016, SCL published a [report](http://goscl.com/wp-content/uploads/151130-DigitalPlatformFinalReport.pdf), commissioned from BiblioCommons, on the potential for a Single Library Digital Presence (SLDP) to offer existing and potential users of libraries a more engaging, interactive digital experience, to help retain existing users, attract new ones and change the perceptions of public libraries. Action 10 of Libraries Deliver: Ambition related to exploring this further. [In August, it was announced that The British Library is to lead an 18-month scoping project](https://www.bl.uk/press-releases/2017/august/single-digital-presence-announcement) to establish the demand for, and possible shape of, a single digital presence for UK public libraries. Funded by Arts Council England and the Carnegie UK Trust, the project will investigate user expectations and demand for what a national online platform for public libraries might deliver, and will explore the network of stakeholder groups and organisations best placed to make it a reality. This will involve market analysis, stakeholder interviews, workshops and other research, leading to a draft set of options and emerging findings within the first year as well as recommendations on how this might be taken forward. A project lead and team have now been appointed. Emerging findings from the project will be shared in autumn 2018, with the final report published in 2019.
+
+DCMS is continuing to work with British Library towards implementing the extension of Public Lending Right (PLR) to include remote lending of e-books and e-audiobooks that came into force as part of the Digital Economy Act 2017. DCMS is consulting on relevant updates to the secondary legislation of the PLR scheme so that it reflects the changes made to the primary legislation. To discuss progress on this work and related matters, DCMS and the Taskforce team met with representatives of authors, publishers, British Library, SCL and CILIP on 10 October and 13 February. This group will continue to meet regularly to support the implementation of PLR changes, as well as undertaking other activity to encourage joint working between libraries, authors, publishers, booksellers and others, relating to e-lending, PLR and other matters.
+
+### 4.6 Monitoring and reporting on progress
+
+#### Building sector capability
+
+In June, Arts Council England [announced the successful applicants from libraries to be in the Arts Council’s National Portfolio from April 2018 to March 2022](http://www.artscouncil.org.uk/NPO). This included SCL becoming a national Sector Support Organisation within the Arts Council England National Portfolio (these focus on offering support services to a sector, as opposed to directly producing or delivering art and culture). A Funding Agreement and business plan is now in place ahead of the start of investment on 1 April 2018. New draft articles of incorporation for SCL were approved by members at its November AGM, paving the way for it to become a charity. [It appointed a Chief Executive, Isobel Hunter who will take up post in April 2018](http://goscl.com/isobel-hunter-appointed-as-first-chief-executive-of-scl/); and has also appointed its trustees.
+
+ACE and LGA advertised an offer of [four peer challenges](https://www.local.gov.uk/our-support/peer-challenges) for library and cultural services. The four successful bids will receive peer challenges in March-July.
+
+ACE appointed a new Director of Libraries, Sue Williamson (formerly Head of Service at St Helens Council). She took up post on 12 March and joined the Taskforce at its 19 March meeting.
+
+As Taskforce funding is scheduled to cease after March 2020, at its December meeting, the Taskforce started to consider how work currently undertaken by the dedicated Taskforce team might be delivered in future. Discussions were held with relevant member organisations to discuss whether (and, if so, at what point) certain elements of the Taskforce team’s work might be mainstreamed into their remit. The opportunity was also being taken, through these discussions, to identify any gaps that might need filling to increase the impact of the Taskforce’s work. A detailed transition plan was discussed and agreed at the 19 March Taskforce meeting.
+
+Kathy Settle, the Chief Executive of the Libraries Taskforce, stepped down at the end of March, having led the Taskforce team for 3 years since its inception.
+
+### 4.7 Our reporting
+
+The Taskforce monitors progress against its action plan at every meeting. We’ll continue to present these narrative progress reports (including updates on the Outcome Progress Indicators) to Ministers and to the LGA’s Culture, Tourism and Sport Board every 6 months and publish them on GOV.UK.
+
+We publish [minutes of our meetings](https://www.gov.uk/government/collections/minutes-of-the-meetings-of-the-leadership-for-libraries-taskforce) on GOV.UK - links to those that took place during this reporting period are listed in Annex A.
+
+Progress is also reported to Parliament via the DCMS Annual Report to Parliament on Public Libraries. We expect the next one to be published by the end of May 2018.
+
+## 5. What we’ll achieve in the next 6 months
+
+By the time we next report (in October 2018), we’ll aim, amongst other things, to have:
+
+* begun the process of transitioning certain parts of the work previously undertaken by the Taskforce Team to Taskforce member organisations, in line with the plan agreed at the Taskforce’s March meeting
+* undertaken further work to revitalise the library brand, and developed further communications assets for all to use to support consistent messages
+* published an evaluation of the LOFE fund projects, which will enable the Taskforce to identify lessons learned, and which projects might have potential to be scaled up  further
+* produced further advice on undertaking user research and project evaluation; and run masterclasses to help promote the advice and embed it as sector good practice
+* taken forward our work on supporting library services to publish their data through a common schema, in line with our core dataset
+* continued to publish and share blog posts and case studies which illustrate the rich diversity of activities going on in libraries across the country
+* assisted the Community Managed Libraries Peer Support Network to transition towards self-sustainability
+* supported DCMS and the British Library in work towards implementing the provisions of the Digital Economy Act 2017 that extend the Public Lending Right to include remote lending of e-books and e-audiobooks
+
+## 6. Annex A: Information on the Taskforce
+
+#### Background and structure
+
+Information on the background and structure of the Taskforce is set out in our [GOV.UK web pages](https://www.gov.uk/government/groups/libraries-taskforce). Our [Terms of Reference](https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-terms-of-reference/libraries-taskforce-terms-of-reference-june-2017) were updated in February 2018.
+
+The Taskforce reports to the DCMS Libraries Minister, and to the LGA Culture, Sport and Tourism Board. Between July 2017 and January 2018, the responsibility for public libraries in England came under the remit of John Glen MP. He was succeeded as Minister for Arts, Heritage and Tourism by Michael Ellis MP on 9 January 2018. Councillor Gerald Vernon-Jackson chairs the LGA Culture, Tourism and Sport Board.
+
+In December, the Taskforce reviewed the [Libraries Deliver: Ambition](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021) document, confirming that it remained appropriate for the current operating environment; and refreshed its [Action Plan](/government/uploads/system/uploads/attachment_data/file/686062/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf), which was [published on 7 March](https://librariestaskforce.blog.gov.uk/2018/03/07/setting-our-goals/). This sets goals for 2018, 2019 and 2020, and the outcomes the Taskforce is working towards for 2021.
+
+The main action areas are:
+
+* promoting public libraries to the public and to decision-makers
+* providing library services and potential partners with easy access to evidence and data to inform their decision-making
+* providing clearly signposted, step by step guidance and peer support
+* helping the sector (paid staff and volunteers) obtain the insights, skills and support it needs for the future
+
+We’ll also continue to identify other emerging challenges which would benefit from central support or where we can use our collective influence and convening power to make things happen.
+
+#### Taskforce meetings
+
+Over the period covered by this progress report, the Taskforce held the following meetings:
+
+* [16th meeting](https://www.gov.uk/government/publications/sixteenth-meeting-of-the-libraries-taskforce) at Canning Town Library, Newham on 4 October 2017
+* [17th meeting](https://www.gov.uk/government/publications/seventeenth-meeting-of-the-libraries-taskforce) at Storyhouse Chester on 7 December 2017
+* [18th meeting](https://www.gov.uk/government/publications/eighteenth-meeting-of-the-libraries-taskforce) at Woolwich Centre Library on 7 February 2018
+* [19th meeting](https://www.gov.uk/government/publications/nineteenth-meeting-of-the-libraries-taskforce) at Sheffield Central Library on 19 March 2018
+
+#### Taskforce membership
+
+During this period, Dr Paul Blantern, (Taskforce Chair since its inception in 2015), resigned as a Taskforce member [Note: the Terms of Reference state that the Chair has to be a Local Authority Chief Executive, so Paul stepped down once he ceased to be Chief Executive of Northamptonshire County Council]. Kim Bromley-Derry, Chief Executive of the London Borough of Newham, succeeded Paul as Taskforce Chair in October 2017, having been a Taskforce member since May 2017.
+
+Paul Bristow, Director of Strategy, represented Arts Council England during this period, pending the appointment of a new Director of Libraries. Kathy Settle (the Taskforce’s Chief Executive since its inception), also stepped down in March 2018. The Taskforce would like to record its thanks to them for their valued contribution.
+
+The Taskforce welcomed some new members: Councillor Mike Bell (member of the LGA Culture, Tourism and Sport Board), Polly Hamilton (Vice-Chair of cCLOA and Assistant Director of Culture, sport and tourism at Rotherham BC), Professor Steve Broomhead (Chief Executive, Warrington Borough Council), Sue Cook (Interim Chief Executive, Suffolk County Council), Dr Neil Churchill (Director of Participation and Patient Experience, NHS England) and Sue Williamson (Director of Libraries, Arts Council England).
+
+#### Funding for the Taskforce team
+
+DCMS provided initial £250,000 funding for 2015/16 to set up and support the Taskforce. Continued funding of £500,000 per year to March 2020 was confirmed as part of the DCMS Spending Review on 25 November 2015. This covers the costs of the core staff and Taskforce administrative costs (such as Taskforce publications and the workshops, sector forums and events the Taskforce runs). The Taskforce identifies other funding and resources to support delivery of its key priorities.
+
+At its December meeting, the Taskforce started to consider how work currently undertaken by the dedicated Taskforce team might be delivered in future. Following meetings with relevant member organisations to discuss whether (and, if so, at what point) certain elements of the Taskforce team’s work might be mainstreamed into their remit, a transition plan was agreed by the Taskforce at its March meeting.
+
+#### Taskforce Staff
+
+During the period covered by this report, the team supporting the Taskforce comprised 5 full time staff:
+
+* Chief Executive
+* Policy and Secretariat Manager
+* Communications Lead
+* Programme and Project Manager
+* PA and Business support
+
+The Taskforce team was supported during this period by some part time (unpaid) secondees contributing to our work:
+
+* Stephen Howell (Head of Culture and Sport, Durham CC) working on updating the good practice toolkits
+* Alyn Thomas (Kent Library and Information Services) working on communications and advocacy material
+* Paula Carley (Manchester Libraries) working on communications material
+* Ollie Andrews (NHS England policy fast streamer) who produced a report on partnership opportunities between the library sector and health bodies
+
+The Taskforce is very grateful to all secondees for their insights and assistance, and to their organisations for agreeing to their release.
+
+## 7. Annex B: Libraries Deliver: Ambition for public libraries in England 2016 to 2021
+
+#### Developing a vision for public libraries in England
+
+In November 2015, DCMS asked the Libraries Taskforce to develop a vision for the next 5 years, providing a framework to stimulate and inform discussion about library services at local and national levels. To develop the document, we drew on the knowledge of Taskforce members, information gained from visits to libraries, meetings with library staff and stakeholders, and previous reports such as the [Independent Library Report for England](https://www.gov.uk/government/publications/independent-library-report-for-england) and [Envisioning the library of the future](http://www.artscouncil.org.uk/sector-resilience/envisioning-library-future), as well as [consulting widely](https://www.gov.uk/government/consultations/libraries-deliver-ambition-for-public-libraries-in-england-2016-2021) through an online questionnaire and wide range of events run throughout England.
+
+#### What the document covers
+
+The [document we published](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021) on 1 December 2016, which is endorsed and supported by central government and the LGA (on behalf of local government), sets out the context that libraries operate within. It looks at how they are adapting and developing their offer in response to these changing needs and circumstances, and will need to do so in future. It describes the Taskforce’s vision for public library services in England and details the [7 Outcomes that the public library network supports](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021#Annex-1):
+
+* cultural and creative enrichment
+* enhanced reading and literacy
+* increased digital literacy and access
+* helping everyone achieve their full potential
+* healthier and happier lives
+* increased prosperity
+* stronger, more resilient communities
+
+It also explores:
+
+* how leaders of councils and other public services can invest in libraries to achieve their strategic objectives around the future health, well-being, strength, happiness and prosperity of local people and communities
+* how libraries can innovate and adapt to meet users’ and communities’ changing needs
+* how strong local leadership of libraries can be complemented and supported by nationally co-ordinated initiatives
+* ways to support libraries’ longer-term financial resilience and sustainability by looking at new delivery models and financing approaches
+
+#### Our action plan
+
+When we published Libraries Deliver: Ambition in December 2016 it was accompanied by an [Action Plan](/government/uploads/system/uploads/attachment_data/file/603108/Ambition_Action_Plan_December_2016.pdf), saying what the Taskforce would contribute to make our vision a reality. However, recognising we couldn’t achieve all this on our own, the action plan also included challenges to both central and local government. Clearly these could only be challenges as we couldn’t mandate them; however we looked for opportunities to incentivise delivery and also continued to showcase good practice.
+
+The Taskforce reviews the Ambition document and its accompanying action plan annually. In December at its meeting in Chester Storyhouse, the Taskforce reviewed the [Libraries Deliver: Ambition](/government/publications/libraries-deliver-ambition-for-public-libraries-in-england-2016-to-2021) document, confirming that it remained appropriate for the current operating environment; and refreshed its [Action Plan](/government/uploads/system/uploads/attachment_data/file/686062/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf), which was [published on 7 March](https://librariestaskforce.blog.gov.uk/2018/03/07/setting-our-goals/). This sets goals for 2018, 2019 and 2020, and the outcomes the Taskforce is working towards for 2021.
+
+The main action areas are:
+
+* promoting public libraries to the public and to decision-makers
+* providing library services and potential partners with easy access to evidence and data to inform their decision-making
+* providing clearly signposted, step by step guidance and peer support
+* helping the sector (paid staff and volunteers) obtain the insights, skills and support it needs for the future
+
+We’ll also continue to identify other emerging challenges which would benefit from central support or where we can use our collective influence and convening power to make things happen.
+
+## 8. Annex C: Meetings, visits, and presentations
+
+The Chief Executive, Taskforce Team and Chair have met with and/or requested meetings with various government departments at official and ministerial level, and with a wide range of individuals and organisations from partner organisations, the library sector and beyond. This is to highlight the value of libraries and the work that libraries are already undertaking to support various policy and outcomes work. These meetings also seek to identify future opportunities for collaboration and options for library investment. Some of the most important meetings held during the period covered by this report were with:
+
+* BIC Library Suppliers Liaison Group
+* British Film Institute
+* British Standards Institution
+* Business Support Helpline
+* Cambridgeshire Culture Card scheme
+* Carnegie UK Trust
+* CFE Research
+* Chief Cultural & Leisure Officers Association
+* CISCO Digital Network
+* Creative Industries Federation
+* Department for Business, Energy and Industrial Strategy
+* Doteveryone
+* EBSCO
+* Education Endowment Foundation
+* Fromnowon
+* Good Things Foundation
+* Greater London Authority
+* Halifax
+* Heritage Lottery Foundation
+* Hewlett-Packard
+* Innovate UK
+* Institute of Making
+* Locality
+* Makerversity
+* MakEY Project
+* Ministry of Justice
+* Ministry of Housing, Communities and Local Government
+* National Enterprise Network
+* National Society for the Prevention of Cruelty to Children
+* Power to Change
+* Public Policy Exchange
+* Solus
+* Sopra Steria
+* Tech City
+* TechMums
+* Teentech
+* The National Archives
+* The Princes Trust
+* The Publishers Association
+* UK Visa and Immigration
+* Urban Vision
+* Westminster City Council
+* What Works Centre for Wellbeing
+* Wolfson Foundation
+
+#### Visits
+
+The Libraries Minister, Chief Executive and Taskforce team have visited a range of local authorities and libraries to get a better understanding of the different models and services they provide to their communities. These have included discussions with the library workforce and users, as well as meetings with senior councillors and local authority chief executives and directors, to:
+
+* promote what libraries do to support delivery of their services and agendas
+* highlight the range of delivery models possible for library services
+* identify and share good practice
+* seek views on how the Taskforce can help reinvigorate public library services
+
+We’ve visited a number of libraries over the last 6 months. These include:
+
+* Artizan Street Library & Community Centre, City of London - Association of London Chief Librarians meeting
+* Beeston, Nottinghamshire
+* Junction 3 library, Bristol
+* Bromley Central library, London Borough of Bromley
+* Canning Town, London Borough of Newham
+* Cambridge Central Library, Cambridgeshire - Minister visited
+* Chatham, Medway
+* Chislehurst, London Borough of Bromley
+* City Business Library, City of London
+* Colliers Wood, Merton - for the official opening
+* Coventry Central library - Minister attended
+* Crayford Library, Bexley - Minister opened co-located Post Office
+* Ermine Community Hub and Library, Lincolnshire
+* Gateshead Central, Newcastle
+* Gravesend, Kent
+* Greenwich Centre, Royal Borough of Greenwich
+* Hebburn Library, South Tyneside
+* Helston, Cornwall - for the official opening
+* Hull Central Library
+* Jesmond Library, Newcastle
+* John Harvard Library, London Borough of Southwark
+* Ketton, Rutland
+* Kings Norton, Birmingham
+* Lincoln Central, Lincolnshire
+* Manchester Central Library - Minister visited
+* Milton Keynes Central Library
+* Newcastle City Library
+* North Shields, North Tyneside
+* Oxfordshire County Library - for the official opening. Minister attended
+* Pimlico Library, Westminster - for the official opening. Minister attended
+* Selly Oak, Birmingham
+* Sheffield Central Library, Sheffield City Council - Taskforce meeting
+* Skipton Library, North Yorkshire
+* Sleaford, Lincolnshire
+* Stamford, Lincolnshire
+* Storyhouse, Chester
+* The Hive, Worcester
+* Thimblemill, Sandwell
+* Upper Norwood Library Hub, London Borough of Lambeth
+* Waddington, Lincolnshire
+* West Hampstead, London Borough of Camden
+* Winchester Discovery Centre, Hampshire
+* Woolwich Centre Library, Royal Borough of Greenwich - Taskforce meeting

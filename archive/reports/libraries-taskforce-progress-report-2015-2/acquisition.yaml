@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-october-2015-march-2016/leadership-for-libraries-taskforce-six-month-progress-report-october-2015-march-2016"
+source_pdf_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-october-2015-march-2016/leadership-for-libraries-taskforce-six-month-progress-report-october-2015-march-2016"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "govuk-content-api-harvest"
+local_file: "source/report.html"
+pdf_sha256: "e9dffa862433cd23fd1e1ba960b421e1185310bde7d6dbf40fc4ed1ca2c170f9"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Second six-month progress report of the Leadership for Libraries Taskforce covering October 2015 to March 2016."

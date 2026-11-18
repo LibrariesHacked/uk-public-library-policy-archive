@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-monthly-progress-report-april-to-september-2019/libraries-taskforce-6-month-progress-report-april-to-september-2019"
+source_pdf_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-monthly-progress-report-april-to-september-2019/libraries-taskforce-6-month-progress-report-april-to-september-2019"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "govuk-content-api-harvest"
+local_file: "source/report.html"
+pdf_sha256: "8dc222032e9c3200a62d74d6c121506061a8939a058a471ae20fc43051a9f335"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Ninth six-month progress report of the Libraries Taskforce covering April to September 2019, preceding the final wind-up report of March 2020."

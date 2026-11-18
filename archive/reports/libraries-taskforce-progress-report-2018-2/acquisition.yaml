@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-october-2018-to-march-2019/libraries-taskforce-six-monthly-progress-report-october-2018-to-march-2019"
+source_pdf_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-october-2018-to-march-2019/libraries-taskforce-six-monthly-progress-report-october-2018-to-march-2019"
+publisher: "Libraries Taskforce"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+download_method: "govuk-content-api-harvest"
+local_file: "source/report.html"
+pdf_sha256: "05d5a62a4d0c0cf3f1df39f8f9afeb958032cd1418d26f3a1c12802994ab58a7"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Eighth six-month progress report of the Libraries Taskforce covering October 2018 to March 2019, highlighting the transition of core activities to permanent sector leadership bodies."
