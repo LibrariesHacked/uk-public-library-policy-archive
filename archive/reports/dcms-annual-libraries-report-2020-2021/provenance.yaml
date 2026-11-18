@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-april-2020-to-march-2021"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/60ec53ff8fa8f50c78eb5ec2/Annual_Libraries_Report_2020_to_2021__3_.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:751e4cc089b55502283081c06d68b4f8bf2bca8a77485062e588368caed608ed"
+pdf_sha256: "751e4cc089b55502283081c06d68b4f8bf2bca8a77485062e588368caed608ed"
+download_method: "python-urllib"
+conversion_method: "govspeak-html-transcription-with-pdf-verification"
+conversion_date: "2026-11-18"
+review_status: "reviewed"

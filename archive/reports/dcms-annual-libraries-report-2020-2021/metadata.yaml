@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: dcms-annual-libraries-report-2020-2021
+title: "Annual Libraries Report 2020 to 2021"
+subtitle: "Report Pursuant to Section 17 of the Public Libraries and Museums Act 1964 for 2020/21"
+creators:
+  - "Department for Digital, Culture, Media and Sport"
+publisher: "Department for Digital, Culture, Media and Sport"
+publication_date: "2021-07-13"
+year: 2021
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "annual-report"
+pages: 15
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.gov.uk/government/publications/annual-report-to-parliament-on-public-libraries-activities-from-april-2020-to-march-2021"
+source_pdf: "source/Annual_Libraries_Report_2020_to_2021__3_.pdf"
+rights: "Crown Copyright 2020. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "reviewed"
