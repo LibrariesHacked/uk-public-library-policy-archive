@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20for%20Living%2C%20and%20for%20Living%20Better.pdf
+  original_filename: Libraries for Living, and for Living Better.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 05477a034679a8122e043bf82964ba94965d2f53d8556aaf36a9a644566a64a7
+  filesize: 3875628
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries Connected official publications repository
+  notes: Major evaluation report commissioned by Libraries Connected East and conducted by University of East Anglia (CreativeUEA and Health Economics Consulting), establishing the social, health, educational, and economic value of public libraries across the East of England and creating the EVOLS evaluation framework.

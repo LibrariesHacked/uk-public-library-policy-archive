@@ -1066,6 +1066,28 @@ reports:
   pages: 9
   path: archive/reports/libraries-connected-ready-to-learn-2023
   source_url: https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school
+- id: libraries-connected-libraries-for-living-better-2023
+  title: "Libraries for Living, and for Living Better"
+  subtitle: "The Value and Impact of Public Libraries in the East of England"
+  year: 2023
+  publication_date: '2023-06-01'
+  publisher: "Libraries Connected"
+  creators:
+  - "John Gordon"
+  - "Anna Blackett"
+  - "Richard Fordham"
+  - "Maria Garraffa"
+  - "Stephanie Howard Wilsher"
+  - "Eleanor Prince"
+  - "University of East Anglia"
+  - "CreativeUEA"
+  - "Health Economics Consulting"
+  - "Libraries Connected East"
+  country: "England"
+  document_type: "research-report"
+  pages: 118
+  source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20for%20Living%2C%20and%20for%20Living%20Better.pdf"
+  path: "archive/reports/libraries-connected-libraries-for-living-better-2023"
 - id: dcms-annual-libraries-report-2023-2024
   title: Annual Libraries Report 2023 to 2024
   subtitle: Annual Report to Parliament on Public Libraries Activities from April
