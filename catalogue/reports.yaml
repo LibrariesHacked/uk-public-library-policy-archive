@@ -180,6 +180,19 @@ reports:
   isbn: 978-0-7504-6749-0
   source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf
   path: archive/reports/libraries-inspire-2012-16
+- id: high-court-gloucestershire-somerset-libraries-judgment-2011
+  title: 'R (Green) v Gloucestershire County Council & R (Rowe and Hird) v Somerset County Council'
+  subtitle: 'High Court Judgment on Public Library Closures and the Public Sector Equality Duty ([2011] EWHC 2687 (Admin))'
+  creators:
+  - 'His Honour Judge McKenna (Sitting as a Deputy Judge of the High Court)'
+  publisher: 'High Court of Justice (Queen''s Bench Division, Administrative Court)'
+  publication_date: '2011-11-16'
+  year: 2011
+  country: England
+  document_type: judgment
+  pages: 41
+  path: archive/reports/high-court-gloucestershire-somerset-libraries-judgment-2011
+  source_url: https://caselaw.nationalarchives.gov.uk/ewhc/admin/2011/2687
 - id: carnegie-a-new-chapter-2012
   title: 'A New Chapter: Public library services in the 21st century'
   subtitle: null

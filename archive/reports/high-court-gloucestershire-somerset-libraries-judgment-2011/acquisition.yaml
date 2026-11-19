@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2011/2687"
+source_pdf_url: "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2011/2687/data.pdf"
+publisher: "High Court of Justice (Queen's Bench Division, Administrative Court)"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/gloucestershire-somerset-judgment-2011.pdf"
+pdf_sha256: "ba000f522398a42ecd22d6c4bf92f725539200b23d3e0cf47837a3051558356f"
+licence: "Open Justice Licence v1.0"
+licence_url: "https://caselaw.nationalarchives.gov.uk/open-justice-licence"
+notes: "High Court Administrative Court landmark judgment in R (Green) v Gloucestershire CC & R (Rowe and Hird) v Somerset CC [2011] EWHC 2687 (Admin), quashing library closure decisions for breach of the Public Sector Equality Duty under Section 149 of the Equality Act 2010 and examining Section 7 of the Public Libraries and Museums Act 1964."

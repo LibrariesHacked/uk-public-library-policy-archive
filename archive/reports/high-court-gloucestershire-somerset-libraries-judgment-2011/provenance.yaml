@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2011/2687"
+source_pdf_url: "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2011/2687/data.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:ba000f522398a42ecd22d6c4bf92f725539200b23d3e0cf47837a3051558356f"
+pdf_sha256: "ba000f522398a42ecd22d6c4bf92f725539200b23d3e0cf47837a3051558356f"
+download_method: "python-urllib"
+conversion_method: "pypdfium2-extraction-with-tna-xml-alignment"
+conversion_date: "2026-11-19"
+review_status: "converted"

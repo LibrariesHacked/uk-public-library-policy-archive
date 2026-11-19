@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: high-court-gloucestershire-somerset-libraries-judgment-2011
+title: "R (Green) v Gloucestershire County Council & R (Rowe and Hird) v Somerset County Council"
+subtitle: "High Court Judgment on Public Library Closures and the Public Sector Equality Duty ([2011] EWHC 2687 (Admin))"
+creators:
+  - "His Honour Judge McKenna (Sitting as a Deputy Judge of the High Court)"
+publisher: "High Court of Justice (Queen's Bench Division, Administrative Court)"
+publication_date: "2011-11-16"
+year: 2011
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "judgment"
+pages: 41
+identifier: "[2011] EWHC 2687 (Admin)"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2011/2687"
+source_pdf: "source/gloucestershire-somerset-judgment-2011.pdf"
+rights: "Crown Copyright. Managed by The National Archives under the Open Justice Licence v1.0."
+review_level: "converted"
