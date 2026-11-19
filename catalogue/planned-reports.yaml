@@ -417,13 +417,13 @@ planned_reports:
 - id: scl-universal-offers
   title: Universal Offers for Public Libraries
   short_title: Universal Offer documents
-  year: null
+  year: 2015
   publisher: Society of Chief Librarians
   country: England
   category: LIBRARIES CONNECTED
   document_type: strategy
-  verified: false
-  status: planned
+  verified: true
+  status: archived
 - id: libraries-connected-universal-library-offers-refresh
   title: Universal Library Offers (refreshed edition)
   year: 2025

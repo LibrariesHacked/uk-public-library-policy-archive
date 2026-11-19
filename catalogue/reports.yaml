@@ -1094,3 +1094,16 @@ reports:
   pages: 23
   path: archive/reports/slic-fast-forward-public-library-strategy-2026
   source_url: https://scottishlibraries.org/wp-content/uploads/2025/10/221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf
+- id: scl-universal-offers
+  title: The Universal Offers for Public Libraries
+  subtitle: The foundation for a successful and comprehensive library service
+  creators:
+  - Society of Chief Librarians
+  publisher: Society of Chief Librarians
+  publication_date: '2015-10-01'
+  year: 2015
+  country: England
+  document_type: strategy
+  pages: 7
+  path: archive/reports/scl-universal-offers
+  source_url: http://goscl.com/wp-content/uploads/UniversalOfferBooklet.pdf

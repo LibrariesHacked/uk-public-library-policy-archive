@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/UniversalOfferBooklet.pdf"
+source_pdf_url: "https://web.archive.org/web/20160323043818id_/http://goscl.com/wp-content/uploads/UniversalOfferBooklet.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:80131cd5e5bcefe7d3b4ffd4d1c0e0bab6614235b6d8039ac6dae34a7bda37ee"
+pdf_sha256: "80131cd5e5bcefe7d3b4ffd4d1c0e0bab6614235b6d8039ac6dae34a7bda37ee"
+download_method: "wayback-machine-archive"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

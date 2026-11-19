@@ -1,0 +1,10 @@
+acquisition:
+  source_url: http://goscl.com/wp-content/uploads/UniversalOfferBooklet.pdf
+  original_filename: UniversalOfferBooklet.pdf
+  retrieval_date: '2026-11-19'
+  method: wayback-download
+  sha256: 80131cd5e5bcefe7d3b4ffd4d1c0e0bab6614235b6d8039ac6dae34a7bda37ee
+  filesize: 463362
+  content_type: application/pdf
+  capture_tool: Wayback Machine archive (Internet Archive)
+  notes: The original Universal Offers framework booklet published by the Society of Chief Librarians (SCL) outlining the five core offers (Health, Reading, Digital, Information, Learning) and two complementary offers (Children's Promise and Six Steps for blind and partially sighted readers).
