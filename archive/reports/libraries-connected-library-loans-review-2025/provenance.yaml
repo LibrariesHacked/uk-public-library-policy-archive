@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/resources/library-loans-review"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-12/Libraries%20Connected%20trends%20in%20library%20loans%20FINAL%20REPORT%20DESIGN%20-%20v2.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:d988c6af31c4aa6d84c384411b12278ca4a3dea4fa6a3c5fa13aeb878f28b1fa"
+pdf_sha256: "d988c6af31c4aa6d84c384411b12278ca4a3dea4fa6a3c5fa13aeb878f28b1fa"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

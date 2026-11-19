@@ -1123,3 +1123,17 @@ reports:
   pages: 31
   path: archive/reports/libraries-connected-power-of-prevention-2025
   source_url: https://www.librariesconnected.org.uk/resources/power-prevention-economic-and-wellbeing-impact-library-activities-mental-health-and-older
+- id: libraries-connected-library-loans-review-2025
+  title: 'Library Loans Review: Trends in Public Library Borrowing'
+  subtitle: Report for Libraries Connected
+  creators:
+  - Independent Mind
+  - Libraries Connected Universal Reading Offer Group
+  publisher: Libraries Connected
+  publication_date: '2025-10-17'
+  year: 2025
+  country: United Kingdom
+  document_type: research-report
+  pages: 49
+  path: archive/reports/libraries-connected-library-loans-review-2025
+  source_url: https://www.librariesconnected.org.uk/resources/library-loans-review

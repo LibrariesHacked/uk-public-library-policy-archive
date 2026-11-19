@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesconnected.org.uk/resources/library-loans-review
+  original_filename: Libraries Connected trends in library loans FINAL REPORT DESIGN - v2.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: d988c6af31c4aa6d84c384411b12278ca4a3dea4fa6a3c5fa13aeb878f28b1fa
+  filesize: 4385940
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries Connected official repository
+  notes: Definitive review commissioned by the Libraries Connected Universal Reading Offer Group and conducted by Independent Mind, examining public library borrowing trends across 34 UK library services from 2019–20 through to 2024–25 post-pandemic.
