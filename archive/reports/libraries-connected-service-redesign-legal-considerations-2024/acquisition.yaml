@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-12/Library%20service%20redesign%20-%20legal%20considerations.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-12/Library%20service%20redesign%20-%20legal%20considerations.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/library-service-redesign-legal-considerations-2024.pdf"
+pdf_sha256: "8a83d71f904fbc2e9f5cd6b4811d56a5f5bbbeeb33859f1aa42f98f63958f2d2"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Guidance note issued by Libraries Connected in December 2024 for English library authorities outlining statutory duties under the Public Libraries and Museums Act 1964, the Equality Act 2010 PSED, local inquiries, judicial review case law, and an indicative service redesign timeline."

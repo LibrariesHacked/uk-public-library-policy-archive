@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-service-redesign-legal-considerations-2024
+title: "Library Service Redesign: Legal Considerations"
+subtitle: "Briefing guidance for local library authorities in England"
+creators:
+  - "Libraries Connected"
+publisher: "Libraries Connected"
+publication_date: "2024-12-01"
+year: 2024
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "guidance"
+pages: 5
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-12/Library%20service%20redesign%20-%20legal%20considerations.pdf"
+source_pdf: "source/library-service-redesign-legal-considerations-2024.pdf"
+rights: "Copyright Libraries Connected 2024."
+review_level: "converted"

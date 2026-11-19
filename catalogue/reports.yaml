@@ -1237,6 +1237,18 @@ reports:
   notes: Major national research report updating Libraries on the Move (2019), detailing
     post-pandemic public mobile library services, ageing vehicle fleets, green/electric
     transition challenges, and strategic fit across Scotland.
+- id: libraries-connected-service-redesign-legal-considerations-2024
+  title: "Library Service Redesign: Legal Considerations"
+  subtitle: "Briefing guidance for local library authorities in England"
+  year: 2024
+  publisher: "Libraries Connected"
+  country: "England"
+  document_type: "guidance"
+  pages: 5
+  path: "archive/reports/libraries-connected-service-redesign-legal-considerations-2024"
+  review_level: "converted"
+  fictional_sample: false
+  notes: "Guidance note issued by Libraries Connected in December 2024 outlining statutory duties under the Public Libraries and Museums Act 1964, Section 149 Equality Act 2010 PSED, consultation standards, local inquiries, and judicial review precedent (Wirral, Gloucestershire, Somerset, Brent, Lincolnshire)."
 - id: dcms-annual-libraries-report-2024-2025
   title: Annual Libraries Report 2024 to 2025
   subtitle: Annual Report to Parliament on Public Libraries Activities from April
