@@ -1295,6 +1295,19 @@ reports:
   pages: 56
   path: archive/reports/libraries-ni-corporate-plan-2025-2030
   source_url: https://www.librariesni.org.uk/media/evwjzeuy/libraries-ni-corporate-plan-2025-2030.pdf
+- id: welsh-public-library-standards-seventh-framework
+  title: 'Public Libraries Supporting Sustainable and Connected Communities'
+  subtitle: 'The Seventh Quality Framework of Welsh Public Library Standards (2025 to 2028)'
+  creators:
+  - 'Welsh Government'
+  publisher: 'Welsh Government'
+  publication_date: '2025-04-01'
+  year: 2025
+  country: Wales
+  document_type: standards
+  pages: 24
+  path: archive/reports/welsh-public-library-standards-seventh-framework
+  source_url: https://www.gov.wales/sites/default/files/publications/2025-04/public-libraries-supporting-sustainable-and-connected-communities-the-seventh-quality-framework-of-welsh-public-libraries-standards-2025-to-2028.pdf
 - id: slic-securing-the-future-2025
   title: Securing the Future of Scotland’s Libraries
   subtitle: null

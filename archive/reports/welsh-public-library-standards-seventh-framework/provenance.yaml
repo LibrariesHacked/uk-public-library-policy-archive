@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.wales/sites/default/files/publications/2025-04/public-libraries-supporting-sustainable-and-connected-communities-the-seventh-quality-framework-of-welsh-public-libraries-standards-2025-to-2028.pdf"
+source_pdf_url: "https://www.gov.wales/sites/default/files/publications/2025-04/public-libraries-supporting-sustainable-and-connected-communities-the-seventh-quality-framework-of-welsh-public-libraries-standards-2025-to-2028.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:bd0dd83793e5a9682fa03c428f2252ad0a26de292388080aca695665fdd1445c"
+pdf_sha256: "bd0dd83793e5a9682fa03c428f2252ad0a26de292388080aca695665fdd1445c"
+download_method: "python-urllib"
+conversion_method: "pypdfium2-transcription-with-asset-rendering"
+conversion_date: "2026-11-19"
+review_status: "converted"

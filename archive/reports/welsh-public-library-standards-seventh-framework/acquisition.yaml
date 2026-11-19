@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.wales/sites/default/files/publications/2025-04/public-libraries-supporting-sustainable-and-connected-communities-the-seventh-quality-framework-of-welsh-public-libraries-standards-2025-to-2028.pdf"
+source_pdf_url: "https://www.gov.wales/sites/default/files/publications/2025-04/public-libraries-supporting-sustainable-and-connected-communities-the-seventh-quality-framework-of-welsh-public-libraries-standards-2025-to-2028.pdf"
+publisher: "Welsh Government"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/welsh-public-library-standards-seventh-framework-2025-2028.pdf"
+pdf_sha256: "bd0dd83793e5a9682fa03c428f2252ad0a26de292388080aca695665fdd1445c"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Statutory public library quality framework issued by the Welsh Government under the Public Libraries and Museums Act 1964 for 2025 to 2028."

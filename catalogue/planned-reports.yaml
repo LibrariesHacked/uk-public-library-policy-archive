@@ -395,6 +395,18 @@ planned_reports:
   verified: false
   status: archived
   source_url: http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf
+- id: welsh-public-library-standards-seventh-framework
+  title: 'Public Libraries Supporting Sustainable and Connected Communities: The Seventh
+    Quality Framework of Welsh Public Library Standards 2025–2028'
+  short_title: Welsh Public Library Standards Framework (seventh)
+  year: 2025
+  publisher: Welsh Government
+  country: Wales
+  category: WALES
+  document_type: standards
+  verified: true
+  status: archived
+  source_url: https://www.gov.wales/sites/default/files/publications/2025-04/public-libraries-supporting-sustainable-and-connected-communities-the-seventh-quality-framework-of-welsh-public-libraries-standards-2025-to-2028.pdf
 - id: dcal-delivering-tomorrows-libraries
   title: Delivering Tomorrow's Libraries
   short_title: Delivering Tomorrow's Library

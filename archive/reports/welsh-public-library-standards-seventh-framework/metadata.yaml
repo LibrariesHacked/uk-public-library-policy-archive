@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: welsh-public-library-standards-seventh-framework
+title: "Public Libraries Supporting Sustainable and Connected Communities"
+subtitle: "The Seventh Quality Framework of Welsh Public Library Standards (2025 to 2028)"
+creators:
+  - "Welsh Government"
+publisher: "Welsh Government"
+publication_date: "2025-04-01"
+year: 2025
+publication_place: "Cardiff"
+country: "Wales"
+language: "en"
+document_type: "standards"
+pages: 24
+identifier: "WG50695"
+isbn: "978-1-83715-289-6"
+issn: null
+series: "Welsh Public Library Standards"
+edition: "Seventh Quality Framework"
+source_url: "https://www.gov.wales/sites/default/files/publications/2025-04/public-libraries-supporting-sustainable-and-connected-communities-the-seventh-quality-framework-of-welsh-public-libraries-standards-2025-to-2028.pdf"
+source_pdf: "source/welsh-public-library-standards-seventh-framework-2025-2028.pdf"
+rights: "Crown Copyright 2025 Welsh Government. Licensed under the Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "converted"
