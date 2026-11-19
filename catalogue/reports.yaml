@@ -280,6 +280,20 @@ reports:
   notes: Official Welsh Public Library Standards Fifth Quality Framework (2014-2017),
     establishing core entitlements, performance quality indicators, and outcome measurement
     for public library authorities across Wales.
+- id: ace-bop-economic-review-2014
+  title: "Evidence Review of the Economic Contribution of Libraries"
+  subtitle: "Final Report"
+  year: 2014
+  publication_date: '2014-06-01'
+  publisher: "Arts Council England"
+  creators:
+  - "BOP Consulting"
+  - "Arts Council England"
+  country: "England"
+  document_type: "research-report"
+  pages: 64
+  source_url: "https://www.artscouncil.org.uk/sites/default/files/download-file/Evidence_review_economic_contribution_libraries_2014.pdf"
+  path: "archive/reports/ace-bop-economic-review-2014"
 - id: ace-health-and-wellbeing-benefits-2015
   title: The Health and Wellbeing Benefits of Public Libraries
   subtitle: Full report

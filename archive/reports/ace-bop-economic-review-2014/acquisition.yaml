@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.artscouncil.org.uk/sites/default/files/download-file/Evidence_review_economic_contribution_libraries_2014.pdf
+  original_filename: Evidence_review_economic_contribution_libraries_2014.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 2193d4fb2f2ab2b7d9972fe177507ca7f03f94acc08215dc06b4ff9256503a28
+  filesize: 3824729
+  content_type: application/pdf
+  capture_tool: Python urllib from Arts Council England official publications repository
+  notes: Major evidence review commissioned by Arts Council England and conducted by BOP Consulting, analyzing the economic value of public libraries, return on investment (ROI), contingent valuation, and wider socioeconomic outcomes across England and internationally.
