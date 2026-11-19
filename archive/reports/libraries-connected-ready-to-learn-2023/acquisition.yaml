@@ -1,10 +1,14 @@
-acquisition:
-  source_url: https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school
-  original_filename: Ready to Learn - briefing note.pdf
-  retrieval_date: '2026-11-19'
-  method: direct-download
-  sha256: c4adf7384a29b19b07fe60cb09231a463873156ac4346e72b21efb5bb585a6a9
-  filesize: 8659457
-  content_type: application/pdf
-  capture_tool: Python urllib from Libraries Connected official repository
-  notes: Briefing note by Libraries Connected on how public libraries support children and families with school readiness, drawing on YouGov polling of primary school teachers and case studies from across England.
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-12/Ready%20to%20Learn%20-%20briefing%20note.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-12/Ready%20to%20Learn%20-%20briefing%20note.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/ready-to-learn-briefing-note-2023.pdf"
+pdf_sha256: "c4adf7384a29b19b07fe60cb09231a463873156ac4346e72b21efb5bb585a6a9"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Briefing note and Survation teacher poll published by Libraries Connected in May 2023 examining the impact of public libraries on early years literacy, school readiness, and multi-agency early intervention, featuring case studies from Newham, St Helens, Leeds, Cheshire East, North Yorkshire, and Bradford."

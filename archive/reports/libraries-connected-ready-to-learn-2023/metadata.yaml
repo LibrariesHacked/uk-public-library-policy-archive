@@ -1,23 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
 id: libraries-connected-ready-to-learn-2023
 title: "Ready to Learn: How Public Libraries Help Children and Families Prepare for School"
-subtitle: "Briefing note"
+subtitle: "Briefing Note and Survation Teacher Poll"
 creators:
   - "Libraries Connected"
-  - "Isobel Hunter MBE"
 publisher: "Libraries Connected"
 publication_date: "2023-05-01"
 year: 2023
 publication_place: "London"
 country: "England"
 language: "en"
-document_type: "briefing-paper"
+document_type: "briefing"
 pages: 9
 identifier: null
 isbn: null
 issn: null
 series: null
 edition: null
-source_url: "https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school"
-source_pdf: "source/ready-to-learn-briefing-note.pdf"
-rights: "Copyright © Libraries Connected 2023. Registered Charity Number 1176482."
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-12/Ready%20to%20Learn%20-%20briefing%20note.pdf"
+source_pdf: "source/ready-to-learn-briefing-note-2023.pdf"
+rights: "Copyright Libraries Connected 2023. Photographs copyright Nicola Tree and contributing library services."
 review_level: "converted"
