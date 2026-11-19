@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://carnegieuk.org/publications/speaking-volumes-leaflet/"
+source_pdf_url: "https://carnegieuk.org/wp-content/uploads/2024/10/HIGH-RES-Libraries-Folded-Leaflet-2.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:95c66cec24155e7c827927b0266bd2d5260a1a16288b1a935b3ccd76f21065e6"
+pdf_sha256: "95c66cec24155e7c827927b0266bd2d5260a1a16288b1a935b3ccd76f21065e6"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

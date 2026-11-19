@@ -294,6 +294,19 @@ reports:
   pages: 64
   source_url: "https://www.artscouncil.org.uk/sites/default/files/download-file/Evidence_review_economic_contribution_libraries_2014.pdf"
   path: "archive/reports/ace-bop-economic-review-2014"
+- id: carnegie-speaking-volumes-2014
+  title: "Speaking Volumes: The Impact of Public Libraries on Wellbeing"
+  subtitle: null
+  year: 2014
+  publication_date: '2014-07-15'
+  publisher: "Carnegie UK Trust"
+  creators:
+  - "Carnegie UK Trust"
+  country: "United Kingdom"
+  document_type: "briefing-paper"
+  pages: 2
+  source_url: "https://carnegieuk.org/publications/speaking-volumes-leaflet/"
+  path: "archive/reports/carnegie-speaking-volumes-2014"
 - id: ace-health-and-wellbeing-benefits-2015
   title: The Health and Wellbeing Benefits of Public Libraries
   subtitle: Full report

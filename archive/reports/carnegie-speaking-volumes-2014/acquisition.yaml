@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://carnegieuk.org/publications/speaking-volumes-leaflet/
+  original_filename: HIGH-RES-Libraries-Folded-Leaflet-2.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 95c66cec24155e7c827927b0266bd2d5260a1a16288b1a935b3ccd76f21065e6
+  filesize: 15814109
+  content_type: application/pdf
+  capture_tool: Python urllib from Carnegie UK official publications archive
+  notes: Carnegie UK Trust policy leaflet and infographic poster outlining the multidimensional impact of public libraries on individual and community wellbeing across four public policy domains (Social, Economic, Cultural, and Education) and tracking the contribution of branch, mobile, and digital library services across the UK and Ireland.
