@@ -1107,3 +1107,19 @@ reports:
   pages: 7
   path: archive/reports/scl-universal-offers
   source_url: http://goscl.com/wp-content/uploads/UniversalOfferBooklet.pdf
+- id: libraries-connected-power-of-prevention-2025
+  title: 'The Power of Prevention: The Economic and Wellbeing Impact of Library Activities
+    for Mental Health and Older Adults'
+  subtitle: A Report by Shared Intelligence and Moresight
+  creators:
+  - Shared Intelligence
+  - Moresight
+  - Libraries Connected South East
+  publisher: Libraries Connected
+  publication_date: '2025-11-01'
+  year: 2025
+  country: England
+  document_type: research-report
+  pages: 31
+  path: archive/reports/libraries-connected-power-of-prevention-2025
+  source_url: https://www.librariesconnected.org.uk/resources/power-prevention-economic-and-wellbeing-impact-library-activities-mental-health-and-older

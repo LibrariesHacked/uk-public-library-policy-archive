@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/resources/power-prevention-economic-and-wellbeing-impact-library-activities-mental-health-and-older"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-12/The%20power%20of%20prevention%20Dec25.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:9a11124a1356dd57f7d3259b602c5ac5dcdf24fc2918abeaa422fb325d512ecb"
+pdf_sha256: "9a11124a1356dd57f7d3259b602c5ac5dcdf24fc2918abeaa422fb325d512ecb"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

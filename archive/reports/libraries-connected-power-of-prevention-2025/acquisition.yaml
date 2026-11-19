@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesconnected.org.uk/resources/power-prevention-economic-and-wellbeing-impact-library-activities-mental-health-and-older
+  original_filename: The power of prevention Dec25.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 9a11124a1356dd57f7d3259b602c5ac5dcdf24fc2918abeaa422fb325d512ecb
+  filesize: 4956090
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries Connected official repository
+  notes: Groundbreaking economic and wellbeing evaluation of library activities for older people and mental health across 21 library authorities in the South East of England, applying HM Treasury Green Book standards, WELLBY values, and NHS healthcare cost-benefit modelling.
