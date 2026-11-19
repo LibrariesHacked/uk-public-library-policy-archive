@@ -1164,3 +1164,17 @@ reports:
   pages: 5
   path: archive/reports/libraries-ni-reading-strategy-2024-2027
   source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/policies-and-procedures/
+- id: libraries-connected-poverty-proofing-2026
+  title: 'Poverty Proofing® Libraries: Findings and Framework'
+  subtitle: In partnership with Libraries Connected, thanks to funding from Arts Council England
+  creators:
+  - Children North East
+  - Libraries Connected
+  publisher: Libraries Connected and Children North East
+  publication_date: '2026-10-22'
+  year: 2026
+  country: England
+  document_type: guidance
+  pages: 37
+  path: archive/reports/libraries-connected-poverty-proofing-2026
+  source_url: https://www.librariesconnected.org.uk/resources
