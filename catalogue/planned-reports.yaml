@@ -501,3 +501,13 @@ planned_reports:
   verified: true
   status: archived
   archived_id: carnegie-a-new-chapter-2012
+- id: libraries-connected-pandemic-services-2020
+  title: 'Libraries in the Pandemic: Evolving Services to Meet Local Need'
+  year: 2020
+  publisher: Libraries Connected
+  country: England
+  category: LIBRARIES CONNECTED
+  document_type: briefing-paper
+  verified: true
+  status: archived
+  archived_id: libraries-connected-pandemic-services-2020

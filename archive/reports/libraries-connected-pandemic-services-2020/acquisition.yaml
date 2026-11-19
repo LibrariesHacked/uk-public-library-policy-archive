@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-02/Libraries%20in%20the%20pandemic.pdf
+  original_filename: Libraries in the pandemic.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: aa1726818ace9e94c0d85e312078d08e16a80ad4b2cd280fed35c96597f3779d
+  filesize: 310744
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries Connected official repository
+  notes: Briefing report by Libraries Connected examining how public library services adapted during COVID-19 lockdowns, supporting literacy, fighting isolation, overcoming digital exclusion, and planning for local recovery.

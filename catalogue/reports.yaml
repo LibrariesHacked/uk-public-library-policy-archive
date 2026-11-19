@@ -339,6 +339,19 @@ reports:
   notes: Founding governance charter, roles, remits of member bodies, and operational
     ways of working of the Leadership for Libraries Taskforce established in March
     2015.
+- id: scl-universal-offers
+  title: The Universal Offers for Public Libraries
+  subtitle: The foundation for a successful and comprehensive library service
+  creators:
+  - Society of Chief Librarians
+  publisher: Society of Chief Librarians
+  publication_date: '2015-10-01'
+  year: 2015
+  country: England
+  document_type: strategy
+  pages: 7
+  path: archive/reports/scl-universal-offers
+  source_url: http://goscl.com/wp-content/uploads/UniversalOfferBooklet.pdf
 - id: dcms-libraries-as-a-statutory-service-2016
   title: Libraries as a Statutory Service
   subtitle: Guidance for Local Authorities on Providing a Comprehensive and Efficient
@@ -731,6 +744,20 @@ reports:
   notes: Landmark national research report commissioned by SLIC and undertaken by
     Dr Alyson Tyler on the use, social impact, vehicle fleets, and community value
     of mobile library services in Scotland.
+- id: carnegie-making-a-difference-2020
+  title: 'Making a Difference: Libraries, Lockdown and Looking Ahead'
+  subtitle: null
+  creators:
+  - Dr Jenny Peachey
+  - Carnegie UK Trust
+  publisher: Carnegie UK Trust
+  publication_date: '2020-10-13'
+  year: 2020
+  country: United Kingdom
+  document_type: research-report
+  pages: 54
+  path: archive/reports/carnegie-making-a-difference-2020
+  source_url: https://www.carnegieuktrust.org.uk/publications/making-a-difference-libraries-lockdown-and-looking-ahead/
 - id: dcms-annual-libraries-report-2019-2020
   title: Annual Libraries Report 2019 to 2020
   subtitle: Report Pursuant to Section 17 of the Public Libraries and Museums Act
@@ -800,6 +827,19 @@ reports:
   pages: 57
   path: archive/reports/libraries-connected-covid-19-response-report
   source_url: https://www.librariesconnected.org.uk/resource/libraries-lockdown-connecting-communities-crisis
+- id: libraries-connected-pandemic-services-2020
+  title: 'Libraries in the Pandemic: Evolving Services to Meet Local Need'
+  subtitle: null
+  year: 2020
+  publication_date: '2020-12-01'
+  publisher: Libraries Connected
+  creators:
+  - Libraries Connected
+  country: England
+  document_type: briefing-paper
+  pages: 12
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-02/Libraries%20in%20the%20pandemic.pdf
+  path: archive/reports/libraries-connected-pandemic-services-2020
 - id: libraries-ni-corporate-plan
   title: Libraries NI Corporate Plan 2020–2024
   subtitle: Connecting People, Enriching Lives
@@ -967,6 +1007,21 @@ reports:
     the Secretary of State's decision not to direct a local inquiry under Section
     10(1)(a) of the Public Libraries and Museums Act 1964 following library changes
     agreed by Calderdale Council.
+- id: libraries-connected-ready-to-learn-2023
+  title: 'Ready to Learn: How Public Libraries Help Children and Families Prepare
+    for School'
+  subtitle: Briefing note
+  creators:
+  - Libraries Connected
+  - Isobel Hunter MBE
+  publisher: Libraries Connected
+  publication_date: '2023-05-01'
+  year: 2023
+  country: England
+  document_type: briefing-paper
+  pages: 9
+  path: archive/reports/libraries-connected-ready-to-learn-2023
+  source_url: https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school
 - id: dcms-annual-libraries-report-2023-2024
   title: Annual Libraries Report 2023 to 2024
   subtitle: Annual Report to Parliament on Public Libraries Activities from April
@@ -996,6 +1051,19 @@ reports:
   notes: Independent review led by Baroness Elizabeth Sanderson examining challenges
     facing public libraries in England and setting out recommendations for national
     data infrastructure, branding, and ministerial coordination.
+- id: libraries-ni-reading-strategy-2024-2027
+  title: Reading and Reader Development Strategy 2024–2027
+  subtitle: null
+  creators:
+  - Libraries NI
+  publisher: Libraries NI
+  publication_date: '2024-03-01'
+  year: 2024
+  country: Northern Ireland
+  document_type: strategy
+  pages: 5
+  path: archive/reports/libraries-ni-reading-strategy-2024-2027
+  source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/policies-and-procedures/
 - id: slic-mobile-libraries-in-scotland-2024
   title: Mobile Libraries in Scotland 2024 Report
   subtitle: An Update to Libraries on the Move (2019) on Current Mobile Library Provision,
@@ -1026,6 +1094,36 @@ reports:
   notes: Annual report presented to Parliament pursuant to Section 17 of the Public
     Libraries and Museums Act 1964 covering superintendence, local authority engagements,
     library usage statistics, byelaws, and the Libraries Improvement Fund.
+- id: libraries-connected-library-loans-review-2025
+  title: 'Library Loans Review: Trends in Public Library Borrowing'
+  subtitle: Report for Libraries Connected
+  creators:
+  - Independent Mind
+  - Libraries Connected Universal Reading Offer Group
+  publisher: Libraries Connected
+  publication_date: '2025-10-17'
+  year: 2025
+  country: United Kingdom
+  document_type: research-report
+  pages: 49
+  path: archive/reports/libraries-connected-library-loans-review-2025
+  source_url: https://www.librariesconnected.org.uk/resources/library-loans-review
+- id: libraries-connected-power-of-prevention-2025
+  title: 'The Power of Prevention: The Economic and Wellbeing Impact of Library Activities
+    for Mental Health and Older Adults'
+  subtitle: A Report by Shared Intelligence and Moresight
+  creators:
+  - Shared Intelligence
+  - Moresight
+  - Libraries Connected South East
+  publisher: Libraries Connected
+  publication_date: '2025-11-01'
+  year: 2025
+  country: England
+  document_type: research-report
+  pages: 31
+  path: archive/reports/libraries-connected-power-of-prevention-2025
+  source_url: https://www.librariesconnected.org.uk/resources/power-prevention-economic-and-wellbeing-impact-library-activities-mental-health-and-older
 - id: libraries-connected-universal-library-offers-refresh
   title: Universal Library Offers
   subtitle: A national strategic framework for public libraries in England and Wales
@@ -1067,6 +1165,35 @@ reports:
   notes: Annual report presented to Parliament pursuant to Section 17 of the Public
     Libraries and Museums Act 1964 covering superintendence, library participation
     survey statistics, formal complaints, byelaws, and the Libraries Improvement Fund.
+- id: libraries-connected-poverty-proofing-2026
+  title: 'Poverty Proofing® Libraries: Findings and Framework'
+  subtitle: In partnership with Libraries Connected, thanks to funding from Arts Council
+    England
+  creators:
+  - Children North East
+  - Libraries Connected
+  publisher: Libraries Connected and Children North East
+  publication_date: '2026-10-22'
+  year: 2026
+  country: England
+  document_type: guidance
+  pages: 37
+  path: archive/reports/libraries-connected-poverty-proofing-2026
+  source_url: https://www.librariesconnected.org.uk/resources
+- id: libraries-connected-volunteering-2026
+  title: 'Volunteering in Public Libraries: Insights from the Libraries Connected
+    Surveys'
+  subtitle: Findings from the Volunteer Diversity Survey and Member Survey
+  creators:
+  - Libraries Connected
+  publisher: Libraries Connected
+  publication_date: '2026-02-16'
+  year: 2026
+  country: England
+  document_type: research-report
+  pages: 36
+  path: archive/reports/libraries-connected-volunteering-2026
+  source_url: https://www.librariesconnected.org.uk/resources
 - id: sample-report-001
   title: Demonstration Public Library Review
   subtitle: Statutory Provision, Community Access, and Digital Infrastructure in Fictional
@@ -1094,114 +1221,3 @@ reports:
   pages: 23
   path: archive/reports/slic-fast-forward-public-library-strategy-2026
   source_url: https://scottishlibraries.org/wp-content/uploads/2025/10/221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf
-- id: scl-universal-offers
-  title: The Universal Offers for Public Libraries
-  subtitle: The foundation for a successful and comprehensive library service
-  creators:
-  - Society of Chief Librarians
-  publisher: Society of Chief Librarians
-  publication_date: '2015-10-01'
-  year: 2015
-  country: England
-  document_type: strategy
-  pages: 7
-  path: archive/reports/scl-universal-offers
-  source_url: http://goscl.com/wp-content/uploads/UniversalOfferBooklet.pdf
-- id: libraries-connected-power-of-prevention-2025
-  title: 'The Power of Prevention: The Economic and Wellbeing Impact of Library Activities
-    for Mental Health and Older Adults'
-  subtitle: A Report by Shared Intelligence and Moresight
-  creators:
-  - Shared Intelligence
-  - Moresight
-  - Libraries Connected South East
-  publisher: Libraries Connected
-  publication_date: '2025-11-01'
-  year: 2025
-  country: England
-  document_type: research-report
-  pages: 31
-  path: archive/reports/libraries-connected-power-of-prevention-2025
-  source_url: https://www.librariesconnected.org.uk/resources/power-prevention-economic-and-wellbeing-impact-library-activities-mental-health-and-older
-- id: libraries-connected-library-loans-review-2025
-  title: 'Library Loans Review: Trends in Public Library Borrowing'
-  subtitle: Report for Libraries Connected
-  creators:
-  - Independent Mind
-  - Libraries Connected Universal Reading Offer Group
-  publisher: Libraries Connected
-  publication_date: '2025-10-17'
-  year: 2025
-  country: United Kingdom
-  document_type: research-report
-  pages: 49
-  path: archive/reports/libraries-connected-library-loans-review-2025
-  source_url: https://www.librariesconnected.org.uk/resources/library-loans-review
-- id: libraries-connected-ready-to-learn-2023
-  title: 'Ready to Learn: How Public Libraries Help Children and Families Prepare for School'
-  subtitle: Briefing note
-  creators:
-  - Libraries Connected
-  - Isobel Hunter MBE
-  publisher: Libraries Connected
-  publication_date: '2023-05-01'
-  year: 2023
-  country: England
-  document_type: briefing-paper
-  pages: 9
-  path: archive/reports/libraries-connected-ready-to-learn-2023
-  source_url: https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school
-- id: libraries-ni-reading-strategy-2024-2027
-  title: 'Reading and Reader Development Strategy 2024–2027'
-  subtitle: null
-  creators:
-  - Libraries NI
-  publisher: Libraries NI
-  publication_date: '2024-03-01'
-  year: 2024
-  country: Northern Ireland
-  document_type: strategy
-  pages: 5
-  path: archive/reports/libraries-ni-reading-strategy-2024-2027
-  source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/policies-and-procedures/
-- id: libraries-connected-poverty-proofing-2026
-  title: 'Poverty Proofing® Libraries: Findings and Framework'
-  subtitle: In partnership with Libraries Connected, thanks to funding from Arts Council England
-  creators:
-  - Children North East
-  - Libraries Connected
-  publisher: Libraries Connected and Children North East
-  publication_date: '2026-10-22'
-  year: 2026
-  country: England
-  document_type: guidance
-  pages: 37
-  path: archive/reports/libraries-connected-poverty-proofing-2026
-  source_url: https://www.librariesconnected.org.uk/resources
-- id: carnegie-making-a-difference-2020
-  title: 'Making a Difference: Libraries, Lockdown and Looking Ahead'
-  subtitle: null
-  creators:
-  - Dr Jenny Peachey
-  - Carnegie UK Trust
-  publisher: Carnegie UK Trust
-  publication_date: '2020-10-13'
-  year: 2020
-  country: United Kingdom
-  document_type: research-report
-  pages: 54
-  path: archive/reports/carnegie-making-a-difference-2020
-  source_url: https://www.carnegieuktrust.org.uk/publications/making-a-difference-libraries-lockdown-and-looking-ahead/
-- id: libraries-connected-volunteering-2026
-  title: 'Volunteering in Public Libraries: Insights from the Libraries Connected Surveys'
-  subtitle: Findings from the Volunteer Diversity Survey and Member Survey
-  creators:
-  - Libraries Connected
-  publisher: Libraries Connected
-  publication_date: '2026-02-16'
-  year: 2026
-  country: England
-  document_type: research-report
-  pages: 36
-  path: archive/reports/libraries-connected-volunteering-2026
-  source_url: https://www.librariesconnected.org.uk/resources
