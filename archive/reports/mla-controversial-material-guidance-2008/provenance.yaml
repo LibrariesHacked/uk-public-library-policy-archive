@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://nag.org.uk/wp-content/uploads/2019/03/MLA-guidance-on-the-management-of-controversial-material-in-public-libraries.pdf"
+source_pdf_url: "https://nag.org.uk/wp-content/uploads/2019/03/MLA-guidance-on-the-management-of-controversial-material-in-public-libraries.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:97170b1b2f073f1601a06c824b4b3ebc4f98224bd81967547f3523e6d51ca299"
+pdf_sha256: "97170b1b2f073f1601a06c824b4b3ebc4f98224bd81967547f3523e6d51ca299"
+download_method: "python-urllib"
+conversion_method: "pypdfium2-transcription-with-asset-rendering"
+conversion_date: "2026-11-19"
+review_status: "converted"

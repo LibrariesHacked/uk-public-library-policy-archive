@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://nag.org.uk/wp-content/uploads/2019/03/MLA-guidance-on-the-management-of-controversial-material-in-public-libraries.pdf"
+source_pdf_url: "https://nag.org.uk/wp-content/uploads/2019/03/MLA-guidance-on-the-management-of-controversial-material-in-public-libraries.pdf"
+publisher: "Museums, Libraries and Archives Council"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/mla-controversial-material-guidance-2008.pdf"
+pdf_sha256: "97170b1b2f073f1601a06c824b4b3ebc4f98224bd81967547f3523e6d51ca299"
+licence: "Open Government Licence / Crown Copyright"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "National guidance issued by the Museums, Libraries and Archives Council (MLA) on behalf of DCMS on stock management, controversial subjects, intellectual freedom, and relevant legislation in English public libraries."

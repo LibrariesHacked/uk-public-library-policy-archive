@@ -122,6 +122,19 @@ reports:
   fictional_sample: false
   notes: Third revised edition (April 2008, published June 2008) of the DCMS Public
     Library Service Standards (PLSS 1–10) for local library authorities in England.
+- id: mla-controversial-material-guidance-2008
+  title: 'Guidance on the Management of Controversial Material in Public Libraries'
+  subtitle: 'National Policy Guidance for Public Library Authorities in England'
+  creators:
+  - 'Museums, Libraries and Archives Council'
+  publisher: 'Museums, Libraries and Archives Council'
+  publication_date: '2008-07-28'
+  year: 2008
+  country: England
+  document_type: guidance
+  pages: 42
+  path: archive/reports/mla-controversial-material-guidance-2008
+  source_url: https://nag.org.uk/wp-content/uploads/2019/03/MLA-guidance-on-the-management-of-controversial-material-in-public-libraries.pdf
 - id: dcms-wirral-public-library-inquiry-2009
   title: A Local Inquiry into the Public Library Service Provided by Wirral Metropolitan
     Borough Council

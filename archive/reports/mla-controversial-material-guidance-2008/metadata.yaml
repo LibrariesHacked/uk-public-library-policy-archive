@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: mla-controversial-material-guidance-2008
+title: "Guidance on the Management of Controversial Material in Public Libraries"
+subtitle: "National Policy Guidance for Public Library Authorities in England"
+creators:
+  - "Museums, Libraries and Archives Council"
+publisher: "Museums, Libraries and Archives Council"
+publication_date: "2008-07-28"
+year: 2008
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "guidance"
+pages: 42
+identifier: "MLAPOL0409"
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://nag.org.uk/wp-content/uploads/2019/03/MLA-guidance-on-the-management-of-controversial-material-in-public-libraries.pdf"
+source_pdf: "source/mla-controversial-material-guidance-2008.pdf"
+rights: "Crown Copyright / Museums, Libraries and Archives Council 2008."
+review_level: "converted"
