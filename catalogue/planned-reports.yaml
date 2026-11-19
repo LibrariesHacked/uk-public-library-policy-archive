@@ -491,3 +491,13 @@ planned_reports:
   document_type: impact-report
   verified: true
   status: archived
+- id: carnegie-a-new-chapter-2012
+  title: 'A New Chapter: Public library services in the 21st century'
+  year: 2012
+  publisher: Carnegie UK Trust
+  country: United Kingdom
+  category: CARNEGIE UK TRUST
+  document_type: research-report
+  verified: true
+  status: archived
+  archived_id: carnegie-a-new-chapter-2012

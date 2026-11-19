@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://carnegieuk.org/wp-content/uploads/2024/11/A-new-chapter.pdf
+  original_filename: A-new-chapter.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: 38556c43550e299d1d2034b7be10fad7fb512581e7aea5db508e8e00fe5a301d
+  filesize: 4977099
+  content_type: application/pdf
+  capture_tool: Python urllib
+  notes: "Landmark research report on public library services in the 21st century by Liz Macdonald for the Carnegie UK Trust, based on Ipsos MORI polling of 5,330 adults across all five jurisdictions (England, Scotland, Wales, Northern Ireland, and Ireland), published in May 2012."

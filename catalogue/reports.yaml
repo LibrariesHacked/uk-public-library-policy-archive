@@ -180,6 +180,20 @@ reports:
   isbn: 978-0-7504-6749-0
   source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf
   path: archive/reports/libraries-inspire-2012-16
+- id: carnegie-a-new-chapter-2012
+  title: 'A New Chapter: Public library services in the 21st century'
+  subtitle: null
+  year: 2012
+  publication_date: '2012-05-01'
+  publisher: Carnegie UK Trust
+  creators:
+  - Liz Macdonald
+  - Carnegie UK Trust
+  country: United Kingdom
+  document_type: research-report
+  pages: 72
+  source_url: https://carnegieuk.org/wp-content/uploads/2024/11/A-new-chapter.pdf
+  path: archive/reports/carnegie-a-new-chapter-2012
 - id: ace-envisioning-the-library-of-the-future-2013
   title: Envisioning the library of the future
   subtitle: 'Phases 1 and 2: full report'
