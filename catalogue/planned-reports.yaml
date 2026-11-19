@@ -511,3 +511,13 @@ planned_reports:
   verified: true
   status: archived
   archived_id: libraries-connected-pandemic-services-2020
+- id: libraries-ni-collections-development-policy-2024
+  title: Collections Development Policy
+  year: 2024
+  publisher: Libraries NI
+  country: Northern Ireland
+  category: NORTHERN IRELAND
+  document_type: policy
+  verified: true
+  status: archived
+  archived_id: libraries-ni-collections-development-policy-2024

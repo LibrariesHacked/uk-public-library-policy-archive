@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesni.org.uk/media/jcyjwulx/collections-development-policy-may-2024.pdf
+  original_filename: collections-development-policy-may-2024.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 9d1427591eadf70e5ef6fe4ac68ccc3d26c236ed7cb738928a76ed6189d82d9e
+  filesize: 316980
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries NI official website
+  notes: Official statutory policy document setting out the framework for selection, curation, development, preservation, and management of library resources across Northern Ireland under the Libraries Act (Northern Ireland) 2008.
