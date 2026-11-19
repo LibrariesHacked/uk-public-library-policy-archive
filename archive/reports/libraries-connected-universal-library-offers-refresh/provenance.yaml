@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-03/ULO%20Infographics%202025%20-%20branded.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-03/ULO%20Infographics%202025%20-%20branded.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:e70d016871f04b1cb24a54913a5058950be2c5e50daa2920655f5f8e3b9ab4b6"
+pdf_sha256: "e70d016871f04b1cb24a54913a5058950be2c5e50daa2920655f5f8e3b9ab4b6"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

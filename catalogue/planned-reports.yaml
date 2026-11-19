@@ -425,13 +425,13 @@ planned_reports:
   status: planned
 - id: libraries-connected-universal-library-offers-refresh
   title: Universal Library Offers (refreshed edition)
-  year: null
+  year: 2025
   publisher: Libraries Connected
   country: England
   category: LIBRARIES CONNECTED
   document_type: strategy
-  verified: false
-  status: planned
+  verified: true
+  status: archived
 - id: libraries-connected-strategic-plan
   title: Libraries Connected Strategic Plan 2023–2027
   short_title: Strategic plans

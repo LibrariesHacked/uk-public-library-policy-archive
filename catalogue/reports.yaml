@@ -987,3 +987,16 @@ reports:
   pages: 23
   path: archive/reports/carnegie-shining-a-light-policy-report-2017
   source_url: https://carnegieuk.org/wp-content/uploads/2024/10/Policy-Report-Shining-a-Light-2.pdf
+- id: libraries-connected-universal-library-offers-refresh
+  title: Universal Library Offers
+  subtitle: A national strategic framework for public libraries in England and Wales
+  creators:
+  - Libraries Connected
+  publisher: Libraries Connected
+  publication_date: '2025-01-01'
+  year: 2025
+  country: England
+  document_type: strategy
+  pages: 4
+  path: archive/reports/libraries-connected-universal-library-offers-refresh
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-03/ULO%20Infographics%202025%20-%20branded.pdf
