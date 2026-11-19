@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Pride%20in%20Place%20Strategy%20and%20Funding.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Pride%20in%20Place%20Strategy%20and%20Funding.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:d905f7dcee0d4f478f5e1dd804b5ac9906f1562d054e84230ae3c24f5e76d6b7"
+pdf_sha256: "d905f7dcee0d4f478f5e1dd804b5ac9906f1562d054e84230ae3c24f5e76d6b7"
+download_method: "python-urllib"
+conversion_method: "pypdfium2-transcription-with-asset-rendering"
+conversion_date: "2026-11-19"
+review_status: "converted"

@@ -1520,3 +1520,17 @@ reports:
   pages: 2
   path: archive/reports/libraries-connected-alliance-statement-2025
   source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-10/Alliance%20Statement%20-%20FINAL.pdf
+- id: libraries-connected-pride-in-place-briefing-2026
+  title: 'Briefing: Pride in Place Strategy and Funding'
+  subtitle: Implications and opportunities for public libraries under the UK Government's
+    Pride in Place strategy
+  creators:
+  - Libraries Connected
+  publisher: Libraries Connected
+  publication_date: '2026-01-01'
+  year: 2026
+  country: United Kingdom
+  document_type: briefing
+  pages: 2
+  path: archive/reports/libraries-connected-pride-in-place-briefing-2026
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Pride%20in%20Place%20Strategy%20and%20Funding.pdf

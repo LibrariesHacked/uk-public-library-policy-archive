@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Pride%20in%20Place%20Strategy%20and%20Funding.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Pride%20in%20Place%20Strategy%20and%20Funding.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/libraries-connected-pride-in-place-briefing-2026.pdf"
+pdf_sha256: "d905f7dcee0d4f478f5e1dd804b5ac9906f1562d054e84230ae3c24f5e76d6b7"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Policy briefing published in January 2026 by Libraries Connected examining the UK Government Pride in Place Strategy and associated funding programmes (Main Programme, Impact Fund, Plan for Neighbourhoods), detailing implications for public libraries, neighbourhood boards, capital improvements, and local community convenorship."
