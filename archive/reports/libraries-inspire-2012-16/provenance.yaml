@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf"
+source_pdf_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:1547819bb18cc29567efb7a82a07c8f0abe5a4c7ceb699a28f0387ebc40e7ed3"
+pdf_sha256: "1547819bb18cc29567efb7a82a07c8f0abe5a4c7ceb699a28f0387ebc40e7ed3"
+download_method: "ukgwa-archive-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

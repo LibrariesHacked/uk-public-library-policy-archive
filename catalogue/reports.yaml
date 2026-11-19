@@ -898,3 +898,19 @@ reports:
   pages: 36
   source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/plans-and-reports/corporate-plans/
   path: archive/reports/libraries-ni-corporate-plan
+- id: libraries-inspire-2012-16
+  title: 'Libraries Inspire: The Strategic Development Framework for Welsh Libraries
+    2012–16'
+  subtitle: The strategic development framework for Welsh libraries 2012–16
+  creators:
+  - 'CyMAL: Museums Archives and Libraries Wales'
+  - Welsh Government
+  publisher: Welsh Government
+  publication_date: '2011-11-01'
+  year: 2011
+  country: Wales
+  document_type: strategy
+  pages: 48
+  isbn: 978-0-7504-6749-0
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf
+  path: archive/reports/libraries-inspire-2012-16

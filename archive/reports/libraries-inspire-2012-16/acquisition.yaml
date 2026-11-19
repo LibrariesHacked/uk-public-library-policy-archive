@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf"
+  original_filename: "111104librariesinspireen.pdf"
+  retrieval_date: "2026-11-19"
+  method: "curl"
+  sha256: "1547819bb18cc29567efb7a82a07c8f0abe5a4c7ceb699a28f0387ebc40e7ed3"
+  filesize: 2473073
+  content_type: "application/pdf"
+  capture_tool: "Python urllib/requests via UK Government Web Archive (UKGWA)"
+  notes: "Official Welsh Government strategic development framework for Welsh libraries (2012–16) published by CyMAL: Museums Archives and Libraries Wales."
