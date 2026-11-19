@@ -280,6 +280,23 @@ reports:
   notes: Official Welsh Public Library Standards Fifth Quality Framework (2014-2017),
     establishing core entitlements, performance quality indicators, and outcome measurement
     for public library authorities across Wales.
+- id: ace-health-and-wellbeing-benefits-2015
+  title: The Health and Wellbeing Benefits of Public Libraries
+  subtitle: Full report
+  year: 2015
+  publication_date: '2015-03-01'
+  publisher: Arts Council England
+  creators:
+  - Daniel Fujiwara
+  - Ricky Lawton
+  - Susana Mourato
+  - Simetrica
+  - Arts Council England
+  country: England
+  document_type: research-report
+  pages: 45
+  source_url: https://www.artscouncil.org.uk/sites/default/files/download-file/The%20health%20and%20wellbeing%20benefits%20of%20public%20libraries.pdf
+  path: archive/reports/ace-health-and-wellbeing-benefits-2015
 - id: ambition-and-opportunity-2015
   title: 'Ambition & Opportunity: A Strategy for Public Libraries in Scotland 2015–2020'
   subtitle: A Strategy for Public Libraries in Scotland 2015–2020

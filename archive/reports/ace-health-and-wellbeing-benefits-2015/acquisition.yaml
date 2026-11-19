@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.artscouncil.org.uk/sites/default/files/download-file/The%20health%20and%20wellbeing%20benefits%20of%20public%20libraries.pdf
+  original_filename: The health and wellbeing benefits of public libraries.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: db09a921232a43e85519fef637bfa4e04e03c8a83ac1a0356fec5648e71bde60
+  filesize: 1323848
+  content_type: application/pdf
+  capture_tool: Python urllib from Arts Council England official publications repository
+  notes: Landmark economic valuation report commissioned by Arts Council England and conducted by Simetrica, applying HM Treasury Green Book wellbeing valuation and contingent valuation methodologies to quantify the health, subjective wellbeing, and exchequer benefits of public libraries.

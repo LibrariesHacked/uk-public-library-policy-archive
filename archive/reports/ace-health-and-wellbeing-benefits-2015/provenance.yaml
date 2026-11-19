@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.artscouncil.org.uk/sites/default/files/download-file/The%20health%20and%20wellbeing%20benefits%20of%20public%20libraries.pdf"
+source_pdf_url: "https://www.artscouncil.org.uk/sites/default/files/download-file/The%20health%20and%20wellbeing%20benefits%20of%20public%20libraries.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:db09a921232a43e85519fef637bfa4e04e03c8a83ac1a0356fec5648e71bde60"
+pdf_sha256: "db09a921232a43e85519fef637bfa4e04e03c8a83ac1a0356fec5648e71bde60"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

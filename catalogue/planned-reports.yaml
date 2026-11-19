@@ -551,3 +551,13 @@ planned_reports:
   verified: true
   status: archived
   archived_id: slic-securing-the-future-2025
+- id: ace-health-and-wellbeing-benefits-2015
+  title: The Health and Wellbeing Benefits of Public Libraries
+  year: 2015
+  publisher: Arts Council England
+  country: England
+  category: ARTS COUNCIL ENGLAND
+  document_type: research-report
+  verified: true
+  status: archived
+  archived_id: ace-health-and-wellbeing-benefits-2015
