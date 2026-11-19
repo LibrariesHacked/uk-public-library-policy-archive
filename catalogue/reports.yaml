@@ -1054,3 +1054,16 @@ reports:
   pages: 36
   path: archive/reports/future-libraries-programme-2011
   source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20240321144749/https://www.local.gov.uk/sites/default/files/documents/view-document-f68.pdf
+- id: audit-commission-building-better-library-services-2002
+  title: Building Better Library Services
+  subtitle: Learning from Audit, Inspection and Research
+  creators:
+  - Audit Commission
+  publisher: Audit Commission
+  publication_date: '2002-05-01'
+  year: 2002
+  country: England
+  document_type: research-report
+  pages: 58
+  path: archive/reports/audit-commission-building-better-library-services-2002
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20150325222141/http://archive.audit-commission.gov.uk/auditcommission/SiteCollectionDocuments/AuditCommissionReports/NationalStudies/ACKLibraries.pdf

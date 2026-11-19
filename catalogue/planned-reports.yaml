@@ -76,7 +76,7 @@ planned_reports:
   category: ENGLAND
   document_type: research-report
   verified: false
-  status: planned
+  status: archived
 - id: dcms-framework-for-the-future-2003
   title: 'Framework for the Future: Libraries, Learning and Information in the Next
     Decade'

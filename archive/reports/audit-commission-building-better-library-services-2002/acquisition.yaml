@@ -1,0 +1,12 @@
+acquisition:
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20150325222141/http://archive.audit-commission.gov.uk/auditcommission/SiteCollectionDocuments/AuditCommissionReports/NationalStudies/ACKLibraries.pdf
+  original_filename: ACKLibraries.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: 320a4e2d54b132c1d8588d53c0c4a9d1f31f33139ea90a106ad52926695cc5f7
+  filesize: 1902649
+  content_type: application/pdf
+  capture_tool: Python urllib via UK Government Web Archive
+  notes: 'Landmark national report by the Audit Commission on public library services
+    in England and Wales: Building Better Library Services: Learning from Audit, Inspection
+    and Research (May 2002).'
