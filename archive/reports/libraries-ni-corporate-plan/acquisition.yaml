@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "https://www.librariesni.org.uk/media/hsnfnrvf/corporate-plan-2020-24.pdf"
+  original_filename: "corporate-plan-2020-24.pdf"
+  retrieval_date: "2026-11-19"
+  method: "curl"
+  sha256: "4233b8590a51a877c05184134fb3ba276d64c4ace0abde5cd556656ac8f32726"
+  filesize: 2207393
+  content_type: "application/pdf"
+  capture_tool: "Python urllib/requests via official Libraries NI website"
+  notes: "Official corporate plan of the Northern Ireland Library Authority (Libraries NI) for 2020–2024."

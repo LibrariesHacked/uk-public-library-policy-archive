@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesni.org.uk/about-us/corporate-documents-and-information/plans-and-reports/corporate-plans/"
+source_pdf_url: "https://www.librariesni.org.uk/media/hsnfnrvf/corporate-plan-2020-24.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:4233b8590a51a877c05184134fb3ba276d64c4ace0abde5cd556656ac8f32726"
+pdf_sha256: "4233b8590a51a877c05184134fb3ba276d64c4ace0abde5cd556656ac8f32726"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

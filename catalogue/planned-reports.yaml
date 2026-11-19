@@ -406,13 +406,13 @@ planned_reports:
   status: planned
 - id: libraries-ni-corporate-plan
   title: Libraries NI Corporate Plan
-  year: null
+  year: 2020
   publisher: Libraries NI
   country: Northern Ireland
   category: NORTHERN IRELAND
   document_type: strategy
   verified: false
-  status: planned
+  status: archived
 - id: scl-universal-offers
   title: Universal Offers for Public Libraries
   short_title: Universal Offer documents

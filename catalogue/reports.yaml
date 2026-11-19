@@ -885,3 +885,16 @@ reports:
   pages: 39
   source_url: https://www.carnegieuktrust.org.uk/publications/digital-transformation-for-uk-public-libraries-five-approaches-to-a-single-digital-presence/
   path: archive/reports/single-digital-presence-scoping-report
+- id: libraries-ni-corporate-plan
+  title: Libraries NI Corporate Plan 2020–2024
+  subtitle: Connecting People, Enriching Lives
+  creators:
+  - Libraries NI
+  publisher: Libraries NI
+  publication_date: '2020-04-01'
+  year: 2020
+  country: Northern Ireland
+  document_type: strategy
+  pages: 36
+  source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/plans-and-reports/corporate-plans/
+  path: archive/reports/libraries-ni-corporate-plan
