@@ -531,3 +531,13 @@ planned_reports:
   verified: true
   status: archived
   archived_id: libraries-ni-digital-inclusion-policy-2022
+- id: libraries-ni-opening-hours-policy-2024
+  title: Opening Hours Policy
+  year: 2024
+  publisher: Libraries NI
+  country: Northern Ireland
+  category: NORTHERN IRELAND
+  document_type: policy
+  verified: true
+  status: archived
+  archived_id: libraries-ni-opening-hours-policy-2024

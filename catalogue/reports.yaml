@@ -1077,6 +1077,19 @@ reports:
   pages: 7
   source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/policies-and-procedures/
   path: archive/reports/libraries-ni-collections-development-policy-2024
+- id: libraries-ni-opening-hours-policy-2024
+  title: Opening Hours Policy
+  subtitle: null
+  year: 2024
+  publication_date: '2024-09-21'
+  publisher: Libraries NI
+  creators:
+  - Libraries NI
+  country: Northern Ireland
+  document_type: policy
+  pages: 4
+  source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/policies-and-procedures/
+  path: archive/reports/libraries-ni-opening-hours-policy-2024
 - id: libraries-ni-reading-strategy-2024-2027
   title: Reading and Reader Development Strategy 2024–2027
   subtitle: null
