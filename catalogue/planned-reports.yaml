@@ -329,16 +329,16 @@ planned_reports:
   document_type: strategy
   verified: true
   status: archived
-- id: ambition-and-opportunity-refresh
-  title: Ambition & Opportunity (refreshed strategy)
-  short_title: Ambition & Opportunity refreshes
-  year: null
+- id: slic-fast-forward-public-library-strategy-2026
+  title: 'Fast Forward: Scotland’s Public Library Strategy Refresh 2026'
+  short_title: Fast Forward Strategy Refresh
+  year: 2026
   publisher: Scottish Library and Information Council
   country: Scotland
   category: SCOTLAND
   document_type: strategy
-  verified: false
-  status: planned
+  verified: true
+  status: archived
 - id: slic-forward-public-library-strategy-2021
   title: 'Forward: Scotland''s Public Library Strategy 2021–2025'
   year: 2021

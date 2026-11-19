@@ -1,0 +1,13 @@
+acquisition:
+  source_url: https://scottishlibraries.org/wp-content/uploads/2025/10/221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf
+  original_filename: 221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: a0a65ea29198dde3d6d88706f338ad9510a24d34c1e30195c0fb28d42edd4f9b
+  filesize: 5105581
+  content_type: application/pdf
+  capture_tool: Python urllib via Scottish Library and Information Council (SLIC)
+    official website
+  notes: 'Fast Forward: Scotland''s Public Library Strategy Refresh 2026, updating
+    Forward: Scotland''s Public Library Strategy 2021-2025 across People, Place, and
+    Partnership.'

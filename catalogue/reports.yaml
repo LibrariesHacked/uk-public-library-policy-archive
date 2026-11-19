@@ -1000,3 +1000,16 @@ reports:
   pages: 4
   path: archive/reports/libraries-connected-universal-library-offers-refresh
   source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-03/ULO%20Infographics%202025%20-%20branded.pdf
+- id: slic-fast-forward-public-library-strategy-2026
+  title: 'Fast Forward: Scotland’s Public Library Strategy Refresh 2026'
+  subtitle: Public Library Strategy Refresh 2026
+  creators:
+  - Scottish Library and Information Council
+  publisher: Scottish Library and Information Council
+  publication_date: '2025-10-22'
+  year: 2026
+  country: Scotland
+  document_type: strategy
+  pages: 23
+  path: archive/reports/slic-fast-forward-public-library-strategy-2026
+  source_url: https://scottishlibraries.org/wp-content/uploads/2025/10/221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf
