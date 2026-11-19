@@ -1,0 +1,13 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesni.org.uk/media/sbfbd1hm/use-and-hire-of-library-premises-policy-v5-december-2025.pdf"
+source_pdf_url: "https://www.librariesni.org.uk/media/sbfbd1hm/use-and-hire-of-library-premises-policy-v5-december-2025.pdf"
+publisher: "Libraries NI"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/use-and-hire-of-library-premises-policy-2025.pdf"
+pdf_sha256: "eb25144c50deaad720c555c6399a19d5f3fda0facc2df849056103e8f06d9cb0"
+licence: "Copyright © Northern Ireland Library Authority (Libraries NI)"
+notes: "Official policy of Libraries NI governing the conditions, charges, accessibility, and booking procedures for the use and hire of meeting rooms and spaces across the public library network in Northern Ireland."

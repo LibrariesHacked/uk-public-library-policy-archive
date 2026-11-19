@@ -1334,6 +1334,19 @@ reports:
   pages: 16
   source_url: https://scottishlibraries.org/wp-content/uploads/2025/11/140825-SLIC-Vision-PRINT-FILE.pdf
   path: archive/reports/slic-securing-the-future-2025
+- id: libraries-ni-use-and-hire-premises-policy-2025
+  title: 'Use and Hire of Library Premises Policy'
+  subtitle: 'Policy POL049 (Version 5)'
+  creators:
+  - 'Libraries NI'
+  publisher: 'Libraries NI'
+  publication_date: '2025-12-11'
+  year: 2025
+  country: Northern Ireland
+  document_type: policy-paper
+  pages: 4
+  path: archive/reports/libraries-ni-use-and-hire-premises-policy-2025
+  source_url: https://www.librariesni.org.uk/media/sbfbd1hm/use-and-hire-of-library-premises-policy-v5-december-2025.pdf
 - id: dcms-annual-libraries-report-2025-2026
   title: Annual Libraries Report 2025 to 2026
   subtitle: Annual Report to Parliament on Public Libraries Activities from April
