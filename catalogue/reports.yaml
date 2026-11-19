@@ -1189,6 +1189,19 @@ reports:
   pages: 56
   path: archive/reports/libraries-ni-corporate-plan-2025-2030
   source_url: https://www.librariesni.org.uk/media/evwjzeuy/libraries-ni-corporate-plan-2025-2030.pdf
+- id: slic-securing-the-future-2025
+  title: Securing the Future of Scotland’s Libraries
+  subtitle: null
+  year: 2025
+  publication_date: '2025-08-14'
+  publisher: Scottish Library and Information Council
+  creators:
+  - Scottish Library and Information Council
+  country: Scotland
+  document_type: strategy
+  pages: 16
+  source_url: https://scottishlibraries.org/wp-content/uploads/2025/11/140825-SLIC-Vision-PRINT-FILE.pdf
+  path: archive/reports/slic-securing-the-future-2025
 - id: dcms-annual-libraries-report-2025-2026
   title: Annual Libraries Report 2025 to 2026
   subtitle: Annual Report to Parliament on Public Libraries Activities from April

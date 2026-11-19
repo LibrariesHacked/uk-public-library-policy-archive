@@ -541,3 +541,13 @@ planned_reports:
   verified: true
   status: archived
   archived_id: libraries-ni-opening-hours-policy-2024
+- id: slic-securing-the-future-2025
+  title: Securing the Future of Scotland’s Libraries
+  year: 2025
+  publisher: Scottish Library and Information Council
+  country: Scotland
+  category: SCOTTISH LIBRARY AND INFORMATION COUNCIL
+  document_type: strategy
+  verified: true
+  status: archived
+  archived_id: slic-securing-the-future-2025

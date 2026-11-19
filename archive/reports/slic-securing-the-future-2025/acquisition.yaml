@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://scottishlibraries.org/wp-content/uploads/2025/11/140825-SLIC-Vision-PRINT-FILE.pdf
+  original_filename: 140825-SLIC-Vision-PRINT-FILE.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 48ac66946053584a2234245a84a3ef4cd8ac0b354110911d3a871a79bfc3b8a3
+  filesize: 14961644
+  content_type: application/pdf
+  capture_tool: Python urllib from Scottish Library and Information Council official repository
+  notes: National strategic vision document published by the Scottish Library and Information Council setting out three core pillars—Financed, Fairer, and Future—to protect, sustain, and invest in public library services across Scotland.
