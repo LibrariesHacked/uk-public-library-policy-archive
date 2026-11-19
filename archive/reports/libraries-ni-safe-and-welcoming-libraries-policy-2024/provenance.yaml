@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesni.org.uk/media/qxnb2iqu/safe-and-welcoming-libraries-policy-v3-december-2024.pdf"
+source_pdf_url: "https://www.librariesni.org.uk/media/qxnb2iqu/safe-and-welcoming-libraries-policy-v3-december-2024.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:66608f8591ca1bf48707c0fdbc69e2225be293dda8f1a9d001b778fb7f935e6b"
+pdf_sha256: "66608f8591ca1bf48707c0fdbc69e2225be293dda8f1a9d001b778fb7f935e6b"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesni.org.uk/media/qxnb2iqu/safe-and-welcoming-libraries-policy-v3-december-2024.pdf
+  original_filename: safe-and-welcoming-libraries-policy-v3-december-2024.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 66608f8591ca1bf48707c0fdbc69e2225be293dda8f1a9d001b778fb7f935e6b
+  filesize: 670005
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries NI official publications portal
+  notes: Libraries NI Safe and Welcoming Libraries Policy (POL061, Version 3), approved by the Libraries NI Board on 12 December 2024, setting out standards for customer conduct, staff safety, unacceptable behaviour categories, sanctions, and appeals under the Libraries Act (Northern Ireland) 2008.
