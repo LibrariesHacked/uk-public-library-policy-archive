@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school
+  original_filename: Ready to Learn - briefing note.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: c4adf7384a29b19b07fe60cb09231a463873156ac4346e72b21efb5bb585a6a9
+  filesize: 8659457
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries Connected official repository
+  notes: Briefing note by Libraries Connected on how public libraries support children and families with school readiness, drawing on YouGov polling of primary school teachers and case studies from across England.

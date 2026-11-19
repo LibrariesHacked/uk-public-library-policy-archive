@@ -1137,3 +1137,17 @@ reports:
   pages: 49
   path: archive/reports/libraries-connected-library-loans-review-2025
   source_url: https://www.librariesconnected.org.uk/resources/library-loans-review
+- id: libraries-connected-ready-to-learn-2023
+  title: 'Ready to Learn: How Public Libraries Help Children and Families Prepare for School'
+  subtitle: Briefing note
+  creators:
+  - Libraries Connected
+  - Isobel Hunter MBE
+  publisher: Libraries Connected
+  publication_date: '2023-05-01'
+  year: 2023
+  country: England
+  document_type: briefing-paper
+  pages: 9
+  path: archive/reports/libraries-connected-ready-to-learn-2023
+  source_url: https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school

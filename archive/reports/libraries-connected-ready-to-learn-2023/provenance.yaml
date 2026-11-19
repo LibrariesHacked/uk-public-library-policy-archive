@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-12/Ready%20to%20Learn%20-%20briefing%20note.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:c4adf7384a29b19b07fe60cb09231a463873156ac4346e72b21efb5bb585a6a9"
+pdf_sha256: "c4adf7384a29b19b07fe60cb09231a463873156ac4346e72b21efb5bb585a6a9"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"
