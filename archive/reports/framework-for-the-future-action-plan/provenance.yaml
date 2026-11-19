@@ -1,0 +1,10 @@
+source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20040104234631/http://www.resource.gov.uk/documents/fff_ap2003.pdf
+source_pdf_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20040104234631mp_/http://www.resource.gov.uk/documents/fff_ap2003.pdf
+acquired_date: '2026-11-19'
+accessed_date: '2026-11-19'
+source_checksum: sha256:1b0f9fbc8fed0e4b8aeffdf4b5ef953aeb72cb4175c9cf17f73209b63c86d386
+pdf_sha256: 1b0f9fbc8fed0e4b8aeffdf4b5ef953aeb72cb4175c9cf17f73209b63c86d386
+download_method: direct-http-download
+conversion_method: pdf-transcription-with-manual-verification
+conversion_date: '2026-11-19'
+review_status: converted

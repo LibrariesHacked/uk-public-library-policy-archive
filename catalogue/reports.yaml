@@ -1,18 +1,4 @@
 reports:
-- id: sample-report-001
-  title: Demonstration Public Library Review
-  subtitle: Statutory Provision, Community Access, and Digital Infrastructure in Fictional
-    Shire
-  year: 2026
-  publisher: Department for Public Culture and Local Services
-  country: England
-  document_type: independent-review
-  pages: 5
-  path: archive/reports/sample-report
-  review_level: verified
-  fictional_sample: true
-  notes: Canonical fictional sample report demonstrating all repository metadata,
-    provenance, and diplomatic Markdown specifications without copyrighted content.
 - id: lic-new-library-the-peoples-network-1997
   title: 'New Library: The People''s Network'
   subtitle: null
@@ -28,6 +14,21 @@ reports:
     Commission Working Group on Information Technology, chaired by Matthew Evans,
     for DCMS. Set out the blueprint for connecting all UK public libraries to high-speed
     ICT and the internet, leading to £100m in lottery funding for The People's Network.
+- id: lic-building-the-new-library-network-1998
+  title: Building the New Library Network
+  subtitle: A Report to Government
+  year: 1998
+  publisher: Library and Information Commission
+  country: United Kingdom
+  document_type: strategy
+  pages: 134
+  path: archive/reports/lic-building-the-new-library-network-1998
+  review_level: reviewed
+  fictional_sample: false
+  notes: 'Follow-up implementation report and costed blueprint to New Library: The
+    People''s Network (1997), produced by the Library and Information Commission for
+    DCMS and the New Opportunities Fund, establishing detailed frameworks for digital
+    content creation (£50m), ICT librarian training (£20m), and network infrastructure.'
 - id: dcms-libraries-for-all-1999
   title: 'Libraries for All: Social Inclusion in Public Libraries'
   subtitle: Policy Guidance for Local Authorities in England
@@ -54,6 +55,19 @@ reports:
   fictional_sample: false
   notes: First national Public Library Standards (PLS 1–19) and assessment framework
     for English library authorities under the 1964 Act and Best Value regime.
+- id: audit-commission-building-better-library-services-2002
+  title: Building Better Library Services
+  subtitle: Learning from Audit, Inspection and Research
+  creators:
+  - Audit Commission
+  publisher: Audit Commission
+  publication_date: '2002-05-01'
+  year: 2002
+  country: England
+  document_type: research-report
+  pages: 58
+  path: archive/reports/audit-commission-building-better-library-services-2002
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20150325222141/http://archive.audit-commission.gov.uk/auditcommission/SiteCollectionDocuments/AuditCommissionReports/NationalStudies/ACKLibraries.pdf
 - id: dcms-framework-for-the-future-2003
   title: Framework for the Future
   subtitle: Libraries, Learning and Information in the Next Decade
@@ -68,6 +82,33 @@ reports:
   notes: Landmark 10-year national public library strategy for England published by
     DCMS in February 2003. Source PDFs preserved from The National Archives UK Government
     Web Archive.
+- id: framework-for-the-future-action-plan
+  title: 'Framework for the Future: Action Plan 2003–06'
+  subtitle: null
+  year: 2003
+  publication_date: '2003-09-01'
+  publisher: 'Resource: The Council for Museums, Archives and Libraries'
+  creators:
+  - 'Resource: The Council for Museums, Archives and Libraries'
+  country: England
+  document_type: action-plan
+  pages: 36
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20040104234631/http://www.resource.gov.uk/documents/fff_ap2003.pdf
+  path: archive/reports/framework-for-the-future-action-plan
+- id: dcal-delivering-tomorrows-libraries
+  title: Delivering Tomorrow's Libraries
+  subtitle: Principles and priorities for the development of public libraries in Northern
+    Ireland
+  creators:
+  - Department of Culture, Arts and Leisure
+  publisher: Department of Culture, Arts and Leisure
+  publication_date: '2006-07-01'
+  year: 2006
+  country: Northern Ireland
+  document_type: policy-paper
+  pages: 24
+  path: archive/reports/dcal-delivering-tomorrows-libraries
+  source_url: https://webarchive.proni.gov.uk/20151003232911/http://www.dcalni.gov.uk/delivering_tomorrow_s_libraries.pdf
 - id: dcms-public-library-service-standards-2008
   title: Public Library Service Standards
   subtitle: null
@@ -109,6 +150,36 @@ reports:
   fictional_sample: false
   notes: Command Paper (Cm 7821) setting out the Government's policy statement following
     the Modernisation Review of Public Libraries in England.
+- id: future-libraries-programme-2011
+  title: 'Future Libraries: Change, Options and How to Get There'
+  subtitle: Learning from the Future Libraries Programme Phase 1
+  creators:
+  - Local Government Group
+  - Museums, Libraries and Archives Council
+  publisher: Local Government Group and Museums, Libraries and Archives Council
+  publication_date: '2011-08-01'
+  year: 2011
+  country: England
+  document_type: research-report
+  pages: 36
+  path: archive/reports/future-libraries-programme-2011
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20240321144749/https://www.local.gov.uk/sites/default/files/documents/view-document-f68.pdf
+- id: libraries-inspire-2012-16
+  title: 'Libraries Inspire: The Strategic Development Framework for Welsh Libraries
+    2012–16'
+  subtitle: The strategic development framework for Welsh libraries 2012–16
+  creators:
+  - 'CyMAL: Museums Archives and Libraries Wales'
+  - Welsh Government
+  publisher: Welsh Government
+  publication_date: '2011-11-01'
+  year: 2011
+  country: Wales
+  document_type: strategy
+  pages: 48
+  isbn: 978-0-7504-6749-0
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf
+  path: archive/reports/libraries-inspire-2012-16
 - id: ace-envisioning-the-library-of-the-future-2013
   title: Envisioning the library of the future
   subtitle: 'Phases 1 and 2: full report'
@@ -138,6 +209,34 @@ reports:
   notes: Arts Council England response by Chief Executive Alan Davey to the Envisioning
     the library of the future research programme, setting out four priorities for
     a 21st century public library service.
+- id: dcal-delivering-tomorrows-libraries-standards-2014-2019
+  title: 'Delivering Tomorrow''s Libraries: Public Library Standards, 2014–19'
+  subtitle: Statutory standards for public library services in Northern Ireland
+  creators:
+  - Department of Culture, Arts and Leisure
+  publisher: Department of Culture, Arts and Leisure
+  publication_date: '2014-04-01'
+  year: 2014
+  country: Northern Ireland
+  document_type: standards
+  pages: 4
+  path: archive/reports/dcal-delivering-tomorrows-libraries-standards-2014-2019
+  source_url: https://www.communities-ni.gov.uk/sites/default/files/publications/dcal/delivering-tomorrows-libraries-public-library-standards-2014-19_0.pdf
+- id: expert-review-public-libraries-wales-2014
+  title: Expert Review of Public Libraries in Wales 2014
+  subtitle: An Independent Review of the Public Library Service in Wales and Recommendations
+    for Future Delivery
+  year: 2014
+  publisher: Welsh Government
+  country: Wales
+  document_type: independent-review
+  pages: 62
+  path: archive/reports/expert-review-public-libraries-wales-2014
+  review_level: reviewed
+  fictional_sample: false
+  notes: Major independent review commissioned by the Welsh Government to examine
+    public library services across Wales, local authority statutory obligations, regional
+    collaboration models, and strategic options for future delivery.
 - id: independent-library-report-for-england-2014
   title: Independent Library Report for England
   subtitle: null
@@ -152,217 +251,36 @@ reports:
   notes: Independent review chaired by William Sieghart examining public library services
     in England, recommending a national digital network, Wi-Fi roll-out, and the creation
     of the Libraries Taskforce.
-- id: libraries-deliver-ambition-2016
-  title: 'Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021'
-  subtitle: null
-  year: 2016
-  publisher: Libraries Taskforce
-  country: England
-  document_type: strategy
-  pages: 92
-  path: archive/reports/libraries-deliver-ambition-2016
+- id: welsh-public-library-standards-fifth-framework
+  title: 'Libraries Making a Difference: The Fifth Quality Framework of Welsh Public
+    Library Standards 2014–2017'
+  subtitle: The Fifth Quality Framework of Welsh Public Library Standards
+  year: 2014
+  publisher: Welsh Government
+  country: Wales
+  document_type: standards
+  pages: 28
+  path: archive/reports/welsh-public-library-standards-fifth-framework
   review_level: reviewed
   fictional_sample: false
-  notes: Joint national strategy and vision for public library services in England
-    from 2016 to 2021, produced by the Leadership for Libraries Taskforce and endorsed
-    by DCMS and LGA.
-- id: libraries-taskforce-terms-of-reference-2015
-  title: 'Libraries Taskforce: Terms of Reference'
-  subtitle: null
+  notes: Official Welsh Public Library Standards Fifth Quality Framework (2014-2017),
+    establishing core entitlements, performance quality indicators, and outcome measurement
+    for public library authorities across Wales.
+- id: ambition-and-opportunity-2015
+  title: 'Ambition & Opportunity: A Strategy for Public Libraries in Scotland 2015–2020'
+  subtitle: A Strategy for Public Libraries in Scotland 2015–2020
+  creators:
+  - Scottish Library and Information Council
+  - National Strategy for Public Libraries in Scotland Strategic Group
+  - Carnegie UK Trust
+  publisher: Scottish Library and Information Council
+  publication_date: '2015-06-01'
   year: 2015
-  publisher: Libraries Taskforce
-  country: England
-  document_type: governance
-  pages: 1
-  path: archive/reports/libraries-taskforce-terms-of-reference-2015
-  review_level: reviewed
-  fictional_sample: false
-  notes: Founding governance charter, roles, remits of member bodies, and operational
-    ways of working of the Leadership for Libraries Taskforce established in March
-    2015.
-- id: libraries-taskforce-community-libraries-toolkit-2016
-  title: 'Community Managed Libraries: Good Practice Toolkit'
-  subtitle: null
-  year: 2016
-  publisher: Libraries Taskforce
-  country: England
-  document_type: guidance
-  pages: 1
-  path: archive/reports/libraries-taskforce-community-libraries-toolkit-2016
-  review_level: reviewed
-  fictional_sample: false
-  notes: Comprehensive national good practice guidance and operational toolkit produced
-    by the Libraries Taskforce for councils and community groups considering, setting
-    up, or operating community managed and supported libraries.
-- id: libraries-taskforce-ambition-action-plan-2016
-  title: 'Libraries Deliver: Ambition Action Plan'
-  subtitle: Action Plan to 2021 and Challenge to Central and Local Government
-  year: 2016
-  publisher: Libraries Taskforce
-  country: England
-  document_type: action-plan
-  pages: 9
-  path: archive/reports/libraries-taskforce-ambition-action-plan-2016
-  review_level: reviewed
-  fictional_sample: false
-  notes: 'Official action plan and monitoring framework (Annex 2 to Libraries Deliver:
-    Ambition for Public Libraries in England 2016 to 2021) outlining national actions,
-    deadlines, lead bodies, and challenges to central and local government.'
-- id: libraries-taskforce-outcomes-progress-indicators-2017
-  title: Proposed Progress Indicators for the 7 Outcomes Libraries Deliver
-  subtitle: Outcomes Progress Indicators for Libraries in England
-  year: 2017
-  publisher: Libraries Taskforce
-  country: England
-  document_type: guidance
-  pages: 1
-  path: archive/reports/libraries-taskforce-outcomes-progress-indicators-2017
-  review_level: reviewed
-  fictional_sample: false
-  notes: 'Baseline indicators and measurement methodology published by the Libraries
-    Taskforce to track progress across the 7 Outcomes identified in Libraries Deliver:
-    Ambition.'
-- id: libraries-taskforce-planning-toolkit-2017
-  title: 'Libraries Shaping the Future: Good Practice Toolkit'
-  subtitle: Guidance for Library Services and Local Authorities
-  year: 2017
-  publisher: Libraries Taskforce
-  country: England
-  document_type: guidance
-  pages: 1
-  path: archive/reports/libraries-taskforce-planning-toolkit-2017
-  review_level: reviewed
-  fictional_sample: false
-  notes: Strategic planning, evidence base, delivery models, and service transformation
-    toolkit produced by the Libraries Taskforce in partnership with the LGA.
-- id: libraries-taskforce-adm-toolkit-2017
-  title: 'Libraries: Alternative Delivery Models Toolkit'
-  subtitle: Toolkit and Case Studies for Library Service Delivery Models
-  year: 2017
-  publisher: Libraries Taskforce
-  country: England
-  document_type: guidance
-  pages: 1
-  path: archive/reports/libraries-taskforce-adm-toolkit-2017
-  review_level: reviewed
-  fictional_sample: false
-  notes: Practical guidance, stages, legal forms, and case studies for local authorities
-    and library services investigating or establishing alternative delivery models
-    (public service mutuals, trusts, joint ventures).
-- id: libraries-taskforce-research-programme-2018
-  title: 'Libraries Taskforce: Research Programme'
-  subtitle: Future Research Priorities for Public Libraries in England
-  year: 2018
-  publisher: Libraries Taskforce
-  country: England
-  document_type: research-report
-  pages: 1
-  path: archive/reports/libraries-taskforce-research-programme-2018
-  review_level: reviewed
-  fictional_sample: false
-  notes: Research prioritisation and strategic research programme published by the
-    Libraries Taskforce, mapping research priorities across library impact and service
-    delivery models with accompanying research datasets.
-- id: dcms-barnet-library-inquiry-decision-2019
-  title: Final decision letter on public library provision in Barnet
-  subtitle: Letter from Minister for Arts, Heritage and Tourism stating the Secretary
-    of State's decision not to hold a local inquiry into Barnet Council's library
-    provision
-  year: 2019
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: correspondence
-  pages: 14
-  path: archive/reports/dcms-barnet-library-inquiry-decision-2019
-  review_level: reviewed
-  fictional_sample: false
-  notes: Official final decision letter from Michael Ellis MP stating the Secretary
-    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
-    Public Libraries and Museums Act 1964 following Barnet Council's library changes,
-    restructuring, and introduction of self-service technology enabled opening.
-- id: dcms-swindon-library-inquiry-decision-2020
-  title: Final decision letter on public library provision in Swindon
-  subtitle: Letter from Minister of State for Digital and Culture stating the Secretary
-    of State's decision not to hold a local inquiry into Swindon Borough Council's
-    library provision
-  year: 2020
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: correspondence
-  pages: 3
-  path: archive/reports/dcms-swindon-library-inquiry-decision-2020
-  review_level: reviewed
-  fictional_sample: false
-  notes: Official final decision letter from Caroline Dinenage MP stating the Secretary
-    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
-    Public Libraries and Museums Act 1964 following Swindon Borough Council's revised
-    library service model of five core static libraries, extended access hours, and
-    outreach.
-- id: dcms-lambeth-library-inquiry-decision-2020
-  title: Final decision letter on public library provision in Lambeth
-  subtitle: Letter from Minister of State for Digital and Culture stating the Secretary
-    of State's decision not to hold a local inquiry into Lambeth Council's library
-    provision
-  year: 2020
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: correspondence
-  pages: 4
-  path: archive/reports/dcms-lambeth-library-inquiry-decision-2020
-  review_level: reviewed
-  fictional_sample: false
-  notes: Official final decision letter from Caroline Dinenage MP stating the Secretary
-    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
-    Public Libraries and Museums Act 1964 following Lambeth Council's library changes,
-    retaining 10 static libraries and introducing self-service opening at three neighbourhood
-    branches.
-- id: dcms-bedford-library-inquiry-decision-2021
-  title: Final decision letter on public library provision in Bedford
-  subtitle: Letter from Minister of State for Digital and Culture stating the Secretary
-    of State's decision not to hold a local inquiry into Bedford Council's library
-    provision
-  year: 2021
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: correspondence
-  pages: 4
-  path: archive/reports/dcms-bedford-library-inquiry-decision-2021
-  review_level: reviewed
-  fictional_sample: false
-  notes: Official final decision letter from Caroline Dinenage MP stating the Secretary
-    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
-    Public Libraries and Museums Act 1964 following Bedford Council's changes and
-    introduction of Library Plus unstaffed extended access technology.
-- id: dcms-calderdale-library-inquiry-decision-2023
-  title: Final decision letter on public library provision in Calderdale
-  subtitle: Letter from Minister for Arts and Heritage stating the Secretary of State's
-    decision not to hold a local inquiry into Calderdale Council's library provision
-  year: 2023
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: correspondence
-  pages: 3
-  path: archive/reports/dcms-calderdale-library-inquiry-decision-2023
-  review_level: reviewed
-  fictional_sample: false
-  notes: Official final decision letter from Lord Parkinson of Whitley Bay stating
-    the Secretary of State's decision not to direct a local inquiry under Section
-    10(1)(a) of the Public Libraries and Museums Act 1964 following library changes
-    agreed by Calderdale Council.
-- id: independent-review-of-english-public-libraries-2024
-  title: An Independent Review of English Public Libraries
-  subtitle: null
-  year: 2024
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: independent-review
-  pages: 49
-  path: archive/reports/independent-review-of-english-public-libraries-2024
-  review_level: reviewed
-  fictional_sample: false
-  notes: Independent review led by Baroness Elizabeth Sanderson examining challenges
-    facing public libraries in England and setting out recommendations for national
-    data infrastructure, branding, and ministerial coordination.
+  country: Scotland
+  document_type: strategy
+  pages: 48
+  source_url: https://scottishlibraries.org/media/1133/ambition-opportunity-scotlands-national-public-library-strategy.pdf
+  path: archive/reports/ambition-and-opportunity-2015
 - id: dcms-annual-libraries-report-2015
   title: Annual Report to Parliament on Public Library Activities During 2015
   subtitle: Report under the Public Libraries and Museums Act 1964 for 2015
@@ -378,191 +296,6 @@ reports:
     Libraries and Museums Act 1964 covering superintendence, inquiry letters (Newcastle,
     Sheffield, Lincolnshire, Harrow, Southampton), Sieghart report response, creation
     of the Leadership for Libraries Taskforce, and Wi-Fi roll-out.
-- id: dcms-annual-libraries-report-2016
-  title: Annual Report to Parliament on Public Library Activities During 2016
-  subtitle: Report under the Public Libraries and Museums Act 1964 for 2016
-  year: 2017
-  publisher: Department for Culture, Media & Sport
-  country: England
-  document_type: annual-report
-  pages: 22
-  path: archive/reports/dcms-annual-libraries-report-2016
-  review_level: reviewed
-  fictional_sample: false
-  notes: 'Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, inquiry letters (Harrow,
-    Lambeth, Lancashire), wifi rollout to 99.3% of libraries, Libraries Deliver: Ambition,
-    and sector partner reports.'
-- id: dcms-annual-libraries-report-2017-2018
-  title: Annual Report to Parliament on Public Libraries Activities from January 2017
-    to March 2018
-  subtitle: Report under the Public Libraries and Museums Act 1964 for 2017/18
-  year: 2018
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 17
-  path: archive/reports/dcms-annual-libraries-report-2017-2018
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, inquiry letters (Lancashire,
-    Swindon, Darlington, Northamptonshire), Digital Economy Act PLR remote e-lending
-    extension, and partner reports.
-- id: dcms-annual-libraries-report-2018-2019
-  title: Annual Library Report from April 2018 to March 2019
-  subtitle: Report Pursuant to Section 17 of the Public Libraries and Museums Act
-    1964 for 2018/19
-  year: 2019
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 11
-  path: archive/reports/dcms-annual-libraries-report-2018-2019
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, inquiry decisions (Darlington
-    and Northamptonshire), LOFE evaluation, PLR remote e-lending, and Taskforce transition
-    to ACE.
-- id: dcms-annual-libraries-report-2019-2020
-  title: Annual Libraries Report 2019 to 2020
-  subtitle: Report Pursuant to Section 17 of the Public Libraries and Museums Act
-    1964 for 2019/20
-  year: 2020
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 14
-  path: archive/reports/dcms-annual-libraries-report-2019-2020
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, COVID-19 pandemic initial
-    response, Cultural Investment Fund, PLR remote ebook inclusion, and Taskforce
-    conclusion.
-- id: dcms-annual-libraries-report-2020-2021
-  title: Annual Libraries Report 2020 to 2021
-  subtitle: Report Pursuant to Section 17 of the Public Libraries and Museums Act
-    1964 for 2020/21
-  year: 2021
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 15
-  path: archive/reports/dcms-annual-libraries-report-2020-2021
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, the Public Library Services
-    Working Group during COVID-19, inquiry decisions (Swindon and Lambeth), PLR, and
-    sector partner activities.
-- id: dcms-annual-libraries-report-2021-2022
-  title: Annual Libraries Report 2021 to 2022
-  subtitle: Annual Report to Parliament on Public Libraries Activities from April
-    2021 to March 2022
-  year: 2022
-  publisher: Department for Digital, Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 20
-  path: archive/reports/dcms-annual-libraries-report-2021-2022
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, pandemic service restoration,
-    PLR expansion to Northern Ireland, Libraries Improvement Fund, and sector partner
-    reports.
-- id: dcms-annual-libraries-report-2022-2023
-  title: Annual Libraries Report 2022 to 2023
-  subtitle: Annual Report to Parliament on Public Libraries Activities from April
-    2022 to March 2023
-  year: 2023
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 19
-  path: archive/reports/dcms-annual-libraries-report-2022-2023
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, local authority engagements,
-    PLR, the Sanderson Review, and sector partner reports.
-- id: dcms-annual-libraries-report-2023-2024
-  title: Annual Libraries Report 2023 to 2024
-  subtitle: Annual Report to Parliament on Public Libraries Activities from April
-    2023 to March 2024
-  year: 2024
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 26
-  path: archive/reports/dcms-annual-libraries-report-2023-2024
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, local authority engagements,
-    PLR, sector partner reports, and capital investment.
-- id: dcms-annual-libraries-report-2024-2025
-  title: Annual Libraries Report 2024 to 2025
-  subtitle: Annual Report to Parliament on Public Libraries Activities from April
-    2024 to March 2025
-  year: 2025
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 18
-  path: archive/reports/dcms-annual-libraries-report-2024-2025
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, local authority engagements,
-    library usage statistics, byelaws, and the Libraries Improvement Fund.
-- id: dcms-annual-libraries-report-2025-2026
-  title: Annual Libraries Report 2025 to 2026
-  subtitle: Annual Report to Parliament on Public Libraries Activities from April
-    2025 to March 2026
-  year: 2026
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: annual-report
-  pages: 19
-  path: archive/reports/dcms-annual-libraries-report-2025-2026
-  review_level: reviewed
-  fictional_sample: false
-  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
-    Libraries and Museums Act 1964 covering superintendence, library participation
-    survey statistics, formal complaints, byelaws, and the Libraries Improvement Fund.
-- id: lic-building-the-new-library-network-1998
-  title: Building the New Library Network
-  subtitle: A Report to Government
-  year: 1998
-  publisher: Library and Information Commission
-  country: United Kingdom
-  document_type: strategy
-  pages: 134
-  path: archive/reports/lic-building-the-new-library-network-1998
-  review_level: reviewed
-  fictional_sample: false
-  notes: 'Follow-up implementation report and costed blueprint to New Library: The
-    People''s Network (1997), produced by the Library and Information Commission for
-    DCMS and the New Opportunities Fund, establishing detailed frameworks for digital
-    content creation (£50m), ICT librarian training (£20m), and network infrastructure.'
-- id: libraries-taskforce-progress-report-2020
-  title: 'Libraries Taskforce: Six Month Progress Report (October 2019 to March 2020)'
-  subtitle: Eighth and Final Progress Report to Ministers and the Local Government
-    Association
-  year: 2020
-  publisher: Libraries Taskforce
-  country: England
-  document_type: governance
-  pages: 1
-  path: archive/reports/libraries-taskforce-progress-report-2020
-  review_level: reviewed
-  fictional_sample: false
-  notes: Eighth and final six-month progress report of the Libraries Taskforce covering
-    October 2019 to March 2020, recording the formal cessation of the Taskforce on
-    31 March 2020 and handover of coordination to Arts Council England.
 - id: libraries-taskforce-progress-report-2015-1
   title: 'Leadership for Libraries Taskforce: Six Month Progress Report (April to
     September 2015)'
@@ -578,6 +311,78 @@ reports:
   notes: First six-month progress report of the Leadership for Libraries Taskforce
     covering April to September 2015, accompanied by the Government response by Culture
     Minister Ed Vaizey agreeing to publish a joint vision document by summer 2016.
+- id: libraries-taskforce-terms-of-reference-2015
+  title: 'Libraries Taskforce: Terms of Reference'
+  subtitle: null
+  year: 2015
+  publisher: Libraries Taskforce
+  country: England
+  document_type: governance
+  pages: 1
+  path: archive/reports/libraries-taskforce-terms-of-reference-2015
+  review_level: reviewed
+  fictional_sample: false
+  notes: Founding governance charter, roles, remits of member bodies, and operational
+    ways of working of the Leadership for Libraries Taskforce established in March
+    2015.
+- id: dcms-libraries-as-a-statutory-service-2016
+  title: Libraries as a Statutory Service
+  subtitle: Guidance for Local Authorities on Providing a Comprehensive and Efficient
+    Public Library Service
+  year: 2016
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: guidance
+  pages: 1
+  path: archive/reports/dcms-libraries-as-a-statutory-service-2016
+  review_level: reviewed
+  fictional_sample: false
+  notes: Comprehensive statutory guidance published by DCMS explaining the legal framework
+    governing public library services under the Public Libraries and Museums Act 1964,
+    ministerial superintendence duties, handling of representations, and learning
+    from the Wirral inquiry.
+- id: libraries-deliver-ambition-2016
+  title: 'Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021'
+  subtitle: null
+  year: 2016
+  publisher: Libraries Taskforce
+  country: England
+  document_type: strategy
+  pages: 92
+  path: archive/reports/libraries-deliver-ambition-2016
+  review_level: reviewed
+  fictional_sample: false
+  notes: Joint national strategy and vision for public library services in England
+    from 2016 to 2021, produced by the Leadership for Libraries Taskforce and endorsed
+    by DCMS and LGA.
+- id: libraries-taskforce-ambition-action-plan-2016
+  title: 'Libraries Deliver: Ambition Action Plan'
+  subtitle: Action Plan to 2021 and Challenge to Central and Local Government
+  year: 2016
+  publisher: Libraries Taskforce
+  country: England
+  document_type: action-plan
+  pages: 9
+  path: archive/reports/libraries-taskforce-ambition-action-plan-2016
+  review_level: reviewed
+  fictional_sample: false
+  notes: 'Official action plan and monitoring framework (Annex 2 to Libraries Deliver:
+    Ambition for Public Libraries in England 2016 to 2021) outlining national actions,
+    deadlines, lead bodies, and challenges to central and local government.'
+- id: libraries-taskforce-community-libraries-toolkit-2016
+  title: 'Community Managed Libraries: Good Practice Toolkit'
+  subtitle: null
+  year: 2016
+  publisher: Libraries Taskforce
+  country: England
+  document_type: guidance
+  pages: 1
+  path: archive/reports/libraries-taskforce-community-libraries-toolkit-2016
+  review_level: reviewed
+  fictional_sample: false
+  notes: Comprehensive national good practice guidance and operational toolkit produced
+    by the Libraries Taskforce for councils and community groups considering, setting
+    up, or operating community managed and supported libraries.
 - id: libraries-taskforce-progress-report-2015-2
   title: 'Leadership for Libraries Taskforce: Six Month Progress Report (October 2015
     to March 2016)'
@@ -607,6 +412,92 @@ reports:
   notes: 'Third six-month progress report of the Leadership for Libraries Taskforce
     covering April to September 2016, leading up to the publication of Libraries Deliver:
     Ambition for Public Libraries in England 2016 to 2021.'
+- id: carnegie-shining-a-light-policy-report-2017
+  title: 'Shining a Light: The future of public libraries across the UK and Ireland'
+  subtitle: Policy Report
+  creators:
+  - Dr Jenny Peachey
+  - Carnegie UK Trust
+  publisher: Carnegie UK Trust
+  publication_date: '2017-04-01'
+  year: 2017
+  country: United Kingdom
+  document_type: policy-paper
+  pages: 23
+  path: archive/reports/carnegie-shining-a-light-policy-report-2017
+  source_url: https://carnegieuk.org/wp-content/uploads/2024/10/Policy-Report-Shining-a-Light-2.pdf
+- id: dcms-annual-libraries-report-2016
+  title: Annual Report to Parliament on Public Library Activities During 2016
+  subtitle: Report under the Public Libraries and Museums Act 1964 for 2016
+  year: 2017
+  publisher: Department for Culture, Media & Sport
+  country: England
+  document_type: annual-report
+  pages: 22
+  path: archive/reports/dcms-annual-libraries-report-2016
+  review_level: reviewed
+  fictional_sample: false
+  notes: 'Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, inquiry letters (Harrow,
+    Lambeth, Lancashire), wifi rollout to 99.3% of libraries, Libraries Deliver: Ambition,
+    and sector partner reports.'
+- id: dcms-community-managed-libraries-research-2017
+  title: Research and Analysis to Explore the Service Effectiveness and Sustainability
+    of Community Managed Libraries in England
+  subtitle: Research Report Prepared for the Department for Culture, Media and Sport
+    and the Libraries Taskforce
+  year: 2017
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: research
+  pages: 1
+  path: archive/reports/dcms-community-managed-libraries-research-2017
+  review_level: reviewed
+  fictional_sample: false
+  notes: Major research and analysis report commissioned by DCMS and the Libraries
+    Taskforce to examine the effectiveness, governance models, service quality, and
+    financial sustainability of community managed libraries across England.
+- id: libraries-taskforce-adm-toolkit-2017
+  title: 'Libraries: Alternative Delivery Models Toolkit'
+  subtitle: Toolkit and Case Studies for Library Service Delivery Models
+  year: 2017
+  publisher: Libraries Taskforce
+  country: England
+  document_type: guidance
+  pages: 1
+  path: archive/reports/libraries-taskforce-adm-toolkit-2017
+  review_level: reviewed
+  fictional_sample: false
+  notes: Practical guidance, stages, legal forms, and case studies for local authorities
+    and library services investigating or establishing alternative delivery models
+    (public service mutuals, trusts, joint ventures).
+- id: libraries-taskforce-outcomes-progress-indicators-2017
+  title: Proposed Progress Indicators for the 7 Outcomes Libraries Deliver
+  subtitle: Outcomes Progress Indicators for Libraries in England
+  year: 2017
+  publisher: Libraries Taskforce
+  country: England
+  document_type: guidance
+  pages: 1
+  path: archive/reports/libraries-taskforce-outcomes-progress-indicators-2017
+  review_level: reviewed
+  fictional_sample: false
+  notes: 'Baseline indicators and measurement methodology published by the Libraries
+    Taskforce to track progress across the 7 Outcomes identified in Libraries Deliver:
+    Ambition.'
+- id: libraries-taskforce-planning-toolkit-2017
+  title: 'Libraries Shaping the Future: Good Practice Toolkit'
+  subtitle: Guidance for Library Services and Local Authorities
+  year: 2017
+  publisher: Libraries Taskforce
+  country: England
+  document_type: guidance
+  pages: 1
+  path: archive/reports/libraries-taskforce-planning-toolkit-2017
+  review_level: reviewed
+  fictional_sample: false
+  notes: Strategic planning, evidence base, delivery models, and service transformation
+    toolkit produced by the Libraries Taskforce in partnership with the LGA.
 - id: libraries-taskforce-progress-report-2016-2
   title: 'Libraries Taskforce: Six Month Progress Report (October 2016 to March 2017)'
   subtitle: Fourth Progress Report to Ministers and the Local Government Association
@@ -634,6 +525,65 @@ reports:
   fictional_sample: false
   notes: Fifth six-month progress report of the Libraries Taskforce covering April
     to September 2017, tracking deliverables across public library priority areas.
+- id: welsh-public-library-standards-sixth-framework
+  title: 'Connected and Ambitious Libraries: The Sixth Quality Framework of Welsh
+    Public Library Standards 2017–2020'
+  subtitle: The Sixth Quality Framework of Welsh Public Library Standards
+  creators:
+  - Welsh Government
+  publisher: Welsh Government
+  publication_date: '2017-03-31'
+  year: 2017
+  country: Wales
+  document_type: standards
+  pages: 28
+  path: archive/reports/welsh-public-library-standards-sixth-framework
+  source_url: http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf
+- id: dcms-annual-libraries-report-2017-2018
+  title: Annual Report to Parliament on Public Libraries Activities from January 2017
+    to March 2018
+  subtitle: Report under the Public Libraries and Museums Act 1964 for 2017/18
+  year: 2018
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: annual-report
+  pages: 17
+  path: archive/reports/dcms-annual-libraries-report-2017-2018
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, inquiry letters (Lancashire,
+    Swindon, Darlington, Northamptonshire), Digital Economy Act PLR remote e-lending
+    extension, and partner reports.
+- id: dcms-lofe-innovation-fund-evaluation-2018
+  title: 'Evaluation of the Libraries: Opportunities for Everyone Innovation Fund'
+  subtitle: Final Evaluation Report on the £4 Million Fund Supporting Public Library
+    Projects Across England
+  year: 2018
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: evaluation
+  pages: 1
+  path: archive/reports/dcms-lofe-innovation-fund-evaluation-2018
+  review_level: reviewed
+  fictional_sample: false
+  notes: 'Comprehensive evaluation of the £4 million Libraries: Opportunities for
+    Everyone (LOFE) innovation fund, assessing outcomes across disadvantaged communities,
+    digital skills, cultural engagement, and health and wellbeing.'
+- id: libraries-taskforce-action-plan-to-march-2020
+  title: 'Libraries Taskforce: Action Plan to March 2020'
+  subtitle: 'Updated Action Plan for Libraries Deliver: Ambition for Public Libraries
+    in England 2016-2021'
+  creators:
+  - Libraries Taskforce
+  publisher: Libraries Taskforce
+  publication_date: '2018-03-01'
+  year: 2018
+  country: England
+  document_type: action-plan
+  pages: 4
+  path: archive/reports/libraries-taskforce-action-plan-to-march-2020
+  source_url: https://assets.publishing.service.gov.uk/media/5a9ec3a6e5274a7bd3416fde/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf
 - id: libraries-taskforce-progress-report-2017-2
   title: 'Libraries Taskforce: Six Month Progress Report (October 2017 to March 2018)'
   subtitle: Sixth Progress Report to Ministers and the Local Government Association
@@ -660,6 +610,53 @@ reports:
   fictional_sample: false
   notes: Seventh six-month progress report of the Libraries Taskforce covering April
     to September 2018, monitoring ongoing progress across core ambition priorities.
+- id: libraries-taskforce-research-programme-2018
+  title: 'Libraries Taskforce: Research Programme'
+  subtitle: Future Research Priorities for Public Libraries in England
+  year: 2018
+  publisher: Libraries Taskforce
+  country: England
+  document_type: research-report
+  pages: 1
+  path: archive/reports/libraries-taskforce-research-programme-2018
+  review_level: reviewed
+  fictional_sample: false
+  notes: Research prioritisation and strategic research programme published by the
+    Libraries Taskforce, mapping research priorities across library impact and service
+    delivery models with accompanying research datasets.
+- id: dcms-annual-libraries-report-2018-2019
+  title: Annual Library Report from April 2018 to March 2019
+  subtitle: Report Pursuant to Section 17 of the Public Libraries and Museums Act
+    1964 for 2018/19
+  year: 2019
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: annual-report
+  pages: 11
+  path: archive/reports/dcms-annual-libraries-report-2018-2019
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, inquiry decisions (Darlington
+    and Northamptonshire), LOFE evaluation, PLR remote e-lending, and Taskforce transition
+    to ACE.
+- id: dcms-barnet-library-inquiry-decision-2019
+  title: Final decision letter on public library provision in Barnet
+  subtitle: Letter from Minister for Arts, Heritage and Tourism stating the Secretary
+    of State's decision not to hold a local inquiry into Barnet Council's library
+    provision
+  year: 2019
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: correspondence
+  pages: 14
+  path: archive/reports/dcms-barnet-library-inquiry-decision-2019
+  review_level: reviewed
+  fictional_sample: false
+  notes: Official final decision letter from Michael Ellis MP stating the Secretary
+    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
+    Public Libraries and Museums Act 1964 following Barnet Council's library changes,
+    restructuring, and introduction of self-service technology enabled opening.
 - id: libraries-taskforce-progress-report-2018-2
   title: 'Libraries Taskforce: Six Month Progress Report (October 2018 to March 2019)'
   subtitle: Eighth Progress Report to Ministers and the Local Government Association
@@ -687,53 +684,25 @@ reports:
   fictional_sample: false
   notes: Ninth six-month progress report of the Libraries Taskforce covering April
     to September 2019, preceding the final wind-up report of March 2020.
-- id: dcms-libraries-as-a-statutory-service-2016
-  title: Libraries as a Statutory Service
-  subtitle: Guidance for Local Authorities on Providing a Comprehensive and Efficient
-    Public Library Service
-  year: 2016
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: guidance
-  pages: 1
-  path: archive/reports/dcms-libraries-as-a-statutory-service-2016
-  review_level: reviewed
-  fictional_sample: false
-  notes: Comprehensive statutory guidance published by DCMS explaining the legal framework
-    governing public library services under the Public Libraries and Museums Act 1964,
-    ministerial superintendence duties, handling of representations, and learning
-    from the Wirral inquiry.
-- id: dcms-community-managed-libraries-research-2017
-  title: Research and Analysis to Explore the Service Effectiveness and Sustainability
-    of Community Managed Libraries in England
-  subtitle: Research Report Prepared for the Department for Culture, Media and Sport
-    and the Libraries Taskforce
-  year: 2017
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: research
-  pages: 1
-  path: archive/reports/dcms-community-managed-libraries-research-2017
-  review_level: reviewed
-  fictional_sample: false
-  notes: Major research and analysis report commissioned by DCMS and the Libraries
-    Taskforce to examine the effectiveness, governance models, service quality, and
-    financial sustainability of community managed libraries across England.
-- id: dcms-lofe-innovation-fund-evaluation-2018
-  title: 'Evaluation of the Libraries: Opportunities for Everyone Innovation Fund'
-  subtitle: Final Evaluation Report on the £4 Million Fund Supporting Public Library
-    Projects Across England
-  year: 2018
-  publisher: Department for Culture, Media and Sport
-  country: England
-  document_type: evaluation
-  pages: 1
-  path: archive/reports/dcms-lofe-innovation-fund-evaluation-2018
-  review_level: reviewed
-  fictional_sample: false
-  notes: 'Comprehensive evaluation of the £4 million Libraries: Opportunities for
-    Everyone (LOFE) innovation fund, assessing outcomes across disadvantaged communities,
-    digital skills, cultural engagement, and health and wellbeing.'
+- id: single-digital-presence-scoping-report
+  title: 'Digital Transformation for UK Public Libraries: Five Approaches to a ‘Single
+    Digital Presence’'
+  subtitle: A report by the British Library for Arts Council England and Carnegie
+    UK Trust
+  creators:
+  - The British Library
+  - Edmund Connolly
+  - Jacob Fredrickson
+  - Jake Millar
+  - Liz White
+  publisher: The British Library
+  publication_date: '2019-06-01'
+  year: 2019
+  country: United Kingdom
+  document_type: report
+  pages: 39
+  source_url: https://www.carnegieuktrust.org.uk/publications/digital-transformation-for-uk-public-libraries-five-approaches-to-a-single-digital-presence/
+  path: archive/reports/single-digital-presence-scoping-report
 - id: slic-libraries-on-the-move-2019
   title: 'Libraries on the Move: The Impact of Mobile Library Services in Scotland'
   subtitle: Research Report Commissioned by the Scottish Library and Information Council
@@ -748,51 +717,136 @@ reports:
   notes: Landmark national research report commissioned by SLIC and undertaken by
     Dr Alyson Tyler on the use, social impact, vehicle fleets, and community value
     of mobile library services in Scotland.
-- id: slic-mobile-libraries-in-scotland-2024
-  title: Mobile Libraries in Scotland 2024 Report
-  subtitle: An Update to Libraries on the Move (2019) on Current Mobile Library Provision,
-    Greener Fleets, and Community Need
-  year: 2024
-  publisher: Scottish Library and Information Council
-  country: Scotland
-  document_type: research
-  pages: 62
-  path: archive/reports/slic-mobile-libraries-in-scotland-2024
+- id: dcms-annual-libraries-report-2019-2020
+  title: Annual Libraries Report 2019 to 2020
+  subtitle: Report Pursuant to Section 17 of the Public Libraries and Museums Act
+    1964 for 2019/20
+  year: 2020
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: annual-report
+  pages: 14
+  path: archive/reports/dcms-annual-libraries-report-2019-2020
   review_level: reviewed
   fictional_sample: false
-  notes: Major national research report updating Libraries on the Move (2019), detailing
-    post-pandemic public mobile library services, ageing vehicle fleets, green/electric
-    transition challenges, and strategic fit across Scotland.
-- id: expert-review-public-libraries-wales-2014
-  title: Expert Review of Public Libraries in Wales 2014
-  subtitle: An Independent Review of the Public Library Service in Wales and Recommendations
-    for Future Delivery
-  year: 2014
-  publisher: Welsh Government
-  country: Wales
-  document_type: independent-review
-  pages: 62
-  path: archive/reports/expert-review-public-libraries-wales-2014
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, COVID-19 pandemic initial
+    response, Cultural Investment Fund, PLR remote ebook inclusion, and Taskforce
+    conclusion.
+- id: dcms-lambeth-library-inquiry-decision-2020
+  title: Final decision letter on public library provision in Lambeth
+  subtitle: Letter from Minister of State for Digital and Culture stating the Secretary
+    of State's decision not to hold a local inquiry into Lambeth Council's library
+    provision
+  year: 2020
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: correspondence
+  pages: 4
+  path: archive/reports/dcms-lambeth-library-inquiry-decision-2020
   review_level: reviewed
   fictional_sample: false
-  notes: Major independent review commissioned by the Welsh Government to examine
-    public library services across Wales, local authority statutory obligations, regional
-    collaboration models, and strategic options for future delivery.
-- id: welsh-public-library-standards-fifth-framework
-  title: 'Libraries Making a Difference: The Fifth Quality Framework of Welsh Public
-    Library Standards 2014–2017'
-  subtitle: The Fifth Quality Framework of Welsh Public Library Standards
-  year: 2014
-  publisher: Welsh Government
-  country: Wales
-  document_type: standards
-  pages: 28
-  path: archive/reports/welsh-public-library-standards-fifth-framework
+  notes: Official final decision letter from Caroline Dinenage MP stating the Secretary
+    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
+    Public Libraries and Museums Act 1964 following Lambeth Council's library changes,
+    retaining 10 static libraries and introducing self-service opening at three neighbourhood
+    branches.
+- id: dcms-swindon-library-inquiry-decision-2020
+  title: Final decision letter on public library provision in Swindon
+  subtitle: Letter from Minister of State for Digital and Culture stating the Secretary
+    of State's decision not to hold a local inquiry into Swindon Borough Council's
+    library provision
+  year: 2020
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: correspondence
+  pages: 3
+  path: archive/reports/dcms-swindon-library-inquiry-decision-2020
   review_level: reviewed
   fictional_sample: false
-  notes: Official Welsh Public Library Standards Fifth Quality Framework (2014-2017),
-    establishing core entitlements, performance quality indicators, and outcome measurement
-    for public library authorities across Wales.
+  notes: Official final decision letter from Caroline Dinenage MP stating the Secretary
+    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
+    Public Libraries and Museums Act 1964 following Swindon Borough Council's revised
+    library service model of five core static libraries, extended access hours, and
+    outreach.
+- id: libraries-connected-covid-19-response-report
+  title: 'Libraries in Lockdown: Connecting Communities in Crisis'
+  subtitle: A report on public library services during the COVID-19 pandemic
+  creators:
+  - Libraries Connected
+  - Andrew Holden
+  - Activist Group
+  - Mike Wynn
+  - Eric Bohl
+  publisher: Libraries Connected
+  publication_date: '2020-10-12'
+  year: 2020
+  country: England
+  document_type: research-report
+  pages: 57
+  path: archive/reports/libraries-connected-covid-19-response-report
+  source_url: https://www.librariesconnected.org.uk/resource/libraries-lockdown-connecting-communities-crisis
+- id: libraries-ni-corporate-plan
+  title: Libraries NI Corporate Plan 2020–2024
+  subtitle: Connecting People, Enriching Lives
+  creators:
+  - Libraries NI
+  publisher: Libraries NI
+  publication_date: '2020-04-01'
+  year: 2020
+  country: Northern Ireland
+  document_type: strategy
+  pages: 36
+  source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/plans-and-reports/corporate-plans/
+  path: archive/reports/libraries-ni-corporate-plan
+- id: libraries-taskforce-progress-report-2020
+  title: 'Libraries Taskforce: Six Month Progress Report (October 2019 to March 2020)'
+  subtitle: Eighth and Final Progress Report to Ministers and the Local Government
+    Association
+  year: 2020
+  publisher: Libraries Taskforce
+  country: England
+  document_type: governance
+  pages: 1
+  path: archive/reports/libraries-taskforce-progress-report-2020
+  review_level: reviewed
+  fictional_sample: false
+  notes: Eighth and final six-month progress report of the Libraries Taskforce covering
+    October 2019 to March 2020, recording the formal cessation of the Taskforce on
+    31 March 2020 and handover of coordination to Arts Council England.
+- id: dcms-annual-libraries-report-2020-2021
+  title: Annual Libraries Report 2020 to 2021
+  subtitle: Report Pursuant to Section 17 of the Public Libraries and Museums Act
+    1964 for 2020/21
+  year: 2021
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: annual-report
+  pages: 15
+  path: archive/reports/dcms-annual-libraries-report-2020-2021
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, the Public Library Services
+    Working Group during COVID-19, inquiry decisions (Swindon and Lambeth), PLR, and
+    sector partner activities.
+- id: dcms-bedford-library-inquiry-decision-2021
+  title: Final decision letter on public library provision in Bedford
+  subtitle: Letter from Minister of State for Digital and Culture stating the Secretary
+    of State's decision not to hold a local inquiry into Bedford Council's library
+    provision
+  year: 2021
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: correspondence
+  pages: 4
+  path: archive/reports/dcms-bedford-library-inquiry-decision-2021
+  review_level: reviewed
+  fictional_sample: false
+  notes: Official final decision letter from Caroline Dinenage MP stating the Secretary
+    of State's decision not to direct a local inquiry under Section 10(1)(a) of the
+    Public Libraries and Museums Act 1964 following Bedford Council's changes and
+    introduction of Library Plus unstaffed extended access technology.
 - id: slic-forward-public-library-strategy-2021
   title: 'Forward: Scotland''s Public Library Strategy 2021–2025'
   subtitle: Inspiring individuals and communities to reach their full potential through
@@ -808,35 +862,22 @@ reports:
   pages: 35
   source_url: https://scottishlibraries.org/wp-content/uploads/2024/10/slic-public-library-strategydigital_final.pdf
   path: archive/reports/slic-forward-public-library-strategy-2021
-- id: welsh-public-library-standards-sixth-framework
-  title: 'Connected and Ambitious Libraries: The Sixth Quality Framework of Welsh
-    Public Library Standards 2017–2020'
-  subtitle: The Sixth Quality Framework of Welsh Public Library Standards
-  creators:
-  - Welsh Government
-  publisher: Welsh Government
-  publication_date: '2017-03-31'
-  year: 2017
-  country: Wales
-  document_type: standards
-  pages: 28
-  path: archive/reports/welsh-public-library-standards-sixth-framework
-  source_url: http://gov.wales/docs/drah/publications/170331-connected-and-ambitious-libraries-en.pdf
-- id: ambition-and-opportunity-2015
-  title: 'Ambition & Opportunity: A Strategy for Public Libraries in Scotland 2015–2020'
-  subtitle: A Strategy for Public Libraries in Scotland 2015–2020
-  creators:
-  - Scottish Library and Information Council
-  - National Strategy for Public Libraries in Scotland Strategic Group
-  - Carnegie UK Trust
-  publisher: Scottish Library and Information Council
-  publication_date: '2015-06-01'
-  year: 2015
-  country: Scotland
-  document_type: strategy
-  pages: 48
-  source_url: https://scottishlibraries.org/media/1133/ambition-opportunity-scotlands-national-public-library-strategy.pdf
-  path: archive/reports/ambition-and-opportunity-2015
+- id: dcms-annual-libraries-report-2021-2022
+  title: Annual Libraries Report 2021 to 2022
+  subtitle: Annual Report to Parliament on Public Libraries Activities from April
+    2021 to March 2022
+  year: 2022
+  publisher: Department for Digital, Culture, Media and Sport
+  country: England
+  document_type: annual-report
+  pages: 20
+  path: archive/reports/dcms-annual-libraries-report-2021-2022
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, pandemic service restoration,
+    PLR expansion to Northern Ireland, Libraries Improvement Fund, and sector partner
+    reports.
 - id: libraries-connected-strategic-plan
   title: Libraries Connected Strategic Plan 2023–2027
   subtitle: Strategic Plan 2023–2027
@@ -866,54 +907,6 @@ reports:
   pages: 30
   source_url: https://scottishlibraries.org/wp-content/uploads/2024/11/How-good-is-our-public-library-service.pdf
   path: archive/reports/slic-how-good-is-our-public-library-service
-- id: single-digital-presence-scoping-report
-  title: 'Digital Transformation for UK Public Libraries: Five Approaches to a ‘Single
-    Digital Presence’'
-  subtitle: A report by the British Library for Arts Council England and Carnegie
-    UK Trust
-  creators:
-  - The British Library
-  - Edmund Connolly
-  - Jacob Fredrickson
-  - Jake Millar
-  - Liz White
-  publisher: The British Library
-  publication_date: '2019-06-01'
-  year: 2019
-  country: United Kingdom
-  document_type: report
-  pages: 39
-  source_url: https://www.carnegieuktrust.org.uk/publications/digital-transformation-for-uk-public-libraries-five-approaches-to-a-single-digital-presence/
-  path: archive/reports/single-digital-presence-scoping-report
-- id: libraries-ni-corporate-plan
-  title: Libraries NI Corporate Plan 2020–2024
-  subtitle: Connecting People, Enriching Lives
-  creators:
-  - Libraries NI
-  publisher: Libraries NI
-  publication_date: '2020-04-01'
-  year: 2020
-  country: Northern Ireland
-  document_type: strategy
-  pages: 36
-  source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/plans-and-reports/corporate-plans/
-  path: archive/reports/libraries-ni-corporate-plan
-- id: libraries-inspire-2012-16
-  title: 'Libraries Inspire: The Strategic Development Framework for Welsh Libraries
-    2012–16'
-  subtitle: The strategic development framework for Welsh libraries 2012–16
-  creators:
-  - 'CyMAL: Museums Archives and Libraries Wales'
-  - Welsh Government
-  publisher: Welsh Government
-  publication_date: '2011-11-01'
-  year: 2011
-  country: Wales
-  document_type: strategy
-  pages: 48
-  isbn: 978-0-7504-6749-0
-  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf
-  path: archive/reports/libraries-inspire-2012-16
 - id: bipc-national-network-impact-report-later-edition
   title: 'Democratising Entrepreneurship 2.0: Libraries as engines of economic recovery
     and growth'
@@ -929,64 +922,96 @@ reports:
   path: archive/reports/bipc-national-network-impact-report-later-edition
   source_url: https://www.bl.uk/business/bl-bipc-democratising-entrepreneurship-2023.pdf
   identifier: 10.23636/wbk4-7b32
-- id: libraries-connected-covid-19-response-report
-  title: 'Libraries in Lockdown: Connecting Communities in Crisis'
-  subtitle: A report on public library services during the COVID-19 pandemic
-  creators:
-  - Libraries Connected
-  - Andrew Holden
-  - Activist Group
-  - Mike Wynn
-  - Eric Bohl
-  publisher: Libraries Connected
-  publication_date: '2020-10-12'
-  year: 2020
+- id: dcms-annual-libraries-report-2022-2023
+  title: Annual Libraries Report 2022 to 2023
+  subtitle: Annual Report to Parliament on Public Libraries Activities from April
+    2022 to March 2023
+  year: 2023
+  publisher: Department for Culture, Media and Sport
   country: England
-  document_type: research-report
-  pages: 57
-  path: archive/reports/libraries-connected-covid-19-response-report
-  source_url: https://www.librariesconnected.org.uk/resource/libraries-lockdown-connecting-communities-crisis
-- id: dcal-delivering-tomorrows-libraries
-  title: Delivering Tomorrow's Libraries
-  subtitle: Principles and priorities for the development of public libraries in Northern
-    Ireland
-  creators:
-  - Department of Culture, Arts and Leisure
-  publisher: Department of Culture, Arts and Leisure
-  publication_date: '2006-07-01'
-  year: 2006
-  country: Northern Ireland
-  document_type: policy-paper
-  pages: 24
-  path: archive/reports/dcal-delivering-tomorrows-libraries
-  source_url: https://webarchive.proni.gov.uk/20151003232911/http://www.dcalni.gov.uk/delivering_tomorrow_s_libraries.pdf
-- id: dcal-delivering-tomorrows-libraries-standards-2014-2019
-  title: 'Delivering Tomorrow''s Libraries: Public Library Standards, 2014–19'
-  subtitle: Statutory standards for public library services in Northern Ireland
-  creators:
-  - Department of Culture, Arts and Leisure
-  publisher: Department of Culture, Arts and Leisure
-  publication_date: '2014-04-01'
-  year: 2014
-  country: Northern Ireland
-  document_type: standards
-  pages: 4
-  path: archive/reports/dcal-delivering-tomorrows-libraries-standards-2014-2019
-  source_url: https://www.communities-ni.gov.uk/sites/default/files/publications/dcal/delivering-tomorrows-libraries-public-library-standards-2014-19_0.pdf
-- id: carnegie-shining-a-light-policy-report-2017
-  title: 'Shining a Light: The future of public libraries across the UK and Ireland'
-  subtitle: Policy Report
-  creators:
-  - Dr Jenny Peachey
-  - Carnegie UK Trust
-  publisher: Carnegie UK Trust
-  publication_date: '2017-04-01'
-  year: 2017
-  country: United Kingdom
-  document_type: policy-paper
-  pages: 23
-  path: archive/reports/carnegie-shining-a-light-policy-report-2017
-  source_url: https://carnegieuk.org/wp-content/uploads/2024/10/Policy-Report-Shining-a-Light-2.pdf
+  document_type: annual-report
+  pages: 19
+  path: archive/reports/dcms-annual-libraries-report-2022-2023
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, local authority engagements,
+    PLR, the Sanderson Review, and sector partner reports.
+- id: dcms-calderdale-library-inquiry-decision-2023
+  title: Final decision letter on public library provision in Calderdale
+  subtitle: Letter from Minister for Arts and Heritage stating the Secretary of State's
+    decision not to hold a local inquiry into Calderdale Council's library provision
+  year: 2023
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: correspondence
+  pages: 3
+  path: archive/reports/dcms-calderdale-library-inquiry-decision-2023
+  review_level: reviewed
+  fictional_sample: false
+  notes: Official final decision letter from Lord Parkinson of Whitley Bay stating
+    the Secretary of State's decision not to direct a local inquiry under Section
+    10(1)(a) of the Public Libraries and Museums Act 1964 following library changes
+    agreed by Calderdale Council.
+- id: dcms-annual-libraries-report-2023-2024
+  title: Annual Libraries Report 2023 to 2024
+  subtitle: Annual Report to Parliament on Public Libraries Activities from April
+    2023 to March 2024
+  year: 2024
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: annual-report
+  pages: 26
+  path: archive/reports/dcms-annual-libraries-report-2023-2024
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, local authority engagements,
+    PLR, sector partner reports, and capital investment.
+- id: independent-review-of-english-public-libraries-2024
+  title: An Independent Review of English Public Libraries
+  subtitle: null
+  year: 2024
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: independent-review
+  pages: 49
+  path: archive/reports/independent-review-of-english-public-libraries-2024
+  review_level: reviewed
+  fictional_sample: false
+  notes: Independent review led by Baroness Elizabeth Sanderson examining challenges
+    facing public libraries in England and setting out recommendations for national
+    data infrastructure, branding, and ministerial coordination.
+- id: slic-mobile-libraries-in-scotland-2024
+  title: Mobile Libraries in Scotland 2024 Report
+  subtitle: An Update to Libraries on the Move (2019) on Current Mobile Library Provision,
+    Greener Fleets, and Community Need
+  year: 2024
+  publisher: Scottish Library and Information Council
+  country: Scotland
+  document_type: research
+  pages: 62
+  path: archive/reports/slic-mobile-libraries-in-scotland-2024
+  review_level: reviewed
+  fictional_sample: false
+  notes: Major national research report updating Libraries on the Move (2019), detailing
+    post-pandemic public mobile library services, ageing vehicle fleets, green/electric
+    transition challenges, and strategic fit across Scotland.
+- id: dcms-annual-libraries-report-2024-2025
+  title: Annual Libraries Report 2024 to 2025
+  subtitle: Annual Report to Parliament on Public Libraries Activities from April
+    2024 to March 2025
+  year: 2025
+  publisher: Department for Culture, Media and Sport
+  country: England
+  document_type: annual-report
+  pages: 18
+  path: archive/reports/dcms-annual-libraries-report-2024-2025
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, local authority engagements,
+    library usage statistics, byelaws, and the Libraries Improvement Fund.
 - id: libraries-connected-universal-library-offers-refresh
   title: Universal Library Offers
   subtitle: A national strategic framework for public libraries in England and Wales
@@ -1000,33 +1025,6 @@ reports:
   pages: 4
   path: archive/reports/libraries-connected-universal-library-offers-refresh
   source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-03/ULO%20Infographics%202025%20-%20branded.pdf
-- id: slic-fast-forward-public-library-strategy-2026
-  title: 'Fast Forward: Scotland’s Public Library Strategy Refresh 2026'
-  subtitle: Public Library Strategy Refresh 2026
-  creators:
-  - Scottish Library and Information Council
-  publisher: Scottish Library and Information Council
-  publication_date: '2025-10-22'
-  year: 2026
-  country: Scotland
-  document_type: strategy
-  pages: 23
-  path: archive/reports/slic-fast-forward-public-library-strategy-2026
-  source_url: https://scottishlibraries.org/wp-content/uploads/2025/10/221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf
-- id: libraries-taskforce-action-plan-to-march-2020
-  title: 'Libraries Taskforce: Action Plan to March 2020'
-  subtitle: 'Updated Action Plan for Libraries Deliver: Ambition for Public Libraries
-    in England 2016-2021'
-  creators:
-  - Libraries Taskforce
-  publisher: Libraries Taskforce
-  publication_date: '2018-03-01'
-  year: 2018
-  country: England
-  document_type: action-plan
-  pages: 4
-  path: archive/reports/libraries-taskforce-action-plan-to-march-2020
-  source_url: https://assets.publishing.service.gov.uk/media/5a9ec3a6e5274a7bd3416fde/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf
 - id: libraries-ni-corporate-plan-2025-2030
   title: Libraries NI Corporate Plan 2025–2030
   subtitle: Delivering for People, Delivering for Communities
@@ -1040,30 +1038,45 @@ reports:
   pages: 56
   path: archive/reports/libraries-ni-corporate-plan-2025-2030
   source_url: https://www.librariesni.org.uk/media/evwjzeuy/libraries-ni-corporate-plan-2025-2030.pdf
-- id: future-libraries-programme-2011
-  title: 'Future Libraries: Change, Options and How to Get There'
-  subtitle: Learning from the Future Libraries Programme Phase 1
-  creators:
-  - Local Government Group
-  - Museums, Libraries and Archives Council
-  publisher: Local Government Group and Museums, Libraries and Archives Council
-  publication_date: '2011-08-01'
-  year: 2011
+- id: dcms-annual-libraries-report-2025-2026
+  title: Annual Libraries Report 2025 to 2026
+  subtitle: Annual Report to Parliament on Public Libraries Activities from April
+    2025 to March 2026
+  year: 2026
+  publisher: Department for Culture, Media and Sport
   country: England
-  document_type: research-report
-  pages: 36
-  path: archive/reports/future-libraries-programme-2011
-  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20240321144749/https://www.local.gov.uk/sites/default/files/documents/view-document-f68.pdf
-- id: audit-commission-building-better-library-services-2002
-  title: Building Better Library Services
-  subtitle: Learning from Audit, Inspection and Research
-  creators:
-  - Audit Commission
-  publisher: Audit Commission
-  publication_date: '2002-05-01'
-  year: 2002
+  document_type: annual-report
+  pages: 19
+  path: archive/reports/dcms-annual-libraries-report-2025-2026
+  review_level: reviewed
+  fictional_sample: false
+  notes: Annual report presented to Parliament pursuant to Section 17 of the Public
+    Libraries and Museums Act 1964 covering superintendence, library participation
+    survey statistics, formal complaints, byelaws, and the Libraries Improvement Fund.
+- id: sample-report-001
+  title: Demonstration Public Library Review
+  subtitle: Statutory Provision, Community Access, and Digital Infrastructure in Fictional
+    Shire
+  year: 2026
+  publisher: Department for Public Culture and Local Services
   country: England
-  document_type: research-report
-  pages: 58
-  path: archive/reports/audit-commission-building-better-library-services-2002
-  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20150325222141/http://archive.audit-commission.gov.uk/auditcommission/SiteCollectionDocuments/AuditCommissionReports/NationalStudies/ACKLibraries.pdf
+  document_type: independent-review
+  pages: 5
+  path: archive/reports/sample-report
+  review_level: verified
+  fictional_sample: true
+  notes: Canonical fictional sample report demonstrating all repository metadata,
+    provenance, and diplomatic Markdown specifications without copyrighted content.
+- id: slic-fast-forward-public-library-strategy-2026
+  title: 'Fast Forward: Scotland’s Public Library Strategy Refresh 2026'
+  subtitle: Public Library Strategy Refresh 2026
+  creators:
+  - Scottish Library and Information Council
+  publisher: Scottish Library and Information Council
+  publication_date: '2025-10-22'
+  year: 2026
+  country: Scotland
+  document_type: strategy
+  pages: 23
+  path: archive/reports/slic-fast-forward-public-library-strategy-2026
+  source_url: https://scottishlibraries.org/wp-content/uploads/2025/10/221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf

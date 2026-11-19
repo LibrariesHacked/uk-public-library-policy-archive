@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20040104234631/http://www.resource.gov.uk/documents/fff_ap2003.pdf
+  original_filename: fff_ap2003.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: 1b0f9fbc8fed0e4b8aeffdf4b5ef953aeb72cb4175c9cf17f73209b63c86d386
+  filesize: 778750
+  content_type: application/pdf
+  capture_tool: Python urllib via UK Government Web Archive
+  notes: "The national three-year implementation action plan for public libraries in England, commissioned by DCMS following the publication of Framework for the Future (2003), published by Resource: The Council for Museums, Archives and Libraries in September 2003."

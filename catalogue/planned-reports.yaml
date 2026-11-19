@@ -90,14 +90,15 @@ planned_reports:
   status: archived
   archived_id: dcms-framework-for-the-future-2003
 - id: framework-for-the-future-action-plan
-  title: 'Framework for the Future: Action Plan'
-  year: null
-  publisher: Museums, Libraries and Archives Council
+  title: 'Framework for the Future: Action Plan 2003–06'
+  year: 2003
+  publisher: 'Resource: The Council for Museums, Archives and Libraries'
   country: England
   category: ENGLAND
   document_type: action-plan
-  verified: false
-  status: planned
+  verified: true
+  status: archived
+  archived_id: framework-for-the-future-action-plan
 - id: cms-committee-public-libraries-2005
   title: Public Libraries (House of Commons Culture, Media and Sport Committee report)
   year: 2005
