@@ -929,3 +929,20 @@ reports:
   path: archive/reports/bipc-national-network-impact-report-later-edition
   source_url: https://www.bl.uk/business/bl-bipc-democratising-entrepreneurship-2023.pdf
   identifier: 10.23636/wbk4-7b32
+- id: libraries-connected-covid-19-response-report
+  title: 'Libraries in Lockdown: Connecting Communities in Crisis'
+  subtitle: A report on public library services during the COVID-19 pandemic
+  creators:
+  - Libraries Connected
+  - Andrew Holden
+  - Activist Group
+  - Mike Wynn
+  - Eric Bohl
+  publisher: Libraries Connected
+  publication_date: '2020-10-12'
+  year: 2020
+  country: England
+  document_type: research-report
+  pages: 57
+  path: archive/reports/libraries-connected-covid-19-response-report
+  source_url: https://www.librariesconnected.org.uk/resource/libraries-lockdown-connecting-communities-crisis

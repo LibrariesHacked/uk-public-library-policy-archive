@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "https://www.librariesconnected.org.uk/resource/libraries-lockdown-connecting-communities-crisis"
+  original_filename: "libraries-in-lockdown.pdf"
+  retrieval_date: "2026-11-19"
+  method: "curl"
+  sha256: "9284cb7abe9524f2e733762ed560d8d5151aaf232d13d2830043dcbfae5755b2"
+  filesize: 2907409
+  content_type: "application/pdf"
+  capture_tool: "Python urllib/requests via Libraries Connected"
+  notes: "National research report by Libraries Connected documenting public library services across England, Wales and Northern Ireland during the COVID-19 pandemic lockdowns."

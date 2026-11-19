@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/resource/libraries-lockdown-connecting-communities-crisis"
+source_pdf_url: "https://www.librariesconnected.org.uk/resource/libraries-lockdown-connecting-communities-crisis"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:9284cb7abe9524f2e733762ed560d8d5151aaf232d13d2830043dcbfae5755b2"
+pdf_sha256: "9284cb7abe9524f2e733762ed560d8d5151aaf232d13d2830043dcbfae5755b2"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"
