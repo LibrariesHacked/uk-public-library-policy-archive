@@ -1178,3 +1178,17 @@ reports:
   pages: 37
   path: archive/reports/libraries-connected-poverty-proofing-2026
   source_url: https://www.librariesconnected.org.uk/resources
+- id: carnegie-making-a-difference-2020
+  title: 'Making a Difference: Libraries, Lockdown and Looking Ahead'
+  subtitle: null
+  creators:
+  - Dr Jenny Peachey
+  - Carnegie UK Trust
+  publisher: Carnegie UK Trust
+  publication_date: '2020-10-13'
+  year: 2020
+  country: United Kingdom
+  document_type: research-report
+  pages: 54
+  path: archive/reports/carnegie-making-a-difference-2020
+  source_url: https://www.carnegieuktrust.org.uk/publications/making-a-difference-libraries-lockdown-and-looking-ahead/

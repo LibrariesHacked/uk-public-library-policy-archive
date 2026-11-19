@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.carnegieuktrust.org.uk/publications/making-a-difference-libraries-lockdown-and-looking-ahead/"
+source_pdf_url: "https://carnegieuk.org/wp-content/uploads/2024/10/Overarching-report-Making-a-Difference-1-2.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:019aea5765f73ac67cc9aea59dd0fd76415f1f28410be54c8bb00581afe63343"
+pdf_sha256: "019aea5765f73ac67cc9aea59dd0fd76415f1f28410be54c8bb00581afe63343"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

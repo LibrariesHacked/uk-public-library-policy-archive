@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://carnegieuk.org/wp-content/uploads/2024/10/Overarching-report-Making-a-Difference-1-2.pdf
+  original_filename: Overarching-report-Making-a-Difference-1-2.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 019aea5765f73ac67cc9aea59dd0fd76415f1f28410be54c8bb00581afe63343
+  filesize: 709676
+  content_type: application/pdf
+  capture_tool: Python urllib from Carnegie UK official repository
+  notes: Landmark UK-wide report by Carnegie UK Trust examining public library services during the COVID-19 pandemic lockdowns and outlining strategic actions for sector recovery and development.
