@@ -1192,3 +1192,16 @@ reports:
   pages: 54
   path: archive/reports/carnegie-making-a-difference-2020
   source_url: https://www.carnegieuktrust.org.uk/publications/making-a-difference-libraries-lockdown-and-looking-ahead/
+- id: libraries-connected-volunteering-2026
+  title: 'Volunteering in Public Libraries: Insights from the Libraries Connected Surveys'
+  subtitle: Findings from the Volunteer Diversity Survey and Member Survey
+  creators:
+  - Libraries Connected
+  publisher: Libraries Connected
+  publication_date: '2026-02-16'
+  year: 2026
+  country: England
+  document_type: research-report
+  pages: 36
+  path: archive/reports/libraries-connected-volunteering-2026
+  source_url: https://www.librariesconnected.org.uk/resources
