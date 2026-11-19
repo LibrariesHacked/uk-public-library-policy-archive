@@ -914,3 +914,18 @@ reports:
   isbn: 978-0-7504-6749-0
   source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf
   path: archive/reports/libraries-inspire-2012-16
+- id: bipc-national-network-impact-report-later-edition
+  title: 'Democratising Entrepreneurship 2.0: Libraries as engines of economic recovery
+    and growth'
+  subtitle: A three-year economic impact analysis (April 2020 – March 2023)
+  creators:
+  - British Library Business & IP Centre
+  publisher: British Library
+  publication_date: '2023-07-01'
+  year: 2023
+  country: United Kingdom
+  document_type: impact-report
+  pages: 32
+  path: archive/reports/bipc-national-network-impact-report-later-edition
+  source_url: https://www.bl.uk/business/bl-bipc-democratising-entrepreneurship-2023.pdf
+  identifier: 10.23636/wbk4-7b32

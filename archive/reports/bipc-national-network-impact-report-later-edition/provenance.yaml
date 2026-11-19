@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.bl.uk/business/bl-bipc-democratising-entrepreneurship-2023.pdf"
+source_pdf_url: "https://www.bl.uk/business/bl-bipc-democratising-entrepreneurship-2023.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:0e18c7e3144b57e6f49fb404a24a529747ad004c4f21eae353e85091cc037886"
+pdf_sha256: "0e18c7e3144b57e6f49fb404a24a529747ad004c4f21eae353e85091cc037886"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"
