@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-10/Alliance%20Statement%20-%20FINAL.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-10/Alliance%20Statement%20-%20FINAL.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:28bb358644e9b992fa32e3ed92cfe0f5f49d8a8ecd9515a4e78d2b572bf283f7"
+pdf_sha256: "28bb358644e9b992fa32e3ed92cfe0f5f49d8a8ecd9515a4e78d2b572bf283f7"
+download_method: "python-urllib"
+conversion_method: "pypdfium2-transcription-with-asset-rendering"
+conversion_date: "2026-11-19"
+review_status: "converted"

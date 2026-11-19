@@ -123,11 +123,11 @@ reports:
   notes: Third revised edition (April 2008, published June 2008) of the DCMS Public
     Library Service Standards (PLSS 1–10) for local library authorities in England.
 - id: mla-controversial-material-guidance-2008
-  title: 'Guidance on the Management of Controversial Material in Public Libraries'
-  subtitle: 'National Policy Guidance for Public Library Authorities in England'
+  title: Guidance on the Management of Controversial Material in Public Libraries
+  subtitle: National Policy Guidance for Public Library Authorities in England
   creators:
-  - 'Museums, Libraries and Archives Council'
-  publisher: 'Museums, Libraries and Archives Council'
+  - Museums, Libraries and Archives Council
+  publisher: Museums, Libraries and Archives Council
   publication_date: '2008-07-28'
   year: 2008
   country: England
@@ -194,11 +194,13 @@ reports:
   source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20140405121327mp_/http://wales.gov.uk/docs/drah/publications/111104librariesinspireen.pdf
   path: archive/reports/libraries-inspire-2012-16
 - id: high-court-gloucestershire-somerset-libraries-judgment-2011
-  title: 'R (Green) v Gloucestershire County Council & R (Rowe and Hird) v Somerset County Council'
-  subtitle: 'High Court Judgment on Public Library Closures and the Public Sector Equality Duty ([2011] EWHC 2687 (Admin))'
+  title: R (Green) v Gloucestershire County Council & R (Rowe and Hird) v Somerset
+    County Council
+  subtitle: High Court Judgment on Public Library Closures and the Public Sector Equality
+    Duty ([2011] EWHC 2687 (Admin))
   creators:
-  - 'His Honour Judge McKenna (Sitting as a Deputy Judge of the High Court)'
-  publisher: 'High Court of Justice (Queen''s Bench Division, Administrative Court)'
+  - His Honour Judge McKenna (Sitting as a Deputy Judge of the High Court)
+  publisher: High Court of Justice (Queen's Bench Division, Administrative Court)
   publication_date: '2011-11-16'
   year: 2011
   country: England
@@ -307,32 +309,32 @@ reports:
     establishing core entitlements, performance quality indicators, and outcome measurement
     for public library authorities across Wales.
 - id: ace-bop-economic-review-2014
-  title: "Evidence Review of the Economic Contribution of Libraries"
-  subtitle: "Final Report"
+  title: Evidence Review of the Economic Contribution of Libraries
+  subtitle: Final Report
   year: 2014
   publication_date: '2014-06-01'
-  publisher: "Arts Council England"
+  publisher: Arts Council England
   creators:
-  - "BOP Consulting"
-  - "Arts Council England"
-  country: "England"
-  document_type: "research-report"
+  - BOP Consulting
+  - Arts Council England
+  country: England
+  document_type: research-report
   pages: 64
-  source_url: "https://www.artscouncil.org.uk/sites/default/files/download-file/Evidence_review_economic_contribution_libraries_2014.pdf"
-  path: "archive/reports/ace-bop-economic-review-2014"
+  source_url: https://www.artscouncil.org.uk/sites/default/files/download-file/Evidence_review_economic_contribution_libraries_2014.pdf
+  path: archive/reports/ace-bop-economic-review-2014
 - id: carnegie-speaking-volumes-2014
-  title: "Speaking Volumes: The Impact of Public Libraries on Wellbeing"
+  title: 'Speaking Volumes: The Impact of Public Libraries on Wellbeing'
   subtitle: null
   year: 2014
   publication_date: '2014-07-15'
-  publisher: "Carnegie UK Trust"
+  publisher: Carnegie UK Trust
   creators:
-  - "Carnegie UK Trust"
-  country: "United Kingdom"
-  document_type: "briefing-paper"
+  - Carnegie UK Trust
+  country: United Kingdom
+  document_type: briefing-paper
   pages: 2
-  source_url: "https://carnegieuk.org/publications/speaking-volumes-leaflet/"
-  path: "archive/reports/carnegie-speaking-volumes-2014"
+  source_url: https://carnegieuk.org/publications/speaking-volumes-leaflet/
+  path: archive/reports/carnegie-speaking-volumes-2014
 - id: ace-health-and-wellbeing-benefits-2015
   title: The Health and Wellbeing Benefits of Public Libraries
   subtitle: Full report
@@ -802,11 +804,11 @@ reports:
   path: archive/reports/single-digital-presence-scoping-report
 - id: bipc-national-network-impact-report
   title: 'Democratising Entrepreneurship: Libraries as Engines of Economic Growth'
-  subtitle: 'A Three-Year Economic Impact Analysis, January 2016 – December 2018'
+  subtitle: A Three-Year Economic Impact Analysis, January 2016 – December 2018
   creators:
-  - 'British Library Business & IP Centre'
-  - 'ERS Research & Consultancy'
-  publisher: 'British Library'
+  - British Library Business & IP Centre
+  - ERS Research & Consultancy
+  publisher: British Library
   publication_date: '2019-06-01'
   year: 2019
   country: United Kingdom
@@ -829,22 +831,25 @@ reports:
     Dr Alyson Tyler on the use, social impact, vehicle fleets, and community value
     of mobile library services in Scotland.
 - id: commons-library-briefing-public-libraries-2019
-  title: "Public Libraries"
-  subtitle: "House of Commons Library Briefing Paper Number 5875"
+  title: Public Libraries
+  subtitle: House of Commons Library Briefing Paper Number 5875
   creators:
-    - "John Woodhouse"
-    - "Yago Zayed"
-  publisher: "House of Commons Library"
-  publication_date: "2019-06-20"
+  - John Woodhouse
+  - Yago Zayed
+  publisher: House of Commons Library
+  publication_date: '2019-06-20'
   year: 2019
-  country: "United Kingdom"
-  document_type: "research"
+  country: United Kingdom
+  document_type: research
   pages: 21
-  path: "archive/reports/commons-library-briefing-public-libraries-2019"
-  source_url: "https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf"
-  review_level: "converted"
+  path: archive/reports/commons-library-briefing-public-libraries-2019
+  source_url: https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf
+  review_level: converted
   fictional_sample: false
-  notes: "Official House of Commons Library Briefing Paper (Number 5875, June 2019) providing parliamentary research on statutory duties under the Public Libraries and Museums Act 1964, the Sieghart Review, the Libraries Taskforce, library closures, and a 14-year statistical time series (2004/05 to 2017/18) for Great Britain."
+  notes: Official House of Commons Library Briefing Paper (Number 5875, June 2019)
+    providing parliamentary research on statutory duties under the Public Libraries
+    and Museums Act 1964, the Sieghart Review, the Libraries Taskforce, library closures,
+    and a 14-year statistical time series (2004/05 to 2017/18) for Great Britain.
 - id: carnegie-making-a-difference-2020
   title: 'Making a Difference: Libraries, Lockdown and Looking Ahead'
   subtitle: null
@@ -1137,27 +1142,27 @@ reports:
   path: archive/reports/libraries-connected-ready-to-learn-2023
   source_url: https://www.librariesconnected.org.uk/resources/ready-learn-how-public-libraries-help-children-and-families-prepare-school
 - id: libraries-connected-libraries-for-living-better-2023
-  title: "Libraries for Living, and for Living Better"
-  subtitle: "The Value and Impact of Public Libraries in the East of England"
+  title: Libraries for Living, and for Living Better
+  subtitle: The Value and Impact of Public Libraries in the East of England
   year: 2023
   publication_date: '2023-06-01'
-  publisher: "Libraries Connected"
+  publisher: Libraries Connected
   creators:
-  - "John Gordon"
-  - "Anna Blackett"
-  - "Richard Fordham"
-  - "Maria Garraffa"
-  - "Stephanie Howard Wilsher"
-  - "Eleanor Prince"
-  - "University of East Anglia"
-  - "CreativeUEA"
-  - "Health Economics Consulting"
-  - "Libraries Connected East"
-  country: "England"
-  document_type: "research-report"
+  - John Gordon
+  - Anna Blackett
+  - Richard Fordham
+  - Maria Garraffa
+  - Stephanie Howard Wilsher
+  - Eleanor Prince
+  - University of East Anglia
+  - CreativeUEA
+  - Health Economics Consulting
+  - Libraries Connected East
+  country: England
+  document_type: research-report
   pages: 118
-  source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20for%20Living%2C%20and%20for%20Living%20Better.pdf"
-  path: "archive/reports/libraries-connected-libraries-for-living-better-2023"
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20for%20Living%2C%20and%20for%20Living%20Better.pdf
+  path: archive/reports/libraries-connected-libraries-for-living-better-2023
 - id: dcms-annual-libraries-report-2023-2024
   title: Annual Libraries Report 2023 to 2024
   subtitle: Annual Report to Parliament on Public Libraries Activities from April
@@ -1214,18 +1219,18 @@ reports:
   source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/policies-and-procedures/
   path: archive/reports/libraries-ni-opening-hours-policy-2024
 - id: libraries-ni-safe-and-welcoming-libraries-policy-2024
-  title: "Safe and Welcoming Libraries Policy"
+  title: Safe and Welcoming Libraries Policy
   subtitle: null
   year: 2024
   publication_date: '2024-12-12'
-  publisher: "Libraries NI"
+  publisher: Libraries NI
   creators:
-  - "Libraries NI"
-  country: "Northern Ireland"
-  document_type: "policy"
+  - Libraries NI
+  country: Northern Ireland
+  document_type: policy
   pages: 5
-  source_url: "https://www.librariesni.org.uk/media/qxnb2iqu/safe-and-welcoming-libraries-policy-v3-december-2024.pdf"
-  path: "archive/reports/libraries-ni-safe-and-welcoming-libraries-policy-2024"
+  source_url: https://www.librariesni.org.uk/media/qxnb2iqu/safe-and-welcoming-libraries-policy-v3-december-2024.pdf
+  path: archive/reports/libraries-ni-safe-and-welcoming-libraries-policy-2024
 - id: libraries-ni-reading-strategy-2024-2027
   title: Reading and Reader Development Strategy 2024–2027
   subtitle: null
@@ -1255,17 +1260,20 @@ reports:
     post-pandemic public mobile library services, ageing vehicle fleets, green/electric
     transition challenges, and strategic fit across Scotland.
 - id: libraries-connected-service-redesign-legal-considerations-2024
-  title: "Library Service Redesign: Legal Considerations"
-  subtitle: "Briefing guidance for local library authorities in England"
+  title: 'Library Service Redesign: Legal Considerations'
+  subtitle: Briefing guidance for local library authorities in England
   year: 2024
-  publisher: "Libraries Connected"
-  country: "England"
-  document_type: "guidance"
+  publisher: Libraries Connected
+  country: England
+  document_type: guidance
   pages: 5
-  path: "archive/reports/libraries-connected-service-redesign-legal-considerations-2024"
-  review_level: "converted"
+  path: archive/reports/libraries-connected-service-redesign-legal-considerations-2024
+  review_level: converted
   fictional_sample: false
-  notes: "Guidance note issued by Libraries Connected in December 2024 outlining statutory duties under the Public Libraries and Museums Act 1964, Section 149 Equality Act 2010 PSED, consultation standards, local inquiries, and judicial review precedent (Wirral, Gloucestershire, Somerset, Brent, Lincolnshire)."
+  notes: Guidance note issued by Libraries Connected in December 2024 outlining statutory
+    duties under the Public Libraries and Museums Act 1964, Section 149 Equality Act
+    2010 PSED, consultation standards, local inquiries, and judicial review precedent
+    (Wirral, Gloucestershire, Somerset, Brent, Lincolnshire).
 - id: dcms-annual-libraries-report-2024-2025
   title: Annual Libraries Report 2024 to 2025
   subtitle: Annual Report to Parliament on Public Libraries Activities from April
@@ -1338,11 +1346,12 @@ reports:
   path: archive/reports/libraries-ni-corporate-plan-2025-2030
   source_url: https://www.librariesni.org.uk/media/evwjzeuy/libraries-ni-corporate-plan-2025-2030.pdf
 - id: welsh-public-library-standards-seventh-framework
-  title: 'Public Libraries Supporting Sustainable and Connected Communities'
-  subtitle: 'The Seventh Quality Framework of Welsh Public Library Standards (2025 to 2028)'
+  title: Public Libraries Supporting Sustainable and Connected Communities
+  subtitle: The Seventh Quality Framework of Welsh Public Library Standards (2025
+    to 2028)
   creators:
-  - 'Welsh Government'
-  publisher: 'Welsh Government'
+  - Welsh Government
+  publisher: Welsh Government
   publication_date: '2025-04-01'
   year: 2025
   country: Wales
@@ -1364,11 +1373,11 @@ reports:
   source_url: https://scottishlibraries.org/wp-content/uploads/2025/11/140825-SLIC-Vision-PRINT-FILE.pdf
   path: archive/reports/slic-securing-the-future-2025
 - id: libraries-ni-use-and-hire-premises-policy-2025
-  title: 'Use and Hire of Library Premises Policy'
-  subtitle: 'Policy POL049 (Version 5)'
+  title: Use and Hire of Library Premises Policy
+  subtitle: Policy POL049 (Version 5)
   creators:
-  - 'Libraries NI'
-  publisher: 'Libraries NI'
+  - Libraries NI
+  publisher: Libraries NI
   publication_date: '2025-12-11'
   year: 2025
   country: Northern Ireland
@@ -1376,33 +1385,43 @@ reports:
   pages: 4
   path: archive/reports/libraries-ni-use-and-hire-premises-policy-2025
   source_url: https://www.librariesni.org.uk/media/sbfbd1hm/use-and-hire-of-library-premises-policy-v5-december-2025.pdf
-  review_level: "converted"
+  review_level: converted
 - id: libraries-connected-self-access-guidance-2025
-  title: "Self Access Libraries: Guidance Note"
-  subtitle: "National Guidance for Public Library Services in England, Wales and Northern Ireland"
+  title: 'Self Access Libraries: Guidance Note'
+  subtitle: National Guidance for Public Library Services in England, Wales and Northern
+    Ireland
   year: 2025
-  publisher: "Libraries Connected"
-  country: "United Kingdom"
-  document_type: "guidance"
+  publisher: Libraries Connected
+  country: United Kingdom
+  document_type: guidance
   pages: 18
-  path: "archive/reports/libraries-connected-self-access-guidance-2025"
-  source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Self%20Access%20guidance%20note%20Updates2025%20V2_0.pdf"
-  review_level: "converted"
+  path: archive/reports/libraries-connected-self-access-guidance-2025
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-11/Self%20Access%20guidance%20note%20Updates2025%20V2_0.pdf
+  review_level: converted
   fictional_sample: false
-  notes: "National guidance note revised in November 2025 by Libraries Connected advising public library services across England, Wales and Northern Ireland on planning, technology, risk assessment, safeguarding, equalities, and evaluation for Self Access / Open+ libraries, with detailed case studies from Libraries NI, Leicestershire, and Sutton."
+  notes: National guidance note revised in November 2025 by Libraries Connected advising
+    public library services across England, Wales and Northern Ireland on planning,
+    technology, risk assessment, safeguarding, equalities, and evaluation for Self
+    Access / Open+ libraries, with detailed case studies from Libraries NI, Leicestershire,
+    and Sutton.
 - id: libraries-connected-creating-safer-libraries-guidance-2025
-  title: "Creating Safer Libraries: Guidance Note"
-  subtitle: "National Guidance on Incident Management, Staff Safety and Trauma-Informed Approaches"
+  title: 'Creating Safer Libraries: Guidance Note'
+  subtitle: National Guidance on Incident Management, Staff Safety and Trauma-Informed
+    Approaches
   year: 2025
-  publisher: "Libraries Connected"
-  country: "United Kingdom"
-  document_type: "guidance"
+  publisher: Libraries Connected
+  country: United Kingdom
+  document_type: guidance
   pages: 20
-  path: "archive/reports/libraries-connected-creating-safer-libraries-guidance-2025"
-  source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Creating%20safer%20libraries%20guidance%20Updates2025%20V2.pdf"
-  review_level: "converted"
+  path: archive/reports/libraries-connected-creating-safer-libraries-guidance-2025
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-11/Creating%20safer%20libraries%20guidance%20Updates2025%20V2.pdf
+  review_level: converted
   fictional_sample: false
-  notes: "National guidance note revised in November 2025 by Libraries Connected advising library services across the UK on incident management, staff safety, preventative building design, byelaws under section 19 of the Public Libraries and Museums Act 1964, de-escalation, and post-incident trauma support, developed with contributions from Somerset Libraries and others."
+  notes: National guidance note revised in November 2025 by Libraries Connected advising
+    library services across the UK on incident management, staff safety, preventative
+    building design, byelaws under section 19 of the Public Libraries and Museums
+    Act 1964, de-escalation, and post-incident trauma support, developed with contributions
+    from Somerset Libraries and others.
 - id: dcms-annual-libraries-report-2025-2026
   title: Annual Libraries Report 2025 to 2026
   subtitle: Annual Report to Parliament on Public Libraries Activities from April
@@ -1448,18 +1467,18 @@ reports:
   path: archive/reports/libraries-connected-volunteering-2026
   source_url: https://www.librariesconnected.org.uk/resources
 - id: libraries-ni-community-information-policy-2026
-  title: "Community Information Policy"
+  title: Community Information Policy
   subtitle: null
   year: 2026
   publication_date: '2026-02-12'
-  publisher: "Libraries NI"
+  publisher: Libraries NI
   creators:
-  - "Libraries NI"
-  country: "Northern Ireland"
-  document_type: "policy"
+  - Libraries NI
+  country: Northern Ireland
+  document_type: policy
   pages: 5
-  source_url: "https://www.librariesni.org.uk/media/1wxoqcv2/community-information-policy-v5-january-2026.pdf"
-  path: "archive/reports/libraries-ni-community-information-policy-2026"
+  source_url: https://www.librariesni.org.uk/media/1wxoqcv2/community-information-policy-v5-january-2026.pdf
+  path: archive/reports/libraries-ni-community-information-policy-2026
 - id: sample-report-001
   title: Demonstration Public Library Review
   subtitle: Statutory Provision, Community Access, and Digital Infrastructure in Fictional
@@ -1487,3 +1506,17 @@ reports:
   pages: 23
   path: archive/reports/slic-fast-forward-public-library-strategy-2026
   source_url: https://scottishlibraries.org/wp-content/uploads/2025/10/221025-SLIC-Fast-Forward-public-library-strategy-digital.pdf
+- id: libraries-connected-alliance-statement-2025
+  title: 'Libraries through Life for the Future: A New Libraries Alliance'
+  subtitle: Joint statement on the 175th anniversary of the Public Library Act 1850
+  creators:
+  - Libraries Connected
+  - Libraries Alliance
+  publisher: Libraries Connected
+  publication_date: '2025-10-01'
+  year: 2025
+  country: United Kingdom
+  document_type: policy-statement
+  pages: 2
+  path: archive/reports/libraries-connected-alliance-statement-2025
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-10/Alliance%20Statement%20-%20FINAL.pdf

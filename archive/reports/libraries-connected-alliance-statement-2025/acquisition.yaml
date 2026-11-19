@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-10/Alliance%20Statement%20-%20FINAL.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-10/Alliance%20Statement%20-%20FINAL.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/libraries-alliance-statement-2025.pdf"
+pdf_sha256: "28bb358644e9b992fa32e3ed92cfe0f5f49d8a8ecd9515a4e78d2b572bf283f7"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Joint statement and action pledge published in October 2025 by a new Libraries Alliance marking the 175th anniversary of the Public Library Act 1850, setting out pledges on skills, future service models, policy making, democratic values, and calling for a new Government Vision for Libraries."

@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-alliance-statement-2025
+title: "Libraries through Life for the Future: A New Libraries Alliance"
+subtitle: "Joint statement on the 175th anniversary of the Public Library Act 1850"
+creators:
+  - "Libraries Connected"
+  - "Libraries Alliance"
+publisher: "Libraries Connected"
+publication_date: "2025-10-01"
+year: 2025
+publication_place: "London"
+country: "United Kingdom"
+language: "en"
+document_type: "policy-statement"
+pages: 2
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-10/Alliance%20Statement%20-%20FINAL.pdf"
+source_pdf: "source/libraries-alliance-statement-2025.pdf"
+rights: "Copyright Libraries Connected 2025."
+review_level: "converted"
