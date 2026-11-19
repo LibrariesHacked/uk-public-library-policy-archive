@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.carnegieuktrust.org.uk/publications/digital-transformation-for-uk-public-libraries-five-approaches-to-a-single-digital-presence/"
+source_pdf_url: "https://www.carnegieuktrust.org.uk/wp-content/uploads/sites/64/2019/06/SDP-report-High-res-single-page.pdf"
+acquired_date: "2026-11-18"
+accessed_date: "2026-11-18"
+source_checksum: "sha256:1fee310480d5f5303cb441cba5b86137e17f1485d18a21947fb079f143221f43"
+pdf_sha256: "1fee310480d5f5303cb441cba5b86137e17f1485d18a21947fb079f143221f43"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

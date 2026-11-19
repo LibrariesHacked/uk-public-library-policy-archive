@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "https://www.carnegieuktrust.org.uk/wp-content/uploads/sites/64/2019/06/SDP-report-High-res-single-page.pdf"
+  original_filename: "SDP-report-High-res-single-page.pdf"
+  retrieval_date: "2026-11-18"
+  method: "curl"
+  sha256: "1fee310480d5f5303cb441cba5b86137e17f1485d18a21947fb079f143221f43"
+  filesize: 2901357
+  content_type: "application/pdf"
+  capture_tool: "Python urllib/requests via Carnegie UK Trust website"
+  notes: "Official research scoping report by the British Library for Arts Council England and Carnegie UK Trust setting out five approaches to a Single Digital Presence for UK public libraries."

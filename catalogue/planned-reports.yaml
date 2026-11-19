@@ -455,13 +455,13 @@ planned_reports:
 - id: single-digital-presence-scoping-report
   title: Single Digital Presence for Public Libraries (scoping and options report)
   short_title: Single Digital Presence reports
-  year: null
+  year: 2019
   publisher: British Library
   country: England
   category: DIGITAL PROGRAMMES
   document_type: research-report
   verified: false
-  status: planned
+  status: archived
 - id: single-digital-presence-programme-report
   title: Single Digital Presence programme report (LibraryOn)
   year: null
