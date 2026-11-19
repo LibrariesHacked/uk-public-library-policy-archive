@@ -278,16 +278,16 @@ planned_reports:
   verified: true
   status: archived
   archived_id: libraries-taskforce-research-programme-2018
-- id: libraries-deliver-ambition-refresh
-  title: 'Libraries Deliver: Ambition (refreshed edition)'
-  short_title: 'Libraries Deliver: Ambition Refresh'
-  year: null
+- id: libraries-taskforce-action-plan-to-march-2020
+  title: 'Libraries Taskforce: Action Plan to March 2020'
+  short_title: Ambition Action Plan to March 2020
+  year: 2018
   publisher: Libraries Taskforce
   country: England
   category: ENGLAND
   document_type: strategy
-  verified: false
-  status: planned
+  verified: true
+  status: archived
 - id: independent-review-english-public-libraries-sanderson
   title: An Independent Review of English Public Libraries
   year: 2024

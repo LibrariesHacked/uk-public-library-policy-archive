@@ -1,0 +1,12 @@
+acquisition:
+  source_url: https://assets.publishing.service.gov.uk/media/5a9ec3a6e5274a7bd3416fde/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf
+  original_filename: Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: cc0fcbd7653e6fb76753a9a80a74e2eb6ca9acd6d76771d63c084833da71172e
+  filesize: 114343
+  content_type: application/pdf
+  capture_tool: Python urllib via GOV.UK Publishing Service
+  notes: 'Libraries Taskforce Action Plan to March 2020, setting out the refreshed
+    priorities, work areas, and 2021 outcomes for Libraries Deliver: Ambition for
+    Public Libraries in England 2016-2021.'

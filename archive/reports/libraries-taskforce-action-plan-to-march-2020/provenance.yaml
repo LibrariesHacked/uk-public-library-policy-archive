@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://assets.publishing.service.gov.uk/media/5a9ec3a6e5274a7bd3416fde/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf"
+source_pdf_url: "https://assets.publishing.service.gov.uk/media/5a9ec3a6e5274a7bd3416fde/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:cc0fcbd7653e6fb76753a9a80a74e2eb6ca9acd6d76771d63c084833da71172e"
+pdf_sha256: "cc0fcbd7653e6fb76753a9a80a74e2eb6ca9acd6d76771d63c084833da71172e"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"
