@@ -1,0 +1,12 @@
+acquisition:
+  source_url: https://carnegieuk.org/wp-content/uploads/2024/10/Policy-Report-Shining-a-Light-2.pdf
+  original_filename: shining-a-light-policy-report.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: f38f4acceb1fd5a9226e62aaca8792f54ea387334763d35e448e0ae7511cf7f6
+  filesize: 3133274
+  content_type: application/pdf
+  capture_tool: Python urllib via Carnegie UK website
+  notes: Landmark Carnegie UK Trust policy report analyzing public library attitudes
+    and usage across England, Ireland, Northern Ireland, Scotland, and Wales (2011-2016),
+    with strategic recommendations for policy makers and funders.

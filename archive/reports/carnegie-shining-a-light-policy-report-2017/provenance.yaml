@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://carnegieuk.org/wp-content/uploads/2024/10/Policy-Report-Shining-a-Light-2.pdf"
+source_pdf_url: "https://carnegieuk.org/wp-content/uploads/2024/10/Policy-Report-Shining-a-Light-2.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:f38f4acceb1fd5a9226e62aaca8792f54ea387334763d35e448e0ae7511cf7f6"
+pdf_sha256: "f38f4acceb1fd5a9226e62aaca8792f54ea387334763d35e448e0ae7511cf7f6"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

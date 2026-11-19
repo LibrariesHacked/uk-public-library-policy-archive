@@ -973,3 +973,17 @@ reports:
   pages: 4
   path: archive/reports/dcal-delivering-tomorrows-libraries-standards-2014-2019
   source_url: https://www.communities-ni.gov.uk/sites/default/files/publications/dcal/delivering-tomorrows-libraries-public-library-standards-2014-19_0.pdf
+- id: carnegie-shining-a-light-policy-report-2017
+  title: 'Shining a Light: The future of public libraries across the UK and Ireland'
+  subtitle: Policy Report
+  creators:
+  - Dr Jenny Peachey
+  - Carnegie UK Trust
+  publisher: Carnegie UK Trust
+  publication_date: '2017-04-01'
+  year: 2017
+  country: United Kingdom
+  document_type: policy-paper
+  pages: 23
+  path: archive/reports/carnegie-shining-a-light-policy-report-2017
+  source_url: https://carnegieuk.org/wp-content/uploads/2024/10/Policy-Report-Shining-a-Light-2.pdf
