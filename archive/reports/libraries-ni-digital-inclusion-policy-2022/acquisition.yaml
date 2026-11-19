@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesni.org.uk/media/hqtlwg1z/digital-inclusion-policy-v2-may-2022.pdf
+  original_filename: digital-inclusion-policy-v2-may-2022.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: f6593fc3d77bc3faba04d9159d521f76805957cc051b6335598b0bfa63cd7009
+  filesize: 348070
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries NI official website
+  notes: Statutory policy setting out Libraries NI approach to promoting digital inclusion, digital skills, digital literacy, and assisted digital support across public libraries in Northern Ireland.

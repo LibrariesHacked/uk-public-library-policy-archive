@@ -945,6 +945,19 @@ reports:
   pages: 16
   source_url: https://www.librariesconnected.org.uk/resources/libraries-connected-strategic-plan-2023-2027
   path: archive/reports/libraries-connected-strategic-plan
+- id: libraries-ni-digital-inclusion-policy-2022
+  title: Digital Inclusion Policy
+  subtitle: null
+  year: 2022
+  publication_date: '2022-05-19'
+  publisher: Libraries NI
+  creators:
+  - Libraries NI
+  country: Northern Ireland
+  document_type: policy
+  pages: 4
+  source_url: https://www.librariesni.org.uk/about-us/corporate-documents-and-information/policies-and-procedures/
+  path: archive/reports/libraries-ni-digital-inclusion-policy-2022
 - id: slic-how-good-is-our-public-library-service
   title: How Good is Our Public Library Service? A Public Library Quality Framework
     for Scotland

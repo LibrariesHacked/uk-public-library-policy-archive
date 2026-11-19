@@ -521,3 +521,13 @@ planned_reports:
   verified: true
   status: archived
   archived_id: libraries-ni-collections-development-policy-2024
+- id: libraries-ni-digital-inclusion-policy-2022
+  title: Digital Inclusion Policy
+  year: 2022
+  publisher: Libraries NI
+  country: Northern Ireland
+  category: NORTHERN IRELAND
+  document_type: policy
+  verified: true
+  status: archived
+  archived_id: libraries-ni-digital-inclusion-policy-2022
