@@ -1562,3 +1562,17 @@ reports:
   pages: 27
   path: archive/reports/gloucestershire-library-strategy-2023-2028
   source_url: https://gloslibraries.uk/sites/gloslibraries.uk/files/2024-08/gloucestershire-library-strategy-2023-2028.pdf
+- id: libraries-connected-ebook-lending-report-2025
+  title: 'Ebook Lending in Public Libraries: Project Summary Report'
+  subtitle: Project summary report on public library digital lending models, publisher
+    licensing, and aggregator platforms
+  creators:
+  - Libraries Connected
+  publisher: Libraries Connected
+  publication_date: '2025-02-01'
+  year: 2025
+  country: England
+  document_type: research-report
+  pages: 34
+  path: archive/reports/libraries-connected-ebook-lending-report-2025
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-02/Libraries%20Connected%20-%20ebook%20lending%20in%20public%20libraries%20-%20project%20summary%20report.pdf

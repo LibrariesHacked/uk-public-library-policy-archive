@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-ebook-lending-report-2025
+title: "Ebook Lending in Public Libraries: Project Summary Report"
+subtitle: "Project summary report on public library digital lending models, publisher licensing, and aggregator platforms"
+creators:
+  - "Libraries Connected"
+publisher: "Libraries Connected"
+publication_date: "2025-02-01"
+year: 2025
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "research-report"
+pages: 34
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-02/Libraries%20Connected%20-%20ebook%20lending%20in%20public%20libraries%20-%20project%20summary%20report.pdf"
+source_pdf: "source/libraries-connected-ebook-lending-report-2025.pdf"
+rights: "Copyright Libraries Connected 2025."
+review_level: "converted"

@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-02/Libraries%20Connected%20-%20ebook%20lending%20in%20public%20libraries%20-%20project%20summary%20report.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-02/Libraries%20Connected%20-%20ebook%20lending%20in%20public%20libraries%20-%20project%20summary%20report.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/libraries-connected-ebook-lending-report-2025.pdf"
+pdf_sha256: "dbede52692dfbd51dc2c45fb838c6a50b8e33cc40490054eb2c37058582a3c35"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Project summary report published by Libraries Connected in February 2025 examining ebook and e-audiobook lending in public libraries, reviewing commercial aggregator platforms, publisher licensing models, pilot lending trials, user reading trends, and strategic recommendations for national procurement and copyright framework reform."
