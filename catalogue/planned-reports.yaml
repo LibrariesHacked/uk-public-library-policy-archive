@@ -561,3 +561,33 @@ planned_reports:
   verified: true
   status: archived
   archived_id: ace-health-and-wellbeing-benefits-2015
+- id: ace-bop-economic-review-2014
+  title: Evidence Review of the Economic Contribution of Libraries
+  status: archived
+  priority: high
+  notes: Major economic evidence review conducted by BOP Consulting for Arts Council
+    England in 2014.
+- id: libraries-ni-safe-and-welcoming-libraries-policy-2024
+  title: Safe and Welcoming Libraries Policy
+  status: archived
+  priority: high
+  notes: Libraries NI policy POL061 setting customer behaviour expectations and staff
+    safety protocols.
+- id: libraries-ni-community-information-policy-2026
+  title: Community Information Policy
+  status: archived
+  priority: high
+  notes: Libraries NI policy POL013 on community information signposting, display,
+    and neutrality.
+- id: libraries-connected-libraries-for-living-better-2023
+  title: Libraries for Living, and for Living Better
+  status: archived
+  priority: high
+  notes: Major economic evaluation by CreativeUEA and Health Economics Consulting
+    for Libraries Connected East.
+- id: carnegie-speaking-volumes-2014
+  title: 'Speaking Volumes: The Impact of Public Libraries on Wellbeing'
+  status: archived
+  priority: high
+  notes: Carnegie UK Trust policy leaflet and infographic poster outlining library
+    wellbeing impact.
