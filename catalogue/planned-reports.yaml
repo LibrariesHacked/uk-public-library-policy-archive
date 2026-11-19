@@ -403,7 +403,7 @@ planned_reports:
   category: NORTHERN IRELAND
   document_type: policy-paper
   verified: false
-  status: planned
+  status: archived
 - id: libraries-ni-corporate-plan
   title: Libraries NI Corporate Plan
   year: 2020

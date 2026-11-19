@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://webarchive.proni.gov.uk/20151003232911/http://www.dcalni.gov.uk/delivering_tomorrow_s_libraries.pdf"
+source_pdf_url: "https://webarchive.proni.gov.uk/20151003232911/http://www.dcalni.gov.uk/delivering_tomorrow_s_libraries.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:c31d234056ab606a6f49cb888f99e8ba223fe37973c37c94038daa3a1e26f264"
+pdf_sha256: "c31d234056ab606a6f49cb888f99e8ba223fe37973c37c94038daa3a1e26f264"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

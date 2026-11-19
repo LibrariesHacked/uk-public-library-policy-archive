@@ -1,0 +1,10 @@
+acquisition:
+  source_url: "https://webarchive.proni.gov.uk/20151003232911/http://www.dcalni.gov.uk/delivering_tomorrow_s_libraries.pdf"
+  original_filename: "delivering-tomorrows-libraries.pdf"
+  retrieval_date: "2026-11-19"
+  method: "curl"
+  sha256: "c31d234056ab606a6f49cb888f99e8ba223fe37973c37c94038daa3a1e26f264"
+  filesize: 1087178
+  content_type: "application/pdf"
+  capture_tool: "Python urllib/requests via PRONI / DCAL archive"
+  notes: "Foundational strategic policy statement for public libraries in Northern Ireland, establishing principles, priorities, and baseline standards, published by the Department of Culture, Arts and Leisure (DCAL) in July 2006."
