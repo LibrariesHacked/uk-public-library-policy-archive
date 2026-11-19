@@ -1359,6 +1359,20 @@ reports:
   pages: 4
   path: archive/reports/libraries-ni-use-and-hire-premises-policy-2025
   source_url: https://www.librariesni.org.uk/media/sbfbd1hm/use-and-hire-of-library-premises-policy-v5-december-2025.pdf
+  review_level: "converted"
+- id: libraries-connected-self-access-guidance-2025
+  title: "Self Access Libraries: Guidance Note"
+  subtitle: "National Guidance for Public Library Services in England, Wales and Northern Ireland"
+  year: 2025
+  publisher: "Libraries Connected"
+  country: "United Kingdom"
+  document_type: "guidance"
+  pages: 18
+  path: "archive/reports/libraries-connected-self-access-guidance-2025"
+  source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Self%20Access%20guidance%20note%20Updates2025%20V2_0.pdf"
+  review_level: "converted"
+  fictional_sample: false
+  notes: "National guidance note revised in November 2025 by Libraries Connected advising public library services across England, Wales and Northern Ireland on planning, technology, risk assessment, safeguarding, equalities, and evaluation for Self Access / Open+ libraries, with detailed case studies from Libraries NI, Leicestershire, and Sutton."
 - id: dcms-annual-libraries-report-2025-2026
   title: Annual Libraries Report 2025 to 2026
   subtitle: Annual Report to Parliament on Public Libraries Activities from April

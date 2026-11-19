@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Self%20Access%20guidance%20note%20Updates2025%20V2_0.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Self%20Access%20guidance%20note%20Updates2025%20V2_0.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/self-access-libraries-guidance-note-2025.pdf"
+pdf_sha256: "11d36acf7ae8724fd471e5d6088092bfe5c6fe3e1225c917b3ade756b75c51cb"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "National guidance note revised in November 2025 by Libraries Connected advising library services across England, Wales and Northern Ireland on planning, implementing, safeguarding, and evaluating Self Access / Open+ technologies."

@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-self-access-guidance-2025
+title: "Self Access Libraries: Guidance Note"
+subtitle: "National Guidance for Public Library Services in England, Wales and Northern Ireland"
+creators:
+  - "Libraries Connected"
+publisher: "Libraries Connected"
+publication_date: "2025-11-01"
+year: 2025
+publication_place: "Liverpool"
+country: "United Kingdom"
+language: "en"
+document_type: "guidance"
+pages: 18
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: "Revised edition (November 2025)"
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Self%20Access%20guidance%20note%20Updates2025%20V2_0.pdf"
+source_pdf: "source/self-access-libraries-guidance-note-2025.pdf"
+rights: "Copyright Libraries Connected 2025."
+review_level: "converted"
