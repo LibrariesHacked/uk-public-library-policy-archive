@@ -1548,3 +1548,17 @@ reports:
   pages: 35
   path: archive/reports/somerset-library-service-vision-strategic-direction-2017
   source_url: https://somersetlibraries.co.uk/wp-content/uploads/2018/10/Libraries-Service-vision-and-strategic-outcomes-framework-Nov-2017-1.pdf
+- id: gloucestershire-library-strategy-2023-2028
+  title: Gloucestershire Libraries Strategy 2023–2028
+  subtitle: Strategy for library service provision across Gloucestershire based on
+    the 5 C's
+  creators:
+  - Gloucestershire County Council
+  publisher: Gloucestershire County Council
+  publication_date: '2023-02-01'
+  year: 2023
+  country: England
+  document_type: strategy
+  pages: 27
+  path: archive/reports/gloucestershire-library-strategy-2023-2028
+  source_url: https://gloslibraries.uk/sites/gloslibraries.uk/files/2024-08/gloucestershire-library-strategy-2023-2028.pdf

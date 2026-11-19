@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://gloslibraries.uk/sites/gloslibraries.uk/files/2024-08/gloucestershire-library-strategy-2023-2028.pdf"
+source_pdf_url: "https://gloslibraries.uk/sites/gloslibraries.uk/files/2024-08/gloucestershire-library-strategy-2023-2028.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:be1819486111d0cb7ac02b44c93dde5f17e4a66af12ac8318513aa69d5a1778e"
+pdf_sha256: "be1819486111d0cb7ac02b44c93dde5f17e4a66af12ac8318513aa69d5a1778e"
+download_method: "python-urllib"
+conversion_method: "pypdf-text-and-image-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-19"
+review_status: "converted"

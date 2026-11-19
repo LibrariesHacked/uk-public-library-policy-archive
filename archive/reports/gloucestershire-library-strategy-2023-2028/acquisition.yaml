@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://gloslibraries.uk/sites/gloslibraries.uk/files/2024-08/gloucestershire-library-strategy-2023-2028.pdf"
+source_pdf_url: "https://gloslibraries.uk/sites/gloslibraries.uk/files/2024-08/gloucestershire-library-strategy-2023-2028.pdf"
+publisher: "Gloucestershire County Council"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/gloucestershire-library-strategy-2023-2028.pdf"
+pdf_sha256: "be1819486111d0cb7ac02b44c93dde5f17e4a66af12ac8318513aa69d5a1778e"
+licence: "Open access publication / Gloucestershire County Council"
+licence_url: "https://gloslibraries.uk/"
+notes: "Five-year library strategy for Gloucestershire County Council adopted by full Council outlining the vision and delivery plan across 32 council-run libraries and 8 community libraries, structured around the 5 C's framework: Core, Climate, Community, Connect, and Creativity, succeeding the 2012 post-judicial review strategy."

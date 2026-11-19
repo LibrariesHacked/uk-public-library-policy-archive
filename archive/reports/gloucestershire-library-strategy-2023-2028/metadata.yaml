@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: gloucestershire-library-strategy-2023-2028
+title: "Gloucestershire Libraries Strategy 2023–2028"
+subtitle: "Strategy for library service provision across Gloucestershire based on the 5 C's"
+creators:
+  - "Gloucestershire County Council"
+publisher: "Gloucestershire County Council"
+publication_date: "2023-02-01"
+year: 2023
+publication_place: "Gloucester"
+country: "England"
+language: "en"
+document_type: "strategy"
+pages: 27
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://gloslibraries.uk/sites/gloslibraries.uk/files/2024-08/gloucestershire-library-strategy-2023-2028.pdf"
+source_pdf: "source/gloucestershire-library-strategy-2023-2028.pdf"
+rights: "Copyright Gloucestershire County Council 2023."
+review_level: "converted"
