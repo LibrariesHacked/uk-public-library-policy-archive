@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf"
+source_pdf_url: "https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf"
+publisher: "House of Commons Library"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/house-of-commons-library-briefing-public-libraries-2019.pdf"
+pdf_sha256: "969246db0920f692e74aa3e0c0fcd5362dbc41d4e5259a85bff5bab954c228d8"
+licence: "Open Parliament Licence v3.0"
+licence_url: "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/"
+notes: "Official House of Commons Library Briefing Paper Number 5875 (20 June 2019) providing parliamentary research on statutory duties under the 1964 Act, the Sieghart Review, the Libraries Taskforce, library closures, and a 14-year statistical time series for Great Britain."

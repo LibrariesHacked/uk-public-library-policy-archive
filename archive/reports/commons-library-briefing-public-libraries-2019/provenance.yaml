@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf"
+source_pdf_url: "https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:969246db0920f692e74aa3e0c0fcd5362dbc41d4e5259a85bff5bab954c228d8"
+pdf_sha256: "969246db0920f692e74aa3e0c0fcd5362dbc41d4e5259a85bff5bab954c228d8"
+download_method: "python-urllib"
+conversion_method: "pypdfium2-transcription-with-asset-rendering"
+conversion_date: "2026-11-19"
+review_status: "converted"

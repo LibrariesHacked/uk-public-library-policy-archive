@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: commons-library-briefing-public-libraries-2019
+title: "Public Libraries"
+subtitle: "House of Commons Library Briefing Paper Number 5875"
+creators:
+  - "John Woodhouse"
+  - "Yago Zayed"
+publisher: "House of Commons Library"
+publication_date: "2019-06-20"
+year: 2019
+publication_place: "London"
+country: "United Kingdom"
+language: "en"
+document_type: "research"
+pages: 21
+identifier: "CBP-5875 / SN05875"
+isbn: null
+issn: null
+series: "Briefing Paper Number 5875"
+edition: null
+source_url: "https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf"
+source_pdf: "source/house-of-commons-library-briefing-public-libraries-2019.pdf"
+rights: "Open Parliament Licence v3.0 / Parliamentary Copyright."
+review_level: "converted"

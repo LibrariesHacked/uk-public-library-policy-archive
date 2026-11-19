@@ -828,6 +828,23 @@ reports:
   notes: Landmark national research report commissioned by SLIC and undertaken by
     Dr Alyson Tyler on the use, social impact, vehicle fleets, and community value
     of mobile library services in Scotland.
+- id: commons-library-briefing-public-libraries-2019
+  title: "Public Libraries"
+  subtitle: "House of Commons Library Briefing Paper Number 5875"
+  creators:
+    - "John Woodhouse"
+    - "Yago Zayed"
+  publisher: "House of Commons Library"
+  publication_date: "2019-06-20"
+  year: 2019
+  country: "United Kingdom"
+  document_type: "research"
+  pages: 21
+  path: "archive/reports/commons-library-briefing-public-libraries-2019"
+  source_url: "https://defenddigitalme.org/wp-content/uploads/2019/11/SN05875.pdf"
+  review_level: "converted"
+  fictional_sample: false
+  notes: "Official House of Commons Library Briefing Paper (Number 5875, June 2019) providing parliamentary research on statutory duties under the Public Libraries and Museums Act 1964, the Sieghart Review, the Libraries Taskforce, library closures, and a 14-year statistical time series (2004/05 to 2017/18) for Great Britain."
 - id: carnegie-making-a-difference-2020
   title: 'Making a Difference: Libraries, Lockdown and Looking Ahead'
   subtitle: null
