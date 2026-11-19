@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.communities-ni.gov.uk/sites/default/files/publications/dcal/delivering-tomorrows-libraries-public-library-standards-2014-19_0.pdf"
+source_pdf_url: "https://www.communities-ni.gov.uk/sites/default/files/publications/dcal/delivering-tomorrows-libraries-public-library-standards-2014-19_0.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:37aa5c10533db23b88e2b917ac1114d3d98b7ad3d56f93648a90e1b50699fb54"
+pdf_sha256: "37aa5c10533db23b88e2b917ac1114d3d98b7ad3d56f93648a90e1b50699fb54"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"

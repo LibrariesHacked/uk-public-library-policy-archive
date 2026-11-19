@@ -960,3 +960,16 @@ reports:
   pages: 24
   path: archive/reports/dcal-delivering-tomorrows-libraries
   source_url: https://webarchive.proni.gov.uk/20151003232911/http://www.dcalni.gov.uk/delivering_tomorrow_s_libraries.pdf
+- id: dcal-delivering-tomorrows-libraries-standards-2014-2019
+  title: 'Delivering Tomorrow''s Libraries: Public Library Standards, 2014–19'
+  subtitle: Statutory standards for public library services in Northern Ireland
+  creators:
+  - Department of Culture, Arts and Leisure
+  publisher: Department of Culture, Arts and Leisure
+  publication_date: '2014-04-01'
+  year: 2014
+  country: Northern Ireland
+  document_type: standards
+  pages: 4
+  path: archive/reports/dcal-delivering-tomorrows-libraries-standards-2014-2019
+  source_url: https://www.communities-ni.gov.uk/sites/default/files/publications/dcal/delivering-tomorrows-libraries-public-library-standards-2014-19_0.pdf

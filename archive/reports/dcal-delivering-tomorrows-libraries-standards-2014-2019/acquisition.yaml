@@ -1,0 +1,12 @@
+acquisition:
+  source_url: https://www.communities-ni.gov.uk/sites/default/files/publications/dcal/delivering-tomorrows-libraries-public-library-standards-2014-19_0.pdf
+  original_filename: delivering-tomorrows-libraries-public-library-standards-2014-19.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: 37aa5c10533db23b88e2b917ac1114d3d98b7ad3d56f93648a90e1b50699fb54
+  filesize: 108438
+  content_type: application/pdf
+  capture_tool: Python urllib via Department for Communities (DfC) / DCAL website
+  notes: 'Delivering Tomorrow''s Libraries: Public Library Standards, 2014-19 setting
+    out performance indicators and targets across tackling poverty, participation,
+    customer satisfaction, access, stock, and ICT.'
