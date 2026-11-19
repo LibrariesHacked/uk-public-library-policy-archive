@@ -1373,6 +1373,19 @@ reports:
   review_level: "converted"
   fictional_sample: false
   notes: "National guidance note revised in November 2025 by Libraries Connected advising public library services across England, Wales and Northern Ireland on planning, technology, risk assessment, safeguarding, equalities, and evaluation for Self Access / Open+ libraries, with detailed case studies from Libraries NI, Leicestershire, and Sutton."
+- id: libraries-connected-creating-safer-libraries-guidance-2025
+  title: "Creating Safer Libraries: Guidance Note"
+  subtitle: "National Guidance on Incident Management, Staff Safety and Trauma-Informed Approaches"
+  year: 2025
+  publisher: "Libraries Connected"
+  country: "United Kingdom"
+  document_type: "guidance"
+  pages: 20
+  path: "archive/reports/libraries-connected-creating-safer-libraries-guidance-2025"
+  source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Creating%20safer%20libraries%20guidance%20Updates2025%20V2.pdf"
+  review_level: "converted"
+  fictional_sample: false
+  notes: "National guidance note revised in November 2025 by Libraries Connected advising library services across the UK on incident management, staff safety, preventative building design, byelaws under section 19 of the Public Libraries and Museums Act 1964, de-escalation, and post-incident trauma support, developed with contributions from Somerset Libraries and others."
 - id: dcms-annual-libraries-report-2025-2026
   title: Annual Libraries Report 2025 to 2026
   subtitle: Annual Report to Parliament on Public Libraries Activities from April

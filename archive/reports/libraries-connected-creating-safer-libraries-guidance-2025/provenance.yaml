@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Creating%20safer%20libraries%20guidance%20Updates2025%20V2.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Creating%20safer%20libraries%20guidance%20Updates2025%20V2.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:5d48294e39a143129aa830e299aeff4bbe8a461410e0472b6e590ac8df12b8a8"
+pdf_sha256: "5d48294e39a143129aa830e299aeff4bbe8a461410e0472b6e590ac8df12b8a8"
+download_method: "python-urllib"
+conversion_method: "pypdfium2-transcription-with-asset-rendering"
+conversion_date: "2026-11-19"
+review_status: "converted"
