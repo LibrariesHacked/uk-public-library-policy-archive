@@ -1027,3 +1027,16 @@ reports:
   pages: 4
   path: archive/reports/libraries-taskforce-action-plan-to-march-2020
   source_url: https://assets.publishing.service.gov.uk/media/5a9ec3a6e5274a7bd3416fde/Libraries_Taskforce_-_Action_Plan_to_March_2020.pdf
+- id: libraries-ni-corporate-plan-2025-2030
+  title: Libraries NI Corporate Plan 2025–2030
+  subtitle: Delivering for People, Delivering for Communities
+  creators:
+  - Libraries NI
+  publisher: Libraries NI
+  publication_date: '2025-01-01'
+  year: 2025
+  country: Northern Ireland
+  document_type: strategy
+  pages: 56
+  path: archive/reports/libraries-ni-corporate-plan-2025-2030
+  source_url: https://www.librariesni.org.uk/media/evwjzeuy/libraries-ni-corporate-plan-2025-2030.pdf

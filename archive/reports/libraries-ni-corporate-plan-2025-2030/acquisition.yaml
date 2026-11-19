@@ -1,0 +1,11 @@
+acquisition:
+  source_url: https://www.librariesni.org.uk/media/evwjzeuy/libraries-ni-corporate-plan-2025-2030.pdf
+  original_filename: libraries-ni-corporate-plan-2025-2030.pdf
+  retrieval_date: '2026-11-19'
+  method: curl
+  sha256: 7339a46e3fa3a9be07277611d74bd97a41c583307430b421d484a491a55297b8
+  filesize: 5561063
+  content_type: application/pdf
+  capture_tool: Python urllib via Libraries NI official website
+  notes: 'Official corporate plan of Libraries NI for 2025-2030: Delivering for People,
+    Delivering for Communities.'
