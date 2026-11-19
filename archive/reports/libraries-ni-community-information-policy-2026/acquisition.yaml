@@ -1,0 +1,10 @@
+acquisition:
+  source_url: https://www.librariesni.org.uk/media/1wxoqcv2/community-information-policy-v5-january-2026.pdf
+  original_filename: community-information-policy-v5-january-2026.pdf
+  retrieval_date: '2026-11-19'
+  method: direct-download
+  sha256: 37d4e4e83673e667f00b188d18a74d95501e7ab16de82e3cd4804528881ad588
+  filesize: 841150
+  content_type: application/pdf
+  capture_tool: Python urllib from Libraries NI official publications portal
+  notes: Libraries NI Community Information Policy (POL013, Version 5), approved by the Libraries NI Board on 12 February 2026, setting out standards for signposting, display, neutrality, and digital/physical access to community information across public libraries under the Libraries Act (Northern Ireland) 2008.

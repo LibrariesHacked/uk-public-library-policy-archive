@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesni.org.uk/media/1wxoqcv2/community-information-policy-v5-january-2026.pdf"
+source_pdf_url: "https://www.librariesni.org.uk/media/1wxoqcv2/community-information-policy-v5-january-2026.pdf"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+source_checksum: "sha256:37d4e4e83673e667f00b188d18a74d95501e7ab16de82e3cd4804528881ad588"
+pdf_sha256: "37d4e4e83673e667f00b188d18a74d95501e7ab16de82e3cd4804528881ad588"
+download_method: "direct-http-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-19"
+review_status: "converted"
