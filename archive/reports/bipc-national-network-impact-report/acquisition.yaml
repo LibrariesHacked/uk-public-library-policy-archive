@@ -1,0 +1,13 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.local.gov.uk/sites/default/files/documents/Democratising%20entrepreneurship%20-%20libraries%20as%20engines%20of%20economic%20growth%20-%20Libraries%20Advocacy%20webinar%20Economic%20Renewal%20-%2011%20January%20202%20-%20Michelle%20Alford%204%20-%20BIPC%20Network%20Infographic%202019.pdf"
+source_pdf_url: "https://www.local.gov.uk/sites/default/files/documents/Democratising%20entrepreneurship%20-%20libraries%20as%20engines%20of%20economic%20growth%20-%20Libraries%20Advocacy%20webinar%20Economic%20Renewal%20-%2011%20January%20202%20-%20Michelle%20Alford%204%20-%20BIPC%20Network%20Infographic%202019.pdf"
+publisher: "British Library"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/democratising-entrepreneurship-2019.pdf"
+pdf_sha256: "5961ec73646363053db0b3849387d4d0af0266ed97bcbe8a64816101f4019c66"
+licence: "Copyright © The British Library Board"
+notes: "Economic impact analysis of the British Library Business & IP Centre (BIPC) National Network conducted by ERS Research & Consultancy, covering January 2016 to December 2018."

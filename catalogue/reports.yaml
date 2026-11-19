@@ -787,6 +787,20 @@ reports:
   pages: 39
   source_url: https://www.carnegieuktrust.org.uk/publications/digital-transformation-for-uk-public-libraries-five-approaches-to-a-single-digital-presence/
   path: archive/reports/single-digital-presence-scoping-report
+- id: bipc-national-network-impact-report
+  title: 'Democratising Entrepreneurship: Libraries as Engines of Economic Growth'
+  subtitle: 'A Three-Year Economic Impact Analysis, January 2016 – December 2018'
+  creators:
+  - 'British Library Business & IP Centre'
+  - 'ERS Research & Consultancy'
+  publisher: 'British Library'
+  publication_date: '2019-06-01'
+  year: 2019
+  country: United Kingdom
+  document_type: impact-report
+  pages: 1
+  path: archive/reports/bipc-national-network-impact-report
+  source_url: https://www.local.gov.uk/sites/default/files/documents/Democratising%20entrepreneurship%20-%20libraries%20as%20engines%20of%20economic%20growth%20-%20Libraries%20Advocacy%20webinar%20Economic%20Renewal%20-%2011%20January%20202%20-%20Michelle%20Alford%204%20-%20BIPC%20Network%20Infographic%202019.pdf
 - id: slic-libraries-on-the-move-2019
   title: 'Libraries on the Move: The Impact of Mobile Library Services in Scotland'
   subtitle: Research Report Commissioned by the Scottish Library and Information Council

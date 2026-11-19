@@ -475,13 +475,13 @@ planned_reports:
 - id: bipc-national-network-impact-report
   title: Business & IP Centre National Network impact report
   short_title: Impact reports
-  year: null
+  year: 2019
   publisher: British Library
   country: United Kingdom
   category: BUSINESS & IP CENTRES
   document_type: impact-report
-  verified: false
-  status: planned
+  verified: true
+  status: archived
 - id: bipc-national-network-impact-report-later-edition
   title: Business & IP Centre National Network impact report (later edition)
   year: 2023

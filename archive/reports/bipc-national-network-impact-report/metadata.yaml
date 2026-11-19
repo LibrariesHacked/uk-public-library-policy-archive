@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: bipc-national-network-impact-report
+title: "Democratising Entrepreneurship: Libraries as Engines of Economic Growth"
+subtitle: "A Three-Year Economic Impact Analysis, January 2016 – December 2018"
+creators:
+  - "British Library Business & IP Centre"
+  - "ERS Research & Consultancy"
+publisher: "British Library"
+publication_date: "2019-06-01"
+year: 2019
+publication_place: "London"
+country: "United Kingdom"
+language: "en"
+document_type: "impact-report"
+pages: 1
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.local.gov.uk/sites/default/files/documents/Democratising%20entrepreneurship%20-%20libraries%20as%20engines%20of%20economic%20growth%20-%20Libraries%20Advocacy%20webinar%20Economic%20Renewal%20-%2011%20January%20202%20-%20Michelle%20Alford%204%20-%20BIPC%20Network%20Infographic%202019.pdf"
+source_pdf: "source/democratising-entrepreneurship-2019.pdf"
+rights: "Copyright © The British Library Board 2019."
+review_level: "converted"
