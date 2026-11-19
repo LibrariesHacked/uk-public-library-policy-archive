@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://somersetlibraries.co.uk/wp-content/uploads/2018/10/Libraries-Service-vision-and-strategic-outcomes-framework-Nov-2017-1.pdf"
+source_pdf_url: "https://somersetlibraries.co.uk/wp-content/uploads/2018/10/Libraries-Service-vision-and-strategic-outcomes-framework-Nov-2017-1.pdf"
+publisher: "Somerset County Council"
+acquired_date: "2026-11-19"
+accessed_date: "2026-11-19"
+download_method: "python-urllib"
+local_file: "source/somerset-library-service-vision-strategic-direction-2017.pdf"
+pdf_sha256: "6e8c80649b08ed6cbbd63babf94c9d7f40f430e00a5ce7570d7c35b450da05bb"
+licence: "Open access publication / Somerset County Council"
+licence_url: "https://somersetlibraries.co.uk/"
+notes: "Cabinet policy framework document setting out Somerset County Council's vision, strategic direction, and commissioned outcomes framework for the library service from 2017 to 2021, establishing the statutory basis under Section 7 of the 1964 Act, needs assessment, and service redesign roadmap leading to community library partnerships."
