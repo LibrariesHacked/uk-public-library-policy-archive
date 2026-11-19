@@ -1040,3 +1040,17 @@ reports:
   pages: 56
   path: archive/reports/libraries-ni-corporate-plan-2025-2030
   source_url: https://www.librariesni.org.uk/media/evwjzeuy/libraries-ni-corporate-plan-2025-2030.pdf
+- id: future-libraries-programme-2011
+  title: 'Future Libraries: Change, Options and How to Get There'
+  subtitle: Learning from the Future Libraries Programme Phase 1
+  creators:
+  - Local Government Group
+  - Museums, Libraries and Archives Council
+  publisher: Local Government Group and Museums, Libraries and Archives Council
+  publication_date: '2011-08-01'
+  year: 2011
+  country: England
+  document_type: research-report
+  pages: 36
+  path: archive/reports/future-libraries-programme-2011
+  source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20240321144749/https://www.local.gov.uk/sites/default/files/documents/view-document-f68.pdf

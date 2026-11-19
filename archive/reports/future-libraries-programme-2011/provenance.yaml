@@ -1,0 +1,10 @@
+source_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20240321144749/https://www.local.gov.uk/sites/default/files/documents/view-document-f68.pdf
+source_pdf_url: https://webarchive.nationalarchives.gov.uk/ukgwa/20240321144749/https://www.local.gov.uk/sites/default/files/documents/view-document-f68.pdf
+acquired_date: '2026-11-19'
+accessed_date: '2026-11-19'
+source_checksum: sha256:0b96e44af145814e9871b488a6c2981a8cbb0ae35a6bce6922655a999b211612
+pdf_sha256: 0b96e44af145814e9871b488a6c2981a8cbb0ae35a6bce6922655a999b211612
+download_method: direct-http-download
+conversion_method: pdf-transcription-with-manual-verification
+conversion_date: '2026-11-19'
+review_status: converted

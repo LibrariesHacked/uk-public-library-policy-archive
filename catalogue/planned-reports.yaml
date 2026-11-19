@@ -146,7 +146,7 @@ planned_reports:
   category: ENGLAND
   document_type: research-report
   verified: false
-  status: planned
+  status: archived
 - id: cms-committee-library-closures-2012
   title: Library Closures (House of Commons Culture, Media and Sport Committee report)
   year: 2012
