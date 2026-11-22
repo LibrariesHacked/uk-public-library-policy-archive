@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/UNIVERSAL-LEARNING-OFFER_v4.pdf"
+source_pdf_url: "https://web.archive.org/web/20160425130005id_/http://goscl.com/wp-content/uploads/UNIVERSAL-LEARNING-OFFER_v4.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:40484d222cbed1c0b293b88ba2d44faf6592914c79bbd1e96ea3184082db664c"
+pdf_sha256: "40484d222cbed1c0b293b88ba2d44faf6592914c79bbd1e96ea3184082db664c"
+download_method: "wayback-machine-api"
+conversion_method: "pypdfium2-extraction-with-original-embedded-images"
+conversion_date: "2026-11-22"
+review_status: "converted"
