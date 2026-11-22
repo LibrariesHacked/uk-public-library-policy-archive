@@ -1,0 +1,10 @@
+source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-11/Apprenticeship%20report%20FINAL.pdf
+source_pdf_url: https://www.librariesconnected.org.uk/sites/default/files/2026-11/Apprenticeship%20report%20FINAL.pdf
+acquired_date: '2026-11-22'
+accessed_date: '2026-11-22'
+source_checksum: sha256:bdb69f11be627b034c60acc314993b37ed91dcc0acdaacd86f0763d5f30158fd
+pdf_sha256: bdb69f11be627b034c60acc314993b37ed91dcc0acdaacd86f0763d5f30158fd
+download_method: direct-download
+conversion_method: pypdf-layout-extraction-with-manual-verification
+conversion_date: '2026-11-22'
+review_status: converted
