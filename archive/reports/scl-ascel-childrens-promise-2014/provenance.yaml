@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/ASCEL-Childrens-Promise-March-2014-1.pdf"
+source_pdf_url: "https://web.archive.org/web/20160425130024id_/http://goscl.com/wp-content/uploads/ASCEL-Childrens-Promise-March-2014-1.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:d4c2e54665e1fd74f46f66e9b0c14b7eb12aa452ba51ef50a814044c0cd4a997"
+pdf_sha256: "d4c2e54665e1fd74f46f66e9b0c14b7eb12aa452ba51ef50a814044c0cd4a997"
+download_method: "wayback-machine-api"
+conversion_method: "pypdf-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"

@@ -1938,3 +1938,14 @@ reports:
   path: archive/reports/scl-wales-child-poverty-2013
   review_level: converted
   notes: Comprehensive research report prepared by Karen Eynon for the Society of Chief Librarians (Wales) examining the role and contribution of Welsh public libraries in tackling child poverty across all three objectives of the Welsh Government Child Poverty Strategy.
+- id: scl-ascel-childrens-promise-2014
+  title: "Children and Young People's Promise in Public Libraries"
+  subtitle: "How the Children's Promise links to the Universal Offers"
+  year: 2014
+  publisher: Association of Senior Children's and Education Librarians and Society of Chief Librarians
+  country: United Kingdom
+  document_type: policy-report
+  pages: 6
+  path: archive/reports/scl-ascel-childrens-promise-2014
+  review_level: converted
+  notes: National standard and policy framework agreed between ASCEL and the Society of Chief Librarians setting out expectations and recommendations for library provision for children and young people across the Universal Offers.
