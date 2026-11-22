@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/BrighterBolderBetterSCLWales2009.pdf"
+source_pdf_url: "https://web.archive.org/web/20160425074011id_/http://goscl.com/wp-content/uploads/BrighterBolderBetterSCLWales2009.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:71fa18255f3ffbaf3c5ed5fd1638924ffb72f8f04060a1b0a973e97c3e95c6ff"
+pdf_sha256: "71fa18255f3ffbaf3c5ed5fd1638924ffb72f8f04060a1b0a973e97c3e95c6ff"
+download_method: "wayback-machine-api"
+conversion_method: "pdftotext-with-pypdfium2-renderings"
+conversion_date: "2026-11-22"
+review_status: "converted"
