@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Libraries%20Connected-Social%20Value%20Report-Singles-Digital.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Libraries%20Connected-Social%20Value%20Report-Singles-Digital.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/libraries-connected-south-east-social-value-2025.pdf"
+pdf_sha256: "843c909e6f344fb8e8d642177681d5ac1b14ec82121669575219518d6b58cf0e"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Summary research report commissioned by Libraries Connected South East and delivered by Shared Intelligence, applying HM Treasury Green Book standards to evaluate the economic and wellbeing impact of library activities for mental health, older adults, volunteering, and loneliness reduction across 12 library authorities."

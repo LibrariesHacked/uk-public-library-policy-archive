@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-south-east-social-value-2025
+title: "The Power of Prevention"
+subtitle: "The economic and wellbeing impact of library activities for mental health and older adults (Summary report)"
+creators:
+  - "Libraries Connected South East"
+  - "Shared Intelligence"
+publisher: "Libraries Connected"
+publication_date: "2025-11-01"
+year: 2025
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "research-report"
+pages: 4
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2025-11/Libraries%20Connected-Social%20Value%20Report-Singles-Digital.pdf"
+source_pdf: "source/libraries-connected-south-east-social-value-2025.pdf"
+rights: "Copyright Libraries Connected 2025."
+review_level: "converted"

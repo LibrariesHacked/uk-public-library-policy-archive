@@ -1635,3 +1635,17 @@ reports:
   notes: Briefing paper outlining how public libraries provide vital community support
     for children with special educational needs and disabilities (SEND) through inclusive
     spaces, tailored collections, and sensory programming.
+- id: libraries-connected-south-east-social-value-2025
+  title: The Power of Prevention
+  subtitle: The economic and wellbeing impact of library activities for mental health
+    and older adults (Summary report)
+  year: 2025
+  publisher: Libraries Connected
+  country: England
+  document_type: research-report
+  pages: 4
+  path: archive/reports/libraries-connected-south-east-social-value-2025
+  review_level: converted
+  notes: Summary research report by Libraries Connected South East and Shared Intelligence
+    applying HM Treasury Green Book standards to quantify the economic, health, and
+    wellbeing impact of arts sessions for over-65s, volunteering, and loneliness reduction.
