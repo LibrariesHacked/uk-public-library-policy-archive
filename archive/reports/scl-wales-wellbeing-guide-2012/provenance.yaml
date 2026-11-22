@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://www.goscl.com/wp-content/uploads/2013/01/Wellbeing-in-Libraries1.pdf"
+source_pdf_url: "https://web.archive.org/web/20130206170914id_/http://www.goscl.com/wp-content/uploads/2013/01/Wellbeing-in-Libraries1.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:e7ab0b02d6121425d169ee01c341e5d703f760901c4be7aea8ab217d2ee28a2b"
+pdf_sha256: "e7ab0b02d6121425d169ee01c341e5d703f760901c4be7aea8ab217d2ee28a2b"
+download_method: "wayback-machine-api"
+conversion_method: "pypdf-pdfplumber-markdown-edition"
+conversion_date: "2026-11-22"
+review_status: "converted"
