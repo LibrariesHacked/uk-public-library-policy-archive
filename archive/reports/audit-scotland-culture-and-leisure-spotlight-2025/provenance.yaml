@@ -1,0 +1,10 @@
+source_url: https://audit.scot/publications/local-government-performance-spotlight-on-culture-and-leisure-services
+source_pdf_url: https://audit.scot/uploads/2025-10/nr_251023_lgo_services_spotlight.pdf
+acquired_date: '2026-11-22'
+accessed_date: '2026-11-22'
+source_checksum: sha256:4e7e8e3bbeda67981d08961308b49e3f6071ab26c2f62664852342a17a8750f1
+pdf_sha256: 4e7e8e3bbeda67981d08961308b49e3f6071ab26c2f62664852342a17a8750f1
+download_method: direct-download
+conversion_method: pypdf-layout-extraction-with-manual-verification
+conversion_date: '2026-11-22'
+review_status: converted
