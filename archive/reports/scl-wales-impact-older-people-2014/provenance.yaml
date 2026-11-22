@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/SCLWImpactofPublicLibrariesonthelivesofolderpeopleSept2014.pdf"
+source_pdf_url: "https://web.archive.org/web/20160425025136/http://goscl.com/wp-content/uploads/SCLWImpactofPublicLibrariesonthelivesofolderpeopleSept2014.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:97515157e0d6b67f3cb500017a0b1b6a0f553f12da733f52c90028689d876253"
+pdf_sha256: "97515157e0d6b67f3cb500017a0b1b6a0f553f12da733f52c90028689d876253"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-text-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"

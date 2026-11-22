@@ -1749,3 +1749,14 @@ reports:
   path: archive/reports/scl-digital-leadership-skills-2014
   review_level: converted
   notes: Foundational research report by Shared Intelligence for the Society of Chief Librarians evaluating digital leadership competencies, horizon scanning, LMS renewal, public Wi-Fi, and e-lending.
+- id: scl-wales-impact-older-people-2014
+  title: "The Impact of Public Libraries on the Lives of Older People"
+  subtitle: "A perspective by the Society of Chief Librarians (Wales)"
+  year: 2014
+  publisher: Society of Chief Librarians Wales
+  country: Wales
+  document_type: policy-report
+  pages: 31
+  path: archive/reports/scl-wales-impact-older-people-2014
+  review_level: converted
+  notes: Evidence report by Karen Eynon for SCL Wales analyzing the lifelong learning, digital inclusion, social isolation, and health and wellbeing impacts of Welsh public libraries on older adults.
