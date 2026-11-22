@@ -1949,3 +1949,14 @@ reports:
   path: archive/reports/scl-ascel-childrens-promise-2014
   review_level: converted
   notes: National standard and policy framework agreed between ASCEL and the Society of Chief Librarians setting out expectations and recommendations for library provision for children and young people across the Universal Offers.
+- id: libraries-connected-literacy-recovery-2022
+  title: "Public Libraries and Literacy Recovery"
+  subtitle: "Supporting reading and literacy throughout life"
+  year: 2022
+  publisher: National Literacy Trust and Libraries Connected
+  country: England
+  document_type: policy-report
+  pages: 14
+  path: archive/reports/libraries-connected-literacy-recovery-2022
+  review_level: converted
+  notes: Joint policy report by the National Literacy Trust and Libraries Connected with ministerial forewords by Lord Parkinson and Robin Walker MP, demonstrating the role of public libraries in post-pandemic literacy recovery and levelling up disadvantaged communities.

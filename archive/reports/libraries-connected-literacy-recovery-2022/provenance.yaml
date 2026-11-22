@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/Public_libraries_and_literacy_recovery_-_final_version.pdf"
+source_pdf_url: "https://web.archive.org/web/20220628115907id_/https://www.librariesconnected.org.uk/sites/default/files/Public_libraries_and_literacy_recovery_-_final_version.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:9e060bcf0fcefb2d9ec4d060113bc3c4d1095dea5eb7bfad59403693f9b784e0"
+pdf_sha256: "9e060bcf0fcefb2d9ec4d060113bc3c4d1095dea5eb7bfad59403693f9b784e0"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-layout-extraction-with-pypdfium2-render"
+conversion_date: "2026-11-22"
+review_status: "converted"
