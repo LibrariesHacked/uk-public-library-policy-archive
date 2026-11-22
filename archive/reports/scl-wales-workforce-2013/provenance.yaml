@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/SCLWalesPublicLibraryWorkforce2013.pdf"
+source_pdf_url: "https://web.archive.org/web/20160505170647id_/http://goscl.com/wp-content/uploads/SCLWalesPublicLibraryWorkforce2013.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:2938247ca363d5ee5db802a0a126c1a6268f293767093e832bbcf37ba2939759"
+pdf_sha256: "2938247ca363d5ee5db802a0a126c1a6268f293767093e832bbcf37ba2939759"
+download_method: "wayback-machine-api"
+conversion_method: "pypdf-pdfplumber-markdown-edition"
+conversion_date: "2026-11-22"
+review_status: "converted"
