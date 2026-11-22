@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20SEND%20Oct%202025.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20SEND%20Oct%202025.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/libraries-connected-briefing-on-send-oct-2025.pdf"
+pdf_sha256: "d37e468eb1724321c206b5f486bca340fe03f95957f002347d319cd632ec52f6"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Briefing paper published in October 2025 by Libraries Connected ahead of the Government white paper on SEND reforms, highlighting public library provision of inclusive spaces, sensory reading spaces, tailored book collections (e.g. Daisy Chain partnership in Darlington, Bag Books, Books Beyond Words), specialist sessions (TimbaDash Theatre at The Word, South Tyneside), and neurodiversity awareness."

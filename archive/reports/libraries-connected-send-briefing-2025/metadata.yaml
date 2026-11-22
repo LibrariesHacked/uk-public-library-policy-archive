@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-send-briefing-2025
+title: "Supporting Children with Special Educational Needs and Disabilities (SEND)"
+subtitle: "Libraries Connected Briefing"
+creators:
+  - "Libraries Connected"
+publisher: "Libraries Connected"
+publication_date: "2025-10-01"
+year: 2025
+publication_place: "Liverpool"
+country: "United Kingdom"
+language: "en"
+document_type: "briefing"
+pages: 3
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20SEND%20Oct%202025.pdf"
+source_pdf: "source/libraries-connected-briefing-on-send-oct-2025.pdf"
+rights: "Copyright Libraries Connected 2025."
+review_level: "converted"

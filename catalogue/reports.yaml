@@ -1622,3 +1622,16 @@ reports:
   pages: 10
   path: archive/reports/libraries-connected-creative-industries-briefing-2024
   source_url: https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20and%20creative%20industries.pdf
+- id: libraries-connected-send-briefing-2025
+  title: Supporting Children with Special Educational Needs and Disabilities (SEND)
+  subtitle: Libraries Connected Briefing
+  year: 2025
+  publisher: Libraries Connected
+  country: UK
+  document_type: briefing
+  pages: 3
+  path: archive/reports/libraries-connected-send-briefing-2025
+  review_level: converted
+  notes: Briefing paper outlining how public libraries provide vital community support
+    for children with special educational needs and disabilities (SEND) through inclusive
+    spaces, tailored collections, and sensory programming.
