@@ -1760,3 +1760,14 @@ reports:
   path: archive/reports/scl-wales-impact-older-people-2014
   review_level: converted
   notes: Evidence report by Karen Eynon for SCL Wales analyzing the lifelong learning, digital inclusion, social isolation, and health and wellbeing impacts of Welsh public libraries on older adults.
+- id: scl-access-to-research-2015
+  title: "Access to Research: Final Report"
+  subtitle: "A report to the Publishers Licensing Society and the Society of Chief Librarians"
+  year: 2015
+  publisher: Publishers Licensing Society and Society of Chief Librarians
+  country: England
+  document_type: evaluation-report
+  pages: 48
+  path: archive/reports/scl-access-to-research-2015
+  review_level: converted
+  notes: Independent evaluation report by Shared Intelligence for PLS and SCL assessing the two-year national trial of Access to Research (A2R), which opened walk-in access to over 10 million academic articles in UK public libraries following the Finch Report.
