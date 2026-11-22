@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/The%20Experiential%20Library%20-%20The%20future%20of%20family%20learning.pdf"
+source_pdf_url: "https://web.archive.org/web/20210707121013id_/https://www.librariesconnected.org.uk/sites/default/files/The%20Experiential%20Library%20-%20The%20future%20of%20family%20learning.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:ef2a75458482af6b1758ea2aceca3a0142ec5473e6ff0aa1c7597c40f9e7f995"
+pdf_sha256: "ef2a75458482af6b1758ea2aceca3a0142ec5473e6ff0aa1c7597c40f9e7f995"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-layout-extraction-with-pypdfium2-render"
+conversion_date: "2026-11-22"
+review_status: "converted"

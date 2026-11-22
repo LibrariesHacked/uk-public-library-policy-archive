@@ -1971,3 +1971,14 @@ reports:
   path: archive/reports/scl-universal-culture-offer-2017
   review_level: converted
   notes: Definitive research and consultation report prepared by MetaValue on behalf of SCL establishing the sixth Universal Offer focused on culture, creative commissioning, and partnership working across English public libraries.
+- id: scl-experiential-library-family-learning-2017
+  title: "The Experiential Library"
+  subtitle: "The future of family learning"
+  year: 2017
+  publisher: Common Vision and Society of Chief Librarians
+  country: England
+  document_type: research-report
+  pages: 41
+  path: archive/reports/scl-experiential-library-family-learning-2017
+  review_level: converted
+  notes: Research report prepared by think tank Common Vision (CoVi) for the Society of Chief Librarians and Arts Council England exploring the future of intergenerational family learning in public libraries across the Universal Offers.
