@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/SCLWPublicLibrariesinWalesHealthWellbeingand-Social-Benefits2012.pdf"
+source_pdf_url: "https://web.archive.org/web/20160506233315id_/http://goscl.com/wp-content/uploads/SCLWPublicLibrariesinWalesHealthWellbeingand-Social-Benefits2012.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:41ca715aedc6c4a9cece8402a200df5fd1c917df5c0f1d54a8f90bc1c7911444"
+pdf_sha256: "41ca715aedc6c4a9cece8402a200df5fd1c917df5c0f1d54a8f90bc1c7911444"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-font-routed-cid-decoding-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
