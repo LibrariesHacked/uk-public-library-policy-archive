@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: carnegie-engaging-libraries-phase-2-2022
+title: "Engaging Libraries Phase 2: Findings in Brief"
+subtitle: null
+creators:
+  - "Marge Ainsley"
+publisher: "Carnegie UK"
+publication_date: "2022-03-30"
+year: 2022
+publication_place: "Dunfermline"
+country: "United Kingdom"
+language: "en"
+document_type: "research-report"
+pages: 28
+identifier: null
+isbn: "978-1-912908-83-7"
+issn: null
+series: null
+edition: null
+source_url: "https://carnegieuk.org/wp-content/uploads/2024/10/EL-Summary-Report-FINAL-2.pdf"
+source_pdf: "source/carnegie-engaging-libraries-phase-2-2022.pdf"
+rights: "Creative Commons Attribution-ShareAlike 3.0 Unported License."
+review_level: "converted"

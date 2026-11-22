@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://carnegieuk.org/wp-content/uploads/2024/10/EL-Summary-Report-FINAL-2.pdf"
+source_pdf_url: "https://carnegieuk.org/wp-content/uploads/2024/10/EL-Summary-Report-FINAL-2.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:d7e55a33957c01fc44b2b68dbfc9382dfe0434545eb440e91914696baf4761c3"
+pdf_sha256: "d7e55a33957c01fc44b2b68dbfc9382dfe0434545eb440e91914696baf4761c3"
+download_method: "python-urllib"
+conversion_method: "pdfplumber-text-and-image-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"

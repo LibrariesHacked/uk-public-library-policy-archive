@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://carnegieuk.org/wp-content/uploads/2024/10/EL-Summary-Report-FINAL-2.pdf"
+source_pdf_url: "https://carnegieuk.org/wp-content/uploads/2024/10/EL-Summary-Report-FINAL-2.pdf"
+publisher: "Carnegie UK"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/carnegie-engaging-libraries-phase-2-2022.pdf"
+pdf_sha256: "d7e55a33957c01fc44b2b68dbfc9382dfe0434545eb440e91914696baf4761c3"
+licence: "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)"
+licence_url: "http://creativecommons.org/licenses/by-sa/3.0/"
+notes: "Independent evaluation summary report by Marge Ainsley on Phase 2 of Engaging Libraries (2019–2021), funded by Carnegie UK, Wellcome and the Wolfson Foundation, supporting 14 public engagement projects across 16 UK public library services in partnership with higher education researchers."
