@@ -1608,3 +1608,17 @@ reports:
   pages: 7
   path: archive/reports/joint-briefing-libraries-in-primary-schools-2025
   source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-01/Joint%20Briefing%20on%20Libraries%20for%20Primary%20Schools.pdf
+- id: libraries-connected-creative-industries-briefing-2024
+  title: Public Libraries and the Creative Industries
+  subtitle: Briefing note on how public libraries support, nurture, and widen access
+    to the creative industries
+  creators:
+  - Libraries Connected
+  publisher: Libraries Connected
+  publication_date: '2024-08-01'
+  year: 2024
+  country: England
+  document_type: briefing
+  pages: 10
+  path: archive/reports/libraries-connected-creative-industries-briefing-2024
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20and%20creative%20industries.pdf

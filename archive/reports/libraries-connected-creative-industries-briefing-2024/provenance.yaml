@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20and%20creative%20industries.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20and%20creative%20industries.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:2919ecf38afc1376f85cea0c971a30881c0272ed56d2822622ce55d4068da8b5"
+pdf_sha256: "2919ecf38afc1376f85cea0c971a30881c0272ed56d2822622ce55d4068da8b5"
+download_method: "python-urllib"
+conversion_method: "pypdf-text-and-image-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"

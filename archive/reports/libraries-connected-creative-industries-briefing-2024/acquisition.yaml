@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20and%20creative%20industries.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20and%20creative%20industries.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/libraries-and-creative-industries-2024.pdf"
+pdf_sha256: "2919ecf38afc1376f85cea0c971a30881c0272ed56d2822622ce55d4068da8b5"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Briefing note published in August 2024 by Libraries Connected examining public libraries as incubators and access points for the UK creative industries, outlining central government and local authority policy proposals, and highlighting case studies from Wakefield, Gloucestershire (Space to Create), the British Library (BIPC Get Ready for Business Growth), and Leeds (Studio12)."

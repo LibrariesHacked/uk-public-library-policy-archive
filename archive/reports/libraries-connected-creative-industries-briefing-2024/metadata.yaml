@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-creative-industries-briefing-2024
+title: "Public Libraries and the Creative Industries"
+subtitle: "Briefing note on how public libraries support, nurture, and widen access to the creative industries"
+creators:
+  - "Libraries Connected"
+publisher: "Libraries Connected"
+publication_date: "2024-08-01"
+year: 2024
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "briefing"
+pages: 10
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-10/Libraries%20and%20creative%20industries.pdf"
+source_pdf: "source/libraries-and-creative-industries-2024.pdf"
+rights: "Copyright Libraries Connected 2024."
+review_level: "converted"
