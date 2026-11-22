@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Joint%20Briefing%20on%20Libraries%20for%20Primary%20Schools.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Joint%20Briefing%20on%20Libraries%20for%20Primary%20Schools.pdf"
+publisher: "Libraries Connected, School Library Association, Libraries Rising, CILIP"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/joint-briefing-libraries-in-primary-schools-2025.pdf"
+pdf_sha256: "908fd473586221a61c055a25a4543884de96d3184470c7d9aecd2d3687eb013d"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Joint policy briefing published in December 2025 by SLA, Libraries Rising, Libraries Connected, and CILIP welcoming the UK Government commitment to fund a library in every primary school in England, reviewing School Library Services (SLS), public library collaboration, professional staffing, and recommendations for long-term sustainability."

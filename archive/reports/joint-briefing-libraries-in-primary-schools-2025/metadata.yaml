@@ -1,0 +1,28 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: joint-briefing-libraries-in-primary-schools-2025
+title: "Briefing: Libraries in Primary Schools"
+subtitle: "Joint briefing from the School Library Association (SLA), Libraries Rising, Libraries Connected, and CILIP"
+creators:
+  - "School Library Association"
+  - "Libraries Rising"
+  - "Libraries Connected"
+  - "Chartered Institute of Library and Information Professionals"
+publisher: "Libraries Connected"
+publication_date: "2025-12-01"
+year: 2025
+publication_place: "Liverpool"
+country: "England"
+language: "en"
+document_type: "briefing"
+pages: 7
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Joint%20Briefing%20on%20Libraries%20for%20Primary%20Schools.pdf"
+source_pdf: "source/joint-briefing-libraries-in-primary-schools-2025.pdf"
+rights: "Copyright SLA, Libraries Rising, Libraries Connected, CILIP 2025."
+review_level: "converted"

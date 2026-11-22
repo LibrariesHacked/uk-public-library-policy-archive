@@ -1591,3 +1591,20 @@ reports:
   pages: 5
   path: archive/reports/libraries-connected-prison-libraries-briefing-2026
   source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Prison%20Libraries.pdf
+- id: joint-briefing-libraries-in-primary-schools-2025
+  title: 'Briefing: Libraries in Primary Schools'
+  subtitle: Joint briefing from the School Library Association (SLA), Libraries Rising,
+    Libraries Connected, and CILIP
+  creators:
+  - School Library Association
+  - Libraries Rising
+  - Libraries Connected
+  - Chartered Institute of Library and Information Professionals
+  publisher: Libraries Connected
+  publication_date: '2025-12-01'
+  year: 2025
+  country: England
+  document_type: briefing
+  pages: 7
+  path: archive/reports/joint-briefing-libraries-in-primary-schools-2025
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-01/Joint%20Briefing%20on%20Libraries%20for%20Primary%20Schools.pdf
