@@ -1884,7 +1884,7 @@ reports:
     the pilot phase of the National Information Offer across pilot library authorities,
     commissioned by SCL and Arts Council England.
 - id: scl-wales-wellbeing-guide-2012
-  title: 'The Incomplete Guide to Wellbeing in Libraries'
+  title: The Incomplete Guide to Wellbeing in Libraries
   subtitle: A showcase of public library health and wellbeing services across Wales
   publisher: Society of Chief Librarians (Wales)
   year: 2012
@@ -1894,11 +1894,11 @@ reports:
   path: archive/reports/scl-wales-wellbeing-guide-2012
   review_level: converted
   notes: Showcase of public library health and wellbeing services across all 22 Welsh
-    local authorities, produced by SCL Wales in partnership with Welsh Government (Libraries
-    Inspire), with a foreword by Professor Sir Mansel Aylward CB.
+    local authorities, produced by SCL Wales in partnership with Welsh Government
+    (Libraries Inspire), with a foreword by Professor Sir Mansel Aylward CB.
 - id: scl-wales-importance-reading-2011
-  title: 'The Importance of Reading'
-  subtitle: 'Public Libraries Wales'
+  title: The Importance of Reading
+  subtitle: Public Libraries Wales
   publisher: Society of Chief Librarians (Wales)
   year: 2011
   country: Wales
@@ -1912,7 +1912,8 @@ reports:
     local authorities.
 - id: scl-wales-brighter-bolder-better-2009
   title: 'Brighter, Bolder, Better: Breathing New Life into Welsh Library Services'
-  subtitle: Impact of the Welsh Assembly Government's Community Learning Libraries Capital Development Investment
+  subtitle: Impact of the Welsh Assembly Government's Community Learning Libraries
+    Capital Development Investment
   publisher: Society of Chief Librarians (Wales)
   year: 2009
   country: Wales
@@ -1920,16 +1921,14 @@ reports:
   pages: 42
   path: archive/reports/scl-wales-brighter-bolder-better-2009
   review_level: converted
-  notes: Research and evaluation report prepared by Karen Mills for the Society of Chief
-    Librarians (Wales), evaluating the transformational impact of the Welsh Assembly Government's
-    Community Learning Libraries capital investment grants across seven local authorities
-    (Tredegar, Nelson, Abertridwr, Colwyn Bay, Abergele, Mold, Treorchy, Gorseinon).
-
-
-
+  notes: Research and evaluation report prepared by Karen Mills for the Society of
+    Chief Librarians (Wales), evaluating the transformational impact of the Welsh
+    Assembly Government's Community Learning Libraries capital investment grants across
+    seven local authorities (Tredegar, Nelson, Abertridwr, Colwyn Bay, Abergele, Mold,
+    Treorchy, Gorseinon).
 - id: scl-wales-child-poverty-2013
-  title: "Public Libraries & Reducing Child Poverty in Wales"
-  subtitle: "A report by the Society of Chief Librarians (Wales)"
+  title: Public Libraries & Reducing Child Poverty in Wales
+  subtitle: A report by the Society of Chief Librarians (Wales)
   year: 2013
   publisher: Society of Chief Librarians (Wales)
   country: Wales
@@ -1937,21 +1936,27 @@ reports:
   pages: 104
   path: archive/reports/scl-wales-child-poverty-2013
   review_level: converted
-  notes: Comprehensive research report prepared by Karen Eynon for the Society of Chief Librarians (Wales) examining the role and contribution of Welsh public libraries in tackling child poverty across all three objectives of the Welsh Government Child Poverty Strategy.
+  notes: Comprehensive research report prepared by Karen Eynon for the Society of
+    Chief Librarians (Wales) examining the role and contribution of Welsh public libraries
+    in tackling child poverty across all three objectives of the Welsh Government
+    Child Poverty Strategy.
 - id: scl-ascel-childrens-promise-2014
-  title: "Children and Young People's Promise in Public Libraries"
-  subtitle: "How the Children's Promise links to the Universal Offers"
+  title: Children and Young People's Promise in Public Libraries
+  subtitle: How the Children's Promise links to the Universal Offers
   year: 2014
-  publisher: Association of Senior Children's and Education Librarians and Society of Chief Librarians
+  publisher: Association of Senior Children's and Education Librarians and Society
+    of Chief Librarians
   country: United Kingdom
   document_type: policy-report
   pages: 6
   path: archive/reports/scl-ascel-childrens-promise-2014
   review_level: converted
-  notes: National standard and policy framework agreed between ASCEL and the Society of Chief Librarians setting out expectations and recommendations for library provision for children and young people across the Universal Offers.
+  notes: National standard and policy framework agreed between ASCEL and the Society
+    of Chief Librarians setting out expectations and recommendations for library provision
+    for children and young people across the Universal Offers.
 - id: libraries-connected-literacy-recovery-2022
-  title: "Public Libraries and Literacy Recovery"
-  subtitle: "Supporting reading and literacy throughout life"
+  title: Public Libraries and Literacy Recovery
+  subtitle: Supporting reading and literacy throughout life
   year: 2022
   publisher: National Literacy Trust and Libraries Connected
   country: England
@@ -1959,10 +1964,14 @@ reports:
   pages: 14
   path: archive/reports/libraries-connected-literacy-recovery-2022
   review_level: converted
-  notes: Joint policy report by the National Literacy Trust and Libraries Connected with ministerial forewords by Lord Parkinson and Robin Walker MP, demonstrating the role of public libraries in post-pandemic literacy recovery and levelling up disadvantaged communities.
+  notes: Joint policy report by the National Literacy Trust and Libraries Connected
+    with ministerial forewords by Lord Parkinson and Robin Walker MP, demonstrating
+    the role of public libraries in post-pandemic literacy recovery and levelling
+    up disadvantaged communities.
 - id: scl-universal-culture-offer-2017
-  title: "Public Libraries Universal Culture Offer"
-  subtitle: "Research and consultation report prepared on behalf of the Society of Chief Librarians"
+  title: Public Libraries Universal Culture Offer
+  subtitle: Research and consultation report prepared on behalf of the Society of
+    Chief Librarians
   year: 2017
   publisher: Society of Chief Librarians
   country: England
@@ -1970,10 +1979,12 @@ reports:
   pages: 51
   path: archive/reports/scl-universal-culture-offer-2017
   review_level: converted
-  notes: Definitive research and consultation report prepared by MetaValue on behalf of SCL establishing the sixth Universal Offer focused on culture, creative commissioning, and partnership working across English public libraries.
+  notes: Definitive research and consultation report prepared by MetaValue on behalf
+    of SCL establishing the sixth Universal Offer focused on culture, creative commissioning,
+    and partnership working across English public libraries.
 - id: scl-experiential-library-family-learning-2017
-  title: "The Experiential Library"
-  subtitle: "The future of family learning"
+  title: The Experiential Library
+  subtitle: The future of family learning
   year: 2017
   publisher: Common Vision and Society of Chief Librarians
   country: England
@@ -1981,4 +1992,21 @@ reports:
   pages: 41
   path: archive/reports/scl-experiential-library-family-learning-2017
   review_level: converted
-  notes: Research report prepared by think tank Common Vision (CoVi) for the Society of Chief Librarians and Arts Council England exploring the future of intergenerational family learning in public libraries across the Universal Offers.
+  notes: Research report prepared by think tank Common Vision (CoVi) for the Society
+    of Chief Librarians and Arts Council England exploring the future of intergenerational
+    family learning in public libraries across the Universal Offers.
+- id: scl-reader-development-review-2017
+  title: Review of Reader Development Activities in Libraries and Training Needs
+  subtitle: Report on current practice, national survey findings, workforce training
+    needs and case studies for the Society of Chief Librarians
+  year: 2017
+  publisher: Society of Chief Librarians
+  country: England
+  document_type: research-report
+  pages: 63
+  path: archive/reports/scl-reader-development-review-2017
+  review_level: converted
+  notes: Major national research report commissioned by SCL examining reader development
+    practice, workforce training needs, national survey data, volunteer engagement,
+    and 22 in-depth case studies (including Somerset Libraries BBC Radio book group
+    and Yeovil Literary Festival) across English public libraries.
