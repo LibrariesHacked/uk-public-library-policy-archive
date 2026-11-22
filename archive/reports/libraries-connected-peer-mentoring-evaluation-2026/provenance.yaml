@@ -1,0 +1,10 @@
+source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-03/Libraries%20Connected%20Peer%20Mentoring%20Evaluation%20Report%20.pdf
+source_pdf_url: https://www.librariesconnected.org.uk/sites/default/files/2026-03/Libraries%20Connected%20Peer%20Mentoring%20Evaluation%20Report%20.pdf
+acquired_date: '2026-11-22'
+accessed_date: '2026-11-22'
+source_checksum: sha256:ff173e5488dc17208a46e022ddf075beb28a360034deea4f00b956b72ff554bc
+pdf_sha256: ff173e5488dc17208a46e022ddf075beb28a360034deea4f00b956b72ff554bc
+download_method: direct-download
+conversion_method: pypdf-extraction-with-manual-verification
+conversion_date: '2026-11-22'
+review_status: converted
