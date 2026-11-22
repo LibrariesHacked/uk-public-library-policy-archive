@@ -1738,3 +1738,14 @@ reports:
   path: archive/reports/scl-inspiring-people-connecting-communities-2014
   review_level: converted
   notes: National policy briefing by the Society of Chief Librarians setting out the initial four Universal Offers (Reading, Information, Digital, Health) and national statistics on public library reach and impact.
+- id: scl-digital-leadership-skills-2014
+  title: "Digital Leadership Skills: Overview Report"
+  subtitle: "A report by Shared Intelligence for the Society of Chief Librarians"
+  year: 2014
+  publisher: Society of Chief Librarians
+  country: England
+  document_type: research-report
+  pages: 17
+  path: archive/reports/scl-digital-leadership-skills-2014
+  review_level: converted
+  notes: Foundational research report by Shared Intelligence for the Society of Chief Librarians evaluating digital leadership competencies, horizon scanning, LMS renewal, public Wi-Fi, and e-lending.

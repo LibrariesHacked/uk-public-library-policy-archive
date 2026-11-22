@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/Digital-leadership-research-Overview-Report-July-2014.pdf"
+source_pdf_url: "https://web.archive.org/web/20160520012109/http://goscl.com:80/wp-content/uploads/Digital-leadership-research-Overview-Report-July-2014.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:243a25e3bfdf6d4338d4a942e05a731c49a67f41ae73a21c53a579d0b769a271"
+pdf_sha256: "243a25e3bfdf6d4338d4a942e05a731c49a67f41ae73a21c53a579d0b769a271"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-text-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
