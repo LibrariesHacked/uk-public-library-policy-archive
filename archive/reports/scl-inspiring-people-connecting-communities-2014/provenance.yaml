@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/SCL_Inspiring-People_Connecting-Communities-2.pdf"
+source_pdf_url: "https://web.archive.org/web/20160425134529/http://goscl.com/wp-content/uploads/SCL_Inspiring-People_Connecting-Communities-2.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:0eb3c2a222e24b1d75b19ce4b58b157e5214e82580ce36083c7335e809ae4714"
+pdf_sha256: "0eb3c2a222e24b1d75b19ce4b58b157e5214e82580ce36083c7335e809ae4714"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-text-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
