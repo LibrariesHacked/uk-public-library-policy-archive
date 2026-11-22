@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-strategic-plan-2023-2027
+title: "Strategic Plan 2023–2027"
+subtitle: null
+creators:
+  - "Libraries Connected"
+publisher: "Libraries Connected"
+publication_date: "2022-12-01"
+year: 2022
+publication_place: "London"
+country: "United Kingdom"
+language: "en"
+document_type: "strategy"
+pages: 16
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-08/Libraries%20Connected%20Strategic%20Plan_0.pdf"
+source_pdf: "source/libraries-connected-strategic-plan-2024-2027.pdf"
+rights: "Copyright Libraries Connected 2022."
+review_level: "converted"

@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-08/Libraries%20Connected%20Strategic%20Plan_0.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2024-08/Libraries%20Connected%20Strategic%20Plan_0.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:1e760efce32257dba84cb34e10a56ddfdb6daff4ab035e948a2029ee0f683767"
+pdf_sha256: "1e760efce32257dba84cb34e10a56ddfdb6daff4ab035e948a2029ee0f683767"
+download_method: "python-urllib"
+conversion_method: "pdfplumber-text-and-image-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
