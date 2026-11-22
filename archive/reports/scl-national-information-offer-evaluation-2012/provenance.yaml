@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://www.goscl.com/wp-content/uploads/2012/06/Evaluation-FINAL-12-06-15-NIO-Final-report-v-0.pdf"
+source_pdf_url: "https://web.archive.org/web/20120804111051id_/http://www.goscl.com/wp-content/uploads/2012/06/Evaluation-FINAL-12-06-15-NIO-Final-report-v-0.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:e3b0ae17afeba6c786bcff4727c16b4a6bb255a7ebbab4def074ceee19b92fab"
+pdf_sha256: "e3b0ae17afeba6c786bcff4727c16b4a6bb255a7ebbab4def074ceee19b92fab"
+download_method: "wayback-machine-api"
+conversion_method: "pypdf-pdfplumber-markdown-edition"
+conversion_date: "2026-11-22"
+review_status: "converted"

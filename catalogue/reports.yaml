@@ -1869,3 +1869,17 @@ reports:
   notes: Comprehensive research report prepared by Karen Eynon for the Society of
     Chief Librarians (Wales) examining the skills, leadership, challenges, and training
     requirements of the public library workforce across Wales.
+- id: scl-national-information-offer-evaluation-2012
+  title: 'National Information Offer: Evaluation Report'
+  subtitle: A pilot project developed in partnership by the Society of Chief Librarians
+    and Arts Council England
+  publisher: Society of Chief Librarians
+  year: 2012
+  country: England
+  document_type: evaluation-report
+  pages: 83
+  path: archive/reports/scl-national-information-offer-evaluation-2012
+  review_level: converted
+  notes: Independent evaluation report by Sarah Wilkie and Russell Pask evaluating
+    the pilot phase of the National Information Offer across pilot library authorities,
+    commissioned by SCL and Arts Council England.
