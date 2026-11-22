@@ -1,13 +1,10 @@
-# Preservation and Provenance Metadata (PREMIS-aligned)
-# Validated against schemas/provenance.schema.json
-
-source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015"
-source_pdf_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015"
-acquired_date: "2026-11-18"
-accessed_date: "2026-11-18"
-source_checksum: "sha256:018ea356c8730fe76cfbd4364bd738e664180f3de7ea575603912f3fd5d60fe4"
-pdf_sha256: "018ea356c8730fe76cfbd4364bd738e664180f3de7ea575603912f3fd5d60fe4"
-download_method: "govuk-content-api-harvest"
-conversion_method: "html-govspeak-transcription-with-manual-verification"
-conversion_date: "2026-11-18"
-review_status: "reviewed"
+source_url: https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015
+source_pdf_url: https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015
+acquired_date: '2026-11-18'
+accessed_date: '2026-11-18'
+source_checksum: sha256:4438e48676e6a93440c0f9e3895b2b6b7e51dc305f0ddace5fb47d69e3fc9fac
+pdf_sha256: 4438e48676e6a93440c0f9e3895b2b6b7e51dc305f0ddace5fb47d69e3fc9fac
+download_method: govuk-content-api-harvest
+conversion_method: html-govspeak-transcription-with-manual-verification
+conversion_date: '2026-11-18'
+review_status: reviewed

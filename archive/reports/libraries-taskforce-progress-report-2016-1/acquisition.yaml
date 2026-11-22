@@ -1,14 +1,13 @@
-# Point-of-Capture Source Acquisition Record
-# Recorded immediately upon locating and downloading the source publication.
-
-source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016"
-source_pdf_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016"
-publisher: "Libraries Taskforce"
-acquired_date: "2026-11-18"
-accessed_date: "2026-11-18"
-download_method: "govuk-content-api-harvest"
-local_file: "source/report.html"
-pdf_sha256: "b056a97ca27f550f9fa3a256b76425e640aaff0d74a20fcec1abe305cd204358"
-licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
-licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
-notes: "Third six-month progress report of the Leadership for Libraries Taskforce covering April to September 2016, leading up to the publication of Libraries Deliver: Ambition for Public Libraries in England 2016 to 2021."
+source_url: https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016
+source_pdf_url: https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2016
+publisher: Libraries Taskforce
+acquired_date: '2026-11-18'
+accessed_date: '2026-11-18'
+download_method: govuk-content-api-harvest
+local_file: source/report.html
+pdf_sha256: e7bc7cc4bbc62db6c0bfe31559ec14d408f9fcbe27dd491a714c6b53439f6e6d
+licence: Open Government Licence v3.0 (OGL-UK-3.0)
+licence_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+notes: 'Third six-month progress report of the Leadership for Libraries Taskforce
+  covering April to September 2016, leading up to the publication of Libraries Deliver:
+  Ambition for Public Libraries in England 2016 to 2021.'

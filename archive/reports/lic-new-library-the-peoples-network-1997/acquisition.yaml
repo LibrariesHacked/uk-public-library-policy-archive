@@ -1,18 +1,18 @@
-# Acquisition record for: lic-new-library-the-peoples-network-1997
-# Follows docs/metadata-schema.md § Acquisition Schema
-
-acquired_date: 2026-11-16
+acquired_date: '2026-11-16'
 acquisition_method: download
-
-source_url: "https://www.ukoln.ac.uk/services/lic/newlibrary/full.html"
-source_platform: "UKOLN / Library and Information Commission (LIC)"
-
+source_url: https://www.ukoln.ac.uk/services/lic/newlibrary/full.html
+source_platform: UKOLN / Library and Information Commission (LIC)
 source_files:
-  - path: source/new_library_full.html
-    original_filename: new_library_full.html
-    sha256: f1ac7eda7e15eb93a1c74894543b3d71fbf5e5057b2e960d326e45477a376753
-    bytes: 431759
-    mime_type: text/html
+- path: source/new_library_full.html
+  original_filename: new_library_full.html
+  sha256: f1ac7eda7e15eb93a1c74894543b3d71fbf5e5057b2e960d326e45477a376753
+  bytes: 431759
+  mime_type: text/html
+acquisition_notes: 'Downloaded full HTML edition directly from UKOLN (UK Office for
+  Library and Information Networking, University of Bath), which converted and hosted
+  the official digital edition on behalf of the Library and Information Commission
+  (LIC). Accompanying technical diagram figures (chap41.gif, chap42.gif, chap43.gif,
+  chap81.gif) retrieved from the official UKOLN web publication and preserved under
+  assets/.
 
-acquisition_notes: |
-  Downloaded full HTML edition directly from UKOLN (UK Office for Library and Information Networking, University of Bath), which converted and hosted the official digital edition on behalf of the Library and Information Commission (LIC). Accompanying technical diagram figures (chap41.gif, chap42.gif, chap43.gif, chap81.gif) retrieved from the official UKOLN web publication and preserved under assets/.
+  '

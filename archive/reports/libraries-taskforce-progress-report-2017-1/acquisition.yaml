@@ -1,14 +1,12 @@
-# Point-of-Capture Source Acquisition Record
-# Recorded immediately upon locating and downloading the source publication.
-
-source_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-september-2017/six-month-progress-report-april-to-september-2017"
-source_pdf_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-september-2017/six-month-progress-report-april-to-september-2017"
-publisher: "Libraries Taskforce"
-acquired_date: "2026-11-18"
-accessed_date: "2026-11-18"
-download_method: "govuk-content-api-harvest"
-local_file: "source/report.html"
-pdf_sha256: "ed8665670a8cb34265712639e05e54fc54215fb1342525ee33c05b98151b8dda"
-licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
-licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
-notes: "Fifth six-month progress report of the Libraries Taskforce covering April to September 2017, tracking deliverables across public library priority areas."
+source_url: https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-september-2017/six-month-progress-report-april-to-september-2017
+source_pdf_url: https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-september-2017/six-month-progress-report-april-to-september-2017
+publisher: Libraries Taskforce
+acquired_date: '2026-11-18'
+accessed_date: '2026-11-18'
+download_method: govuk-content-api-harvest
+local_file: source/report.html
+pdf_sha256: 9663599ce9e75e268360e5a95036efa8b4c3e91a549bb53e464c3a3f16ddfacc
+licence: Open Government Licence v3.0 (OGL-UK-3.0)
+licence_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+notes: Fifth six-month progress report of the Libraries Taskforce covering April to
+  September 2017, tracking deliverables across public library priority areas.

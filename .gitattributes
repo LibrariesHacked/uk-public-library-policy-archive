@@ -1,3 +1,13 @@
+# Plain-text archival records use LF line endings in the repository.
+*.md    text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+*.json  text eol=lf
+*.cff   text eol=lf
+*.py    text eol=lf
+*.txt   text eol=lf
+*.html  text eol=lf
+
 # Preserved source files must never be altered by Git line-ending conversion.
 # A single changed byte would break the SHA-256 fixity recorded in provenance.yaml.
 *.pdf   binary
@@ -7,13 +17,10 @@
 *.tif   binary
 *.tiff  binary
 *.gif   binary
+*.doc   binary
+*.docx  binary
 
-# Plain-text archival records use LF line endings in the repository.
-*.md    text eol=lf
-*.yaml  text eol=lf
-*.yml   text eol=lf
-*.json  text eol=lf
-*.cff   text eol=lf
-*.py    text eol=lf
-*.txt   text eol=lf
+archive/**/source/* binary
+archive/**/source/**/* binary
+
 

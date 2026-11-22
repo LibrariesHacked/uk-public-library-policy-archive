@@ -1,13 +1,10 @@
-# Preservation and Provenance Metadata (PREMIS-aligned)
-# Validated against schemas/provenance.schema.json
-
-source_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-to-september-2018/six-month-progress-report-april-to-september-2018"
-source_pdf_url: "https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-to-september-2018/six-month-progress-report-april-to-september-2018"
-acquired_date: "2026-11-18"
-accessed_date: "2026-11-18"
-source_checksum: "sha256:c850bfe36d9839127405d4b6efbc2f6b06d05768de5bcf108f0b2ec42c197586"
-pdf_sha256: "c850bfe36d9839127405d4b6efbc2f6b06d05768de5bcf108f0b2ec42c197586"
-download_method: "govuk-content-api-harvest"
-conversion_method: "html-govspeak-transcription-with-manual-verification"
-conversion_date: "2026-11-18"
-review_status: "reviewed"
+source_url: https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-to-september-2018/six-month-progress-report-april-to-september-2018
+source_pdf_url: https://www.gov.uk/government/publications/libraries-taskforce-six-month-progress-report-april-to-september-2018/six-month-progress-report-april-to-september-2018
+acquired_date: '2026-11-18'
+accessed_date: '2026-11-18'
+source_checksum: sha256:8f33e5c2fecf980abcfa01a47887467f4a80229e365a009afdc21c0f622b805a
+pdf_sha256: 8f33e5c2fecf980abcfa01a47887467f4a80229e365a009afdc21c0f622b805a
+download_method: govuk-content-api-harvest
+conversion_method: html-govspeak-transcription-with-manual-verification
+conversion_date: '2026-11-18'
+review_status: reviewed

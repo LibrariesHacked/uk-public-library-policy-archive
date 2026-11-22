@@ -1,14 +1,13 @@
-# Point-of-Capture Source Acquisition Record
-# Recorded immediately upon locating and downloading the source publication.
-
-source_url: "https://www.gov.uk/government/publications/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund"
-source_pdf_url: "https://www.gov.uk/government/publications/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund"
-publisher: "Department for Culture, Media and Sport"
-acquired_date: "2026-11-18"
-accessed_date: "2026-11-18"
-download_method: "govuk-content-api-harvest"
-local_file: "source/report.html"
-pdf_sha256: "7ae74de78aa0c7650c5c23659108c39c25b948884dadd71c6df50de4408f63e1"
-licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
-licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
-notes: "Comprehensive evaluation of the £4 million Libraries: Opportunities for Everyone (LOFE) innovation fund, assessing outcomes across disadvantaged communities, digital skills, cultural engagement, and health and wellbeing."
+source_url: https://www.gov.uk/government/publications/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund
+source_pdf_url: https://www.gov.uk/government/publications/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund/evaluation-of-the-libraries-opportunities-for-everyone-innovation-fund
+publisher: Department for Culture, Media and Sport
+acquired_date: '2026-11-18'
+accessed_date: '2026-11-18'
+download_method: govuk-content-api-harvest
+local_file: source/report.html
+pdf_sha256: cfad927047e4121eada8c25a9d6ebd6f51ec05789c46fecf99504ba5b3f800fc
+licence: Open Government Licence v3.0 (OGL-UK-3.0)
+licence_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+notes: 'Comprehensive evaluation of the £4 million Libraries: Opportunities for Everyone
+  (LOFE) innovation fund, assessing outcomes across disadvantaged communities, digital
+  skills, cultural engagement, and health and wellbeing.'

@@ -1,14 +1,13 @@
-# Point-of-Capture Source Acquisition Record
-# Recorded immediately upon locating and downloading the source publication.
-
-source_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015"
-source_pdf_url: "https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015"
-publisher: "Leadership for Libraries Taskforce"
-acquired_date: "2026-11-18"
-accessed_date: "2026-11-18"
-download_method: "govuk-content-api-harvest"
-local_file: "source/report.html"
-pdf_sha256: "018ea356c8730fe76cfbd4364bd738e664180f3de7ea575603912f3fd5d60fe4"
-licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
-licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
-notes: "First six-month progress report of the Leadership for Libraries Taskforce covering April to September 2015, accompanied by the Government response by Culture Minister Ed Vaizey agreeing to publish a joint vision document by summer 2016."
+source_url: https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015
+source_pdf_url: https://www.gov.uk/government/publications/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015/leadership-for-libraries-taskforce-six-month-progress-report-april-september-2015
+publisher: Leadership for Libraries Taskforce
+acquired_date: '2026-11-18'
+accessed_date: '2026-11-18'
+download_method: govuk-content-api-harvest
+local_file: source/report.html
+pdf_sha256: 4438e48676e6a93440c0f9e3895b2b6b7e51dc305f0ddace5fb47d69e3fc9fac
+licence: Open Government Licence v3.0 (OGL-UK-3.0)
+licence_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+notes: First six-month progress report of the Leadership for Libraries Taskforce covering
+  April to September 2015, accompanied by the Government response by Culture Minister
+  Ed Vaizey agreeing to publish a joint vision document by summer 2016.
