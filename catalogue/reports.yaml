@@ -1576,3 +1576,18 @@ reports:
   pages: 34
   path: archive/reports/libraries-connected-ebook-lending-report-2025
   source_url: https://www.librariesconnected.org.uk/sites/default/files/2025-02/Libraries%20Connected%20-%20ebook%20lending%20in%20public%20libraries%20-%20project%20summary%20report.pdf
+- id: libraries-connected-prison-libraries-briefing-2026
+  title: Briefing on Prison Libraries
+  subtitle: Overview of statutory framework, funding models, literacy levels, and
+    public library service delivery in prisons
+  creators:
+  - Libraries Connected
+  - Emma Hoddinott
+  publisher: Libraries Connected
+  publication_date: '2026-01-01'
+  year: 2026
+  country: England
+  document_type: briefing
+  pages: 5
+  path: archive/reports/libraries-connected-prison-libraries-briefing-2026
+  source_url: https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Prison%20Libraries.pdf

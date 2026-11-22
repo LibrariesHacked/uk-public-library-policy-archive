@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Prison%20Libraries.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Prison%20Libraries.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/libraries-connected-prison-libraries-briefing-2026.pdf"
+pdf_sha256: "a8783afb077d8e33256774543502dd6c57a2274f00db7a870fb3491b4b236e3b"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Policy briefing published in January 2026 by Libraries Connected outlining the statutory requirement for prison libraries under Prison Rules 1999 (Rule 33), local authority public library delivery contracts with the Ministry of Justice, prisoner literacy, neurodivergence, full cost recovery challenges, and national policy recommendations."

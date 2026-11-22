@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-prison-libraries-briefing-2026
+title: "Briefing on Prison Libraries"
+subtitle: "Overview of statutory framework, funding models, literacy levels, and public library service delivery in prisons"
+creators:
+  - "Libraries Connected"
+  - "Emma Hoddinott"
+publisher: "Libraries Connected"
+publication_date: "2026-01-01"
+year: 2026
+publication_place: "Liverpool"
+country: "England"
+language: "en"
+document_type: "briefing"
+pages: 5
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-01/Libraries%20Connected%20Briefing%20on%20Prison%20Libraries.pdf"
+source_pdf: "source/libraries-connected-prison-libraries-briefing-2026.pdf"
+rights: "Copyright Libraries Connected 2026."
+review_level: "converted"
