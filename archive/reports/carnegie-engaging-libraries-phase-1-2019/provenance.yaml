@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://d1ssu070pg2v9i.cloudfront.net/pex/carnegie_uk_trust/2019/03/26153308/Engaging-Libraries-Learning-from-Phase-1.pdf"
+source_pdf_url: "https://d1ssu070pg2v9i.cloudfront.net/pex/carnegie_uk_trust/2019/03/26153308/Engaging-Libraries-Learning-from-Phase-1.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:44e4a7647f9759506aefa0d0f47d6adb5fad85755d5e334ce4b288136c85d191"
+pdf_sha256: "44e4a7647f9759506aefa0d0f47d6adb5fad85755d5e334ce4b288136c85d191"
+download_method: "python-urllib"
+conversion_method: "pdfplumber-text-and-image-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"

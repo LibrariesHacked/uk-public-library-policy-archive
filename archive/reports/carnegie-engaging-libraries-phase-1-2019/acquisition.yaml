@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://d1ssu070pg2v9i.cloudfront.net/pex/carnegie_uk_trust/2019/03/26153308/Engaging-Libraries-Learning-from-Phase-1.pdf"
+source_pdf_url: "https://d1ssu070pg2v9i.cloudfront.net/pex/carnegie_uk_trust/2019/03/26153308/Engaging-Libraries-Learning-from-Phase-1.pdf"
+publisher: "Carnegie UK Trust"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/carnegie-engaging-libraries-phase-1-2019.pdf"
+pdf_sha256: "44e4a7647f9759506aefa0d0f47d6adb5fad85755d5e334ce4b288136c85d191"
+licence: "Open access publication / Carnegie UK Trust & Wellcome Trust"
+licence_url: "https://www.carnegieuktrust.org.uk/"
+notes: "Evaluation report by Jenny Peachey on Phase 1 of Engaging Libraries (2017–2018), a partnership between Carnegie UK Trust and the Wellcome Trust supporting 14 innovative public engagement and health wellbeing pilot projects across 16 UK and Irish public library services."

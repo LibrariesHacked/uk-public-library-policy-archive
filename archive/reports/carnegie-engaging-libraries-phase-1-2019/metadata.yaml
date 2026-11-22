@@ -1,0 +1,27 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: carnegie-engaging-libraries-phase-1-2019
+title: "Engaging Libraries: Learning from Phase 1"
+subtitle: null
+creators:
+  - "Jenny Peachey"
+  - "Carnegie UK Trust"
+  - "Wellcome Trust"
+publisher: "Carnegie UK Trust"
+publication_date: "2019-03-01"
+year: 2019
+publication_place: "Dunfermline"
+country: "United Kingdom"
+language: "en"
+document_type: "research-report"
+pages: 32
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://d1ssu070pg2v9i.cloudfront.net/pex/carnegie_uk_trust/2019/03/26153308/Engaging-Libraries-Learning-from-Phase-1.pdf"
+source_pdf: "source/carnegie-engaging-libraries-phase-1-2019.pdf"
+rights: "Copyright Carnegie UK Trust and Wellcome Trust 2019."
+review_level: "converted"
