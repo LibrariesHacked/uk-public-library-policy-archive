@@ -1706,30 +1706,37 @@ reports:
     supporting 14 public engagement projects across 16 UK public library services
     in partnership with higher education researchers.
 - id: cms-committee-public-libraries-2005
-  title: "Public Libraries"
-  subtitle: "Third Report of Session 2004–05, Volume I: Report, together with formal minutes"
+  title: Public Libraries
+  subtitle: 'Third Report of Session 2004–05, Volume I: Report, together with formal
+    minutes'
   year: 2005
-  publisher: "House of Commons Culture, Media and Sport Committee"
-  country: "England"
-  document_type: "select-committee-report"
+  publisher: House of Commons Culture, Media and Sport Committee
+  country: England
+  document_type: select-committee-report
   pages: 62
-  path: "archive/reports/cms-committee-public-libraries-2005"
-  review_level: "converted"
-  notes: "House of Commons Culture, Media and Sport Committee third report of session 2004–05 (HC 81-I) investigating public library policy, funding, standards, the People's Network, school library services, and statutory oversight in England."
+  path: archive/reports/cms-committee-public-libraries-2005
+  review_level: converted
+  notes: House of Commons Culture, Media and Sport Committee third report of session
+    2004–05 (HC 81-I) investigating public library policy, funding, standards, the
+    People's Network, school library services, and statutory oversight in England.
 - id: cms-committee-library-closures-2012
-  title: "Library Closures"
-  subtitle: "Third Report of Session 2012–13, Volume I: Report, together with formal minutes, oral and written evidence"
+  title: Library Closures
+  subtitle: 'Third Report of Session 2012–13, Volume I: Report, together with formal
+    minutes, oral and written evidence'
   year: 2012
-  publisher: "The Stationery Office Limited"
-  country: "England"
-  document_type: "select-committee-report"
+  publisher: The Stationery Office Limited
+  country: England
+  document_type: select-committee-report
   pages: 137
-  path: "archive/reports/cms-committee-library-closures-2012"
-  review_level: "converted"
-  notes: "House of Commons Culture, Media and Sport Committee landmark inquiry report (HC 587) into post-2010 library closures, the statutory duty under the 1964 Act, the Wirral Inquiry and Charteris Report, community libraries and volunteers, and digital e-lending."
+  path: archive/reports/cms-committee-library-closures-2012
+  review_level: converted
+  notes: House of Commons Culture, Media and Sport Committee landmark inquiry report
+    (HC 587) into post-2010 library closures, the statutory duty under the 1964 Act,
+    the Wirral Inquiry and Charteris Report, community libraries and volunteers, and
+    digital e-lending.
 - id: scl-inspiring-people-connecting-communities-2014
-  title: "Public Libraries in 2014/15: Inspiring People, Connecting Communities"
-  subtitle: "A Policy Briefing"
+  title: 'Public Libraries in 2014/15: Inspiring People, Connecting Communities'
+  subtitle: A Policy Briefing
   year: 2014
   publisher: Society of Chief Librarians
   country: England
@@ -1737,10 +1744,12 @@ reports:
   pages: 11
   path: archive/reports/scl-inspiring-people-connecting-communities-2014
   review_level: converted
-  notes: National policy briefing by the Society of Chief Librarians setting out the initial four Universal Offers (Reading, Information, Digital, Health) and national statistics on public library reach and impact.
+  notes: National policy briefing by the Society of Chief Librarians setting out the
+    initial four Universal Offers (Reading, Information, Digital, Health) and national
+    statistics on public library reach and impact.
 - id: scl-digital-leadership-skills-2014
-  title: "Digital Leadership Skills: Overview Report"
-  subtitle: "A report by Shared Intelligence for the Society of Chief Librarians"
+  title: 'Digital Leadership Skills: Overview Report'
+  subtitle: A report by Shared Intelligence for the Society of Chief Librarians
   year: 2014
   publisher: Society of Chief Librarians
   country: England
@@ -1748,10 +1757,12 @@ reports:
   pages: 17
   path: archive/reports/scl-digital-leadership-skills-2014
   review_level: converted
-  notes: Foundational research report by Shared Intelligence for the Society of Chief Librarians evaluating digital leadership competencies, horizon scanning, LMS renewal, public Wi-Fi, and e-lending.
+  notes: Foundational research report by Shared Intelligence for the Society of Chief
+    Librarians evaluating digital leadership competencies, horizon scanning, LMS renewal,
+    public Wi-Fi, and e-lending.
 - id: scl-wales-impact-older-people-2014
-  title: "The Impact of Public Libraries on the Lives of Older People"
-  subtitle: "A perspective by the Society of Chief Librarians (Wales)"
+  title: The Impact of Public Libraries on the Lives of Older People
+  subtitle: A perspective by the Society of Chief Librarians (Wales)
   year: 2014
   publisher: Society of Chief Librarians Wales
   country: Wales
@@ -1759,10 +1770,13 @@ reports:
   pages: 31
   path: archive/reports/scl-wales-impact-older-people-2014
   review_level: converted
-  notes: Evidence report by Karen Eynon for SCL Wales analyzing the lifelong learning, digital inclusion, social isolation, and health and wellbeing impacts of Welsh public libraries on older adults.
+  notes: Evidence report by Karen Eynon for SCL Wales analyzing the lifelong learning,
+    digital inclusion, social isolation, and health and wellbeing impacts of Welsh
+    public libraries on older adults.
 - id: scl-access-to-research-2015
-  title: "Access to Research: Final Report"
-  subtitle: "A report to the Publishers Licensing Society and the Society of Chief Librarians"
+  title: 'Access to Research: Final Report'
+  subtitle: A report to the Publishers Licensing Society and the Society of Chief
+    Librarians
   year: 2015
   publisher: Publishers Licensing Society and Society of Chief Librarians
   country: England
@@ -1770,4 +1784,22 @@ reports:
   pages: 48
   path: archive/reports/scl-access-to-research-2015
   review_level: converted
-  notes: Independent evaluation report by Shared Intelligence for PLS and SCL assessing the two-year national trial of Access to Research (A2R), which opened walk-in access to over 10 million academic articles in UK public libraries following the Finch Report.
+  notes: Independent evaluation report by Shared Intelligence for PLS and SCL assessing
+    the two-year national trial of Access to Research (A2R), which opened walk-in
+    access to over 10 million academic articles in UK public libraries following the
+    Finch Report.
+- id: scl-essential-digital-infrastructure-2015
+  title: 'Essential Digital Infrastructure for Public Libraries in England: A plan
+    for moving forward'
+  subtitle: A plan for moving forward
+  publisher: Society of Chief Librarians and Arts Council England
+  year: 2015
+  country: England
+  document_type: feasibility-study
+  pages: 150
+  path: archive/reports/scl-essential-digital-infrastructure-2015
+  review_level: converted
+  notes: Landmark feasibility report prepared by BiblioCommons for the Society of
+    Chief Librarians and Arts Council England recommending a standards-based, modular
+    digital platform (Single Digital Presence) for public libraries in England following
+    the Sieghart Review.
