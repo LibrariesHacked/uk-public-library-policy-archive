@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/ImportanceOfReadingSCLWales.pdf"
+source_pdf_url: "https://web.archive.org/web/20160506111216id_/http://goscl.com/wp-content/uploads/ImportanceOfReadingSCLWales.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:d79e98531eb0ce643102385f56a00d85e0336a3639140dbcc4ce51616d56d0ef"
+pdf_sha256: "d79e98531eb0ce643102385f56a00d85e0336a3639140dbcc4ce51616d56d0ef"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-font-routed-cid-decoding-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
