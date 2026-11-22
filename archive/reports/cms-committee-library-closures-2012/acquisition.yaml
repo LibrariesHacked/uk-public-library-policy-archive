@@ -1,0 +1,10 @@
+# Acquisition Record
+# Validated against schemas/acquisition.schema.json
+
+source_url: "http://web.archive.org/web/20121127030337/http://www.publications.parliament.uk/pa/cm201213/cmselect/cmcumeds/587/587.pdf"
+source_type: "pdf"
+access_date: "2026-11-22"
+acquisition_method: "wayback-machine-api"
+checksum: "sha256:b18090a17cf79e64d24c53fd9c59bc15d84da181f6c025c426381e2b2a4d8a8f"
+format: "application/pdf"
+notes: "Downloaded from the UK Parliament website archive via the Internet Archive Wayback Machine."

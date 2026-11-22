@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: cms-committee-library-closures-2012
+title: "Library Closures"
+subtitle: "Third Report of Session 2012–13, Volume I: Report, together with formal minutes, oral and written evidence"
+creators:
+  - "House of Commons Culture, Media and Sport Committee"
+publisher: "The Stationery Office Limited"
+publication_date: "2012-11-06"
+year: 2012
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "select-committee-report"
+pages: 137
+identifier: "HC 587"
+isbn: "9780215049964"
+issn: null
+series: "House of Commons Papers, Session 2012–13, HC 587"
+edition: null
+source_url: "http://web.archive.org/web/20121127030337/http://www.publications.parliament.uk/pa/cm201213/cmselect/cmcumeds/587/587.pdf"
+source_pdf: "source/cms-committee-library-closures-2012.pdf"
+rights: "Parliamentary copyright 2012. Reproduced under the Open Parliament Licence."
+review_level: "converted"

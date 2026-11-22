@@ -1716,3 +1716,14 @@ reports:
   path: "archive/reports/cms-committee-public-libraries-2005"
   review_level: "converted"
   notes: "House of Commons Culture, Media and Sport Committee third report of session 2004–05 (HC 81-I) investigating public library policy, funding, standards, the People's Network, school library services, and statutory oversight in England."
+- id: cms-committee-library-closures-2012
+  title: "Library Closures"
+  subtitle: "Third Report of Session 2012–13, Volume I: Report, together with formal minutes, oral and written evidence"
+  year: 2012
+  publisher: "The Stationery Office Limited"
+  country: "England"
+  document_type: "select-committee-report"
+  pages: 137
+  path: "archive/reports/cms-committee-library-closures-2012"
+  review_level: "converted"
+  notes: "House of Commons Culture, Media and Sport Committee landmark inquiry report (HC 587) into post-2010 library closures, the statutory duty under the 1964 Act, the Wirral Inquiry and Charteris Report, community libraries and volunteers, and digital e-lending."

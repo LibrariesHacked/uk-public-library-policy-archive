@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://web.archive.org/web/20121127030337/http://www.publications.parliament.uk/pa/cm201213/cmselect/cmcumeds/587/587.pdf"
+source_pdf_url: "http://web.archive.org/web/20121127030337/http://www.publications.parliament.uk/pa/cm201213/cmselect/cmcumeds/587/587.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:b18090a17cf79e64d24c53fd9c59bc15d84da181f6c025c426381e2b2a4d8a8f"
+pdf_sha256: "b18090a17cf79e64d24c53fd9c59bc15d84da181f6c025c426381e2b2a4d8a8f"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-text-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
