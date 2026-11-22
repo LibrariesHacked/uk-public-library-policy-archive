@@ -1927,3 +1927,14 @@ reports:
 
 
 
+- id: scl-wales-child-poverty-2013
+  title: "Public Libraries & Reducing Child Poverty in Wales"
+  subtitle: "A report by the Society of Chief Librarians (Wales)"
+  year: 2013
+  publisher: Society of Chief Librarians (Wales)
+  country: Wales
+  document_type: research-report
+  pages: 104
+  path: archive/reports/scl-wales-child-poverty-2013
+  review_level: converted
+  notes: Comprehensive research report prepared by Karen Eynon for the Society of Chief Librarians (Wales) examining the role and contribution of Welsh public libraries in tackling child poverty across all three objectives of the Welsh Government Child Poverty Strategy.
