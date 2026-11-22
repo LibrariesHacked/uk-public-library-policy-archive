@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-03/Libraries%20Connected%20-%20Test%20and%20Learn%20guide.pdf"
+source_pdf_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-03/Libraries%20Connected%20-%20Test%20and%20Learn%20guide.pdf"
+publisher: "Libraries Connected"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+download_method: "python-urllib"
+local_file: "source/libraries-connected-test-and-learn-guide-2026.pdf"
+pdf_sha256: "0b6b921afbe877d84d9cf6bceb3c68d5d99329c803fc5040c0f03e4e13c6ea5c"
+licence: "Open access publication / Libraries Connected"
+licence_url: "https://www.librariesconnected.org.uk/"
+notes: "Comprehensive practical guidance document by Rachel Scott for Libraries Connected, drawing on the 'Innovating in Trusted Spaces' project to provide a structured Test and Learn framework for workforce development, staff experimentation, digital capability, and peer collaboration across public libraries."

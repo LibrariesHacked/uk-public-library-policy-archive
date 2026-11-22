@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: libraries-connected-test-and-learn-guide-2026
+title: "Test and Learn: A practical approach to workforce development in public libraries"
+subtitle: "Building confidence and capability through embedded, collaborative learning"
+creators:
+  - "Rachel Scott"
+  - "Libraries Connected"
+publisher: "Libraries Connected"
+publication_date: "2026-03-01"
+year: 2026
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "guidance"
+pages: 42
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://www.librariesconnected.org.uk/sites/default/files/2026-03/Libraries%20Connected%20-%20Test%20and%20Learn%20guide.pdf"
+source_pdf: "source/libraries-connected-test-and-learn-guide-2026.pdf"
+rights: "Copyright Libraries Connected 2026."
+review_level: "converted"
