@@ -1,0 +1,10 @@
+source_url: https://www.librariesconnected.org.uk/resources/library-loans-review
+source_pdf_url: https://www.librariesconnected.org.uk/sites/default/files/2025-12/Library%20Loans%20Review%20Report%20for%20Libraries%20Connected%20%E2%80%93%20Case%20Studies%20-%20v2.pdf
+acquired_date: '2026-11-22'
+accessed_date: '2026-11-22'
+source_checksum: sha256:d8751cc0b03bfda3906d744c45884bb0c114c3d230a029911d616589bfa81ee7
+pdf_sha256: d8751cc0b03bfda3906d744c45884bb0c114c3d230a029911d616589bfa81ee7
+download_method: direct-download
+conversion_method: pypdf-layout-extraction-with-manual-verification
+conversion_date: '2026-11-22'
+review_status: converted
