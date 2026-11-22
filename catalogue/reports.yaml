@@ -1960,3 +1960,14 @@ reports:
   path: archive/reports/libraries-connected-literacy-recovery-2022
   review_level: converted
   notes: Joint policy report by the National Literacy Trust and Libraries Connected with ministerial forewords by Lord Parkinson and Robin Walker MP, demonstrating the role of public libraries in post-pandemic literacy recovery and levelling up disadvantaged communities.
+- id: scl-universal-culture-offer-2017
+  title: "Public Libraries Universal Culture Offer"
+  subtitle: "Research and consultation report prepared on behalf of the Society of Chief Librarians"
+  year: 2017
+  publisher: Society of Chief Librarians
+  country: England
+  document_type: research-report
+  pages: 51
+  path: archive/reports/scl-universal-culture-offer-2017
+  review_level: converted
+  notes: Definitive research and consultation report prepared by MetaValue on behalf of SCL establishing the sixth Universal Offer focused on culture, creative commissioning, and partnership working across English public libraries.
