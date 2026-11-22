@@ -1843,3 +1843,16 @@ reports:
   notes: Comprehensive research report prepared by Karen Eynon for the Society of
     Chief Librarians (Wales) examining the health, wellbeing, and social benefits
     delivered by public library services across all 22 Welsh local authorities.
+- id: scl-wales-digital-divide-2010
+  title: 'Addressing the Digital Divide: Public Libraries in Wales'
+  subtitle: A report by the Society of Chief Librarians (Wales)
+  publisher: Society of Chief Librarians (Wales)
+  year: 2010
+  country: Wales
+  document_type: policy-report
+  pages: 26
+  path: archive/reports/scl-wales-digital-divide-2010
+  review_level: converted
+  notes: Report by the Society of Chief Librarians (Wales) demonstrating the critical
+    role of public libraries in tackling digital exclusion across Wales, submitted
+    to the Welsh Assembly Government.

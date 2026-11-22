@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://goscl.com/wp-content/uploads/AddressingtheDigitalDivideSCLWales2010.pdf"
+source_pdf_url: "https://web.archive.org/web/20160425031629id_/http://goscl.com/wp-content/uploads/AddressingtheDigitalDivideSCLWales2010.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:043bac558a63013b89451db617a6514a35e05f71f9793d1d323d8f5893d1642f"
+pdf_sha256: "043bac558a63013b89451db617a6514a35e05f71f9793d1d323d8f5893d1642f"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-font-routed-cid-decoding-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
