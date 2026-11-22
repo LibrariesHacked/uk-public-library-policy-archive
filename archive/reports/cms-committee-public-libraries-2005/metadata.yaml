@@ -1,0 +1,25 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: cms-committee-public-libraries-2005
+title: "Public Libraries"
+subtitle: "Third Report of Session 2004–05, Volume I: Report, together with formal minutes"
+creators:
+  - "House of Commons Culture, Media and Sport Committee"
+publisher: "House of Commons Culture, Media and Sport Committee"
+publication_date: "2005-03-10"
+year: 2005
+publication_place: "London"
+country: "England"
+language: "en"
+document_type: "select-committee-report"
+pages: 62
+identifier: "HC 81-I"
+isbn: null
+issn: null
+series: "House of Commons Papers, Session 2004–05, HC 81-I"
+edition: null
+source_url: "http://web.archive.org/web/20161026071727/http://www.publications.parliament.uk/pa/cm200405/cmselect/cmcumeds/81/81i.pdf"
+source_pdf: "source/cms-committee-public-libraries-2005.pdf"
+rights: "Parliamentary copyright 2005. Reproduced under the Open Parliament Licence."
+review_level: "converted"

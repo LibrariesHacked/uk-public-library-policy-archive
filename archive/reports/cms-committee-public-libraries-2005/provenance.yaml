@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "http://web.archive.org/web/20161026071727/http://www.publications.parliament.uk/pa/cm200405/cmselect/cmcumeds/81/81i.pdf"
+source_pdf_url: "http://web.archive.org/web/20161026071727/http://www.publications.parliament.uk/pa/cm200405/cmselect/cmcumeds/81/81i.pdf"
+acquired_date: "2026-11-22"
+accessed_date: "2026-11-22"
+source_checksum: "sha256:02790e8f4f2c8603cc8b1b3e549376dbb61521621fbec6b58091c70f09ade82d"
+pdf_sha256: "02790e8f4f2c8603cc8b1b3e549376dbb61521621fbec6b58091c70f09ade82d"
+download_method: "wayback-machine-api"
+conversion_method: "pdfplumber-text-extraction-with-pypdfium2-cover"
+conversion_date: "2026-11-22"
+review_status: "converted"
