@@ -10,6 +10,7 @@ tags:
   - single-digital-presence
   - digital-infrastructure
   - library-commons
+  - wikidata
   - library-policy
 ---
 
@@ -19,52 +20,68 @@ In November 2026, the British Library published its final evaluation report on [
 
 With a unified directory of over 3,000 library service points, a public-facing discovery platform, and nearly £1.8 million disbursed directly to local library services for digital innovation, LibraryOn marks the most concerted national digital effort for English libraries in over a decade.
 
-Yet for anyone who has followed the digital policy landscape of UK public libraries over the last thirty years, the story of the Single Digital Presence is not new. It is a recurring cyclical epic spanning four distinct technological eras: from the lottery-funded hardware rollout of the late 1990s, through the open metadata APIs of the Culture Grid in the 2000s, to the ill-fated "Bookmark Your Library" portal of 2013, and finally to contemporary open platforms like LibraryOn and **LibraryCommons**.
+Yet for anyone who has worked with library data over the last thirty years, the story of the Single Digital Presence is not new. It is a recurring cyclical epic spanning four distinct technological eras: from the lottery-funded hardware rollout of the late 1990s, through the open metadata APIs of the Culture Grid in the 2000s, to the ill-fated "Bookmark Your Library" portal of 2013, the pivotal open data work of the Libraries Taskforce in 2016, and finally to contemporary platforms like LibraryOn and **LibraryCommons**.
 
 Each chapter set out with the same noble vision: to unite the UK’s fragmented local library services into a cohesive, findable, and transactional national digital offer. And each chapter ran headfirst into the same structural immovable objects: local authority autonomy and proprietary Library Management System (LMS) vendor silos.
 
 ```mermaid
 flowchart TD
-    subgraph TOPDOWN ["Top-Down National Programmes (Grant-Funded)"]
+    subgraph TOPDOWN ["Top-Down Policy & Programmes (Grant-Funded)"]
         PN["The People's Network (1997–2004)<br/>30,000+ PCs & broadband in 4,000+ libraries"]
         PNDS["PNDS & Enquire (2004–2008)<br/>OAI-PMH metadata harvesting & 24/7 reference chat"]
         CG["Culture Grid & APIs (2008–2012)<br/>MLA & Collections Trust: Solr APIs, open metadata"]
         BYL["Bookmark Your Library (2013–2015)<br/>SCL, ACE, OCLC: FABLibraries catalogue & Enquire"]
         FAIL["BiblioCommons Critique (2015)<br/>'New paint, but no new plumbing'<br/>Isolated traffic (30k/yr) & closed LMS silos"]
         SR["The Sieghart Review (2014)<br/>Recommends a Single Digital Presence"]
+        TF["Libraries Taskforce (2015–2020)<br/>Basic dataset schema designed by Dave & Steven (2016)"]
+        ACE["Arts Council England (2020–Present)<br/>Takes on Taskforce data mandate & schema"]
         BL5["British Library Scoping (2019)<br/>Five approaches: shared LMS vs. brand & discovery"]
         LON["LibraryOn Programme (2022–2026)<br/>National brand, 3,000+ branches mapped, open API, £1.8m grants"]
     end
 
-    subgraph OPENDATA ["Bottom-Up Open Data Lineage (Community & Commons)"]
-        FAL["Find a Library Dataset (2010–2012)<br/>First standardized directory of UK library service points"]
+    subgraph OPENDATA ["Open Data, Standards & Decentralized Commons"]
+        FAL["Find a Library Dataset (2010–2012)<br/>Original Collections Trust / MLA library directory"]
         LMAP["LibraryMap (2014–Present)<br/>Open data mapping, opening hours & council boundaries"]
-        MOBLIB["Mobile Libraries Project (2018–Present)<br/>Open timetables, routes & rural service point mapping"]
+        WIKI["Wikidata Integration<br/>Persistent Q-IDs, coordinates & SPARQL queries"]
+        WALES["CILIP Cymru Wales Project<br/>Bilingual mapping with NLW Wikimedian"]
+        LNI["Libraries NI Dataset<br/>Unified regional open location data"]
+        MOBLIB["Mobile Libraries Project (2018–Present)<br/>Open timetables, routes & rural service stops"]
         LC["LibraryCommons (2026–Present)<br/>Open digital home, unified directory, news & open data"]
     end
 
-    PN --> PNDS --> CG --> BYL --> FAIL --> SR --> BL5 --> LON
+    PN --> PNDS --> CG --> BYL --> FAIL --> SR --> TF
     CG -.->|"Data legacy"| FAL
     FAL -->|"Grassroots rescue"| LMAP
+    TF -->|"Data mandate transfer (2020)"| ACE
+    SR --> BL5 --> LON
+    ACE --> LON
+    
+    LMAP --> WIKI
+    WALES --> WIKI
+    LNI --> WIKI
     LMAP --> MOBLIB
-    LMAP -.->|"Informed national locator"| LON
-    MOBLIB -.->|"Rural coverage models"| LON
+    WIKI --> LC
+    MOBLIB --> LC
+    
+    LMAP -.->|"Data schema & validation"| TF
+    WIKI -.->|"Linked data foundation"| LON
     LON -.->|"Capital grant ends"| LC
     LMAP --> LC
-    MOBLIB --> LC
 
     classDef top fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#1e3a8a;
     classDef critique fill:#fff1f2,stroke:#f43f5e,stroke-width:2px,color:#881337;
+    classDef taskforce fill:#fdf4ff,stroke:#c026d3,stroke-width:2px,color:#701a75;
     classDef open fill:#f0fdf4,stroke:#16a34a,stroke-width:2px,color:#14532d;
     classDef commons fill:#fefce8,stroke:#ca8a04,stroke-width:2px,color:#713f12;
 
-    class PN,PNDS,CG,BYL,SR,BL5,LON top;
+    class PN,PNDS,CG,BYL,SR,BL5,LON,ACE top;
     class FAIL critique;
-    class FAL,LMAP,MOBLIB open;
+    class TF taskforce;
+    class FAL,LMAP,WIKI,WALES,LNI,MOBLIB open;
     class LC commons;
 ```
 
-Here is the 30-year history of how we got here, why earlier iterations stalled, and how the lineage of open data projects—from **Find a Library** and **LibraryMap** to the **Mobile Libraries project** and **LibraryCommons**—points the way forward.
+Here is the 30-year history of how we got here, why earlier iterations stalled, and how the continuous thread of open data—from **Find a Library**, the **Libraries Taskforce**, **CILIP Wales**, **Libraries NI**, and **Wikidata** through to **LibraryMap**, **Mobile Libraries**, and **LibraryCommons**—provides the only lasting foundation for a digital public library network.
 
 ---
 
@@ -129,39 +146,60 @@ As SCL President Ciara Eastell concluded at the time: *"We can no longer think o
 
 ---
 
-## 4. The Grassroots Response: LibraryMap and the Mobile Libraries Project
+## 4. The Grassroots & Open Data Revolution: Taskforce, Wikidata, and Beyond (2014–2020)
 
-While national committees debated why portals kept failing, the open data community took a different approach: **solve the basic discovery problem with open data, rather than waiting for a national portal.**
+While national committees debated why consumer portals kept failing, the open data community and progressive practitioners recognized that before you can build a national digital presence, you must first have **authoritative, open data**.
 
-### LibraryMap
-When the MLA’s Culture Grid folded and Bookmark Your Library lost momentum, the 2012 Collections Trust library dataset was left orphaned. To prevent this data from decaying, **Libraries Hacked** launched **LibraryMap** (`librarydata.uk`).
+### LibraryMap: Rescuing the Spatial Data
+When the MLA’s Culture Grid folded and Bookmark Your Library was retired, the 2012 Collections Trust library dataset was left orphaned. To prevent this data from decaying, **Libraries Hacked** launched **LibraryMap** (`librarydata.uk`).
 
-LibraryMap focused on the fundamentals:
-- Aggregating, cleaning, and verifying every physical public library location across England, Scotland, Wales, and Northern Ireland.
-- Mapping exact geographic coordinates, postcodes, local authority boundaries, and opening hours.
-- Publishing the entire dataset openly under the Open Government Licence (OGL) and integrating with Wikidata.
+LibraryMap rescued the orphaned location data:
+- Systematically verifying every public library location across England, Scotland, Wales, and Northern Ireland.
+- Adding exact geographic coordinates, postcodes, local authority boundaries, and opening hours.
+- Publishing the entire dataset under open licenses (Open Government Licence / CC-BY) and creating open REST APIs.
 
-By exposing this information as clean, lightweight JSON APIs and interactive maps, LibraryMap demonstrated that public library discovery did not require a monolithic £5 million procurement — it required open data maintenance.
+### The Libraries Taskforce Basic Dataset (2016): Dave & Steven
+Following [The Sieghart Review (2014)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/independent-library-report-for-england-2014/report.md), the government established the **Libraries Taskforce** to implement [Libraries Deliver: Ambition for Public Libraries in England 2016–2021](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/libraries-taskforce-ambition-action-plan-2016/report.md).
 
-### The Mobile Libraries Project
-If static branch libraries suffered from fragmented data, mobile libraries were completely invisible.
+One of the Taskforce's most urgent priorities was addressing the scandalous reality that in 2016, central government still did not maintain an official, public list of England’s libraries.
 
-Mobile libraries provide a critical lifeline to rural, isolated, and digitally excluded populations. Yet almost every major national policy report — from *New Library* to *Bookmark Your Library* — virtually ignored mobile services. Their schedules, routes, and physical stops were trapped inside static PDFs, buried deep within impenetrable council website subpages, or printed on paper flyers.
+To fix this, **Dave Rowe** (Libraries Hacked) and **Steven Heywood** (Taskforce secondee) designed the schema for the **Libraries Taskforce Basic Dataset**. Published on GOV.UK and data.gov.uk, this dataset established the first rigorous national standard:
+- Categorizing libraries by statutory governance (council-run, commissioned, community-managed, or independent).
+- Defining unique identifier conventions, address components, and geographic coordinates.
+- Collating verified returns from all 151 English public library authorities.
 
-As highlighted in policy research like the Scottish Library and Information Council’s [Mobile Libraries in Scotland (2024)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/slic-mobile-libraries-in-scotland-2024/report.md) and [Libraries on the Move (2019)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/slic-libraries-on-the-move-report.pdf), rural service delivery requires precision timetable data.
+This was not a marketing platform; it was fundamental open data plumbing.
 
-To solve this, Libraries Hacked created the **Mobile Libraries project** (`mobilelibraries.org`). By manually and programmatically scraping council timetables, parsing stop frequencies, and mapping thousands of individual mobile stops down to village greens, laybys, and care homes, the project created the first-ever open, national timetable dataset of mobile library routes in the UK. 
+### Connecting the Four Nations: CILIP Cymru Wales & Libraries NI
+This open data momentum quickly bridged borders across the UK:
+- **CILIP Cymru Wales**: Led by Kathryn Parry alongside Jason Evans (the National Library of Wales Wikimedian in Residence), CILIP Cymru Wales undertook the **Welsh Library Open Data Project**. They compiled, verified, and mapped every public library across Wales, pushing rich, bilingual open datasets (English and Welsh names, services, and local authority alignments) into the open ecosystem.
+- **Libraries NI**: Operating as a unified regional body, Northern Ireland provided a clean, centralized open dataset of its entire library network, bypassing the council fragmentation seen in England.
 
-It proved that when data standards are built from the ground up, even the most neglected corners of the public library service can be made digitally discoverable.
+### Wikidata: The Linked Open Data Backbone
+Rather than letting these datasets sit in isolated spreadsheets, the community connected them directly to **Wikidata**. 
+
+By assigning persistent Wikidata Q-identifiers to every public library branch across England, Scotland, Wales, and Northern Ireland, libraries became first-class entities in the global semantic web. Anyone could now run open SPARQL queries to extract library locations, cross-reference them with census deprivation indices, map them against public transit routes, or build interactive visualizations without commercial gatekeepers.
+
+### The Mobile Libraries Project: Revealing the Rural Lifeline
+If static branch libraries were poorly represented, mobile libraries were completely invisible to national policy.
+
+Mobile libraries serve the most isolated, rural, and digitally excluded populations. Yet almost every major national policy report — from *New Library* to *Bookmark Your Library* — virtually ignored mobile services. Their schedules, routes, and physical stops were trapped inside static PDFs, buried deep within council subpages, or printed on paper flyers.
+
+As highlighted in policy research like the Scottish Library and Information Council’s [Mobile Libraries in Scotland (2024)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/slic-mobile-libraries-in-scotland-2024/report.md) and [Libraries on the Move (2019)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/slic-libraries-on-the-move-2019/report.md), rural service delivery requires precision timetable data.
+
+Libraries Hacked tackled this by building the **Mobile Libraries project** (`mobilelibraries.org`). By manually and programmatically scraping council timetables, parsing stop frequencies, and mapping thousands of individual mobile stops down to village greens, laybys, and care homes, the project created the first-ever open, national timetable dataset of mobile library routes in the UK.
+
+### Taskforce Data Transitions to Arts Council England (2020)
+When the Libraries Taskforce formally disbanded around March 2020, its open data mandate did not disappear. Stewardship of the national basic dataset transitioned directly to **Arts Council England (ACE)**. 
+
+ACE took over ongoing collection, maintenance, and publication of the English public libraries dataset, cementing the open schema designed by Dave and Steven as the permanent statutory baseline.
 
 ---
 
 ## 5. Re-imagining the Vision: Sieghart to the British Library Scoping (2014–2019)
 
-Even as Bookmark Your Library was retired, national appetite for a solution only intensified:
+Parallel to this bottom-up data revolution, national policy work on a "Single Digital Presence" continued:
 
-- **[The Sieghart Review (2014)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/independent-library-report-for-england-2014/report.md)**: William Sieghart’s *Independent Library Report for England* formally embedded the phrase **"Single Digital Presence"** into government policy, calling for a unified national digital network, single catalogue, and national library card.
-- **[Libraries Deliver: Ambition for Public Libraries in England (2016)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/libraries-taskforce-ambition-action-plan-2016/report.md)**: The newly formed Libraries Taskforce reaffirmed the Single Digital Presence as one of its seven core ambitions.
 - **[Five Approaches to a Single Digital Presence (2019)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/single-digital-presence-scoping-report/report.md)**: Funded by Arts Council England and the Carnegie UK Trust, the British Library led a thorough scoping exercise that modeled five potential paths forward:
   1. *Deep Shared Infrastructure*: A single national LMS procured for all authorities.
   2. *UK-Wide Content Discovery*: A national aggregator for digitized local history and public collections (akin to Gallica or Trove).
@@ -177,10 +215,12 @@ The 2019 scoping report concluded that procuring a single national LMS was neith
 
 In 2022, backed by a £3.4 million capital grant from Arts Council England and £1.4 million in British Library revenue match, the British Library launched the **LibraryOn** programme.
 
+Crucially, rather than trying to build a new directory from scratch, LibraryOn built directly on the open data lineage established by the Taskforce, Arts Council England, and Libraries Hacked. Working in close collaboration with Dave Rowe (acknowledged in the final report), the team constructed an open, self-service dataset and API of over 3,000 public libraries.
+
 The newly released [LibraryOn Programme Evaluation (November 2026)](https://github.com/LibrariesHacked/uk-public-library-policy-archive/tree/main/archive/reports/single-digital-presence-programme-report/report.md) demonstrates clear and tangible successes within its capital remit:
 
 - **A Vibrant Public-Facing Brand**: Created `libraryon.org`, positioning public libraries as vibrant, essential modern community hubs.
-- **National Library Finder & Open Dataset**: Built an interactive map and open API encompassing over 3,000 public library locations, integrating self-service data management for library authorities and standardizing accessibility, facilities, and service metadata (building directly on data collaborations with Libraries Hacked).
+- **National Library Finder & Open Dataset**: Built an interactive map and open API encompassing over 3,000 public library locations, standardizing accessibility, facilities, and service metadata.
 - **Audience Reach**: Generated over 280,000 visitor sessions, with 22% of visitors following onward referral links directly to local council library websites.
 - **Local Capacity Investment**: Disbursed nearly £1.8 million through 63 digital grants across 90 English library authorities (59% of all services), funding virtual 3D tours, redesigned local websites, app development, and LMS integrations.
 - **Sector Upskilling**: Reached 77% of English public library services through expert community-of-practice webinars and masterclasses.
@@ -198,14 +238,14 @@ This is where **LibraryCommons** enters the story.
 Conceived as an independent, sustainable, community-driven digital platform, LibraryCommons represents the culmination of this 30-year journey:
 
 1. **A Digital Home for Public Libraries**: Rather than existing as a transient campaign site, LibraryCommons acts as an open digital home that brings together library locations, branch facilities, service news, and datasets from across the UK into one place.
-2. **Carrying the Legacy Forward**: LibraryCommons is designed to preserve and carry forward the vital directory data, content, and open datasets refined during the LibraryOn and LibraryMap projects, ensuring that public data assets are not lost to another funding sunset.
+2. **Carrying the Legacy Forward**: LibraryCommons is designed to preserve and carry forward the vital directory data, content, and open datasets refined through Find a Library, the Taskforce dataset, LibraryMap, the Mobile Libraries project, and LibraryOn, ensuring that public data assets are never lost to another funding sunset.
 3. **A True Digital Commons**: By anchoring the platform in open-source tooling, open data standards, and distributed stewardship, LibraryCommons operates as a public utility for library users, staff, researchers, and developers alike.
 
 ---
 
 ## 8. What 30 Years of Policy Teaches Us About Library Data
 
-Looking back from the People's Network in 1997 through Culture Grid, Bookmark Your Library, LibraryMap, and LibraryOn to LibraryCommons, three structural lessons stand out:
+Looking back from the People's Network in 1997 through Culture Grid, Bookmark Your Library, the Libraries Taskforce, LibraryMap, and LibraryOn to LibraryCommons, three structural lessons stand out:
 
 ### 1. Portals Cannot Substitute for Plumbing
 The central finding of the 2015 BiblioCommons report remains true today: **a digital front door can inspire, but it cannot transact without backend plumbing**. 
@@ -220,11 +260,11 @@ The divergence between UK nations is instructive:
 - In **England**, 151 separate local authorities remain bound to individual council procurement frameworks, meaning shared infrastructure requires voluntary consensus rather than statutory alignment.
 
 ### 3. Open Data is the Only Infrastructure That Survives
-Centralized platforms and government programs come and go with funding cycles. The MLA was abolished; the Culture Grid was retired; Bookmark Your Library was shuttered; LibraryOn's capital delivery period has now concluded.
+Centralized platforms and government programs come and go with funding cycles. The MLA was abolished; the Culture Grid was retired; Bookmark Your Library was shuttered; the Libraries Taskforce concluded; LibraryOn's capital delivery period has now ended.
 
 What endures through every single shift is **standardized open data**. 
 
-When library locations, opening times, mobile stops, unique identifiers, and catalog holdings are exposed via open, machine-readable standards under permissive licenses, the ecosystem does not collapse when a project ends. Open initiatives like LibraryMap, the Mobile Libraries project, and LibraryCommons prove that the most resilient digital presence is one built on open, shared foundations.
+When library locations, opening times, mobile stops, unique identifiers, and catalog holdings are exposed via open, machine-readable standards under permissive licenses, the ecosystem does not collapse when a project ends. Open initiatives like LibraryMap, the Mobile Libraries project, Wikidata, and LibraryCommons prove that the most resilient digital presence is one built on open, shared foundations.
 
 ---
 
