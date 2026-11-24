@@ -108,7 +108,7 @@ planned_reports:
   category: ENGLAND
   document_type: select-committee-report
   verified: false
-  status: planned
+  status: archived
 - id: dcms-public-library-service-standards-2008
   title: Public Library Service Standards (3rd revised edition)
   year: 2008
@@ -157,7 +157,7 @@ planned_reports:
   category: ENGLAND
   document_type: select-committee-report
   verified: false
-  status: planned
+  status: archived
 - id: ace-envisioning-the-library-of-the-future-2013
   title: 'Envisioning the library of the future: Phases 1 and 2: full report'
   short_title: Envisioning the Library of the Future (2013)
