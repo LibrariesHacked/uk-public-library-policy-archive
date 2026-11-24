@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.gov.wales/sites/default/files/statistics-and-research/2026-09/welsh-public-library-standards-sixth-framework-analysis-481122.pdf"
+source_pdf_url: "https://www.gov.wales/sites/default/files/statistics-and-research/2026-09/welsh-public-library-standards-sixth-framework-analysis-481122.pdf"
+publisher: "Welsh Government"
+acquired_date: "2026-11-24"
+accessed_date: "2026-11-24"
+download_method: "direct-download"
+local_file: "source/welsh-government-wpls-sixth-framework-analysis-2026.pdf"
+pdf_sha256: "63d7f1aebcdd546c7d1effbc31cd4b7d6941a57f526686179f5839475d6428b0"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Comprehensive empirical evaluation and statistical analysis report (Social Research number 89/2026) by Pete Dalton and Sarah McNicol for the Welsh Government, assessing the performance of all 22 Welsh public library authorities across the entire duration of the Sixth Quality Framework of Welsh Public Library Standards (2017 to 2024/2025)."

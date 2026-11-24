@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.gov.wales/sites/default/files/statistics-and-research/2026-09/welsh-public-library-standards-sixth-framework-analysis-481122.pdf"
+source_pdf_url: "https://www.gov.wales/sites/default/files/statistics-and-research/2026-09/welsh-public-library-standards-sixth-framework-analysis-481122.pdf"
+acquired_date: "2026-11-24"
+accessed_date: "2026-11-24"
+source_checksum: "sha256:63d7f1aebcdd546c7d1effbc31cd4b7d6941a57f526686179f5839475d6428b0"
+pdf_sha256: "63d7f1aebcdd546c7d1effbc31cd4b7d6941a57f526686179f5839475d6428b0"
+download_method: "direct-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-24"
+review_status: "converted"

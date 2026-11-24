@@ -1,0 +1,27 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: welsh-government-wpls-sixth-framework-analysis-2026
+title: "Welsh Public Library Standards Sixth Framework analysis"
+subtitle: "Government Social Research Report 89/2026"
+creators:
+  - "Pete Dalton"
+  - "Sarah McNicol"
+  - "Welsh Government"
+publisher: "Welsh Government"
+publication_date: "2026-09-29"
+year: 2026
+publication_place: "Cardiff"
+country: "Wales"
+language: "en"
+document_type: "research"
+pages: 103
+identifier: "GSR 89/2026"
+isbn: "978-1-80853-098-2"
+issn: null
+series: "Social Research Number: 89/2026"
+edition: null
+source_url: "https://www.gov.wales/sites/default/files/statistics-and-research/2026-09/welsh-public-library-standards-sixth-framework-analysis-481122.pdf"
+source_pdf: "source/welsh-government-wpls-sixth-framework-analysis-2026.pdf"
+rights: "© Crown copyright 2026. Open Government Licence v3.0 (OGL-UK-3.0)."
+review_level: "converted"
