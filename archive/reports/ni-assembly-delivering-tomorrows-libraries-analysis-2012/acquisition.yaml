@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2012/culture_arts_leisure/17112.pdf"
+source_pdf_url: "https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2012/culture_arts_leisure/17112.pdf"
+publisher: "Northern Ireland Assembly Research and Information Service"
+acquired_date: "2026-11-24"
+accessed_date: "2026-11-24"
+download_method: "direct-download"
+local_file: "source/ni-assembly-delivering-tomorrows-libraries-analysis-2012.pdf"
+pdf_sha256: "c5a5565f8f6a0f00724df377c5a07be50c86194c33b137ad2109dc094b6e7cf7"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Northern Ireland Assembly Research and Information Service (RaISe) research paper NIAR 623-11 prepared by Dr Dan Hull for the Committee for Culture, Arts and Leisure, providing a critical analysis and summary of the Delivering Tomorrow's Libraries policy framework, Libraries NI restructuring, standards, budgets, and closures."

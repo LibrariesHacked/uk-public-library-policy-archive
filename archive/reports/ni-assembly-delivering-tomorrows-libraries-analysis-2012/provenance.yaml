@@ -1,0 +1,13 @@
+# Preservation and Provenance Metadata (PREMIS-aligned)
+# Validated against schemas/provenance.schema.json
+
+source_url: "https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2012/culture_arts_leisure/17112.pdf"
+source_pdf_url: "https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2012/culture_arts_leisure/17112.pdf"
+acquired_date: "2026-11-24"
+accessed_date: "2026-11-24"
+source_checksum: "sha256:c5a5565f8f6a0f00724df377c5a07be50c86194c33b137ad2109dc094b6e7cf7"
+pdf_sha256: "c5a5565f8f6a0f00724df377c5a07be50c86194c33b137ad2109dc094b6e7cf7"
+download_method: "direct-download"
+conversion_method: "pdf-transcription-with-manual-verification"
+conversion_date: "2026-11-24"
+review_status: "converted"

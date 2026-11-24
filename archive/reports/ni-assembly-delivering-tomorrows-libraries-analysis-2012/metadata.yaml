@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: ni-assembly-delivering-tomorrows-libraries-analysis-2012
+title: "An analysis and summary of Delivering Tomorrow’s Libraries"
+subtitle: "Research Paper NIAR 623-11 / Paper 171/12"
+creators:
+  - "Dr Dan Hull"
+  - "Northern Ireland Assembly Research and Information Service"
+publisher: "Northern Ireland Assembly Research and Information Service"
+publication_date: "2012-04-16"
+year: 2012
+publication_place: "Belfast"
+country: "Northern Ireland"
+language: "en"
+document_type: "briefing"
+pages: 21
+identifier: "NIAR 623-11"
+isbn: null
+issn: null
+series: "Research Paper 171/12"
+edition: null
+source_url: "https://www.niassembly.gov.uk/globalassets/documents/raise/publications/2012/culture_arts_leisure/17112.pdf"
+source_pdf: "source/ni-assembly-delivering-tomorrows-libraries-analysis-2012.pdf"
+rights: "Northern Ireland Assembly. Contains public sector information licensed under the Open Government Licence v3.0."
+review_level: "converted"
