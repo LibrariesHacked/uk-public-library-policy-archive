@@ -2085,7 +2085,7 @@ reports:
     and Emerging Leaders, covering scheme background, matching, demographic profile,
     leadership confidence, and lessons learned.
 - id: libraries-connected-apprenticeships-survey-2026
-  title: 'Insights from the Apprenticeships in Public Libraries Survey'
+  title: Insights from the Apprenticeships in Public Libraries Survey
   subtitle: Research report examining apprenticeship uptake, standards, benefits,
     and barriers across public library services in England and Wales
   year: 2026
@@ -2095,10 +2095,10 @@ reports:
   pages: 28
   path: archive/reports/libraries-connected-apprenticeships-survey-2026
   review_level: converted
-  notes: National survey report by Becky Scott for Libraries Connected analyzing
-    apprenticeship uptake, completion and employment outcomes, standards used (including
-    LIAS Assistant standard), workforce benefits, operational and financial barriers,
-    and strategic recommendations across public library authorities in England and Wales.
+  notes: National survey report by Becky Scott for Libraries Connected analyzing apprenticeship
+    uptake, completion and employment outcomes, standards used (including LIAS Assistant
+    standard), workforce benefits, operational and financial barriers, and strategic
+    recommendations across public library authorities in England and Wales.
 - id: audit-scotland-culture-and-leisure-spotlight-2025
   title: 'Local Government Performance: Spotlight on Culture and Leisure Services'
   subtitle: Overview of local authority funding, ALEO trust governance, service delivery,
@@ -2111,9 +2111,23 @@ reports:
   pages: 24
   path: archive/reports/audit-scotland-culture-and-leisure-spotlight-2025
   review_level: converted
-  notes: National performance audit spotlight prepared by Audit Scotland for the
-    Accounts Commission examining Scottish local authority net revenue and capital
-    expenditure on culture, leisure, and library services, ALEO trust governance, fee
-    structures, equality impact assessments, community consultations, library closures
-    and judicial reviews, and performance trends under the Local Government Benchmarking
-    Framework (LGBF).
+  notes: National performance audit spotlight prepared by Audit Scotland for the Accounts
+    Commission examining Scottish local authority net revenue and capital expenditure
+    on culture, leisure, and library services, ALEO trust governance, fee structures,
+    equality impact assessments, community consultations, library closures and judicial
+    reviews, and performance trends under the Local Government Benchmarking Framework
+    (LGBF).
+- id: slic-scottish-reading-strategy-2019
+  title: 'Scottish Reading Strategy: Report and Recommendations - Evidence Base'
+  subtitle: 'Evidence Base: Report and Recommendations'
+  year: 2019
+  publisher: Scottish Library and Information Council
+  country: Scotland
+  document_type: research
+  pages: 26
+  path: archive/reports/slic-scottish-reading-strategy-2019
+  review_level: converted
+  fictional_sample: false
+  notes: Independent evidence base, evaluation report, and strategic recommendations
+    by Dr Marianne Bamkin for the Scottish Library and Information Council (SLIC)
+    on refreshing the Scottish Reading Strategy for Public Libraries.

@@ -1,0 +1,26 @@
+# Canonical Bibliographic Metadata
+# Populated from directly observable publication evidence.
+
+id: slic-scottish-reading-strategy-2019
+title: "Scottish Reading Strategy: Report and Recommendations - Evidence Base"
+subtitle: "Evidence Base: Report and Recommendations"
+creators:
+  - "Dr Marianne Bamkin"
+  - "Scottish Library and Information Council"
+publisher: "Scottish Library and Information Council"
+publication_date: "2019-02-19"
+year: 2019
+publication_place: "Glasgow"
+country: "Scotland"
+language: "en"
+document_type: "research"
+pages: 26
+identifier: null
+isbn: null
+issn: null
+series: null
+edition: null
+source_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Scottish-Reading-Strategy-Recommendations-Report.pdf"
+source_pdf: "source/slic-scottish-reading-strategy-2019.pdf"
+rights: "Copyright © 2019 Scottish Library and Information Council."
+review_level: "converted"

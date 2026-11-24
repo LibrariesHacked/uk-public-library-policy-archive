@@ -1,0 +1,14 @@
+# Point-of-Capture Source Acquisition Record
+# Recorded immediately upon locating and downloading the source publication.
+
+source_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Scottish-Reading-Strategy-Recommendations-Report.pdf"
+source_pdf_url: "https://scottishlibraries.org/wp-content/uploads/2024/10/Scottish-Reading-Strategy-Recommendations-Report.pdf"
+publisher: "Scottish Library and Information Council"
+acquired_date: "2026-11-24"
+accessed_date: "2026-11-24"
+download_method: "direct-download"
+local_file: "source/slic-scottish-reading-strategy-2019.pdf"
+pdf_sha256: "c7ac17f5cf02ea1b553f3552ca938ad0bfd12df3927edbd4b4f768f8588713fd"
+licence: "Open Government Licence v3.0 (OGL-UK-3.0)"
+licence_url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+notes: "Independent evidence base, evaluation report, and strategic recommendations by Dr Marianne Bamkin for the Scottish Library and Information Council (SLIC) on refreshing the Scottish Reading Strategy for Public Libraries, aligned with Ambition & Opportunity and Scottish Government National Outcomes."
