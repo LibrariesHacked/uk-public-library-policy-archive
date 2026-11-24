@@ -478,13 +478,13 @@ planned_reports:
   status: archived
 - id: single-digital-presence-programme-report
   title: Single Digital Presence programme report (LibraryOn)
-  year: null
+  year: 2026
   publisher: British Library
   country: England
   category: DIGITAL PROGRAMMES
   document_type: research-report
   verified: false
-  status: planned
+  status: archived
 - id: bipc-national-network-impact-report
   title: Business & IP Centre National Network impact report
   short_title: Impact reports
